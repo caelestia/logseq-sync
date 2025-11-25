@@ -1,5 +1,6 @@
 - *Serre* proof of Lagrange's four squares thm:
 	- (Aubry, Davenport and Cassels) Consider an inner product on $\mathbb Q^N$, that is, a positive definite bilinear form $\sum_{i,j}^Na_{ij}X_iY_j$. Put $f(x)=x\cdot x$. Suppose that the $f$ represents some number $n\in Z$ over $\mathbb Q$, then it also represents it over $\Z$, under the following:
 		- Assumption: For every $x\in\mathbb Q^N$, there exists $y\in\Z^n$ such that $f(x-y)<1$.
-		- Proof: Suppose $f(x)=t^2n$ is such that the $t$ is minimal.
+		- Proof: Suppose $f(x)=t^2n$ is such that the positive integer $t$ is smallest. Take $y\in\Z^N$ such that $z:=\frac{x}{t}-y$ satisfies $f(z)<1$.
+		-
 -
