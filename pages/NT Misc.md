@@ -7,4 +7,5 @@
 			- $b=2(nt-x\cdot y)\ \in\Z$
 			- $x'=ax+by$
 			- $t'=at+b\ \in\Z$
+	-
 -
