@@ -1,4 +1,5 @@
 - *Serre* proof of Lagrange's four squares thm:
-	- (Aubry, Davenport and Cassels) Consider a positive definite form $\sum_{i,j}a_{ij}X_iY_j$. Put $f(x)=x\cdot x$. Suppose that the $f$ represents some $$$$
+	- (Aubry, Davenport and Cassels) Consider a positive definite form $\sum_{i,j}a_{ij}X_iY_j$. Put $f(x)=x\cdot x$. Suppose that the $f$ represents some number $n\in Z$ over $\mathbb Q$, then it also represents it over $\Z$, under the following:
+		- Assumption:
 -
 -
