@@ -2,5 +2,7 @@
 	- (Aubry, Davenport and Cassels) Consider an inner product on $\mathbb Q^N$, that is, a positive definite bilinear form $\sum_{i,j}^Na_{ij}X_iY_j$. Put $f(x)=x\cdot x$. Suppose that the $f$ represents some number $n\in Z$ over $\mathbb Q$, then it also represents it over $\Z$, under the following:
 		- Assumption: For every $x\in\mathbb Q^N$, there exists $y\in\Z^n$ such that $f(x-y)<1$.
 		- Proof: Suppose $f(x)=t^2n$ is such that the positive integer $t$ is smallest. Take $y\in\Z^N$ such that $z:=x/t-y$ satisfies $f(z)<1$. If $f(z)=0$, $t=1$ so qed. Hence assume $0<f(z)<1$.
-		- We then generate a new point $x'$ such that $f(x')=t'^2n$ with $t'<t$.
+		- We then generate a new point $x'$ such that $f(x')=t'^2n$ with $t'<t$. This is given by
+			- $a=f(y)-n\ \in\Z$
+			- $b=2(nt-)$
 -
