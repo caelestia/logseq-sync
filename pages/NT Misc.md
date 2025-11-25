@@ -8,5 +8,5 @@
 			- $t'=at+b\ \in\Z$. Then $t'=tf(z)<t$.
 			- $x'=ax+by$.
 		- Then $f(x')=t'^2n$. Contradiction.
-	- We can apply this to the forms $X^2+Y^2$ and $X^2+Y^2+Z^2$, but not the
+	- We can apply this to the forms $X^2+Y^2$ and $X^2+Y^2+Z^2$, but not the "four squares". This is because the best appoximation has error $$
 -
