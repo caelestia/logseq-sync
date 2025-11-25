@@ -1,3 +1,3 @@
-- proof of Lagrange's four squares thm:
-	- Consider $$
+- *Serre* proof of Lagrange's four squares thm:
+	- ()Aubry, Davenport and Cassels) Consider a positive definite form $\sum_{i,j}a_{ij}$
 -
