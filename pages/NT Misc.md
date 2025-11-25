@@ -1,2 +1,2 @@
-- *Serre* Proof of Lagrange's four squares thm:
-	-
+- proof of Lagrange's four squares thm:
+	- Consider $$
