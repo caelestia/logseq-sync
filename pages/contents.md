@@ -1,4 +1,6 @@
 - Logistics
 - Number theory
 	- [[Analytic number theory]]
-	-
+	- [[Commutative ring theory]]
+	- [[Class field theory]]
+-
