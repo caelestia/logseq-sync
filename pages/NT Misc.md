@@ -1,3 +1,4 @@
 - *Serre* proof of Lagrange's four squares thm:
-	- ()Aubry, Davenport and Cassels) Consider a positive definite form $\sum_{i,j}a_{ij}X_iY_j$. Put $f(x)=x\cdot x$. Suppose that the $f$ $$represents
+	- (Aubry, Davenport and Cassels) Consider a positive definite form $\sum_{i,j}a_{ij}X_iY_j$. Put $f(x)=x\cdot x$. Suppose that the $f$ represents some $$$$
+-
 -
