@@ -5,7 +5,7 @@
 		- We then generate a new point $x'$ such that $f(x')=t'^2n$ with $t'<t$. This is given by
 			- $a=f(y)-n\ \in\Z$
 			- $b=2(nt-x\cdot y)\ \in\Z$
-			- $x'=ax+by$
-			- $t'=at+b\ \in\Z$
+			- $x'=ax+by$.
+			- $t'=at+b\ \in\Z$. Then $t'=tf(z)<t$.
 	-
 -
