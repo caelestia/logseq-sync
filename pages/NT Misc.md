@@ -17,5 +17,5 @@
 		  CLOCK: [2025-11-25 Tue 23:54:35]--[2025-11-25 Tue 23:54:36] =>  00:00:01
 		  CLOCK: [2025-11-25 Tue 23:54:42]--[2025-11-25 Tue 23:54:42] =>  00:00:00
 		  :END:
-	- Together with Hasse-Minkowski, we see that
+	- Together with Hasse-Minkowski, we see that: $n$ is a sum of three squares iff $$
 -
