@@ -9,8 +9,9 @@
 			- $x'=ax+by$.
 		- Then $f(x')=t'^2n$. Contradiction.
 	- We can apply this to the forms $X^2+Y^2$ and $X^2+Y^2+Z^2$, but not the "four squares". This is because the best appoximation has error $\frac{1}{4}N$.
-		- #+BEGIN_QUERY
-		  What if we try to approximate with half-integers instead?
-		  #+END_QUERY
-		-
+		- LATER What if we try to approximate with half-integers instead?
+		  :LOGBOOK:
+		  CLOCK: [2025-11-25 Tue 23:54:35]--[2025-11-25 Tue 23:54:36] =>  00:00:01
+		  :END:
+	-
 -
