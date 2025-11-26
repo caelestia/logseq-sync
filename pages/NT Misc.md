@@ -15,5 +15,5 @@
 		  CLOCK: [2025-11-25 Tue 23:54:42]--[2025-11-25 Tue 23:54:42] =>  00:00:00
 		  :END:
 	- Using Hasse-Minkowski, we see that: $n$ is the sum of three rational squares IFF $n$ is the sum of three integral squares IFF $-n$ is not a square in $\mathbb Q_2$ IFF $n$ is not of the form $4^a(8b-1)$ for $a,b\in\Z$.
-	-
+		- Explain the last step. Recall that over the local field $\mathbb$
 -
