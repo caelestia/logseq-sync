@@ -3,7 +3,6 @@
 		- Assumption: For every $x\in\mathbb Q^N$, there exists $y\in\Z^n$ such that $f(x-y)<1$.
 		- Proof: Suppose $f(x)=t^2n$ is such that the positive integer $t$ is smallest. Take $y\in\Z^N$ such that $z:=x/t-y$ satisfies $f(z)<1$. If $f(z)=0$, $t=1$ so qed. Hence assume $0<f(z)<1$.
 		- We then generate a new point $x'$ such that $f(x')=t'^2n$ with $t'<t$. This is given by
-		  collapsed:: true
 			- $a=f(y)-n\ \in\Z$.
 			- $b=2(nt-x\cdot y)\ \in\Z$.
 			- $t'=at+b\ \in\Z$. Then $t'=tf(z)<t$.
@@ -15,6 +14,6 @@
 		  CLOCK: [2025-11-25 Tue 23:54:35]--[2025-11-25 Tue 23:54:36] =>  00:00:01
 		  CLOCK: [2025-11-25 Tue 23:54:42]--[2025-11-25 Tue 23:54:42] =>  00:00:00
 		  :END:
-	- Using Hasse-Minkowski, we see that: $n$ is the sum of three rational squares IFF $n$ is the sum of three integral squares IFF $n$ is not a square in $\mathbb Q_2$ IFF $n$ is not of the form $4^a(8b-1)$ for $a,b\in\Z$.
+	- Using Hasse-Minkowski, we see that: $n$ is the sum of three rational squares IFF $n$ is the sum of three integral squares IFF $n$ is not a square in $\mathbb Q_2$ IFF $-n$ is not of the form $4^a(8b-1)$ for $a,b\in\Z$.
 	-
 -
