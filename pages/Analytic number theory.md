@@ -1,3 +1,2 @@
-- [Serre] Generalized dirichlet series. Let $\lambda_n\nearrow +\infty$, then consider the following series
-- \begin
+- [Serre] Generalized dirichlet series. Let $\lambda_n\nearrow +\infty$, then consider the following series $$f(z)=\sum a_ne^{-\lambda z},\quad a_n\in\mathbb C$$
 -
