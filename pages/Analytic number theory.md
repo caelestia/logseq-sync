@@ -8,4 +8,3 @@
 - Abscissa of Absolute Convergence. Denote by $\rho^+$ the abscissa of convergence of the series $\sum |a_n|e^{-\lambda_nz}$.
 	- E.g. if $\lambda_n=n$ (pow.er series), then $\rho=\rho^+$. In general, we will have $\rho<\rho^+$.
 -
--
