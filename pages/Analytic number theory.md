@@ -1,2 +1,3 @@
-- [Serre] Generalized dirichlet series. Let $\lambda_n\nearrow +\infty$, then consider the following series $$f(z)=\sum a_ne^{-\lambda z},\quad a_n\in\mathbb C$$
--
+- [Serre] Generalized dirichlet series. Let $\lambda_n\nearrow +\infty$, then consider the series
+- $$f(z)=\sum a_ne^{-\lambda z},\quad a_n\in\mathbb C$$
+	- If $\lambda_n=\log n$, this is the (ordinary) Dirichelt series $\sum $
