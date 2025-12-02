@@ -1,1 +1,1 @@
-- [Serre] Generalized dirichlet series. Let $\lambda_n$
+- [Serre] Generalized dirichlet series. Let $\lambda_n\nearrow +\infty$, then the Dirichlet series
