@@ -3,4 +3,5 @@
 	- If $\lambda_n=\log n$, this is the (ordinary) Dirichlet series $\sum a_nn^{-z}$.
 	- If $\lambda_n=n$, this is a power series in $e^{-z}$.
 - Abscissa of Convergence. If the series $f(z)$ converges for $z_0$, then it converges uniformly in the region $\operatorname{Re}(z-z_0)\geq 0$, $\operatorname{Arg}(z-z_0)\leq\gamma$ for any $\gamma<\pi/2$. Therefore $f(z)$ is holomorphic in the half plane $\operatorname{Re}(z-z_0)>0$.
-	- Proof. Regroup the terms and use the following inequality: If $0<\alpha<\beta$, then
+	- Proof. Regroup the terms and use the following inequality: If $0<\alpha<\beta$, $z=x+iy$ and assume $x>0$, then
+	- $$\newcommand{\abs}{a}\abs{a}$$
