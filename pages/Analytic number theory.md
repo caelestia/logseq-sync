@@ -2,7 +2,8 @@
 - $$f(z)=\sum a_ne^{-\lambda_nz},\quad a_n\in\mathbb C$$
 	- If $\lambda_n=\log n$, this is the (ordinary) Dirichlet series $\sum a_nn^{-z}$.
 	- If $\lambda_n=n$, this is a power series in $e^{-z}$.
-- Abscissa of Convergence. If the series $f(z)$ converges for $z_0$, then it converges uniformly in the region $\operatorname{Re}(z-z_0)\geq 0$, $\operatorname{Arg}(z-z_0)\leq\gamma$ for any $\gamma<\pi/2$. Therefore $f(z)$ is holomorphic in the half plane $\operatorname{Re}(z)>\operatorname{z_0}$.
+- Abscissa of Convergence. If the series $f(z)$ converges for $z_0$, then it converges uniformly in the region $\operatorname{Re}(z-z_0)\geq 0$, $\operatorname{Arg}(z-z_0)\leq\gamma$ for any $\gamma<\pi/2$. Therefore $f(z)$ is holomorphic in the half plane $\operatorname{Re}(z)>\operatorname{Re}(z_0)=:\rho$.
 	- Proof. Regroup the terms and use the following inequality: If $0<\alpha<\beta$, $z=x+iy$ and assume $x>0$, then
 	- $$\newcommand{\abs}[1]{\left|#1\right|}\abs{e^{-\alpha z}-e^{-\beta z}}\leq{\frac{\abs z}{x}}\left(e^{-\alpha x}-e^{-\beta x}\right).$$
 - Abscissa of Absolute Convergence. Denote by $\rho^+$ the abscissa of convergence of the series $\sum |a_n|e^{-\lambda_nz}$.
+	- Eg. If $\lambda_n=n$ (power series), then $
