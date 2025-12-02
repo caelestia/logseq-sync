@@ -2,4 +2,4 @@
 - $$f(z)=\sum a_ne^{-\lambda z},\quad a_n\in\mathbb C$$
 	- If $\lambda_n=\log n$, this is the (ordinary) Dirichlet series $\sum a_nn^{-z}$.
 	- If $\lambda_n=n$, this is a power series in $e^{-z}$.
-- Abscissa of Convergence. If the series $f(z)$ converges for $z_0$, then
+- Abscissa of Convergence. If the series $f(z)$ converges for $z_0$, then it converges uniformly in the region $\Re(z-z_0)\geq 0$, $\Arg(z-z_0)\leq\alpha$
