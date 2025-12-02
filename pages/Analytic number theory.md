@@ -1,1 +1,1 @@
-- [Serre] Generalized dirichlet series.
+- [Serre] Generalized dirichlet series. Let $\lambda_n$
