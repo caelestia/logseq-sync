@@ -8,4 +8,4 @@
 	- $$\newcommand{\abs}[1]{\left|#1\right|}\abs{e^{-\alpha z}-e^{-\beta z}}\leq{\frac{\abs z}{x}}\left(e^{-\alpha x}-e^{-\beta x}\right).$$
 - Abscissa of Absolute Convergence. Denote by $\rho^+$ the abscissa of convergence of the series $\sum |a_n|e^{-\lambda_nz}$.
 	- E.g. if $\lambda_n=n$ (pow.er series), then $\rho=\rho^+$. In general, we will have $\rho<\rho^+$.
--
+- Positive Coefficients. If $a_n\geq 0$
