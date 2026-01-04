@@ -3,6 +3,6 @@
 - Hilbert symbol. For a place $v$ of $\mathbb Q$, the Hilbert symbol is the function $(-,-)_v:\mathbb Q_v\times\mathbb Q_v\longrightarrow\{\pm 1\}$, such that $(a,b)_v=1$ iff $ax^2+by^2=1$ is solvable.
 - Computation of the Hilbert symbol.
 	- If $v=\infty$, $(a,b)_\infty=1$ iff $a>0$ or $b>0$.
-	- If $v=p$, let $a=p^i\alpha$ and $b=p^j\beta$ where $\alpha,\beta\in\Z_p^\times$. Put
+	- For $v=p$, let $a=p^i\alpha$ and $b=p^j\beta$ where $\alpha,\beta\in\Z_p^\times$. Put $r:=(-1)^{ij}a^jb^{-i}\in\Z_p^\times$.
 	- If $v=2$, $(a,b)_2=$
 -
