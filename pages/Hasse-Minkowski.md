@@ -1,2 +1,2 @@
-- Hasse-Minkowski Theorem. Let $f$ be a rational quadratic form of dimension $n$. Then $f$ is isotropic ($\exists v\neq 0, f(v)=0$) iff it's isotropic locally at all places.
--
+- Hasse-Minkowski Theorem. Let $f$ be a rational quadratic form of dimension $n$. Then $f$ is isotropic ($\exists v\neq 0, f(v)=0$) iff it's isotropic *locally* at all places.
+	- Proof
