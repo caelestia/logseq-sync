@@ -4,6 +4,6 @@
 - Computation of the Hilbert symbol.
 	- If $v=\infty$, $(a,b)_\infty=1$ iff $a>0$ or $b>0$.
 	- For $v=p$, let $a=p^i\alpha$ and $b=p^j\beta$ where $\alpha,\beta\in\Z_p^\times$. Put $r:=(-1)^{ij}a^jb^{-i}\in\Z_p^\times$. Then:
-		- If $p$ is odd, $(a,b)_p=$
+		- If $p$ is odd, $(a,b)_p=(\dfrac{r}{p})$.
 		- If $p=2$, $(a,b)_2=$
 -
