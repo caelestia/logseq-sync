@@ -1,2 +1,2 @@
-- #Dedekind Domain
+- Dedekind Domain
 -
