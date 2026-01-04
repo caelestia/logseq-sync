@@ -4,5 +4,6 @@
 	- [[Commutative ring theory]]
 	- [[Class field theory]]
 	- [[NT Misc]]
+	- [[Hasse-Minkowski]]
 - [[First Course]]
 -
