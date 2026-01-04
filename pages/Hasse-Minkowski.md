@@ -1,1 +1,1 @@
-- Hasse-Minkowski Theorem. Let $f$ be a non-degenerate rational quadratic form. Then $f$
+- Hasse-Minkowski Theorem. Let $f$ be a non-degenerate rational quadratic form of dimension $n$. Then $f$
