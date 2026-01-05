@@ -17,4 +17,3 @@
 	- Base case $b=\pm 1$. Using condition at $v=\infty$ we have either $a=1$ or $b=1$, so trivial.
 	- Inductive step.
 -
--
