@@ -31,6 +31,4 @@
 	- $$0 \longrightarrow \operatorname{Br}(K) \longrightarrow \bigoplus_v\operatorname{Br}(K_v) \longrightarrow \mathbb Q/\Z \longrightarrow 0$$
 	- This relates to our objective as follows. For a field $k$ and $a,b\in k^\times$, there is a quaternion algebra $(a,b)_k$ which represents a class in $\operatorname{Br}(k)$. Its norm form is isomorphic to $\langle 1,-a,-b,ab\rangle$.
 		- Two quaternion algebras are isomorphic iff their norm forms are isomorphic.
-	- TFAE:
-		-
-		-
+	- $(a,b)_k$ represents the identity of $\operatorname{Br}(k)$ $$
