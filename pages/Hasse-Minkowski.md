@@ -20,7 +20,8 @@
 	- $(a,b)_k$ represents the identity of $\operatorname{Br}(k)$ $\Longleftrightarrow$ its norm form is isotropic $\Longleftrightarrow$ $\langle a,b\rangle$ represents $1$.
 	- [Hilbert symbol](((695af663-092e-4cca-bd5c-c8cbd075aa06)))
 - ### The $n=4$ case
-- Binary quadratic forms over $\mathbb Q_v$. A non-degenerate form $\langle a,b\rangle$ represents $r\in\mathbb Q_v^\times$ iff $(r,-ab)_v=(a,b)_v$.
+- Binary quadratic forms over $\mathbb Q_p$. A non-degenerate form $\langle a,b\rangle$ ($a,b$) represents $r\in\mathbb Q_p^\times$ iff $(r,-ab)_p=(a,b)_p$.
 	- Proof. $\langle a,b\rangle$ represents $r$ $\Longleftrightarrow$ $\langle a,b,-r\rangle$ is isotropic $\Longleftrightarrow$ $(ar,br)_p=1$. Using $(r,r)_p=(-1,r)_p$, we have $(ar,br)=(a,b)(r,a)(r,b)(r,r)=(a,b)(r,-ab)$, QED.
+	- The same holds for the place $v=\infty$.
 - Now let our $f$ be $\langle a,b,c,d\rangle$. The goal is to construct a rational $r$ represented by both $\langle a,b\rangle$ and $\langle c,d\rangle$. That is, a solution to the equations $(r,-ab)=(a,b)$
 -
