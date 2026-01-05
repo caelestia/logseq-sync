@@ -28,4 +28,4 @@
 - Theorem. Let $(a_i)_{i}$ be rational numbers indexed by a finite set $I$. Given $\varepsilon_{i,v}\in\{\pm 1\}$ for all places $v$, and suppose all but finitely $\varepsilon_{i,v}$ are $1$, and the product formula $\prod_{v}\varepsilon_{i,v}=1$. If the system of equations $(a_i,x)_v=\varepsilon_{i,v}$, $i\in I$, has a solution $x_v\in\mathbb Q_v^\times$ at every place $v$, then it has a global solution $x\in\mathbb Q^\times$.
 	- Proof.
 - ### Number theoretic proof of $n=4$
--
+- With a
