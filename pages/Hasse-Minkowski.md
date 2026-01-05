@@ -21,4 +21,5 @@
 - Proof of H-M, $n=3$ case. Suppose $ax^2+by^2=1$ is solvable locally everywhere, $a,b$ nonzero square-free integers, $1\leq |a|\leq|b|$. We construct global solutions $(x,y)$ by induction on $|a|+|b|$.
 	- Base case $a,b\in\{\pm 1\}$. Using condition at $v=\infty$ we have either $a=1$ or $b=1$, so trivial.
 	- Inductive step. Observe $a$ is a square mod $b$, so $\exists\, r,c\in\Z$ satisfying $bc=r^2-a$. Taking $0\leq r<|b|$, we have $|c|<|b|$. By last corollary, we pass to the equation $ax^2+cy^2=1$. QED.
+- ### Number theoretic proof of the ternary case
 -
