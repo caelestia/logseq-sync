@@ -33,4 +33,5 @@
 		- $(\alpha,\beta)_p=1$. This is case $i=j=0$.
 	- The Hilbert symbol is a non-degenerate $\mathbb F_2$-bilinear form on $\mathbb Q_v^\times/\mathbb Q_v^{\times2}$.
 		- Proof. For $v=\infty$ this is obvious. For odd $p$, an $\mathbb F_2$-basis is $\{p,u\}$, and we have $(u,u)_p=1=[0]\in\mathbb F_2$, $(u,p)_p=-1=[1]\in\mathbb F_2$, and $(p,p)_p=(-1)^{\epsilon(p)}$. The matrix of $(-,-)_p$ is invertible.
-		- For $p=2$, a basis is $\{2,\}$
+		- For $p=2$, a basis is $\{2,-1,5\}$. Similar computation, omitted.
+	-
