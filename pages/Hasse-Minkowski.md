@@ -30,4 +30,5 @@
 - ### Number theoretic proof of $n=4$
 - Instead of reducing to the ternary case, there is a trick allowing us to apply the Hasse norm theorem.
 - Lemma. Let $k$ be a field, $a,b\in k$. Then $c\in k^\times$ is a norm of $k[\sqrt{a},\sqrt{b}]/k[\sqrt{ab}]$ iff it's the product of a norm of $k[\sqrt{a}]/k$ with a norm of $k[\sqrt{b}]/k$.
-	-
+	- Proof.
+	- Suppose that $x\in k[\sqrt{a}]$
