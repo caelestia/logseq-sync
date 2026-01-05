@@ -15,7 +15,7 @@
 	- $(a,p)_p=(-1)^{i\epsilon(p)}(\dfrac{\alpha}{p})$. This is case $b=p$ in the above.
 	- $(\alpha,\beta)_p=1$. This is case $i=j=0$.
 - ### Legendre's proof of the ternary case
-- This is the ingeneous
+- This is the ingenious proof via infinite descent, avoiding the local mess entirely.
 - Global criterion. $ax^2+by^2=z^2$ has a solution $(x,y,z)\neq(0,0,0)$ iff $b\in\operatorname{Nm}(\mathbb Q[\sqrt{a}\,]^\times)$, assuming $b\neq 0$.
 	- Corollary. If $\lambda\in\operatorname{Nm}(\mathbb Q[\sqrt{a}\,]^\times)$, then solutions to $ax^2+by^2=1$ and $ax^2+(\lambda b)y^2=1$ are bijective.
 - Proof of H-M, $n=3$ case. Suppose $ax^2+by^2=1$ is solvable locally everywhere, $a,b$ nonzero square-free integers, $1\leq |a|\leq|b|$. We construct global solutions $(x,y)$ by induction on $|a|+|b|$.
