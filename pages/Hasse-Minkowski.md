@@ -1,6 +1,5 @@
 - Hasse-Minkowski Theorem. Let $f$ be a rational quadratic form of dimension $n$. Then $f$ is isotropic ($\exists v\neq 0, f(v)=0$) iff it's isotropic *locally* at all places.
 	- We first prove this for the case $n=3$.
-- ### Local treatment (of $\mathbb Q$)
 - ### Legendre's proof of the ternary case
 - This is the ingenious proof via infinite descent. *Doesn't require Hilbert symbols.*
 	- Catch: This proof doesn't work over number fields.
@@ -19,6 +18,6 @@
 	- This relates to our objective as follows. For a field $k$ and $a,b\in k^\times$, there is a quaternion algebra $(a,b)_k$ which represents a class in $\operatorname{Br}(k)$. Its norm form is isomorphic to $\langle 1,-a,-b,ab\rangle$.
 		- Two quaternion algebras are isomorphic iff their norm forms are isomorphic.
 	- $(a,b)_k$ represents the identity of $\operatorname{Br}(k)$ $\Longleftrightarrow$ its norm form is isotropic $\Longleftrightarrow$ $\langle a,b\rangle$ represents $1$.
-	- [a](((695af663-092e-4cca-bd5c-c8cbd075aa06)))
+	- [Hilbert symbol](((695af663-092e-4cca-bd5c-c8cbd075aa06)))
 - ### The $n=4$ case
 -
