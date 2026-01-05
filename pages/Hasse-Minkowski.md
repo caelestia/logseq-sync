@@ -22,4 +22,4 @@
 - ### The $n=4$ case
 - Binary quadratic forms over $\mathbb Q_p$. A non-degenerate form $\langle a,b\rangle$ represents $c\in\mathbb Q_p^\times$ iff $(c,-ab)_p=(a,b)_p$.
 	- Proof. $\langle a,b\rangle$ represents $c$ $\Longleftrightarrow$ $\langle a,b,-c\rangle$ is isotropic $\Longleftrightarrow$ $(ac,bc)_p=1$. Using $(c,c)_p=(-1,c)_p$,
-	- $$$$
+	- $(ac,bc)=(a,b)(a,c)(b,c)(c,c)=(a,b)(c,-ab).
