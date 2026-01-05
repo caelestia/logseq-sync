@@ -37,3 +37,5 @@
 		- For $p=2$, a basis is $\{2,-1,5\}$. Direct computation using formula, omitted. QED.
 	- Product formula. If $a,b\in\mathbb Q^\times$, then $(a,b)_v=1$ for all but finitely places, and $\prod_v(a,b)_v=1$.
 		- Follows from QR (and its supplements).
+	-
+-
