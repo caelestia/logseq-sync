@@ -21,5 +21,5 @@
 	- [Hilbert symbol](((695af663-092e-4cca-bd5c-c8cbd075aa06)))
 - ### The $n=4$ case
 - Binary quadratic forms over $\mathbb Q_p$. A non-degenerate form $\langle a,b\rangle$ represents $r\in\mathbb Q_p^\times$ iff $(r,-ab)_p=(a,b)_p$.
-	- Proof. $\langle a,b\rangle$ represents $r$ $\Longleftrightarrow$ $\langle a,b,-r\rangle$ is isotropic $\Longleftrightarrow$ $(ac,bc)_p=1$. Using $(c,c)_p=(-1,c)_p$, we have $(ac,bc)=(a,b)(a,c)(b,c)(c,c)=(a,b)(c,-ab)$, QED.
--
+	- Proof. $\langle a,b\rangle$ represents $r$ $\Longleftrightarrow$ $\langle a,b,-r\rangle$ is isotropic $\Longleftrightarrow$ $(ar,br)_p=1$. Using $(r,r)_p=(-1,r)_p$, we have $(ar,br)=(a,b)(r,a)(r,b)(r,r)=(a,b)(r,-ab)$, QED.
+- If
