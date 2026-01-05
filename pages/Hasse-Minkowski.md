@@ -8,4 +8,5 @@
 		- If $p=2$, $(a,b)_2=(-1)^{\epsilon(\alpha)\epsilon(\beta)+\omega(r)}$ where
 		- $\epsilon(u)=\begin{cases}0,&u\equiv1\pmod4\\1,&u\equiv3\pmod4\end{cases}$
 		- $\omega(u)=\begin{cases}0,&u\equiv1,7\pmod8\\1,&u\equiv3,5\pmod8\end{cases}$
+		- Proof of
 -
