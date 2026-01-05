@@ -34,5 +34,5 @@
 	- Suppose that $x\in k[\sqrt{a}]$, $y\in k[\sqrt{b}]$. Then $x\tau x\cdot y\sigma y=(xy)\sigma\tau (xy)$, so the "if" is trivial.
 	- For the "only if", let $z\in k[\sqrt{a},\sqrt{b}]$ satisfy $z\cdot\sigma\tau z=c$. For $z=xy$, $x$ must satisfy
 	- $$\frac{\tau x}{x}\overset{!}{=}\frac{z\cdot\sigma\tau z}{x^2y\sigma y}=\frac{c}{z\cdot\sigma z}$$
-	- Since $\operatorname{Nm}_{k[\sqrt{a}]/k}(z\cdot\sigma z)=c^2$, a solution $x$ exists by Hilbert's Satz 90. Put $y:=z/x$ and
+	- Since $\operatorname{Nm}_{k[\sqrt{a}]/k}(z\cdot\sigma z)=c^2$, a solution $x\in k[\sqrt{a}]$ exists by Hilbert's Satz 90. Put $y:=z/x$, easily see $y\in k[\sqrt{b}]$. QED.
 -
