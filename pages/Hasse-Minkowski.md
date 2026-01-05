@@ -24,4 +24,4 @@
 	- Inductive step. Observe $a$ is a square mod $b$, so $\exists\, r,c\in\Z$ satisfying $bc=r^2-a$. Taking $0\leq r<|b|$, we have $|c|<|b|$. By last corollary, we pass to the equation $ax^2+cy^2=1$. QED.
 - ### Number theoretic proof of the ternary case
 - Hasse norm theorem. Let $L/K$ be a cyclic extension of number fields, then $a\in K^\times\subset K_v^\times$ is a norm from $L_v$ for all but finitely many $v$, and it is a global norm iff it's a local norm everywhere.
--
+	- Proof (sketch). We know that $H^$
