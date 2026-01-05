@@ -30,5 +30,5 @@
 - ### Number theoretic proof of $n=4$
 - Instead of reducing to the ternary case, there is a trick allowing us to apply the Hasse norm theorem.
 - Lemma. Let $k$ be a field, $a,b\in k$. Then $c\in k^\times$ is a norm of $k[\sqrt{a},\sqrt{b}]/k[\sqrt{ab}]$ iff it's the product of a norm of $k[\sqrt{a}]/k$ with a norm of $k[\sqrt{b}]/k$.
-	- Proof. Suppose none of $a$, $b$, or $ab$ is a square; trivial otherwise. T
+	- Proof. Suppose none of $a$, $b$, or $ab$ is a square; trivial otherwise. Let the Galois group of $k[\sqrt{a},\sqrt{b}]/k$ be $\{1,\sigma,\tau,\sigma\tau\}$, where $\sigma$ fixes $\sqrt{a}$ and $\tau$ fixes $\sqrt{b}$.
 	- Suppose that $x\in k[\sqrt{a}]$, $y\in k[\sqrt{b}]$.
