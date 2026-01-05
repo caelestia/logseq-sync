@@ -30,11 +30,11 @@
 	- Proof.
 - ### Number theoretic proof of $n=4$
 - Instead of reducing to the ternary case, there is a trick allowing us to apply the Hasse norm theorem.
-- Lemma. Let $k$ be a field, $\operatorname{char}k\neq 2$, $a,b\in k$. Then $c\in k^\times$ is a norm of $k[\sqrt{a},\sqrt{b}]/k[\sqrt{ab}]$ iff it's the product of a norm of $k[\sqrt{a}]/k$ with a norm of $k[\sqrt{b}]/k$.
+- Lemma. Let $k$ be a field, $\operatorname{char}k\neq 2$, $a,b\in k$. Then $c\in k^\times$ is a norm of $k[\sqrt{a},\sqrt{b}]/k[\sqrt{ab}]$ iff it's the product in $k$ of a norm from $k[\sqrt{a}]$ with a norm from $k[\sqrt{b}]$.
 	- Proof. Suppose none of $a$, $b$, or $ab$ is a square; otherwise trivial. Let the Galois group of $k[\sqrt{a},\sqrt{b}]/k$ be $\{1,\sigma,\tau,\sigma\tau\}$, where $\sigma$ fixes $\sqrt{a}$ and $\tau$ fixes $\sqrt{b}$.
 	- Suppose that $x\in k[\sqrt{a}]$, $y\in k[\sqrt{b}]$. Then $c=x\tau x\cdot y\sigma y=(xy)\sigma\tau (xy)$, so the "if" is trivial.
 	- For the "only if", let $z\in k[\sqrt{a},\sqrt{b}]$ satisfy $z\cdot\sigma\tau z=c$. For $z=xy$, $x$ must satisfy
 	- $$\frac{\tau x}{x}\overset{!}{=}\frac{z\cdot\sigma\tau z}{x^2y\sigma y}=\frac{c}{z\cdot\sigma z}=\frac{\tau z}{z}$$
 	- Since RHS is in $k[\sqrt{a}]$ and has norm $1$, a solution $x\in k[\sqrt{a}]$ exists by Hilbert's Satz 90. Put $y:=z/x$, easily see $y\in k[\sqrt{b}]$. QED.
-- Proof of H-M, $n=4$, for a number field $K$. Multiplying $f$ by a nonzero scalar we may write it as $x^2-by^2-cz^2+acw^2$. This represents $0$ iff $c$ is a quotient of a norm of $K[\sqrt{b}]/K$ by a norm of $K[\sqrt{a}]/K$. By the lemma, this holds iff the image of $c$ in $k[\sqrt{ab}]$ is a norm
+- Proof of H-M, $n=4$, for a number field $K$. Multiplying $f$ by a nonzero scalar we may write it as $x^2-by^2-cz^2+acw^2$. This represents $0$ iff $c$ is a quotient of a norm of $K[\sqrt{b}]/K$ by a norm of $K[\sqrt{a}]/K$. By the lemma, this holds iff the image of $c$ in $K[\sqrt{ab}]$ is a norm from $K[\sqrt{a},\sqrt{b}]$.
 -
