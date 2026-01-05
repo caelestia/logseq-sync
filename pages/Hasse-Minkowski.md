@@ -11,8 +11,9 @@
 			- $\epsilon(u)=\begin{cases}0,&u\equiv1\pmod4\\1,&u\equiv3\pmod4\end{cases}$
 			- $\omega(u)=\begin{cases}0,&u\equiv1,7\pmod8\\1,&u\equiv3,5\pmod8\end{cases}$
 		- Proof. Check that RHS satisfies $(a,b)=(b,a)$, $(a,bc)=(a,b)(a,c)$ and $(a,-a)=1$ directly. Thus reduce to the case $a\in\Z_p^\times$ and $b\in\Z_p^\times\cup p\Z_p^\times$. The rest is omitted.
-- For odd $p$, we have $(a,p)_p=(-1)^{i\epsilon(p)}(\dfrac{\alpha}{p})$. This is case $b=p$ in above.
-- For odd $p$, we have $(\alpha,\beta)_p=1$.
+- Corollary. For odd $p$, we have
+	- $(a,p)_p=(-1)^{i\epsilon(p)}(\dfrac{\alpha}{p})$. This is case $b=p$ in the above.
+	- $(\alpha,\beta)_p=1$. This is case $i=j=0$.
 - Global criterion. $ax^2+by^2=z^2$ has a solution $(x,y,z)\neq(0,0,0)$ iff $b\in\operatorname{Nm}(\mathbb Q[\sqrt{a}\,]^\times)$, assuming $b\neq 0$.
 	- Corollary. If $\lambda\in\operatorname{Nm}(\mathbb Q[\sqrt{a}\,]^\times)$, then solutions to $ax^2+by^2=1$ and $ax^2+(\lambda b)y^2=1$ are bijective.
 - Proof of H-M, $n=3$ case. Suppose $ax^2+by^2=1$ is solvable locally everywhere, $a,b$ nonzero square-free integers, $|a|\leq|b|$. Proceed with induction on $|b|$.
