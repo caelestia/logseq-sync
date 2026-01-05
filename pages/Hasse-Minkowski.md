@@ -29,4 +29,4 @@
 	- QED.
 - Brauer groups. We need the left half of the following SES, $K$ any global field.
 	- $$0 \longrightarrow \operatorname{Br}(K) \longrightarrow \bigoplus_v\operatorname{Br}(K_v) \longrightarrow \mathbb Q/\Z \longrightarrow 0$$
-	- This relates to our objective as follows. For a field $k$ and $a,b\in k^\times$
+	- This relates to our objective as follows. For a field $k$ and $a,b\in k^\times$,
