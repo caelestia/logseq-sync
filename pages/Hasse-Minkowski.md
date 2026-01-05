@@ -25,4 +25,4 @@
 	- The same holds for the place $v=\infty$.
 - Now let $f$ be $\langle a,b,c,d\rangle$. The goal is to construct a rational $r$ represented by both $\langle a,b\rangle$ and $\langle c,d\rangle$. That is, a solution to the equations $(r,-ab)_v=(a,b)_v$ and $(r,-cd)_v=(c,d)_v$ for all $v$.
 	- We prove the following stronger statement.
-- Theorem. Let $(a_i)_{i}$ be rational numbers indexed by a finite set $I$. Given $\varepsilon_{i,v}\in\{\pm 1\}$ for all places $v$, and suppose that all but finitely $\varepsilon_{i,v}$ are $1$, and the product formula $\prod_{v}\varepsilon_{i,v}=1$ holds for all $i$. If the system of equations $(a_i,x)_v=\varepsilon_{i,v}$ for all $i$
+- Theorem. Let $(a_i)_{i}$ be rational numbers indexed by a finite set $I$. Given $\varepsilon_{i,v}\in\{\pm 1\}$ for all places $v$, and suppose that all but finitely $\varepsilon_{i,v}$ are $1$, and the product formula $\prod_{v}\varepsilon_{i,v}=1$ holds for all $i$. If the system of equations $(a_i,x)_v=\varepsilon_{i,v}$, $i\in I$, has a solution $x_v$ at every place $v$, then it has a global solution $x\in Q^\times$.
