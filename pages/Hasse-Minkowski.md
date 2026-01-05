@@ -32,4 +32,4 @@
 	- This relates to our objective as follows. For a field $k$ and $a,b\in k^\times$, there is a quaternion algebra $(a,b)_k$ which represents a class in $\operatorname{Br}(k)$. Its norm form is isomorphic to $\langle 1,-a,-b,ab\rangle$.
 		- Two quaternion algebras are isomorphic iff their norm forms are isomorphic.
 	- $(a,b)_k$ represents the identity of $\operatorname{Br}(k)$ $\Longleftrightarrow$ its norm form is isotropic $\Longleftrightarrow$ $\langle a,b\rangle$ represents $1$.
-	-
+-
