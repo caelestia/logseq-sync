@@ -23,5 +23,5 @@
 - Binary quadratic forms over $\mathbb Q_p$. A non-degenerate form $\langle a,b\rangle$ over $\mathbb Q_p$ represents $r\in\mathbb Q_p^\times$ iff $(r,-ab)_p=(a,b)_p$.
 	- Proof. $\langle a,b\rangle$ represents $r$ $\Longleftrightarrow$ $\langle a,b,-r\rangle$ is isotropic $\Longleftrightarrow$ $(ar,br)_p=1$. Using $(r,r)_p=(-1,r)_p$, we have $(ar,br)=(a,b)(r,a)(r,b)(r,r)=(a,b)(r,-ab)$, QED.
 	- The same holds for the place $v=\infty$.
-- Now let our $f$ be $\langle a,b,c,d\rangle$. The goal is to construct a rational $r$ represented by both $\langle a,b\rangle$ and $\langle c,d\rangle$. That is, a solution to the equations $(r,-ab)_v=(a,b)_v$ and $(r,-cd)_v=(c,d)_v$ for all $v$.
+- Now let $f$ be $\langle a,b,c,d\rangle$. The goal is to construct a rational $r$ represented by both $\langle a,b\rangle$ and $\langle c,d\rangle$. That is, a solution to the equations $(r,-ab)_v=(a,b)_v$ and $(r,-cd)_v=(c,d)_v$ for all $v$.
 	-
