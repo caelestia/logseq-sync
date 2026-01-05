@@ -31,4 +31,5 @@
 	- Corollary. For odd $p$, we have
 		- $(a,p)_p=(-1)^{i\epsilon(p)}(\dfrac{\alpha}{p})$. This is case $b=p$ in the above.
 		- $(\alpha,\beta)_p=1$. This is case $i=j=0$.
-	- Hilbert symbol is a non-degenerate $\mathbb F_2$-bilinear form
+	- The Hilbert symbol is a non-degenerate $\mathbb F_2$-bilinear form on $\mathbb Q_v^\times/\mathbb Q_v^{\times2}$.
+	-
