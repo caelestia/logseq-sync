@@ -11,3 +11,4 @@
 		- Proof. Check that RHS satisfies $(a,b)=(b,a)$, $(a,bc)=(a,b)(a,c)$ and $(a,-a)=1$ directly. Thus reduce to the case $a\in\Z_p^\times$ and $b\in\Z_p^\times\cup p\Z_p^\times$. The rest is omitted.
 - Global criterion. $ax^2+by^2=z^2$ has a solution $(x,y,z)\neq(0,0,0)$ iff $b\in\operatorname{Nm}(\mathbb Q[\sqrt{a}\,]^\times)$, assuming $b\neq 0$.
 	- Corollary. If $\lambda\in\operatorname{Nm}(\mathbb Q[\sqrt{a}\,]^\times)$, then solutions to $ax^2+by^2=1$ and $ax^2+(\lambda b)y^2=1$ are bijective.
+- Proof of H-M, $n=3$ case.
