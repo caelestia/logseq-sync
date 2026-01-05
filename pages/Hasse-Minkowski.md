@@ -30,4 +30,5 @@
 - Brauer groups. We need the left half of the following SES, $K$ any global field.
 	- $$0 \longrightarrow \operatorname{Br}(K) \longrightarrow \bigoplus_v\operatorname{Br}(K_v) \longrightarrow \mathbb Q/\Z \longrightarrow 0$$
 	- This relates to our objective as follows. For a field $k$ and $a,b\in k^\times$, there is a quaternion algebra $(a,b)_k$ which represents a class in $\operatorname{Br}(k)$. Its norm form is isomorphic to $\langle 1,-a,-b,ab\rangle$.
-	-
+	- TFAE:
+		-
