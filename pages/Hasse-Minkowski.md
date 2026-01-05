@@ -1,3 +1,5 @@
+- {{renderer :toc_695ba6ac-48e3-4862-b46e-d58511840e33}}
+- # sd
 - Hasse-Minkowski Theorem. Let $f$ be a rational quadratic form of dimension $n$. Then $f$ is isotropic ($\exists v\neq 0, f(v)=0$) iff it's isotropic *locally* at all places.
 	- We first prove this for the case $n=3$.
 - Hilbert symbol. For a place $v$ of $\mathbb Q$, the Hilbert symbol is the function $(-,-)_v:\mathbb Q_v\times\mathbb Q_v\longrightarrow\{\pm 1\}$, such that $(a,b)_v=1$ iff $ax^2+by^2=1$ is solvable.
