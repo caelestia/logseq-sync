@@ -25,4 +25,4 @@
 	- The same holds for the place $v=\infty$.
 - Now let $f$ be $\langle a,b,c,d\rangle$. The goal is to construct a rational $r$ represented by both $\langle a,b\rangle$ and $\langle c,d\rangle$. That is, a solution to the equations $(r,-ab)_v=(a,b)_v$ and $(r,-cd)_v=(c,d)_v$ for all $v$.
 	- We prove the following stronger statement.
-- Theorem.
+- Theorem. Let $()$ $I$ a finite set
