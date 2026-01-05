@@ -35,4 +35,4 @@
 	- For the "only if", let $z\in k[\sqrt{a},\sqrt{b}]$ satisfy $z\cdot\sigma\tau z=c$. For $z=xy$, $x$ must satisfy
 	- $$\frac{\tau x}{x}\overset{!}{=}\frac{z\cdot\sigma\tau z}{x^2y\sigma y}=\frac{c}{z\cdot\sigma z}=\frac{\tau z}{z}$$
 	- Since RHS is in $k[\sqrt{a}]$ and has norm $1$, a solution $x\in k[\sqrt{a}]$ exists by Hilbert's Satz 90. Put $y:=z/x$, easily see $y\in k[\sqrt{b}]$. QED.
-- Proof of H-M, $n=4$ case. Multiplying $f$ by a nonzero scalar we may write it as $x^2-by^2-cz^2+acw^2$. This represents $0$ iff
+- Proof of H-M, $n=4$ case. Multiplying $f$ by a nonzero scalar we may write it as $x^2-by^2-cz^2+acw^2$. This represents $0$ iff $c$ is a quotient of a norm of $k[]$
