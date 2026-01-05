@@ -35,4 +35,4 @@
 		- Proof. Bilinearity already tackled above. Now prove non-degeneracy.
 		- For $v=\infty$ this is obvious. For odd $p$, an $\mathbb F_2$-basis is $\{p,u\}$, and we have $(u,u)_p=1=[0]\in\mathbb F_2$, $(u,p)_p=-1=[1]\in\mathbb F_2$, and $(p,p)_p=(-1)^{\epsilon(p)}$. The matrix of $(-,-)_p$ is invertible.
 		- For $p=2$, a basis is $\{2,-1,5\}$. Direct computation using formula, omitted. QED.
-	-
+	- Hilbert
