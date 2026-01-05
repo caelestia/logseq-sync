@@ -1,5 +1,5 @@
-- Hasse-Minkowski Theorem. Let $f$ be a rational quadratic form of dimension $n$. Then $f$ is isotropic ($\exists v\neq 0, f(v)=0$) iff it's isotropic *locally* at all places.
-	- We first prove this for the case $n=3$.
+- Hasse-Minkowski Theorem. Let $f$ be a non-degenerate rational quadratic form of dimension $n$. Then $f$ is isotropic ($\exists v\neq 0, f(v)=0$) iff it's isotropic *locally* at all places.
+	- We first prove this for the case $n=3$, then $n=4$, and then $
 - ### Legendre's proof of the ternary case
 - This is the ingenious proof via infinite descent. *Doesn't require Hilbert symbols.*
 	- Catch: This proof doesn't work over number fields.
@@ -35,4 +35,4 @@
 	- For the "only if", let $z\in k[\sqrt{a},\sqrt{b}]$ satisfy $z\cdot\sigma\tau z=c$. For $z=xy$, $x$ must satisfy
 	- $$\frac{\tau x}{x}\overset{!}{=}\frac{z\cdot\sigma\tau z}{x^2y\sigma y}=\frac{c}{z\cdot\sigma z}=\frac{\tau z}{z}$$
 	- Since RHS is in $k[\sqrt{a}]$ and has norm $1$, a solution $x\in k[\sqrt{a}]$ exists by Hilbert's Satz 90. Put $y:=z/x$, easily see $y\in k[\sqrt{b}]$. QED.
-- Proof of H-M, $n=4$, for a number field $K$. Multiplying $f$ by a nonzero scalar we may write it as $x^2-by^2-cz^2+acw^2$. This represents $0$ iff $c\neq0$ is a quotient of a norm of $K[\sqrt{b}]/K$ by a norm of $K[\sqrt{a}]/K$.
+- Proof of H-M, $n=4$, for a number field $K$. Multiplying $f$ by a nonzero scalar we may write it as $x^2-by^2-cz^2+acw^2$. This represents $0$ iff $c$ is a quotient of a norm of $K[\sqrt{b}]/K$ by a norm of $K[\sqrt{a}]/K$.
