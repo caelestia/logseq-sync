@@ -33,4 +33,4 @@
 	- Proof. Suppose none of $a$, $b$, or $ab$ is a square; trivial otherwise. Let the Galois group of $k[\sqrt{a},\sqrt{b}]/k$ be $\{1,\sigma,\tau,\sigma\tau\}$, where $\sigma$ fixes $\sqrt{a}$ and $\tau$ fixes $\sqrt{b}$.
 	- Suppose that $x\in k[\sqrt{a}]$, $y\in k[\sqrt{b}]$. Then $x\tau x\cdot y\sigma y=(xy)\sigma\tau (xy)$, so the "if" is trivial. For the "only if", let $z\in k[\sqrt{a},\sqrt{b}]$ satisfy $z\cdot\sigma\tau z=c$. For $z=xy$, $x$ must satisfy
 	- $$\frac{\tau x}{x}\overset{!}{=}\frac{z\cdot\sigma\tau z}{x^2y\sigma y}=\frac{c}{z\cdot\sigma z}$$
-	- Easy to see that $\operatorname{Nm}_{k[\sqrt{a}]/k}(z\cdot\sigma z)=c^2$
+	- Easy to see that $\operatorname{Nm}_{k[\sqrt{a}]/k}(z\cdot\sigma z)=c^2$, so a solution $x$ exists by Hilbert's Satz 90. QED
