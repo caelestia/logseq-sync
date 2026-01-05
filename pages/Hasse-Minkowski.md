@@ -20,5 +20,5 @@
 	- $(a,b)_k$ represents the identity of $\operatorname{Br}(k)$ $\Longleftrightarrow$ its norm form is isotropic $\Longleftrightarrow$ $\langle a,b\rangle$ represents $1$.
 	- [Hilbert symbol](((695af663-092e-4cca-bd5c-c8cbd075aa06)))
 - ### The $n=4$ case
-- Binary quadratic forms over $\mathbb Q_p$. A nondegenerate form $\langle a,b\rangle$ represents $c\in\mathbb Q_p^\times$ iff $(c,ab)_p=(a,b)_p$.
+- Binary quadratic forms over $\mathbb Q_p$. A non-degenerate form $\langle a,b\rangle$ represents $c\in\mathbb Q_p^\times$ iff $(c,-ab)_p=(a,b)_p$.
 	- Proof.
