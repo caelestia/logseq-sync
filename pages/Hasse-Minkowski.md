@@ -25,4 +25,4 @@
 	- The same holds for the place $v=\infty$.
 - Now let $f$ be $\langle a,b,c,d\rangle$. The goal is to construct a rational $r$ represented by both $\langle a,b\rangle$ and $\langle c,d\rangle$. That is, a solution to the equations $(r,-ab)_v=(a,b)_v$ and $(r,-cd)_v=(c,d)_v$ for all $v$.
 	- We prove the following stronger statement.
-- Theorem. Let $(a_i)_{i\in I}$ be rational numbers indexed by a finite set $I$, and $\varepsilon_{i,v}\in\{\pm 1\}$ for all places $v$. Suppose that all but finitely $\varepsilon_{i,v}$ are $1$, and the product formula $\prod_{v}\varepsilon_{i,v}=1$ holds for all $i$. If
+- Theorem. Let $(a_i)_{i}$ be rational numbers indexed by a finite set $I$, and $\varepsilon_{i,v}\in\{\pm 1\}$ for all places $v$. Suppose that all but finitely $\varepsilon_{i,v}$ are $1$, and the product formula $\prod_{v}\varepsilon_{i,v}=1$ holds for all $i$. If for all $v$ there exists a $x_v$
