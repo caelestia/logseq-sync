@@ -32,4 +32,4 @@
 		- $(a,p)_p=(-1)^{i\epsilon(p)}(\dfrac{\alpha}{p})$. This is case $b=p$ in the above.
 		- $(\alpha,\beta)_p=1$. This is case $i=j=0$.
 	- The Hilbert symbol is a non-degenerate $\mathbb F_2$-bilinear form on $\mathbb Q_v^\times/\mathbb Q_v^{\times2}$.
-		- Proof. For $v=\infty$ this is obvious. For odd $p$, this
+		- Proof. For $v=\infty$ this is obvious. For odd $p$, this has a $\mathbb F_2$-basis $\{p,u\}$, and we have $(u,u)_p=0$, $(u,p)=$
