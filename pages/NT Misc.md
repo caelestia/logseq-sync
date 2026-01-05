@@ -14,7 +14,7 @@
 		  CLOCK: [2025-11-25 Tue 23:54:35]--[2025-11-25 Tue 23:54:36] =>  00:00:01
 		  CLOCK: [2025-11-25 Tue 23:54:42]--[2025-11-25 Tue 23:54:42] =>  00:00:00
 		  :END:
-	- Using Hasse-Minkowski, we see that: $n$ is the sum of three rational squares IFF $n$ is the sum of three integral squares IFF $-n$ is not a square in $\mathbb Q_2$ IFF $n$ is not of the form $4^a(8b-1)$ for $a,b\in\Z$.
+	- Using Hasse-Minkowski, we see that: $n$ is the sum of $3$ rational squares IFF $n$ is the sum of three integral squares IFF $-n$ is not a square in $\mathbb Q_2$ IFF $n$ is not of the form $4^a(8b-1)$ for $a,b\in\Z$.
 		- Explain the last step. Recall that over the local field $\mathbb Q_p$, the image of the quadratic form is completely determined by the three invariants: its dimension $d$, discriminant $\Delta$ and its Hasse invariant $\varepsilon$.
 		-
 - Hilbert symbol. For a place $v$ of $\mathbb Q$, the Hilbert symbol is the function $(-,-)_v:\mathbb Q_v\times\mathbb Q_v\longrightarrow\{\pm 1\}$, such that $(a,b)_v=1$ iff $ax^2+by^2=1$ is solvable.
