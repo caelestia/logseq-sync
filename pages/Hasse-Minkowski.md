@@ -16,7 +16,7 @@
 	- $(\alpha,\beta)_p=1$. This is case $i=j=0$.
 - Global criterion. $ax^2+by^2=z^2$ has a solution $(x,y,z)\neq(0,0,0)$ iff $b\in\operatorname{Nm}(\mathbb Q[\sqrt{a}\,]^\times)$, assuming $b\neq 0$.
 	- Corollary. If $\lambda\in\operatorname{Nm}(\mathbb Q[\sqrt{a}\,]^\times)$, then solutions to $ax^2+by^2=1$ and $ax^2+(\lambda b)y^2=1$ are bijective.
-- Proof of H-M, $n=3$ case. Suppose $ax^2+by^2=1$ is solvable locally everywhere, $a,b$ nonzero square-free integers, $1\leq |a|\leq|b|$. Proceed with induction on $|a|+|b|$.
+- Proof of H-M, $n=3$ case. Suppose $ax^2+by^2=1$ is solvable locally everywhere, $a,b$ nonzero square-free integers, $1\leq |a|\leq|b|$. We construct global solutions $(x,y)$ by induction on $|a|+|b|$.
 	- Base case $a,b\in\{\pm 1\}$. Using condition at $v=\infty$ we have either $a=1$ or $b=1$, so trivial.
 	- Inductive step. Observe $a$ is a square mod $b$, so $\exists\, r,c\in\Z$ satisfying $bc=r^2-a$. Taking $0\leq r<|b|$, we have $|c|<|b|$. By last corollary, we pass to the equation $ax^2+cy^2=1$. QED.
 -
