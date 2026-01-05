@@ -26,4 +26,7 @@
 - Hasse norm theorem. Let $L/K$ be a cyclic extension of number fields, then $a\in K^\times\subset K_v^\times$ is a norm from $L_v$ for all but finitely many $v$, and it is a global norm iff it's a local norm everywhere.
 	- Proof. We know $H^1(G,\mathbf{C}_L)=0$, then by periodicity of Tate cohomology of cyclic group, we have $\hat H^{-1}(G,\mathbf{C}_L)=0$, i.e. $\hat H^0(G,L^\times)\longrightarrow\hat H^0(G,\mathbb I_L)$ is injective. This is precisely
 	- $$\begin{equation*}K^\times/\operatorname{Nm}(L^\times)\longrightarrow\bigoplus_vK_v^\times/\operatorname{Nm}(L_v^\times).\end{equation*}$$
-- Brauer groups. We need the left
+	- QED.
+- Brauer groups. We need the left half of the SES
+	- $$0 \longrightarrow \operatorname{Br}(k)$$
+	-
