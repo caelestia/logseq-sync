@@ -27,6 +27,6 @@
 	- Proof. We know $H^1(G,\mathbf{C}_L)=0$, then by periodicity of Tate cohomology of cyclic group, we have $\hat H^{-1}(G,\mathbf{C}_L)=0$, i.e. $\hat H^0(G,L^\times)\longrightarrow\hat H^0(G,\mathbb I_L)$ is injective. This is precisely
 	- $$\begin{equation*}K^\times/\operatorname{Nm}(L^\times)\longrightarrow\bigoplus_vK_v^\times/\operatorname{Nm}(L_v^\times).\end{equation*}$$
 	- QED.
-- Brauer groups. We need the left half of the SES, $K$ any global field.
-	- $$0 \longrightarrow \operatorname{Br}(K)$$
+- Brauer groups. We need the left half of the following SES, $K$ any global field.
+	- $$0 \longrightarrow \operatorname{Br}(K) \longrightarrow \bigoplus_v\operatorname{Br}(K_v) \longrightarrow \mathbb Q/\Z \longrightarrow 0$$
 	-
