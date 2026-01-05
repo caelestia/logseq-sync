@@ -18,6 +18,7 @@
 		- Explain the last step. Recall that over the local field $\mathbb Q_p$, the image of the quadratic form is completely determined by the three invariants: its dimension $d$, discriminant $\Delta$ and its Hasse invariant $\varepsilon$.
 		-
 - Hilbert symbol. For a place $v$ of $\mathbb Q$, the Hilbert symbol is the function $(-,-)_v:\mathbb Q_v\times\mathbb Q_v\longrightarrow\{\pm 1\}$, such that $(a,b)_v=1$ iff $ax^2+by^2=1$ is solvable.
+  id:: 695af663-092e-4cca-bd5c-c8cbd075aa06
 	- Computation of the Hilbert symbol. = Local criterion.
 		- If $v=\infty$, $(a,b)_\infty=1$ iff $a>0$ or $b>0$.
 		- For $v=p$, let $a=p^i\alpha$ and $b=p^j\beta$ where $\alpha,\beta\in\Z_p^\times$. Put $r:=(-1)^{ij}a^jb^{-i}\in\Z_p^\times$. Then:
