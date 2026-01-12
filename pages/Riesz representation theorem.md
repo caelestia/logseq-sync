@@ -1,2 +1,4 @@
 - We discuss the Riesz–Markov–Kakutani representation theorem, which is too long to fit in the title.
-- The setup. Let $X$ be a locally compact Hausdorff space. Denote by $C_c(X)$ the complete normed vector space of compactly supported continous functions, endowed with $||\cdot\|_\infty$.
+- The setup. Let $X$ be a locally compact Hausdorff space. Denote by $C_c(X)$ the complete normed vector space of compactly supported continous functions, with $\|\cdot\|_\infty$.
+	- It has subspaces $C(K)$ where $K\subset X$ is compact.
+-
