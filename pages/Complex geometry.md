@@ -6,5 +6,5 @@
 	- Proof (inverse). Compute $\bar\partial f^{-1}=0$.
 - Corollary. Holomorphic + bijective implies biholomorphic.
 	-
-- Montel's theorem. = sequential compactness of bounded family.
+- Montel's theorem. = compactness of bounded family. If $U\subset C^n$ and $f_k$ uniformly bounded holomorphic, then there exists a c
 -
