@@ -37,6 +37,8 @@
 	- $$\frac{\tau x}{x}\overset{!}{=}\frac{z\cdot\sigma\tau z}{x^2y\sigma y}=\frac{c}{z\cdot\sigma z}=\frac{\tau z}{z}$$
 	- Since RHS is in $k[\sqrt{a}]$ and has norm $1$, a solution $x\in k[\sqrt{a}]$ exists by Hilbert's Satz 90. Put $y:=z/x$, easily see $y\in k[\sqrt{b}]$. QED.
 - Proof of H-M, $n=4$, for a number field $K$. Multiplying $f$ by a nonzero scalar we may write it as $x^2-by^2-cz^2+acw^2$. This represents $0$ iff $c$ is a quotient of a norm of $k[\sqrt{b}]/k$ by a norm of $k[\sqrt{a}]/k$. By the lemma, this holds iff the image of $c$ in $k[\sqrt{ab}]$ is a norm from $k[\sqrt{a},\sqrt{b}]$. This applies to $k=K$ and $k=K_v$ for every $v$. Now we can apply Hasse norm theorem. QED.
+- ### The $n\geq 5$ case
+-
 - ### Remark on the local scenario
 - Theorem. Over a non-archimedean local field $K$, any rank $4$ non-degenerate quadratic form represents all of $K^\times$, and so any rank $5$ non-degenerate quadratic form is universal.
 	- Proof sketch. Combine the following facts:
