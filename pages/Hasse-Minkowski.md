@@ -25,9 +25,9 @@
 	- Proof. $\langle a,b\rangle$ represents $r$ $\Longleftrightarrow$ $\langle a,b,-r\rangle$ is isotropic $\Longleftrightarrow$ $(ar,br)_p=1$. Using $(r,r)_p=(-1,r)_p$, we have $(ar,br)=(a,b)(r,a)(r,b)(r,r)=(a,b)(r,-ab)$, QED.
 	- The same holds for the place $v=\infty$.
 - Now let $f$ be $\langle a,b,c,d\rangle$. The goal is to construct a rational $r$ represented by both $\langle a,b\rangle$ and $\langle c,d\rangle$. That is, a solution to the equations $(r,-ab)_v=(a,b)_v$ and $(r,-cd)_v=(c,d)_v$ for all $v$.
-	- We prove the following stronger statement.
+	- We have the following stronger statement.
 - Theorem. Let $(a_i)_{i}$ be rational numbers indexed by a finite set $I$. Given $\varepsilon_{i,v}\in\{\pm 1\}$ for all places $v$, and suppose all but finitely $\varepsilon_{i,v}$ are $1$, and the product formula $\prod_{v}\varepsilon_{i,v}=1$. If the system of equations $(a_i,x)_v=\varepsilon_{i,v}$, $i\in I$, has a solution $x_v\in\mathbb Q_v^\times$ at every place $v$, then it has a global solution $x\in\mathbb Q^\times$.
-	- Proof.
+	- Proof. [Serre].
 - ### Number theoretic proof of $n=4$
 - Instead of reducing to the ternary case, there is a trick allowing us to apply the Hasse norm theorem.
 - Lemma. Let $k$ be a field, $\operatorname{char}k\neq 2$, $a,b\in k$. Then $c\in k^\times$ is a norm of $k[\sqrt{a},\sqrt{b}]/k[\sqrt{ab}]$ iff it's the product in $k$ of a norm from $k[\sqrt{a}]$ with a norm from $k[\sqrt{b}]$.
