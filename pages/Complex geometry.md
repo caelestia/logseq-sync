@@ -1,6 +1,6 @@
 - Cauchy's formula for smooth functions. Let $f:U\to C$ smooth, $U\subset C$ open and contains $\overline D$, $D=B(0,r)$. Then for all $\xi\in D$, we have
 	- $$f(\xi)=\frac{1}{2\pi i}\int_{\partial D}\frac{f(z)}{z-\xi}+\int_D\frac{\partial f}{\partial\bar z}\frac{dz\wedge d\bar z}{z-\xi}$$
-	- Proof. Clear if consider small disk around $\xi$.
+	- Proof. Check absolute integrability of $1/z$ (w.r.t. the Lebesgue measure) and take limit of small disk around $\xi$. QED
 	- POU?
 - Holomorphic implicit/inverse function theorem. Omitted.
 	- $\frac{\partial}{\partial\bar z_i}f^{-1}=$
