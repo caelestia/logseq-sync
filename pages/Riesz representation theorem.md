@@ -9,4 +9,5 @@
 	- In other words: $\mu$ is linear and for each compact subset $K$ there exists $M_K>0$ such that $|\mu(f)|\leq M_K\|f\|_\infty$ for all $f\in C(K)$.
 	- Composing with the universal map yields a continuous linear functional $\int_Xd\mu:C_c(X)\to\R$.
 - Remark. On [wikipedia](https://en.wikipedia.org/wiki/Riesz%E2%80%93Markov%E2%80%93Kakutani_representation_theorem), positive linear functionals on $C_c(X)$ are considered instead. These are positive Radon measures: For $K\subset X$, we pick a function $\varphi$ which is identically $1$ on $K$ with compact support, and put $M_K=\mu(\varphi)$.
+- ### Statement
 -
