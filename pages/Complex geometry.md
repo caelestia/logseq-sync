@@ -2,5 +2,5 @@
 	- $$f(\xi)=\frac{1}{2\pi i}\int_{\partial D}\frac{f(z)}{z-\xi}+\int_D\frac{\partial f}{\partial\bar z}\frac{dz\wedge d\bar z}{z-\xi}$$
 	- Proof. Clear if consider small disk around $\xi$.
 	- POU?
-- Implicit function theorem. Omitted.
+- Holomorphic implicit function theorem. Omitted.
 -
