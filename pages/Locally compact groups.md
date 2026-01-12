@@ -2,4 +2,4 @@
 - Proposition. Let $H\leq G$, where $G$ is Hausdorff and $H$ is locally compact. Then $H$ is closed.
 	- Proof. Consider the closure of $H$; this is also a subgroup of $G$. Apply the following lemma. QED
 - Lemma. If $H$ is locally compact dense subset of a Hausdorff space $X$, then $H$ is open.
-	- Proof.
+	- Proof. Take an open subset $U\cap H$
