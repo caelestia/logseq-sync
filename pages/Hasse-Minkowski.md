@@ -40,6 +40,7 @@
 - ### Remark on the local scenario
 - Theorem. Over a non-archimedean local field $K$, any rank $4$ non-degenerate quadratic form represents all of $K^\times$, and so any rank $5$ non-degenerate quadratic form is universal.
 	- Proof. Combine the following facts:
-	- non-degenerate + represents 0 implies universal. (elementary)
-	- taking norm group maps bijectively quadratic extensions of $K$ to index $2$ subgroups of $K^\times$. (LCFT)
-	- any quadratic extension $k[\sqrt{a}]$ embeds in every quaternion algebra over $k$. This is because $\operatorname{Br}(k)\xrightarrow{2\times}\operatorname{Br}(k[\sqrt{a}])$ and quaternion algebras are $2$-torsion, so splits over $k[\sqrt{a}]$; compare dimension we see
+	- Non-degenerate + represents 0 implies universal. (elementary)
+	- Taking norm group maps bijectively quadratic extensions of $K$ to index $2$ subgroups of $K^\times$. (LCFT)
+	- Any quadratic extension $k[\sqrt{a}\,]$ embeds in every quaternion algebra over $k$. This is because $\operatorname{Br}(k)\xrightarrow{2\times}\operatorname{Br}(k[\sqrt{a}\,])$ and quaternion algebras are $2$-torsion, so splits over $k[\sqrt{a}\,]$; compare dimension we see the embedding.
+-
