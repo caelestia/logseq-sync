@@ -1,2 +1,2 @@
 - We discuss the Riesz–Markov–Kakutani representation theorem, which is too long to fit in the title.
--
+- The setup. Let $X$ be a locally compact Hausdorff space, denote $C_c(X)$ the complete normspace of
