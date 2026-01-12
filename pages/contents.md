@@ -12,4 +12,4 @@
 - Groups
 	- [[Locally compact groups]]
 - Analysis
-	- [[Riesz representation]]
+	- [[Riesz representation theorem]]
