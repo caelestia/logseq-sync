@@ -6,4 +6,5 @@
 	- Proof (inverse). Compute $\bar\partial f^{-1}=0$.
 - Corollary. Holomorphic + bijective implies biholomorphic.
 	-
+- Montel's theorem. = sequential compactness of bounded family.
 -
