@@ -2,4 +2,4 @@
 - The setup. Let $X$ be a locally compact Hausdorff space. Denote by $C_c(X)$ the complete normed vector space of compactly supported continous functions, with $\|\cdot\|_\infty$.
 	- It has subspaces $C(K)$ where $K\subset X$ is compact.
 - We *would* like to define a (real) Radon measure as a linear functional on this space; however, this is too restrictive as not even the Lebesgue measure on $\R$ satisfies this.
-	- Counterexample:
+	-
