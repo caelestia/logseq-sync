@@ -41,4 +41,5 @@
 - It follows from local class field theory that, over a finite extension $K$ of $\mathbb Q_p$, any rank $4$ non-degenerate quadratic form represents $K^\times$, and so any rank $5$ non-degenerate quadratic form is universal.
 	- Combine the following facts:
 	- non-degenerate + represents 0 implies universal (elementary)
-	- the norm group of a quadratic extension of $K$ is a
+	- the norm group of a quadratic extension of $K$ is a subgroup of $K$ of index $2$ (LCFT)
+	-
