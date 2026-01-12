@@ -41,5 +41,5 @@
 - Theorem. over a finite extension $K$ of $\mathbb Q_p$, any rank $4$ non-degenerate quadratic form represents $K^\times$, and so any rank $5$ non-degenerate quadratic form is universal.
 	- Proof. Combine the following facts:
 	- non-degenerate + represents 0 implies universal. (elementary)
-	- taking norm groups maps bijectively quadratic extensions of $K$ to index $2$ subgroups of $K^\times$. (LCFT)
+	- taking norm groups maps bijectively quadratic extensions of $K$ to index $2$ subgroups of $K^\times$^2. (LCFT)
 	-
