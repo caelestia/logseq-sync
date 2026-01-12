@@ -3,5 +3,5 @@
 	- It has subspaces $C(K)$ where $K\subset X$ is compact.
 - We *would* like to define a (real) Radon measure as a linear functional on this space; however, this is too restrictive as not even the Lebesgue measure on $\R$ satisfies this.
 	- To fix this, we introduce a better *topology* on $C_c(X)$. It is, incidentally, not a normed space, only a locally compact topological vector space.
-- Definition. Put $\calK(X):=\varinjlim_K C(K)$, with the limit (=finest) topology.
-	- As a set, this is clearly same as $C_c(X)$. However the topology
+- Definition. Put $\mathrm K(X):=\varinjlim_K C(K)$, with the limit (=finest) topology.
+	- As a set, this is clearly same as $C_c(X)$. However the topology is finer unless $X$ is compact.
