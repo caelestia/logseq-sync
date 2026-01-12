@@ -1,2 +1,2 @@
 - Cauchy's formula for smooth functions. Let $f:U\to\C$, $U\subset\C$ open and contains $\overline D$, $D=B(0,r)$. Then for all $\xi\in D$, we have
-	- $$f(\xi)$$
+	- $$f(\xi)=\frac{1}{2\pi i}\int_{\partial D}\frac{f(z)}{z-\xi}+\int_D\frac{\partial f}{\partial\bar z}\frac{dz\wedge d\bar z}{z-\xi}$$
