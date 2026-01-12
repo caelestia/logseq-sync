@@ -38,8 +38,8 @@
 	- Since RHS is in $k[\sqrt{a}]$ and has norm $1$, a solution $x\in k[\sqrt{a}]$ exists by Hilbert's Satz 90. Put $y:=z/x$, easily see $y\in k[\sqrt{b}]$. QED.
 - Proof of H-M, $n=4$, for a number field $K$. Multiplying $f$ by a nonzero scalar we may write it as $x^2-by^2-cz^2+acw^2$. This represents $0$ iff $c$ is a quotient of a norm of $k[\sqrt{b}]/k$ by a norm of $k[\sqrt{a}]/k$. By the lemma, this holds iff the image of $c$ in $k[\sqrt{ab}]$ is a norm from $k[\sqrt{a},\sqrt{b}]$. This applies to $k=K$ and $k=K_v$ for every $v$. Now we can apply Hasse norm theorem. QED.
 - ### Remark on the local scenario
-- Theorem. Over a non$K$, any rank $4$ non-degenerate quadratic form represents $K^\times$, and so any rank $5$ non-degenerate quadratic form is universal.
+- Theorem. Over a non-archimedean local field $K$, any rank $4$ non-degenerate quadratic form represents all of $K^\times$, and so any rank $5$ non-degenerate quadratic form is universal.
 	- Proof. Combine the following facts:
 	- non-degenerate + represents 0 implies universal. (elementary)
-	- taking norm groups maps bijectively quadratic extensions of $K$ to index $2$ subgroups of $K^\times$. (LCFT)
+	- taking norm group maps bijectively quadratic extensions of $K$ to index $2$ subgroups of $K^\times$. (LCFT)
 	-
