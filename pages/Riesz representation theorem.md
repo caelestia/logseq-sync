@@ -7,5 +7,5 @@
 	- As a vector space, this is clearly same as $C_c(X)$. However the topology is finer unless $X$ is compact. A sequence $(f_n)_n$ converges to $0$ in $\mathrm K(X)$ iff $\|f_n\|_\infty\to0$ and they're eventually supported in the same $K$.
 - A Radon measure is a continuous linear functional $\mu:\mathrm K(X)\to\R$.
 	- In other words, $\mu$ is linear and there exists a constant $M_K$ for each compact subset $K$, such that $|\mu(f)|\leq M_K\|f\|_\infty$ for all $f\in C(K)$.
-- Remark. On [wikipedia](https://en.wikipedia.org/wiki/Riesz%E2%80%93Markov%E2%80%93Kakutani_representation_theorem), positive linear functionals on $C_c(X)$ are considered instead. These are equivalently positive Radon measures: For $K\subset X$, pick a function $\phi$ which is identically $1$ on $K$ with compact support.
+- Remark. On [wikipedia](https://en.wikipedia.org/wiki/Riesz%E2%80%93Markov%E2%80%93Kakutani_representation_theorem), positive linear functionals on $C_c(X)$ are considered instead. These are equivalently positive Radon measures: For $K\subset X$, we pick a function $\varphi$ which is identically $1$ on $K$ with compact support, and put $M_K=\mu(\varphi)$.
 -
