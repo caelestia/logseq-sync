@@ -42,4 +42,4 @@
 	- Proof. Combine the following facts:
 	- non-degenerate + represents 0 implies universal. (elementary)
 	- taking norm group maps bijectively quadratic extensions of $K$ to index $2$ subgroups of $K^\times$. (LCFT)
-	- any quaternion algebra over $k$ contains a copy of (cohomology)
+	- any quadratic extension $k[\sqrt{a}]$ embeds in every quaternion algebra over $k$ (Brau)
