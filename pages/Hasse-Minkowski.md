@@ -42,4 +42,4 @@
 	- Proof. Combine the following facts:
 	- non-degenerate + represents 0 implies universal. (elementary)
 	- taking norm group maps bijectively quadratic extensions of $K$ to index $2$ subgroups of $K^\times$. (LCFT)
-	-
+	- (cohomology)
