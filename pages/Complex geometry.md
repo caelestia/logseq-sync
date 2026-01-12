@@ -3,4 +3,5 @@
 	- Proof. Clear if consider small disk around $\xi$.
 	- POU?
 - Holomorphic implicit function theorem. Omitted.
+	- $\frac{\partial}{\}$
 -
