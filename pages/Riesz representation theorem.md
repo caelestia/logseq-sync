@@ -6,4 +6,4 @@
 - Definition. Put $\mathrm K(X):=\varinjlim_K C(K)$, with the limit (=finest) topology.
 	- As a set, this is clearly same as $C_c(X)$. However the topology is finer unless $X$ is compact. A sequence $(f_n)_n$ converges to $0$ in $\mathrm K(X)$ iff $\|f_n\|_\infty\to0$ and they're eventually supported in the same $K$.
 - A Radon measure is a continuous linear functional $\mu:\mathrm K(X)\to\R$.
-	- In other words, $\mu$
+	- In other words, there exists a constant $M_K$ for every compact subset $K$, such that $|\mu(f)|\leq M_K\|f\|_\infty$
