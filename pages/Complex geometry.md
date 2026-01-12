@@ -9,4 +9,5 @@
 - Convergence of holomorphic functions. Uniform convergence on compact subsets implies convergence to holomorphic function.
 - Montel's theorem. = compactness of bounded family. If $U\subset C^n$ and $f_k$ uniformly bounded holomorphic, then there exists a subsequence converging to a holomorphic function.
 - ### Complex manifold
-- A complex manifold is $(X,(U_\alpha,\phi_\alpha)_\alpha)$, $X$ is a Hausdorff top space, $U_\alpha$ countable cover, $\phi_\alpha:U_\alpha\to $
+- A complex manifold of dimension $n$ is $(X,(U_\alpha,\phi_\alpha)_\alpha)$, $X$ is a Hausdorff top space, $U_\alpha$ countable cover, $\phi_\alpha:U_\alpha\to C^n$ are homeomorphisms, and transition functions $\phi_\alpha\circ\phi_\beta^{-1}$ are holomorphic.
+-
