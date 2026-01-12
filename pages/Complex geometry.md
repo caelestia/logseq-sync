@@ -3,5 +3,5 @@
 	- Proof. Check absolute integrability of $1/z$ (w.r.t. the Lebesgue measure) and take limit of small disk around $\xi$. QED
 	- POU?
 - Holomorphic implicit/inverse function theorem. Omitted.
-	-
+	- $\frac{\partial}{\partial\bar z_i}f^{-1}=$
 -
