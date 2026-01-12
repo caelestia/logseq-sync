@@ -6,6 +6,6 @@
 	- Proof (inverse). Compute $\bar\partial f^{-1}=0$.
 - Corollary. Holomorphic + bijective implies biholomorphic.
 	- Proof.
-- Convergence of homol
+- Convergence of holomorphic functions. Uniform convergence on compact subsets implies convergence to holomorphic function.
 - Montel's theorem. = compactness of bounded family. If $U\subset C^n$ and $f_k$ uniformly bounded holomorphic, then there exists a subsequence converging to a holomorphic function.
 -
