@@ -1,1 +1,2 @@
-- Cauchy's formula for smooth functions.
+- Cauchy's formula for smooth functions. Let $f:U\to\C$, $U\subset\C$ open and contains $\overline D$, $D=B(0,r)$. Then for all $\xi\in D$, we have
+	- $$f(\xi)$$
