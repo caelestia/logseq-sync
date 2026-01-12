@@ -1,4 +1,4 @@
 - We discuss the Riesz–Markov–Kakutani representation theorem, which is too long to fit in the title.
 - The setup. Let $X$ be a locally compact Hausdorff space. Denote by $C_c(X)$ the complete normed vector space of compactly supported continous functions, with $\|\cdot\|_\infty$.
 	- It has subspaces $C(K)$ where $K\subset X$ is compact.
-- We would like to define a Radon measure as a
+- We *would* like to define a Radon measure as a linear func
