@@ -4,5 +4,5 @@
 	- POU?
 - Holomorphic implicit/inverse function theorem. Omitted.
 	- Proof (inverse). Compute $\bar\partial f^{-1}=0$.
-	-
+	- Corollary. Holomorphic + bijective implies biholomorphic.
 -
