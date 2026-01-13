@@ -4,4 +4,4 @@
 - Proof. Around every $x\in K$, pick a precompact open neighborhood $U_x$ whose closure is contained in $U$. Let a finite collection of these cover $K$, denote their union by $V$. It is open and precompact by
 - $$\overline{A\cup B}=\overline A\cup\overline B,\quad\forall A,B\subset X.$$
 - QED
-- It then follows from Tietze extension thm that
+- It then follows from Tietze extension theorem a function $\varphi$ which is $1$ on $K$ and $0$ outside of $L$
