@@ -1,2 +1,1 @@
--
--
+- Goal: Let $X$ be a LCH space
