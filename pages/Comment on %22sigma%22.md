@@ -11,3 +11,4 @@
 		- Monotonicity. $x\leq y\implies\mu(x)\leq\mu(y)$.
 		- Continuity. If $D\subset A$ is a directed subset, then $\bigvee D$ exists, and $\mu(\bigvee D)=\sup_{x\in D}\mu(x)$.
 - [link](https://www.researchgate.net/profile/Abbas-Edalat/publication/2394217_An_Extension_Result_for_Continuous_Valuations/links/5412b50d0cf2bb7347dafc5e/An-Extension-Result-for-Continuous-Valuations.pdf)
+-
