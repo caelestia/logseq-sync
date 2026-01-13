@@ -19,7 +19,7 @@
 	- (1) $\mu(U)=\sup\{\Lambda(f):f\in C_c(X),0\leq f\leq 1,\operatorname{supp}(f)\subset U\}$ for all open $U$.
 - ### Proof outline
 - We must prove that $\Lambda\mapsto\mu$ is well-defined. For this, let $\mu^*$ be defined by (1).
-	- Lemma 1. $\mu^*$ is an outer measure on $X$.
+	- Lemma 1. $\mu^*$ is an outer measure on the set of open sets.
 	- Lemma 2. All open sets are $\mu^*$-measurable.
 	- It follows from Caratheodory's theorem that $\mu^*$ defines a Borel measure satisfying (1).
 - (i) follows from (1) and the definition of Radon measure.
