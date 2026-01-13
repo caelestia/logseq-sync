@@ -1,1 +1,1 @@
-- Goal: Let $X$ be a LCH space
+- Goal: Let $X$ be a LCH space; in particular it is normal. $K\subset U$
