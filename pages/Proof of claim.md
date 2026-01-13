@@ -1,4 +1,4 @@
-- Let $X$ be a LCH space; in particular it is normal.
+- Let $X$ be a LCH space.
 - Suppose $K\subset U$ where $K$ is compact and $U$ is open.
 - Then there exists a compact neighborhood $L$ of $K$ contained in $U$.
 - Proof. Around every $x\in K$, pick a precompact open neighborhood $U_x$ whose closure is contained in $U$. Let a finite collection of these cover $K$, denote their union by $V$. It is open and precompact by
