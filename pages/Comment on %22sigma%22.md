@@ -2,4 +2,5 @@
 - Elementary fact:
 	- Given $(a_i)_{i\in I}$, $a_i\in\R\setminus\{0\}$, if $I$ is uncountable, then $\sum_ia_i=\infty$.
 - However, because we work in $[0,\infty]$ anyway, this does not itself prevent a higher additivity.
-- If we think about definition of
+- If we think about the essence definition of a measure, "continuous valuation on a lattice":
+	- Let $A$ be a
