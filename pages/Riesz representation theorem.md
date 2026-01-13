@@ -9,6 +9,6 @@
 - A Radon measure is a *continuous* linear functional $\mu:\mathrm K(X)\to\R$.
 	- In other words: $\mu$ is linear and for each compact subset $K$ there exists $M_K>0$ such that $|\mu(f)|\leq M_K\|f\|_\infty$ for all $f\in C(K)$.
 	- Composing with the universal map yields a linear functional $\int_Xd\mu:C_c(X)\to\R$.
-- Remark. On [wikipedia](https://en.wikipedia.org/wiki/Riesz%E2%80%93Markov%E2%80%93Kakutani_representation_theorem), positive linear functionals on $C_c(X)$ are considered instead. These are positive Radon measures: For $K\subset X$, we pick a function $\varphi$ which is identically $1$ on $K$ with compact support, and put $M_K=\mu(\varphi)$.
+- Remark. On [wikipedia](https://en.wikipedia.org/wiki/Riesz%E2%80%93Markov%E2%80%93Kakutani_representation_theorem), positive linear functionals on $C_c(X)$ are considered instead. These are precisely the positive Radon measures: For $K\subset X$, we pick a function $\varphi$ which is identically $1$ on $K$ with compact support, and put $M_K=\mu(\varphi)$.
 - ### Statement
-	- Theorem. There is a bijective correspondence between positive linear functionals
+	- Theorem. There is a bijective correspondence between positive linear functionals ("positive Radon measures") with
