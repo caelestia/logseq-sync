@@ -8,5 +8,5 @@
 	- The "measure" is a function $A\to E$, subject to:
 		- Modularity. $\mu(x)+\mu(y)=\mu(x\vee y)+\mu(x\wedge y)$.
 		- \*Strictness. $A$ is bounded below and $\mu(\bot)=0$.
-		- \*Monotonicity. $x\leq y\implies\mu(x)\leq\mu(y)$.
-		- Continuity.
+		- Monotonicity. $x\leq y\implies\mu(x)\leq\mu(y)$.
+		- Continuity. If
