@@ -11,10 +11,10 @@
 	- Composing with the universal map yields a linear functional $\int_Xd\mu:C_c(X)\to\R$.
 - Remark. On [wikipedia](https://en.wikipedia.org/wiki/Riesz%E2%80%93Markov%E2%80%93Kakutani_representation_theorem), positive linear functionals on $C_c(X)$ are considered instead. These are precisely the positive Radon measures: For $K\subset X$, we pick a function $\varphi$ which is identically $1$ on $K$ with compact support, and put $M_K=\mu(\varphi)$.
 - ### Statement
-	- Theorem. There is a bijective correspondence between positive linear functionals (=positive Radon measures) and Borel measures $\mu$ satisfying (i), (ii) and (iii) below.
-		- (i) Finite on compact sets. $\mu(K)<\infty$ for compact $K$.
-		- (ii) Outer regularity. $\mu(E)=\inf\{\mu(U):U\supset E,\text{ open}\}$ for all Borel set $E$.
-		- (iii) Inner regurity on *open* sets. $\mu(U)=\sup\{\mu(K):K\subset U,\text{ compact}\}$ for open $U$.
-	- The bijection maps the functional $\Lambda:C_c(X)\to\R$ to the unique Borel measure $\mu$ satisfying
-		- $\mu(U)=\sup\{\Lambda(f):f\in C_c(X),0\leq f\leq 1,\operatorname{supp}(f)\subset U\}$ for all open $U$.
-	-
+- Theorem. There is a bijective correspondence between positive linear functionals (=positive Radon measures) and Borel measures $\mu$ satisfying (i), (ii) and (iii) below.
+	- (i) Finite on compact sets. $\mu(K)<\infty$ for compact $K$.
+	- (ii) Outer regularity. $\mu(E)=\inf\{\mu(U):U\supset E,\text{ open}\}$ for all Borel set $E$.
+	- (iii) Inner regurity on *open* sets. $\mu(U)=\sup\{\mu(K):K\subset U,\text{ compact}\}$ for open $U$.
+- The bijection maps the functional $\Lambda:C_c(X)\to\R$ to the unique Borel measure $\mu$ satisfying
+	- $\mu(U)=\sup\{\Lambda(f):f\in C_c(X),0\leq f\leq 1,\operatorname{supp}(f)\subset U\}$ for all open $U$.
+-
