@@ -18,4 +18,4 @@
 - The bijection maps the functional $\Lambda:C_c(X)\to\R$ to the unique Borel measure $\mu$ satisfying
 	- (1) $\mu(U)=\sup\{\Lambda(f):f\in C_c(X),0\leq f\leq 1,\operatorname{supp}(f)\subset U\}$ for all open $U$.
 - ### Proof outline
--
+- We must prove that
