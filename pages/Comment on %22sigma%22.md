@@ -9,4 +9,4 @@
 		- Modularity. $\mu(x)+\mu(y)=\mu(x\vee y)+\mu(x\wedge y)$.
 		- \*Strictness. $A$ is bounded below and $\mu(\bot)=0$.
 		- Monotonicity. $x\leq y\implies\mu(x)\leq\mu(y)$.
-		- Continuity. If $D\subset A$ is a directed subset, then $\bigvee D$ exists, and $\mu(\bigvee D)=\$.
+		- Continuity. If $D\subset A$ is a directed subset, then $\bigvee D$ exists, and $\mu(\bigvee D)=\sup_{x\in D}\mu(x)$.
