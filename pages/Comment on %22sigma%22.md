@@ -1,1 +1,2 @@
-- Why "sigma
+- Why the "$\sigma$" in the definition of $\sigma$-algebra and countable additivity?
+-
