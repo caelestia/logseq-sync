@@ -15,4 +15,4 @@
 		- (i) Finite on compact sets. $\mu(K)<\infty$ for compact $K$.
 		- (ii) Outer regularity. $\mu(E)=\inf\{\mu(U):U\supset E,\text{ open}\}$ for all Borel set $E$.
 		- (iii) Inner regurity on *open* sets. $\mu(U)=\sup\{\mu(K):K\subset U,\text{ compact}\}$ for open $U$.
-	- The bijection
+	- The bijection sends the functional $\Lambda:C_c(X)\to\R$ to
