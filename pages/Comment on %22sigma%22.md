@@ -1,2 +1,2 @@
-- Why the "$\sigma$" in the definition of $\sigma$-algebra and countable additivity?
--
+- Why the countability in the definition of $\sigma$-algebra and countable additivity?
+- Elementary fact:
