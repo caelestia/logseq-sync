@@ -4,4 +4,4 @@
 - Proof. Around every $x\in K$, pick a precompact open neighborhood $U_x$ whose closure is contained in $U$. Let a finite collection of these cover $K$, denote their union by $V$. It is open and precompact by
 - $$\overline{A\cup B}=\overline A\cup\overline B,\quad\forall A,B\subset X.$$
 - QED
-- Then by Tietze extension theorem we obtain a function $0\leq\varphi\leq1$ which is $1$ on $K$ and is $0$ outside of $L$, so is compactly supported.
+- Then by Tietze extension theorem we obtain a function $0\leq\varphi\leq1$ which is $1$ on $K$ and is $0$ outside of $L$, and so is compactly supported.
