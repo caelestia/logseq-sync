@@ -21,6 +21,6 @@
 - We must prove that $\Lambda\mapsto\mu$ is well-defined. For this, let $\mu^*$ be defined by (1).
 	- Lemma 1. $\mu^*$ is an outer measure on the set of open sets.
 	- Lemma 2. All open sets are $\mu^*$-measurable.
-	- It follows from Caratheodory's theorem that $\mu^*$ defines a Borel measure satisfying (1).
+	- It follows from Caratheodory's theorem that $\mu^*$ defines a Borel measure satisfying (1) and (ii).
 - (i) follows from (1) and the definition of Radon measure.
 -
