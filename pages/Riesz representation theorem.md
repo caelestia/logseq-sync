@@ -23,4 +23,5 @@
 	- Lemma 2. All open sets are $\mu^*$-measurable.
 	- It follows from Caratheodory's theorem that $\mu^*$ defines a Borel measure satisfying (1) and (ii).
 - (i) follows from (1) and the definition of Radon measure.
-- Proof of (iii).
+- Proof of (iii). Fix $\varepsilon>0$.
+-
