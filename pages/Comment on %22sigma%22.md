@@ -5,4 +5,6 @@
 - If we think about the essence definition of a measure, "continuous valuation on a lattice":
 	- Let $(A,\wedge,\vee)$ be a distributive lattice.
 	- Let $(E,+)$ be a totally ordered commutative monoid. Usually $E=[0,\infty]$.
-	-
+	- The "measure" is a function $A\to E$, subject to:
+		- Modularity. $\mu(x)+\mu(y)=\mu(x\vee y)+\mu(x\wedge y)$ for all $x,y\in A$.
+		-
