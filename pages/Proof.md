@@ -1,3 +1,4 @@
 - Let $X$ be a LCH space; in particular it is normal.
-- $K\subset U$ where $K$ is compact and $U$ is open. Then there exists a compact neighborhood $L$ of $K$ contained in $U$.
+- Suppose $K\subset U$ where $K$ is compact and $U$ is open.
+- Then there exists a compact neighborhood $L$ of $K$ contained in $U$.
 - Proof.
