@@ -28,5 +28,6 @@
 - (i) follows from (1) and the definition of Radon measure.
 - Proof of (iii).
 	- Fix $\varepsilon>0$. Take $f\prec U$ such that $\Lambda(f)\geq\mu(U)-\varepsilon$ and put $K:=\operatorname{supp}(f)$.
-	- For any open set $V\supset K$, pick $g\prec V$ such that $g(K)=1$.
+	- For any open set $V\supset K$, pick $g\prec V$ such that $g(K)={1}$. Then $g-f\geq 0$, and
+	- $$\Lambda(g)\geq $$
 -
