@@ -16,5 +16,5 @@
 	- (ii) Outer regularity. $\mu(E)=\inf\{\mu(U):U\supset E,\text{ open}\}$ for all Borel set $E$.
 	- (iii) Inner regurity on *open* sets. $\mu(U)=\sup\{\mu(K):K\subset U,\text{ compact}\}$ for open $U$.
 - The bijection maps the functional $\Lambda:C_c(X)\to\R$ to the unique Borel measure $\mu$ satisfying
-	- $\mu(U)=\sup\{\Lambda(f):f\in C_c(X),0\leq f\leq 1,\operatorname{supp}(f)\subset U\}$ for all open $U$.
+	- (1) $\mu(U)=\sup\{\Lambda(f):f\in C_c(X),0\leq f\leq 1,\operatorname{supp}(f)\subset U\}$ for all open $U$.
 -
