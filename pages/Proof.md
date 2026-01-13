@@ -1,1 +1,2 @@
-- Goal: Let $X$ be a LCH space; in particular it is normal. $K\subset U$
+- Let $X$ be a LCH space; in particular it is normal.
+- $K\subset U$ where $K$ is compact and $U$ is open. We want ot
