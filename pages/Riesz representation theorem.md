@@ -11,7 +11,7 @@
 	- Composing with the universal map yields a linear functional $\int_Xd\mu:C_c(X)\to\R$.
 - Remark. On [wikipedia](https://en.wikipedia.org/wiki/Riesz%E2%80%93Markov%E2%80%93Kakutani_representation_theorem), positive linear functionals on $C_c(X)$ are considered instead. These are precisely the positive Radon measures: For $K\subset X$, we pick a function $\varphi$ which is identically $1$ on $K$ with compact support, and put $M_K=\mu(\varphi)$.
 - Definition. Write $f\prec U$ for $f\in C_c(X),\,0\leq f\leq 1,\,\operatorname{supp}(f)\subset U$.
-	- By Tietze extension theorem,
+	- By Tietze extension theorem, if $A\subset U$, $A$ is closed and $U$ is open, then $\exists f\proc $
 - ### Statement
 - Theorem. There is a bijective correspondence between positive linear functionals (=positive Radon measures) and Borel measures $\mu$ satisfying (i), (ii) and (iii) below.
 	- (i) Finite on compact sets. $\mu(K)<\infty$ for compact $K$.
