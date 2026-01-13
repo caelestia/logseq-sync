@@ -6,6 +6,7 @@
 	- [[NT Misc]]
 	- [[Hasse-Minkowski]]
 - [[First Course]]
+	- [[Comment on "sigma"]]
 - Imperial
 	- [[Complex geometry]]
 	-
@@ -13,3 +14,5 @@
 	- [[Locally compact groups]]
 - Analysis
 	- [[Riesz representation theorem]]
+	-
+-
