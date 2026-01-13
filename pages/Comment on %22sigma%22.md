@@ -1,2 +1,3 @@
 - Why the countability in the definition of $\sigma$-algebra and countable additivity?
 - Elementary fact:
+	- If $\{a_i\}_{i\in I}$ is an uncountable
