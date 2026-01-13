@@ -12,4 +12,5 @@
 - Remark. On [wikipedia](https://en.wikipedia.org/wiki/Riesz%E2%80%93Markov%E2%80%93Kakutani_representation_theorem), positive linear functionals on $C_c(X)$ are considered instead. These are precisely the positive Radon measures: For $K\subset X$, we pick a function $\varphi$ which is identically $1$ on $K$ with compact support, and put $M_K=\mu(\varphi)$.
 - ### Statement
 	- Theorem. There is a bijective correspondence between positive linear functionals ("positive Radon measures") and Borel measures satisfying (i), (ii) and (iii) below.
-		- (i)
+		- (i) Finite on compact sets. $\mu(K)<\infty$ for compact $K$.
+		- (ii) Outer regularity. $\mu(E)=\inf\{\mu(U):U\supset E\}
