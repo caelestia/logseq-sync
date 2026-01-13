@@ -13,4 +13,6 @@
 - ### Statement
 	- Theorem. There is a bijective correspondence between positive linear functionals ("positive Radon measures") and Borel measures satisfying (i), (ii) and (iii) below.
 		- (i) Finite on compact sets. $\mu(K)<\infty$ for compact $K$.
-		- (ii) Outer regularity. $\mu(E)=\inf\{\mu(U):U\supset E\}
+		- (ii) Outer regularity. $\mu(E)=\inf\{\mu(U):U\supset E,\text{ open}\}$ for all Borel set $E$.
+		- (iii) Inner regurity on *open* sets. $\mu(U)=\sup\{\mu(K):K\}
+-
