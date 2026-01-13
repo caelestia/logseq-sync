@@ -1,3 +1,4 @@
 - Why the countability in the definition of $\sigma$-algebra and countable additivity?
 - Elementary fact:
-	- If $\{a_i\}_{i\in I}$ is an uncountable
+	- If $(a_i)_{i\in I}$ is an uncountable, $a_i\in\R\setminus\{0\}$, then $\sum_ia_i=\infty$.
+- Hence
