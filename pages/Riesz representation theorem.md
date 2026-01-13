@@ -19,5 +19,6 @@
 	- (1) $\mu(U)=\sup\{\Lambda(f):f\in C_c(X),0\leq f\leq 1,\operatorname{supp}(f)\subset U\}$ for all open $U$.
 - ### Proof outline
 - We must prove that $\Lambda\mapsto\mu$ is well-defined. For this, let $\mu^*$ be defined by (1).
-- Lemma 1. $\mu^*$ is an outer measure on $X$.
-- Lemma 2.
+	- Lemma 1. $\mu^*$ is an outer measure on $X$.
+	- Lemma 2. All open sets are $\mu^*$-measurable.
+	- It follows from Caratheodory's theorem that $\mu$
