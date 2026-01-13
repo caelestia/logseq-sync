@@ -22,4 +22,5 @@
 	- Lemma 1. $\mu^*$ is an outer measure on $X$.
 	- Lemma 2. All open sets are $\mu^*$-measurable.
 	- It follows from Caratheodory's theorem that $\mu^*$ defines a Borel measure satisfying (1).
-- (i)
+- (i) follows easily from (1).
+-
