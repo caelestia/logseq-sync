@@ -18,4 +18,5 @@
 - If $M$ is a complex manifold, it induces an almost complex structure by $J_x:T_x(M)\to T_x(M)$, $[\gamma]\mapsto[\varphi^{-1}(i\varphi\circ\gamma)]$.
 - Denote the complexified tangent space at $x$ by $T_{x,\C}(M)=T_x(M)\otimes_\R\C$. It has $\C$-basis $\{\frac{\partial}{\partial z_i}, \frac{\partial}{\partial\bar z_i}\}_i$.
 	- Define $T^{1,0}_x(M), T^{0,1}_x(M)$ as $\pm i$-eigenspaces of $J_x$.
-- Jacobian. Let $f:X\to Y$ holomorphic, then the Jacobian $J_f$ at $x$ is $df_\C:T^{1,0}_x(X)\to
+- Jacobian. Let $f:X\to Y$ holomorphic, then the Jacobian $J_f$ at $x$ is $df_\C:T^{1,0}_xX\to T^{1,0}_{f(x)}Y$.
+-
