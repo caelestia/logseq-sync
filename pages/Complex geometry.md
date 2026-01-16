@@ -13,4 +13,4 @@
 -
 - Maximum principle. $U\subset C^n$ open, $f:U\to C$ holomorphic. If $|f|$ attains a maximum, then $f$ is constant.
 - ### Almost complex structure
-- Tangent space
+- Let $M$ be a real/complex manifold. The real tangent space $T_x(M)$ at $x$ is the set of equivalence class of curves $(-\varepsilon,\varepsilon)\to M$
