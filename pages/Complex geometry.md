@@ -12,6 +12,7 @@
 - A complex manifold of dimension $n$ is $(X,(U_\alpha,\phi_\alpha)_\alpha)$, $X$ is a Hausdorff top space, $U_\alpha$ countable cover, $\phi_\alpha:U_\alpha\to C^n$ are homeomorphisms, and transition functions $\phi_\alpha\circ\phi_\beta^{-1}$ are holomorphic.
 -
 - Maximum principle. $U\subset C^n$ open, $f:U\to C$ holomorphic. If $|f|$ attains a maximum, then $f$ is constant.
+	- Proof. Let $f=u+iv$
 - ### Almost complex structure
-- Let $M$ be a real/complex manifold. The real tangent space $T_x(M)$ at $x$ is the set of equivalence classes of curves $\gamma:(-\varepsilon,\varepsilon)\to M$, $\varepsilon>0$ satisfying $\gamma(0)=x$, where $\gamma\sim\delta$ iff $\left.\frac{d}{dt}\right|_{t=0}(\varphi\circ\gamma)(t)=\left.\frac{d}{dt}\right|_{t=0}(\varphi\circ\delta)(t)$ for some chart $(U,\varphi)$ around $x$.
+- Let $M$ be a real/complex manifold. The real tangent space $T_x(M)$ at $x$ is the set of equivalence classes of curves $\gamma:(-\varepsilon,\varepsilon)\to M$, $\varepsilon>0$ satisfying $\gamma(0)=x$. Let $\gamma\sim\delta$ iff $\left.\frac{d}{dt}\right|_{t=0}(\varphi\circ\gamma)(t)=\left.\frac{d}{dt}\right|_{t=0}(\varphi\circ\delta)(t)$ for some chart $(U,\varphi)$ around $x$.
 -
