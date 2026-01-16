@@ -19,4 +19,5 @@
 - Denote the complexified tangent space at $x$ by $T_{x,\C}(M)=T_x(M)\otimes_\R\C$. It has $\C$-basis $\{\frac{\partial}{\partial z_i}, \frac{\partial}{\partial\bar z_i}\}_i$.
 	- Define $T^{1,0}_x(M), T^{0,1}_x(M)$ as $\pm i$-eigenspaces of $J_x$.
 - Jacobian. Let $f:X\to Y$ holomorphic, then the Jacobian $J_f$ at $x$ is the $\C$-linear component $df_\C:T^{1,0}_xX\to T^{1,0}_{f(x)}Y$, written in the basis $\{\frac{\partial}{\partial z_i}\}_i$.
-- Submersion and Immersion. If $r=\dim Y\leq X$ (resp. $r=\dim X\leq Y$) and $df_\C$ has max rank $r$.
+- Submersion and Immersion. If $r=\dim Y\leq X$ (resp. $r=\dim X\leq Y$) and $J_f$ has max rank $r$ at every point $x\in X$.
+-
