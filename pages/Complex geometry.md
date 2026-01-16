@@ -14,4 +14,5 @@
 - Maximum principle. $U\subset C^n$ open, $f:U\to C$ holomorphic. If $|f|$ attains a maximum, then $f$ is constant.
 	- Proof. Let $f=u+iv$. $|f|$ is constant, WLOG let $1=|f|^2=u^2+v^2$. Take derivatives and apply C-R equations. QED
 - ### Almost complex structure
-- Let $M$ be a real/complex manifold. The real tangent space $T_x(M)$ at $x$ is the set of equivalence classes of curves $\gamma:(-\varepsilon,\varepsilon)\to M$, $\varepsilon>0$ satisfying $\gamma(0)=x$. Let $\gamma\sim\delta$ iff $\left.\frac{d}{dt}\right|_{t=0}(\varphi\circ\gamma)(t)=\left.\frac{d}{dt}\right|_{t=0}(\varphi\circ\delta)(t)$ for some chart $(U,\varphi)$ around $x$.$IfM$ is a complex manifold
+- Let $M$ be a real/complex manifold. The real tangent space $T_x(M)$ at $x$ is the set of equivalence classes of curves $\gamma:(-\varepsilon,\varepsilon)\to M$, $\varepsilon>0$ satisfying $\gamma(0)=x$. Let $\gamma\sim\delta$ iff $\left.\frac{d}{dt}\right|_{t=0}(\varphi\circ\gamma)(t)=\left.\frac{d}{dt}\right|_{t=0}(\varphi\circ\delta)(t)$ for some chart $(U,\varphi)$ around $x$.
+- If $M$ is a complex manifold, it induces an almost complex structure by $J_x:T_x(M)\to T_x(M)$, $[\gamma]\mapsto[\varphi^{-1}(i\varphi)]
