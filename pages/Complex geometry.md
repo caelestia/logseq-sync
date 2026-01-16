@@ -12,3 +12,4 @@
 - A complex manifold of dimension $n$ is $(X,(U_\alpha,\phi_\alpha)_\alpha)$, $X$ is a Hausdorff top space, $U_\alpha$ countable cover, $\phi_\alpha:U_\alpha\to C^n$ are homeomorphisms, and transition functions $\phi_\alpha\circ\phi_\beta^{-1}$ are holomorphic.
 -
 - Maximum principle. $U\subset C^n$ open, $f:U\to C$ holomorphic. If $|f|$ attains a maximum, then $f$ is constant.
+-
