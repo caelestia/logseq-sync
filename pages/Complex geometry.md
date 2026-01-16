@@ -16,5 +16,5 @@
 - ### Almost complex structure
 - Let $M$ be a real/complex manifold. The real tangent space $T_x(M)$ at $x$ is the set of equivalence classes of curves $\gamma:(-\varepsilon,\varepsilon)\to M$, $\varepsilon>0$ satisfying $\gamma(0)=x$. Let $\gamma\sim\delta$ iff $\left.\frac{d}{dt}\right|_{t=0}(\varphi\circ\gamma)(t)=\left.\frac{d}{dt}\right|_{t=0}(\varphi\circ\delta)(t)$ for some chart $(U,\varphi)$ around $x$.
 - If $M$ is a complex manifold, it induces an almost complex structure by $J_x:T_x(M)\to T_x(M)$, $[\gamma]\mapsto[\varphi^{-1}(i\varphi\circ\gamma)]$.
-- Denote the  complexified tangent space at $x$ by $T_{x,C}(M)$. It has $C$-basis $\frac{\partial}{\partial z_i}, \frac{\partial}{\partial\bar z_i}
+- Denote the complexified tangent space at $x$ by $T_{x,C}(M)=$. It has $C$-basis $\{\frac{\partial}{\partial z_i}, \frac{\partial}{\partial\bar z_i}\}_i$.
 -
