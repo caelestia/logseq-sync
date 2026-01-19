@@ -34,4 +34,6 @@
 	- By outer regularity (ii), $\mu(K)\geq\mu(U)-\varepsilon$. QED
 - The other direction $\mu\mapsto\Lambda$ is easily well-defined; this only uses (i).
 - If $\Lambda=\int_Xd\mu$, then $\Lambda\mapsto\mu$. This clearly follows from (iii) and (1).
-- It remains to prove if $\Lambda\mapsto\mu$, then $\Lambda(f)=\int_Xf\,d\mu$ for all $f\in C_c(X)$.
+- It remains to prove: if $\Lambda\mapsto\mu$, then $\Lambda(f)=\int_Xf\,d\mu$ for all $f\in C_c(X)$.
+	- WLOG assume $\operatorname{im}(f)\subset[0,1]$.
+	-
