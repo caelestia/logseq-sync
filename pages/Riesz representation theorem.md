@@ -36,4 +36,5 @@
 - If $\Lambda=\int_Xd\mu$, then $\Lambda\mapsto\mu$. This clearly follows from (iii) and (1).
 - It remains to prove: if $\Lambda\mapsto\mu$, then $\Lambda(f)=\int_Xf\,d\mu$ for all $f\in C_c(X)$.
 	- WLOG assume $\operatorname{im}(f)\subset[0,1]$.
-	- The key idea is if $\chi_K\leq f\leq\chi_L$ for compact sets $K,L$, then $\Lamda(f)\in[\mu(K),\mu(L)]$.
+	- The key idea is if $\chi_K\leq f\leq\chi_L$ for compact sets $K,L$, then $\Lambda(f)\in[\mu(K),\mu(L)]$.
+-
