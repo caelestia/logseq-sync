@@ -21,5 +21,5 @@
 - Jacobian. Let $f:X\to Y$ holomorphic, then the Jacobian $J_f$ at $x$ is the $\C$-linear component $df_\C:T^{1,0}_xX\to T^{1,0}_{f(x)}Y$, written in the bases $\{\frac{\partial}{\partial z_i}\}_i$.
 - Submersion and Immersion. If $r=\dim Y\leq X$ (resp. $r=\dim X\leq Y$) and $J_f$ has max rank $r$ at every point $x\in X$.
 - Closed submanifold $Y\subset X$ of codimension $k$. If around each $x$ there is an open nhood $U$ and a submersion $f:U\to\C^k$ such that $Y\cap U=f^{-1}(0)$.
-	- Example. Complete intersection in $\mathbb{P}^n$. If $(F_i)_{i=1}^k$ homogeneous polynomials in $n+1$ variables, and $\left(\frac{\partial F_i}{\partial z_j}\right)_{i,j}$ has maximal rank $k$ on $\{x\in\C^{n+1}:F_1=\cdots=F_k=0\}$, then the common zero locus defines a closed submanifold of codimension $k$ of $\mathbb{P}^n$.
+	- Example. Complete intersection in $\mathbb{P}^n$. Let $(F_i)_{i=1}^k$ homogeneous polynomials in $n+1$ variables, $k\leq n$. If $\left(\frac{\partial F_i}{\partial z_j}\right)_{i,j}$ has maximal rank $k$ on $\{x\in\C^{n+1}:F_1=\cdots=F_k=0\}$, then the common zero locus defines a closed submanifold of codimension $k$ of $\mathbb{P}^n$.
 -
