@@ -20,7 +20,7 @@
 	- (iii) Inner regurity on *open* sets. $\mu(U)=\sup\{\mu(K):K\subset U,\text{ compact}\}$ for open $U$.
 - The bijection maps the functional $\Lambda:C_c(X)\to\R$ to the unique Borel measure $\mu$ satisfying
 	- (1) $\mu(U)=\sup\{\Lambda(f):f\prec U\}$ for all open $U$.
-- And maps $\mu$ to $\int_Xd\mu$ which is a Radon measure by (i).
+- And maps $\mu$ to $\int_Xd\mu$.
 - ### Proof outline
 - We must prove that $\Lambda\mapsto\mu$ is well-defined. For this, let $\mu^*$ be defined by (1).
 	- Lemma 1. $\mu^*$ is an outer measure on the set of open sets.
