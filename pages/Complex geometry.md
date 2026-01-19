@@ -21,4 +21,4 @@
 - Jacobian. Let $f:X\to Y$ holomorphic, then the Jacobian $J_f$ at $x$ is the $\C$-linear component $df_\C:T^{1,0}_xX\to T^{1,0}_{f(x)}Y$, written in the bases $\{\frac{\partial}{\partial z_i}\}_i$.
 - Submersion and Immersion. If $r=\dim Y\leq X$ (resp. $r=\dim X\leq Y$) and $J_f$ has max rank $r$ at every point $x\in X$.
 - Closed submanifold $Y\subset X$ of codimension $k$. If around each $x$ there is an open nhood $U$ and a submersion $f:U\to\C^k$ such that $Y\cap U=f^{-1}(0)$.
-	- Example. Complete intersection in $\mathbb{P}^n$.
+	- Example. Complete intersection in $\mathbb{P}^n$. If $k\leq n$
