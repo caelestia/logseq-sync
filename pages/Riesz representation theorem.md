@@ -33,4 +33,5 @@
 	- $$\mu(V)\geq\Lambda(g)\geq\Lambda(f)\geq\mu(U)-\varepsilon.$$
 	- By outer regularity (ii), $\mu(K)\geq\mu(U)-\varepsilon$. QED
 - The other direction $\mu\mapsto\Lambda$ is easily well-defined; this only uses (i).
-- If $\Lambda=\int_Xd\mu$, then $\Lambda\maps\mu$. This follows from (i)
+- If $\Lambda=\int_Xd\mu$, then $\Lambda\mapsto\mu$. This clearly follows from (iii) and (1).
+-
