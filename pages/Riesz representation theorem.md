@@ -32,4 +32,5 @@
 	- For any open set $V\supset K$, pick $g\prec V$ such that $g(K)={1}$. Then $g-f\geq 0$, and
 	- $$\mu(V)\geq\Lambda(g)\geq\Lambda(f)\geq\mu(U)-\varepsilon.$$
 	- By outer regularity (ii), $\mu(K)\geq\mu(U)-\varepsilon$. QED
+- The other direction $\mu\mapsto\Lambda$ is easily well-defined; this ony
 -
