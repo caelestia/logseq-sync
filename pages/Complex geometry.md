@@ -25,5 +25,5 @@
 - ### Holomorphic vector bundles
 - A $\C$-vector bundle $\pi:E\to X$ is called holomorphic if $E$ is a complex manifold and $\pi$ is holomorphic.
 	- Equivalently, this means the local trivializations $\pi^{-1}(U)\simeq U\times\C^r$ are biholomorphic.
-	- Vector bundle construction holds for holomorphic transition functions $g_{ij}:U_i\cap U_j\to\operatorname{GL}_r(\C)$.
+	- Vector bundle construction holds for holomorphic transition functions $g_{ij}:U_i\cap U_j\to\operatorname{GL}_r(\C)$ satisfying
 -
