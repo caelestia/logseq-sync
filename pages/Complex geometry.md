@@ -23,4 +23,5 @@
 - Closed submanifold $Y\subset X$ of codimension $k$. Criterion: If around each $x$ there is an open nhood $U$ and a submersion $f:U\to\C^k$ such that $Y\cap U=f^{-1}(0)$.
 	- Example. Complete intersection in $\mathbb{P}^n$. Let $(F_i)_{i=1}^k$ homogeneous polynomials in $n+1$ variables, $k\leq n$. If $\left(\frac{\partial F_i}{\partial z_j}\right)_{i,j}$ has maximal rank $k$ on $\{x\in\C^{n+1}:F_1=\cdots=F_k=0\}$, then the common zero locus defines a closed submanifold of codimension $k$ of $\mathbb{P}^n$.
 - ### Holomorphic vector bundles
-- A $\C$-vector bundle $\pi:E\to X$ is called holomorphic if $E$ is a complex manifold and $
+- A $\C$-vector bundle $\pi:E\to X$ is called holomorphic if $E$ is a complex manifold and $\pi$ is holomorphic.
+	- Equivalently, this means the
