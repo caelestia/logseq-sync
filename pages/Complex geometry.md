@@ -24,4 +24,5 @@
 	- Example. Complete intersection in $\mathbb{P}^n$. Let $(F_i)_{i=1}^k$ homogeneous polynomials in $n+1$ variables, $k\leq n$. If $\left(\frac{\partial F_i}{\partial z_j}\right)_{i,j}$ has maximal rank $k$ on $\{x\in\C^{n+1}:F_1=\cdots=F_k=0\}$, then the common zero locus defines a closed submanifold of codimension $k$ of $\mathbb{P}^n$.
 - ### Holomorphic vector bundles
 - A $\C$-vector bundle $\pi:E\to X$ is called holomorphic if $E$ is a complex manifold and $\pi$ is holomorphic.
-	- Equivalently, this means the
+	- Equivalently, this means the local trivializations $\pi^{-1}(U)\simeq U\times\C^r$ are biholomorphic.
+	- Vector bundle construction holds for holomorphic transition functions $
