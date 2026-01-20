@@ -26,4 +26,5 @@
 - A $\C$-vector bundle $\pi:E\to X$ is called holomorphic if $E$ is a complex manifold and $\pi$ is holomorphic.
 	- Equivalently, this means the local trivializations $\pi^{-1}(U)\simeq U\times\C^r$ are biholomorphic.
 	- Vector bundle construction holds for holomorphic transition functions $g_{ij}:U_i\cap U_j\to\operatorname{GL}_r(\C)$ satisfying the cocycle condition $g_{ij}g_{jk}g_{ki}=1$ and $g_{ii}=1$. This is obvious by patching sheaves.
-- Example. The tautological line bundle $\mathcal{O}(-1)=\{(x,v):\}$
+- Example. The tautological line bundle $\mathcal{O}(-1)=\{(x,v)\in\mathbb{CP}^n\times\C^{n+1}:v\in x\}$ over $\mathbb{CP}^n$.
+-
