@@ -25,4 +25,4 @@
 - We claim that these $\sigma^x$ agree on pairwise intersections. If $z\in M_x\cap M_y$, take $i$ such that $z\in V_i$. Then $i\in I_x\cap I_y$ by definition, thus $M_x\cup M_y\subset U_i$.
 - As the presheaf $\mathcal{F}:=S^k$ satisfies the glueing axiom, we can glue these $\sigma^x$ to a section $\sigma\in S^k(U)$. QED
 - ### Proof of Lemma 2
--
+- Let $\mathcal{U}$ be an open cover of $X$, define the presheaf $S^\mathcal
