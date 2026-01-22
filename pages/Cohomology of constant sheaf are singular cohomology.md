@@ -30,6 +30,5 @@
 - $$S^\bullet \longrightarrow S^{\mathcal{U}\bullet} \longrightarrow \tilde S^\bullet$$
 - We prove this fact in the next section:
 	- Fact. The first complex map induces an isomorphism on cohomology.
-- The result now follows. For surjectivity of $H^i(X,\tilde S^\bullet)$, let $c$ be a class represented by $t\in\tilde S^i(X)$, $dt=0$. Lift $t$ to $s\in S^i(X)$, then $ds$ maps to $0$ in $\tilde S^{i+1}(X)$. We can not conclude that $ds=0$, but we know $ds$ maps to $0$ in $S^{\mathcal{U}}(X)$ for some open cover. Thus $s$ gives a cocycle in $S^{\mathcal{U}}(X)$ which maps to $c$.
-	- maps to $0$ in $\tilde S^{i+1}(X)$. We can not conclude that $ds=0$, but we know $ds$ maps to
-- For injectivity,
+- The result now follows. For surjectivity of $H^i(X,\tilde S^\bullet)$, let $c$ be a class represented by $t\in\tilde S^i(X)$, $dt=0$. Lift $t$ to $s\in S^i(X)$, then $ds$g maps to $0$ in $\tilde S^{i+1}(X)$. We can not conclude that $ds=0$, but we know $ds$ maps to $0$ in $S^{\mathcal{U}}(X)$ for some open cover. Thus $s$ gives a cocycle in $S^{\mathcal{U}}(X)$ whose cohomology class maps to $c$.
+- For injectivity, suppose $x$
