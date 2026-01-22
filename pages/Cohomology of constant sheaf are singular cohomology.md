@@ -5,5 +5,5 @@
 - is a resolution.
 - Now observe:
 	- $S^k$ is flasque, viz. the restrictions $S^k(U)\to S^k(V)$ are surjective for all $V\subset U$ open and $k$.
-	- $S^k$
-	- However, $S^k$ are not sheaves unless $k=0$.
+	- $S^k$ satisfies the glueing axiom of sheaves: If sections $(
+	- However, $S^k$ are not sheaves unless $k=0$, since the glueing is obviously not unique.
