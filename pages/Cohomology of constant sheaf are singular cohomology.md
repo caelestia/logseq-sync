@@ -18,6 +18,6 @@
 - ### Proof of Lemma 1
 - A section in $\tilde{\mathcal{F}}(U)$ is given by sections $\sigma_i\in\mathcal{F}(U_i)$ that agree on stalks, where $\{U_i\}_i$ is an open cover, WLOG taken to be locally finite.
 - Let $\{V_i\}$ be a shrinking of $\{U_i\}$. We construct an open neighborhood $M_x$ around each $x$, such that
-	- $I_x:=\{i:M_x\cap V_i\neq\varnothing\}$ is finite,
-	- If $i\in I_x$, then $x\in\overline{V_i}$,
-	-
+	- $I_x:=\{i:M_x\cap V_i\neq\varnothing\}$ is finite;
+	- If $i\in I_x$, then $x\in\overline{V_i}$ and $M_x\subset U_i$;
+	- The restrictions
