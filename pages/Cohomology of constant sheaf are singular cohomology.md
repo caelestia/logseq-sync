@@ -29,5 +29,5 @@
 - The sheafification map factors through
 - $$S^\bullet \longrightarrow S^{\mathcal{U}\bullet} \longrightarrow \tilde S^\bullet$$
 - We prove this fact in the next section:
-	- The first part induces an isomorphism on cohomology.
--
+	- Fact. The first complex map induces an isomorphism on cohomology.
+- The result now follows.
