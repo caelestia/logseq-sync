@@ -20,6 +20,6 @@
 - Let $\{V_i\}$ be a shrinking of $\{U_i\}$. We construct an open neighborhood $M_x$ around each $x$, such that
 	- $I_x:=\{i:M_x\cap V_i\neq\varnothing\}$ is finite;
 	- If $i\in I_x$, then $x\in\overline{V_i}$ and $M_x\subset U_i$;
-	- The restrictions $\left.\sigma_i\right|_{M_x}$, $i\in I_x$, are the same. Denote as $\sigma^{x}$.
+	- The restrictions $\left.\sigma_i\right|_{M_x}$, $i\in I_x$, are the same. Denote as $\sigma^{x}\in\mathcal{F}(M_x)$.
 - Clearly, this is possible, by shrinking $M_x$ finitely many times.
--
+- We claim that these $\sigma^x$ agree on pairwise intersections.
