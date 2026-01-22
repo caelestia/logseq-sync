@@ -1,3 +1,4 @@
+### Setup
 - Suppose $X$ is a locally contractible space. This is necessary as indicated by the Warsaw circle.
 - In the following we describe the outline of the proof from Global Calculus. We need to assume all open sets $U$ are paracompact. In the more natural [proof via hypersheaves](https://arxiv.org/pdf/2102.06927) this condition can be removed.
 - Let $S^\bullet$ be the complex of presheaves of singular cochains. $X$ is locally contractible means
@@ -10,4 +11,5 @@
 	- However, $S^k$ are not sheaves unless $k=0$, since the glueing is obviously not unique.
 - Hence we sheafify to get a complex of sheaves
 - $$0 \longrightarrow \underline{A} \longrightarrow \tilde S^\bullet$$
-- To conclude the proof, we need
+- To conclude the proof, we need to show that
+	- Lemma 1.
