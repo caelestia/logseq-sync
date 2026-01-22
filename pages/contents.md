@@ -8,7 +8,7 @@
 - [[First Course]]
 	- [[Comment on "sigma"]]
 	- Sheaf cohomology
-		- [[Cohomology of constant sheaf are]]
+		- [[Cohomology of constant sheaf are singular cohomology]]
 - Imperial
 	- [[Complex geometry]]
 	-
