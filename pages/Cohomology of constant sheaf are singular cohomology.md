@@ -15,5 +15,6 @@
 	- Lemma 1. If $U$ is paracompact, then the natural map $S^k(U)\to\tilde S^k(U)$ is surjective.
 	- If follows that the sheaves $\tilde S^k$ are flasque, hence acyclic.
 	- Lemma 2. Under our assumption of $X$, the morphism of complexes $S^\bullet(X)\to\tilde S^\bullet(X)$ is a quasi-isomorphism.
-- ### Lemma 1
-- A section in $\tilde{\mathcal{F}}(U)$ is given by sections $\sigma_i\in\mathcal{F}(U_i)$ that agree on stalks, where $\{U_i\}_i$ is an open cover.
+- ### Proof Lemma 1
+- A section in $\tilde{\mathcal{F}}(U)$ is given by sections $\sigma_i\in\mathcal{F}(U_i)$ that agree on stalks, where $\{U_i\}_i$ is an open cover, WLOG taken to be locally finite.
+-
