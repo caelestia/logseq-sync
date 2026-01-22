@@ -12,5 +12,6 @@
 - Hence we sheafify to get a complex of sheaves
 - $$0 \longrightarrow \underline{A} \longrightarrow \tilde S^\bullet$$
 - To conclude the proof, we need to show that
-	- Lemma 1. If $U$ is paracompact, then the map $S^k(U)\to\tilde S^k(U)$ is surjective.
-	- If follows that the sheaves $\tilde S^k$ are flasque
+	- Lemma 1. If $U$ is paracompact, then the natural map $S^k(U)\to\tilde S^k(U)$ is surjective.
+	- If follows that the sheaves $\tilde S^k$ are flasque.
+	- Lemma 2.
