@@ -22,4 +22,5 @@
 	- If $i\in I_x$, then $x\in\overline{V_i}$ and $M_x\subset U_i$;
 	- The restrictions $\left.\sigma_i\right|_{M_x}$, $i\in I_x$, are the same. Denote as $\sigma^{x}\in\mathcal{F}(M_x)$.
 - Clearly, this is possible, by shrinking $M_x$ finitely many times.
-- We claim that these $\sigma^x$ agree on pairwise intersections. If $z\in M_x\cap M_y$, take $i$ such that $z\in V_i$. Then $i\in I_x\cap I_y$ by definition, thus $M_x\cup M_y\
+- We claim that these $\sigma^x$ agree on pairwise intersections. If $z\in M_x\cap M_y$, take $i$ such that $z\in V_i$. Then $i\in I_x\cap I_y$ by definition, thus $M_x\cup M_y\subset U_i$.
+- As $\mathcal{F}=
