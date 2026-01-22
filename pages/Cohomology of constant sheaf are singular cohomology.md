@@ -1,1 +1,2 @@
-- Suppose $X$ is a locally contractible space. This is necessary as indicated by the Warsaw circle. Essentially, what we need is
+- Suppose $X$ is a locally contractible space. This is necessary as indicated by the Warsaw circle.
+-
