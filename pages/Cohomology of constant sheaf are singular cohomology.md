@@ -28,7 +28,6 @@
 - Let $\mathcal{U}$ be an open cover of $X$, define the complex of presheaves $S^{\mathcal{U}\bullet}$ of cochains that assigns values for simplices $\Delta^i\to U\in\mathcal{U}$.
 - The sheafification map factors through
 - $$S^\bullet \longrightarrow S^{\mathcal{U}\bullet} \longrightarrow \tilde S^\bullet$$
-- We proceed in two steps:
+- We prove this fact in the next section:
 	- The first part induces an isomorphism on cohomology.
-	  logseq.order-list-type:: number
-	- logseq.order-list-type:: number
+-
