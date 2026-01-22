@@ -5,10 +5,11 @@
 	- [[Class field theory]]
 	- [[NT Misc]]
 	- [[Hasse-Minkowski]]
-- [[First Course]]
+- First Course
 	- [[Comment on "sigma"]]
 	- Sheaf cohomology
-		- [[Cohomology of constant sheaf are singular cohomology]]-
+		- [[Cohomology of constant sheaf are singular cohomology]]
+	- $\pi$
 - Imperial
 	- [[Complex geometry]]
 	-
