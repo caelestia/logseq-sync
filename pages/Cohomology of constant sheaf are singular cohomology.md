@@ -10,4 +10,4 @@
 	- However, $S^k$ are not sheaves unless $k=0$, since the glueing is obviously not unique.
 - Hence we sheafify to get a complex of sheaves
 - $$0 \longrightarrow \underline{A} \longrightarrow \tilde S^\bullet$$
--
+- To conclude the proof, we need
