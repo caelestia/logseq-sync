@@ -29,3 +29,5 @@
 - The sheafification map factors through
 - $$S^\bullet \longrightarrow S^{\mathcal{U}\bullet} \longrightarrow \tilde S^\bullet$$
 - We proceed in two steps:
+	- The first part induces the identity at cohomology level
+	  logseq.order-list-type:: number
