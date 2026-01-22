@@ -4,4 +4,5 @@
 - Proof. By Sard's theorem, the image of any smooth map $f:I^n\to S^m$ only consists of critical points (Jacobian has rank $<m$), so (the intersection with any chart of) the image is a Lebesgue null set. In particular, $f$ is not surjective. QED
 - ### Proof of Lemma
 - First consider the case $N=\R$. Applying Weierstrass approximation theorem (Stone-Weierstrass) on compact subsets and patching together via partition of unity, we see that for any $\varepsilon>0$ there is a smooth function $g:M\to\R$ such that $|f-g|<\varepsilon$. Hence there is a continuous homotopy $g\simeq f$ by pushing the size of this "$\varepsilon$-band" to $0$.
-- For general $N$, we use Whitney's embedding theorem to view $N$ as embedded in some $\R^n$. Thus we can apply the above construction to each coordinate. Since $\varepsilon$ can arbitrarily small, we may assume the
+- For general $N$, we use Whitney's embedding theorem to view $N$ as embedded in some $\R^n$. Thus we can apply the above construction to each coordinate. Since $\varepsilon$ is arbitrarily small, we may assume the $\varepsilon$-neighborhood $N$ lies in a tubular neighborhood which then deforms into $N$.
+- QED
