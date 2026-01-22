@@ -28,3 +28,4 @@
 - Let $\mathcal{U}$ be an open cover of $X$, define the complex of presheaves $S^{\mathcal{U}\bullet}$ of cochains that assigns values for simplices $\Delta^i\to U\in\mathcal{U}$.
 - The sheafification map factors through
 - $$S^\bullet \longrightarrow S^{\mathcal{U}\bullet} \longrightarrow \tilde S^\bullet$$
+-
