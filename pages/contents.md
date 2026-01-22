@@ -16,5 +16,4 @@
 	- [[Locally compact groups]]
 - Analysis
 	- [[Riesz representation theorem]]
-	-
 -
