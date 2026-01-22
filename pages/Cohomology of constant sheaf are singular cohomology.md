@@ -35,4 +35,4 @@
 - For injectivity, suppose $[x]$, $x\in S(X)$, is a class in $H^i(X,S^\bullet)$ which maps to $0$ in $H^i(X,\tilde S^\bullet)$. In other words, $x\mapsto dt$ for some $t\in\tilde S^{i-1}(X)$. Lift $t$ to $s\in S^{i-1}(X)$, then again $x-ds$ maps to $0$ in $S^{\mathcal{U}}(X)$ for some open cover. Thus $x$ gives a coboundary in $S^{\mathcal{U}}(X)$.
 - ### Proof of "small chains" fact
 - We want to show that $S^\bullet\to S^{\mathcal{U}\bullet}$ is a homotopy equivalence. Since this is "absolute" it suffices to show it for $S^{\mathcal{U}}_\bullet\to S_\bullet$.
-- Recall that we have the barycentric subdivision map $\operatorname{Sd}:S^\bullet(X)\to S^\bullet(X)$, and a homotopy $h:$
+- Recall that we have the barycentric subdivision map $\operatorname{Sd}:S^\bullet(X)\to S^\bullet(X)$, and a homotopy $h:$.
