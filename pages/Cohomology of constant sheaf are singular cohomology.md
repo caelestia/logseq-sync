@@ -17,4 +17,6 @@
 	- Lemma 2. Under our assumption of $X$, the morphism of complexes $S^\bullet(X)\to\tilde S^\bullet(X)$ is a quasi-isomorphism.
 - ### Proof of Lemma 1
 - A section in $\tilde{\mathcal{F}}(U)$ is given by sections $\sigma_i\in\mathcal{F}(U_i)$ that agree on stalks, where $\{U_i\}_i$ is an open cover, WLOG taken to be locally finite.
-- Let $\{V_i\}$ be a shrinking of $\{U_i\}$. We construct an open neighborhood $
+- Let $\{V_i\}$ be a shrinking of $\{U_i\}$. We construct an open neighborhood $M_x$ around each $x$, such that
+	- $I_x:=\{i:M_x\cap V_i\neq\varnothing\}$ is finite,
+	-
