@@ -1,0 +1,1 @@
+- Suppose $X$ is a locally contractible space. This is necessary as
