@@ -12,4 +12,4 @@
 - Hence we sheafify to get a complex of sheaves
 - $$0 \longrightarrow \underline{A} \longrightarrow \tilde S^\bullet$$
 - To conclude the proof, we need to show that
-	- Lemma 1.
+	- Lemma 1. If $U$ is paracompact, then the map $S^k(U)\to\tilde S^k(
