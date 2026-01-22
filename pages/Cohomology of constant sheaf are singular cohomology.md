@@ -3,7 +3,7 @@
 - Let $S^\bullet$ be the complex of presheaves of singular cochains. $X$ is locally contractible means
 - $$0 \longrightarrow \underline{A} \longrightarrow S^\bullet$$
 - is a resolution.
-- Now observe:
-	- $S^k$ is flasque, viz. the restrictions $S^k(U)\to S^k(V)$ are surjective for all $V\subset U$ open and $k$.
-	- $S^k$ satisfies the glueing axiom of sheaves: If sections $(
+- Now observe for all $k\geq 0$:
+	- $S^k$ is flasque, viz. the restrictions $S^k(U)\to S^k(V)$ are surjective for all $V\subset U$ open.
+	- $S^k$ satisfies the glueing axiom of sheaves: If sections $s_i\in S^k(U_i)$ agree on mutual
 	- However, $S^k$ are not sheaves unless $k=0$, since the glueing is obviously not unique.
