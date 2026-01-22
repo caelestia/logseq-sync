@@ -12,4 +12,4 @@
 		- $\omega$-[Continuity](https://ncatlab.org/nlab/show/Scott+topology). If $D\subset A$ is a *countable* directed subset, then $\bigvee D$ exists, and $\mu(\bigvee D)=\sup_{x\in D}\mu(x)$.
 - [link](https://www.researchgate.net/profile/Abbas-Edalat/publication/2394217_An_Extension_Result_for_Continuous_Valuations/links/5412b50d0cf2bb7347dafc5e/An-Extension-Result-for-Continuous-Valuations.pdf)
 - [Cichoń's diagram](https://en.wikipedia.org/wiki/Cicho%C5%84%27s_diagram#:~:text=In%20set%20theory%2C%20Cicho%C5%84's%20diagram,cardinal%20characteristics%20of%20the%20continuum.)
-- It is independent from ZFC that the union of $\aleph_
+- It is independent from ZFC that the union of $\aleph_1$ many null sets is a null set.
