@@ -34,4 +34,4 @@
 - For surjectivity of $H^i(X,\tilde S^\bullet)$, let $[t]$ be a class represented by $t\in\tilde S^i(X)$, $dt=0$. Lift $t$ to $s\in S^i(X)$, then $ds$ maps to $0$ in $\tilde S^{i+1}(X)$. We can not conclude that $ds=0$, but we know $ds$ maps to $0$ in $S^{\mathcal{U}}(X)$ for some open cover. Thus $s$ gives a cocycle in $S^{\mathcal{U}}(X)$ whose cohomology class maps to $[t]$.
 - For injectivity, suppose $[x]$, $x\in S(X)$, is a class in $H^i(X,S^\bullet)$ which maps to $0$ in $H^i(X,\tilde S^\bullet)$. In other words, $x\mapsto dt$ for some $t\in\tilde S^{i-1}(X)$. Lift $t$ to $s\in S^{i-1}(X)$, then again $x-ds$ maps to $0$ in $S^{\mathcal{U}}(X)$ for some open cover. Thus $x$ gives a coboundary in $S^{\mathcal{U}}(X)$.
 - ### Proof of "small chains" fact
--
+- We want to show that $S^\bullet\to S^{\mathcal{U}\bullet}$ is a hotmo
