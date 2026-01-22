@@ -1,1 +1,2 @@
-- This fact follows from Sard's theorem in the following
+- This fact follows from Sard's theorem.
+- Lemma. Any continuous map $f:M\to N$ between  is homotopic to
