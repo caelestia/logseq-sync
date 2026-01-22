@@ -4,4 +4,4 @@
 - $$0 \longrightarrow \underline{A} \longrightarrow S^\bullet$$
 - is a resolution.
 - Now observe:
-	-
+	- $S^k$ is flasque, viz. the restrictions $S^k(U)\to S^k(V)$ are surjective for all $k$
