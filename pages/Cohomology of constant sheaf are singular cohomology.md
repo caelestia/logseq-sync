@@ -30,4 +30,4 @@
 - $$S^\bullet \longrightarrow S^{\mathcal{U}\bullet} \longrightarrow \tilde S^\bullet$$
 - We prove this fact in the next section:
 	- Fact. The first complex map induces an isomorphism on cohomology.
-- The result now follows.
+- The result now follows. For surjectivity of $H^i(X,\tilde S^\bullet)$
