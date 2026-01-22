@@ -3,4 +3,4 @@
 - Theorem. If $n<m$, then $\pi_n(S^m)=0$.
 - Proof. By Sard's theorem, the image of any smooth map $f:I^n\to S^m$ only consists of critical points (Jacobian has rank $<m$), so (the intersection with any chart of) the image is a null set. In particular, $f$ is not surjective. QED
 - ### Proof of Lemma
-- First consider the case $N=\R$.
+- First consider the case $N=\R$. By Weierstrass approximation theorem (Stone-Weierstrass), for any $\varepsilon>0$ there is a smooth function $
