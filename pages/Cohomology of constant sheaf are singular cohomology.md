@@ -29,5 +29,6 @@
 - The sheafification map factors through
 - $$S^\bullet \longrightarrow S^{\mathcal{U}\bullet} \longrightarrow \tilde S^\bullet$$
 - We proceed in two steps:
-	- The first part induces a quasi-isomorphism at cohomology level
+	- The first part induces an isomorphism on cohomology.
 	  logseq.order-list-type:: number
+	- logseq.order-list-type:: number
