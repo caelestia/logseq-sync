@@ -1,7 +1,7 @@
 ### Setup
 - Suppose $X$ is a locally contractible space. This is necessary as indicated by the Warsaw circle.
 - In the following we describe the outline of the proof from Global Calculus. We need to assume all open sets $U$ are paracompact. In the more natural [proof via hypersheaves](https://arxiv.org/pdf/2102.06927) this condition can be removed.
-- Let $S^\bullet$ be the complex of presheaves of singular cochains. $X$ is locally contractible means
+- Let $S^\bullet$ be the complex of presheaves of singular cochains in an abelian group $A$. $X$ is locally contractible means
 - id:: 6971f907-ad12-4dc3-a10e-4beae435cfed
   $$0 \longrightarrow \underline{A} \longrightarrow S^\bullet$$
 - is a resolution.
@@ -12,4 +12,5 @@
 - Hence we sheafify to get a complex of sheaves
 - $$0 \longrightarrow \underline{A} \longrightarrow \tilde S^\bullet$$
 - To conclude the proof, we need to show that
-	- Lemma 1. If $U$ is paracompact, then the map $S^k(U)\to\tilde S^k(
+	- Lemma 1. If $U$ is paracompact, then the map $S^k(U)\to\tilde S^k(U)$ is surjective.
+	- If follows that the sheaves $\tilde S^k$ are flasque
