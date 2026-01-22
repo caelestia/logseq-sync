@@ -21,4 +21,4 @@
 	- $I_x:=\{i:M_x\cap V_i\neq\varnothing\}$ is finite;
 	- If $i\in I_x$, then $x\in\overline{V_i}$ and $M_x\subset U_i$;
 	- The restrictions $\left.\sigma_i\right|_{M_x}$, $i\in I_x$, are the same. Denote as $\sigma^{x}$.
-	-
+-
