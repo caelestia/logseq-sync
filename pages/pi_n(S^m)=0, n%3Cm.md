@@ -7,3 +7,5 @@
 - Moreover, we may assume $\varepsilon:M\to\R_{>0}$ continuously depends on $x\in M$. This is required for the next step.
 - For general $N$, we use Whitney's embedding theorem to view $N$ as embedded in some $\R^n$. Thus we can apply the above construction to each coordinate. Since $\varepsilon$ is arbitrarily small, we may assume the $\varepsilon$-neighborhood of $N$ lies in a [tubular neighborhood](http://staff.ustc.edu.cn/~wangzuoq/Courses/18F-Manifolds/Notes/Lec10.pdf) which then smoothly deforms into $N$.
 - QED
+- ---
+- cf [Bott-Tu](https://www.math.auckland.ac.nz/~hekmati/Books/BottTu.pdf)
