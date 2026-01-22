@@ -9,7 +9,7 @@
 	- [[Comment on "sigma"]]
 	- Sheaf cohomology
 		- [[Cohomology of constant sheaf are singular cohomology]]
-	- $\pi$
+	- [[pi_n(S^m)=0, n<m]]
 - Imperial
 	- [[Complex geometry]]
 	-

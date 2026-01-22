@@ -1,0 +1,1 @@
+- This fact follows from Sard's theorem in the following
