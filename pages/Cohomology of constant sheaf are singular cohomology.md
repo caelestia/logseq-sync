@@ -1,2 +1,2 @@
 - Suppose $X$ is a locally contractible space. This is necessary as indicated by the Warsaw circle.
-- In the following we describe the outline of the proof from Global Calculus. We need to assume all open sets $U$ are paracompact
+- In the following we describe the outline of the proof from Global Calculus. We need to assume all open sets $U$ are paracompact. The more natural (proof via hypersheaves)[https://arxiv.org/pdf/2102.06927].
