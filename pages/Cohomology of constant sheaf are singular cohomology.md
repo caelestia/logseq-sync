@@ -1,6 +1,7 @@
 - Suppose $X$ is a locally contractible space. This is necessary as indicated by the Warsaw circle.
 - In the following we describe the outline of the proof from Global Calculus. We need to assume all open sets $U$ are paracompact. In the more natural [proof via hypersheaves](https://arxiv.org/pdf/2102.06927) this condition can be removed.
 - Let $S^\bullet$ be the complex of presheaves of singular cochains. $X$ is locally contractible means
-- $$0 \longrightarrow A \longrightarrow S^\bullet$$
+- $$0 \longrightarrow \underline{A} \longrightarrow S^\bullet$$
 - is a resolution.
--
+- Now observe:
+	-
