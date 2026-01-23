@@ -1,3 +1,3 @@
 - Let $\mathsf{C}$ be a category. A model simply means a subset $\mathcal{M}\subset\operatorname{Ob}(\mathsf{C})$.
 - We say that a functor $T:\mathsf{C}\to\mathrm{Ab}$ is
-	- Free on $\mathcal{M}$, if there exists $\{x_i\in T(M_i):i\in I,\,M_i\in\mathcal{M}\}$, such that for all $C\in\operatorname{ob}
+	- Free on $\mathcal{M}$, if there exists $\{x_i\in T(M_i):i\in I,\,M_i\in\mathcal{M}\}$, such that for all $C\in\operatorname{Ob}(\mathsf{C})$, the set $\{T(f)(x_i):i\in I,\, f\in\operatorname{Hom}_{\mathcal{C}}(M_i,C)\}$ is a basis for $
