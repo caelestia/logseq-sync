@@ -1,0 +1,39 @@
+### Setup
+- Suppose $X$ is a locally contractible space. This is necessary as indicated by the Warsaw circle.
+- In the following we describe the outline of the proof from Global Calculus. We need to assume all open sets $U$ are paracompact. In the more natural [proof via hypersheaves](https://arxiv.org/pdf/2102.06927) this condition can be removed.
+- Let $S^\bullet$ be the complex of presheaves of singular cochains in an abelian group $A$. $X$ is locally contractible means
+- id:: 6971f907-ad12-4dc3-a10e-4beae435cfed
+  $$0 \longrightarrow \underline{A} \longrightarrow S^\bullet$$
+- is a resolution.
+- Now observe for all $k\geq 0$:
+	- $S^k$ is flasque, viz. the restrictions $S^k(U)\to S^k(V)$ are surjective for all $V\subset U$ open.
+	- $S^k$ satisfies the glueing axiom of sheaves: If sections $\sigma_i\in S^k(U_i)$ agree on pairwise intersections then there exists $\sigma\in S^k(\bigcup_iU_i)$ glueing them.
+	- However, $S^k$ are not sheaves unless $k=0$, since the glueing is obviously not unique.
+- Hence we sheafify to get a complex of sheaves
+- $$0 \longrightarrow \underline{A} \longrightarrow \tilde S^\bullet$$
+- To conclude the proof, we need to show that
+	- Lemma 1. If $U$ is paracompact, then the natural map $S^k(U)\to\tilde S^k(U)$ is surjective.
+	- If follows that the sheaves $\tilde S^k$ are flasque, hence acyclic.
+	- Lemma 2. Under our assumption of $X$, the morphism of complexes $S^\bullet(X)\to\tilde S^\bullet(X)$ is a quasi-isomorphism.
+- ### Proof of Lemma 1
+- A section in $\tilde{\mathcal{F}}(U)$ is given by sections $\sigma_i\in\mathcal{F}(U_i)$ that agree on stalks, where $\{U_i\}_i$ is an open cover, WLOG taken to be locally finite.
+- Let $\{V_i\}$ be a shrinking of $\{U_i\}$. We construct an open neighborhood $M_x$ around each $x$, such that
+	- $I_x:=\{i:M_x\cap V_i\neq\varnothing\}$ is finite;
+	- If $i\in I_x$, then $x\in\overline{V_i}$ and $M_x\subset U_i$;
+	- The restrictions $\left.\sigma_i\right|_{M_x}$, $i\in I_x$, are the same. Denote as $\sigma^{x}\in\mathcal{F}(M_x)$.
+- Clearly, this is possible, by shrinking $M_x$ finitely many times.
+- We claim that these $\sigma^x$ agree on pairwise intersections. If $z\in M_x\cap M_y$, take $i$ such that $z\in V_i$. Then $i\in I_x\cap I_y$ by definition, thus $M_x\cup M_y\subset U_i$.
+- As the presheaf $\mathcal{F}:=S^k$ satisfies the glueing axiom, we can glue these $\sigma^x$ to a section $\sigma\in S^k(U)$. QED
+- ### Proof of Lemma 2
+- Let $\mathcal{U}$ be an open cover of $X$, define the complex of presheaves $S^{\mathcal{U}\bullet}$ of cochains that assigns values for simplices $\Delta^i\to U\in\mathcal{U}$.
+- The sheafification map factors through
+- $$S^\bullet \longrightarrow S^{\mathcal{U}\bullet} \longrightarrow \tilde S^\bullet$$
+- We prove this fact in the next section:
+	- Fact. The first complex map induces an isomorphism on cohomology.
+- The result now follows:
+- For surjectivity of $H^i(X,\tilde S^\bullet)$, let $[t]$ be a class represented by $t\in\tilde S^i(X)$, $dt=0$. Lift $t$ to $s\in S^i(X)$, then $ds$ maps to $0$ in $\tilde S^{i+1}(X)$. We can not conclude that $ds=0$, but we know $ds$ maps to $0$ in $S^{\mathcal{U}}(X)$ for some open cover. Thus $s$ gives a cocycle in $S^{\mathcal{U}}(X)$ whose class maps to $[t]$.
+- For injectivity, suppose $[x]$, $x\in S(X)$, is a class in $H^i(X,S^\bullet)$ which maps to $0$ in $H^i(X,\tilde S^\bullet)$. In other words, $x\mapsto dt$ for some $t\in\tilde S^{i-1}(X)$. Lift $t$ to $s\in S^{i-1}(X)$, then again $x-ds$ maps to $0$ in $S^{\mathcal{U}}(X)$ for some open cover. Thus $x$ gives a coboundary in $S^{\mathcal{U}}(X)$.
+- ### Proof of "small chains" fact
+- We want to show that $S^\bullet\to S^{\mathcal{U}\bullet}$ is a homotopy equivalence. Since this is "absolute" it suffices to show it for $S^{\mathcal{U}}_\bullet\to S_\bullet$.
+- Recall the barycentric subdivision map $\operatorname{Sd}:S_\bullet(X)\to S_\bullet(X)$, and a homotopy $h:\operatorname{Sd}\simeq\operatorname{id}$, both natural in $X$. As such, they preserves $\mathcal{U}$-smallness, so we have $\operatorname{Sd}$ and $h$ on $S^{\mathcal{U}}_\bullet$ as well.
+-
