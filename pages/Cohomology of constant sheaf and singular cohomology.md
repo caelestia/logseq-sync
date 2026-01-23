@@ -34,7 +34,7 @@
 - For surjectivity of $H^i(X,\tilde S^\bullet)$, let $[t]$ be a class represented by $t\in\tilde S^i(X)$, $dt=0$. Lift $t$ to $s\in S^i(X)$, then $ds$ maps to $0$ in $\tilde S^{i+1}(X)$. We can not conclude that $ds=0$, but we know $ds$ maps to $0$ in $S^{\mathcal{U}}(X)$ for some open cover. Thus $s$ gives a cocycle in $S^{\mathcal{U}}(X)$ whose class maps to $[t]$.
 - For injectivity, suppose $[x]$, $x\in S(X)$, is a class in $H^i(X,S^\bullet)$ which maps to $0$ in $H^i(X,\tilde S^\bullet)$. In other words, $x\mapsto dt$ for some $t\in\tilde S^{i-1}(X)$. Lift $t$ to $s\in S^{i-1}(X)$, then again $x-ds$ maps to $0$ in $S^{\mathcal{U}}(X)$ for some open cover. Thus $x$ gives a coboundary in $S^{\mathcal{U}}(X)$.
 - ### Proof of "small chains" fact
-- We want to show that $S^\bullet\to S^{\mathcal{U}\bullet}$ is a homotopy equivalence. Since this is "absolute" it suffices to show it for $S^{\mathcal{U}}_\bullet\to S_\bullet$.
+- We want to show that $S^\bullet\to S^{\mathcal{U}\bullet}$ is a homotopy equivalence. Since this is "absolute" it suffices to show it for the inclusion $\iota:S^{\mathcal{U}}_\bullet\hookrightarrow S_\bullet$.
 - Recall the barycentric subdivision map $\operatorname{Sd}:S_\bullet(X)\to S_\bullet(X)$, and a homotopy $h:\operatorname{Sd}\simeq\operatorname{id}$, both natural in $X$. As such, they preserves $\mathcal{U}$-smallness, so we have $\operatorname{Sd}$ and $h$ on $S^{\mathcal{U}}_\bullet$ as well.
 - Easy fact. If $M$ is a compact metric space and $\mathcal{U}$ is an open cover, then there exists $\delta>0$, called the Lebesgue number, such that every subset of diameter $\leq\delta$ is contained in some $U\in\mathcal{U}$.
 	- Proof. Suppose $\mathcal{U}$ is finite. Then $x\mapsto\sum_{U\in\mathcal{U}}\operatorname{dist}(x,M\setminus U)$ is a positive continuous function, hence has a global minimum $>0$. QED
@@ -43,6 +43,6 @@
 	- If $\sigma$ is $\mathcal{U}$-small, then $N(\sigma)=0$.
 - The result now follows purely formally. Define two operators on simplices, $\operatorname{Sd}^\infty:\sigma\mapsto\operatorname{Sd}^{N(\sigma)}\sigma$, and $k:\sigma\mapsto h(\operatorname{id}+\operatorname{Sd}+\cdots+\operatorname{Sd}^{N(\sigma)-1})$. Now
 - $$(\operatorname{Sd}^\infty-\operatorname{id})\sigma=(\operatorname{Sd}-\operatorname{id})\sum_{i=0}^{N(\sigma)-1}\operatorname{Sd}^i\sigma=(\partial k+k\partial)\sigma-h\sum_{i=N(\partial\sigma)}^{N(\sigma)-1}\operatorname{Sd}^i\partial\sigma$$
-- So we define $\varphi:S_\bullet\to S_\bullet^{\mathcal{U}}$ by $\sigma\mapsto\operatorname{Sd}^{\infty}+h\sum_{N(\partial\sigma)}^{N(\sigma)-1}\operatorname{Sd}^i\partial\sigma$. If $\iota:S_\bullet^{\mathcal{U}}\to S_\bullet$ is the inclusion, we have
+- So we define $\varphi:S_\bullet\to S_\bullet^{\mathcal{U}}$ by $\sigma\mapsto\operatorname{Sd}^{\infty}+h\sum_{N(\partial\sigma)}^{N(\sigma)-1}\operatorname{Sd}^i\partial\sigma$. We have
 - $$\varphi\circ\iota=\operatorname{id},\quad \iota\circ\varphi\simeq_k\operatorname{id}.$$
 - Thus $\iota$ is a homotopy equivalence. QED
