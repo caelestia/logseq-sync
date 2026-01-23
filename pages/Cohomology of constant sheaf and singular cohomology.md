@@ -44,4 +44,5 @@
 - The result now follows purely formally. Define two operators on simplices, $\operatorname{Sd}^\infty:\sigma\mapsto\operatorname{Sd}^{N(\sigma)}\sigma$, and $k:\sigma\mapsto h(\operatorname{id}+\operatorname{Sd}+\cdots+\operatorname{Sd}^{N(\sigma)-1})$. Now
 - $$(\operatorname{Sd}^\infty-\operatorname{id})\sigma=(\operatorname{Sd}-\operatorname{id})\sum_{i=0}^{N(\sigma)-1}\operatorname{Sd}^i\sigma=(\partial k+k\partial)\sigma-h\sum_{i=N(\partial\sigma)}^{N(\sigma)-1}\operatorname{Sd}^i\partial\sigma$$
 - So we define $\varphi:S_\bullet\to S_\bullet^{\mathcal{U}}$ by $\sigma\mapsto\operatorname{Sd}^{\infty}+h\sum_{N(\partial\sigma)}^{N(\sigma)-1}\operatorname{Sd}^i\partial\sigma$. If $\iota:S_\bullet^{\mathcal{U}}\to S_\bullet$ is the inclusion, we have
-- $$\varphi\circ\iota=$$
+- $$\varphi\circ\iota=\operatorname{id},\quad \iota\circ\varphi\simeq_k\operatorname{id}.$$
+- Thus $\iota$ is a homotopy equivalence. QED
