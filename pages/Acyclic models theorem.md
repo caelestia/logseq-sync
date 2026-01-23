@@ -1,5 +1,5 @@
 - Let $\mathcal{C}$ be a category. A model simply means a subset $\mathcal{M}\subset\operatorname{Ob}(\mathsf{C})$.
 - We say that a functor $T:\mathsf{C}\to\mathrm{Ab}$ (or an abelian category) is
 	- Free on $\mathcal{M}$, if there exists $\{x_i\in T(M_i):i\in I,\,M_i\in\mathcal{M}\}$, such that for all $C\in\operatorname{Ob}(\mathsf{C})$, the set $\{T(f)(x_i):i\in I,\, f\in\operatorname{Hom}(M_i,C)\}$ is a basis for $T(C)$.
-- Now consider a functor $T_\bullet:\$
+- Now consider a functor $T_\bullet:\{}$
 - Acyclic on $\mathcal{M}$, if $
