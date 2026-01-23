@@ -41,6 +41,6 @@
 - Given a simplex $\sigma:\Delta^n\to X$, by considering the Lebesgue number of $\sigma^{-1}(\mathcal{U})$ we see there is $N(\sigma)\geq0$ minimal such that $\operatorname{Sd}^{N(\sigma)}\sigma\in S^{\mathcal{U}}_n(X)$. Observe that
 	- $N(\partial\sigma)\leq N(\sigma)$.
 	- If $\sigma$ is $\mathcal{U}$-small, then $N(\sigma)=0$.
-- The result now follows purely formally. Define two operators on simplices, $\operatorname{Sd}^\infty$ as $\sigma\mapsto\operatorname{Sd}^{N(\sigma)}\sigma$, and $k$ as $\sigma\mapsto h(\operatorname{id}+\operatorname{Sd}+\cdots+\operatorname{Sd}^{N(\sigma)-1})$. Now
+- The result now follows purely formally. Define two operators on simplices, $\operatorname{Sd}^\infty:\sigma\mapsto\operatorname{Sd}^{N(\sigma)}\sigma$, and $k:\sigma\mapsto h(\operatorname{id}+\operatorname{Sd}+\cdots+\operatorname{Sd}^{N(\sigma)-1})$. Now
 - $$(\operatorname{Sd}^\infty-\operatorname{id})\sigma=(\operatorname{Sd}-\operatorname{id})\sum_{i=0}^{N(\sigma)-1}\operatorname{Sd}^i\sigma=(\partial k+k\partial)\sigma-h\sum_{i=N(\partial\sigma)}^{N(\sigma)-1}\operatorname{Sd}^i\partial\sigma$$
 - So we define $\varphi:S_\bullet\to S_\bullet^{\mathcal{U}}$ by $\sigma\mapsto\operatorname{Sd}^{\infty}+h\sum_{N(\partial\sigma)}^{N(\sigma)-1}\operatorname{Sd}^i\partial\sigma$.
