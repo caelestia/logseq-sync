@@ -3,4 +3,5 @@
 	- Free on $\mathcal{M}$, if there exists $\{x_i\in T(M_i):i\in I,\,M_i\in\mathcal{M}\}$, such that for all $C\in\operatorname{Ob}(\mathscr{C})$, the set $\{T(f)(x_i):i\in I,\, f\in\operatorname{Hom}(M_i,C)\}$ is a basis for $T(C)$.
 - Now consider a functor $T_\bullet:\mathscr{C}\to\mathsf{Ch}(\mathsf{Ab})$. We say it is
 	- Free on $\mathcal{M}$, if $T_i$ is free on $\mathcal{M}$ for all $i\geq 0$.
-	- Acyclic on $\mathcal{M}$, if $
+	- Acyclic on $\mathcal{M}$, if $T(M)$ is acyclic for all $M\in\mathcal{M}$.
+-
