@@ -36,4 +36,4 @@
 - ### Proof of "small chains" fact
 - We want to show that $S^\bullet\to S^{\mathcal{U}\bullet}$ is a homotopy equivalence. Since this is "absolute" it suffices to show it for $S^{\mathcal{U}}_\bullet\to S_\bullet$.
 - Recall the barycentric subdivision map $\operatorname{Sd}:S_\bullet(X)\to S_\bullet(X)$, and a homotopy $h:\operatorname{Sd}\simeq\operatorname{id}$, both natural in $X$. As such, they preserves $\mathcal{U}$-smallness, so we have $\operatorname{Sd}$ and $h$ on $S^{\mathcal{U}}_\bullet$ as well.
-- Easy fact. If $M$ is a compact metric space and $U$ is an
+- Easy fact. If $M$ is a compact metric space and $U$ is an open cover, there exists $\delta>0$, called the Lebesgue number, such that every subset of diameter $\delta$ is contained in some
