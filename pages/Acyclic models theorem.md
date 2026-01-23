@@ -1,1 +1,2 @@
-- Let $
+- Let $\mathsf{C}$ be a category. A model simply means a subset $\mathcal{M}\subset\operatorname{Ob}(\mathsf{C})$.
+-
