@@ -37,5 +37,5 @@
 - We want to show that $S^\bullet\to S^{\mathcal{U}\bullet}$ is a homotopy equivalence. Since this is "absolute" it suffices to show it for $S^{\mathcal{U}}_\bullet\to S_\bullet$.
 - Recall the barycentric subdivision map $\operatorname{Sd}:S_\bullet(X)\to S_\bullet(X)$, and a homotopy $h:\operatorname{Sd}\simeq\operatorname{id}$, both natural in $X$. As such, they preserves $\mathcal{U}$-smallness, so we have $\operatorname{Sd}$ and $h$ on $S^{\mathcal{U}}_\bullet$ as well.
 - Easy fact. If $M$ is a compact metric space and $\mathcal{U}$ is an open cover, then there exists $\delta>0$, called the Lebesgue number, such that every subset of diameter $\leq\delta$ is contained in some $U\in\mathcal{U}$.
-	- Proof. Suppose $\mathcal{U}$ is finite. Then $x\mapsto\sum_{U\in\mathcal{U}}\operatorname{dist}(x,M\setminus U)$ is a positive continuous function, hence has a global minimum $>0$.
+	- Proof. Suppose $\mathcal{U}$ is finite. Then $x\mapsto\sum_{U\in\mathcal{U}}\operatorname{dist}(x,M\setminus U)$ is a positive continuous function, hence has a global minimum $>0$. QED
 -
