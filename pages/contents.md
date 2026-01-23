@@ -17,3 +17,4 @@
 - Analysis
 	- [[Riesz representation theorem]]
 - Topology
+	- [[Acyclic models theorem]]
