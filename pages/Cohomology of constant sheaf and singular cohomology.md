@@ -42,5 +42,5 @@
 	- $N(\partial\sigma)\leq N(\sigma)$.
 	- If $\sigma$ is $\mathcal{U}$-small, then $N(\sigma)=0$.
 - The result now follows purely formally. Define two operators on simplices, $\operatorname{Sd}^\infty$ as $\sigma\mapsto\operatorname{Sd}^{N(\sigma)}\sigma$, and $k$ as $\sigma\mapsto h(\operatorname{id}+\operatorname{Sd}+\cdots+\operatorname{Sd}^{N(\sigma)-1})$. Now
-- $$\operatorname{Sd}^\infty\sigma-\sigma=(\operatorname{Sd}-\operatorname{id})(\operatorname{id}+\operatorname{Sd}+\cdots+\operatorname{Sd}^{N(\sigma)-1})$$
+- $$\operatorname{Sd}^\infty\sigma-\sigma=(\operatorname{Sd}-\operatorname{id})(\operatorname{id}+\operatorname{Sd}+\cdots+\operatorname{Sd}^{N(\sigma)-1})=\partial k+k\partial-h\sum$$
 -
