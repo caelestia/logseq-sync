@@ -5,7 +5,7 @@
 	- Proof. First, observe that $T=\bigoplus_{i\in I}T_i$ because colimits are pointwise in the functor category, where $T_i$ is a functor that's free on a single model $\{M_i\}$ with basis $\{x_i\}$. By how projectives work, we may assume $|I|=1$ and $\mathcal{M}=\{M\}$.
 	- Now consider the adjunction pair $\operatorname{Free}:\mathsf{Set}\rightleftarrows\mathsf{Ab}:\operatorname{U}$. Because the isomorphism $\varphi\leftrightarrow\psi$ is given by "absolute"/"natural" equations (viz. $\psi=\operatorname{U}\varphi\circ\eta$), this easily lifts an adjunction
 	- $$\operatorname{Free}:\mathsf{Set}^{\mathscr{C}}\rightleftarrows\mathsf{Ab}^{\mathscr{C}}:\operatorname{U}$$
-	-
+	- By the Yoneda lemma, $x$
 - Now consider a functor $T_\bullet:\mathscr{C}\to\mathsf{Ch}_{\geq0}(\mathsf{Ab})$. We say it is
 	- Free on $\mathcal{M}$, if $T_i$ is free on $\mathcal{M}$ for all $i\geq 0$.
 	- Acyclic on $\mathcal{M}$, if $T(M)$ is acyclic for all $M\in\mathcal{M}$.
