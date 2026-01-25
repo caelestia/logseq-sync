@@ -5,3 +5,4 @@
 	- Free on $\mathcal{M}$, if $T_i$ is free on $\mathcal{M}$ for all $i\geq 0$.
 	- Acyclic on $\mathcal{M}$, if $T(M)$ is acyclic for all $M\in\mathcal{M}$.
 -
+-
