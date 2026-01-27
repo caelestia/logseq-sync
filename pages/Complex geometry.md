@@ -33,4 +33,5 @@
 	- Let $A,B\in\Gamma(X^{0,1})$, so $A+iJA=B+iJB=0$. We have
 	- $$C:=[2A,2B]=[A-iJA,B-iJB]=[A,B]-i[JA,B]-i[A,JB]-[JA,JB].$$
 	- $$2C^{1,0}=C+iJC=N_J(A,B)+iJN_J(A,B)=2N_J(A,B)^{1,0}.$$
-	- Since in $T_{\mathbb{C}}$, we have $\overline{T^{0,1}}=T^{1,0}$, integrability of these subbundles are equivalent, and
+	- Since in $T_{\mathbb{C}}$, we have $\overline{T^{0,1}}=T^{1,0}$, integrability of these subbundles are equivalent, and thus they are also equivalent to vanishing of $N_J$. QED
+- If
