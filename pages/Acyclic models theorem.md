@@ -17,7 +17,7 @@
   background-color:: yellow
 	- Proof. This is very basic.
 	- Since $S_\bullet\to H_0(S_\bullet)\to 0$ is exact on $\mathcal{M}$, the existence of $\Theta$ reduces to the following: If $X\xrightarrow{\partial} Y\xrightarrow{\partial} Z$ is exact on $\mathcal{M}$, $T$ is free on $\mathcal{M}$ and $f:T\to Y$ satisfies $\partial f=0$, then there exists $g:T\to X$ such that $f=\partial g$.
-	-
+	- We then reduce to case when $T$ is a single representable.
 	- Now, suppose $\Theta$ and $\Theta'$ both induces $\theta$ at $n=0$, we need to inductively build $h:T_\bullet\to S_\bullet[1]$ such that $\partial_{n+1}h_n+h_{n-1}\partial_n=\Theta_n-\Theta'_n=:\varphi_n$. Put $h_n=0$ for $n<0$, and suppose we have constructed up to $h_{n-1}$. Then
 	- $$\partial_n(\varphi_n-h_{n-1}\partial_n)=(\varphi_{n-1}-\partial_nh_{n-1})\partial_n=h_{n-2}\partial_{n-1}\partial_n=0.$$
 	- Use above logic again, we find $h_n$ such that $\partial h_n=\varphi_n-h_{n-1}\partial_n$. QED
