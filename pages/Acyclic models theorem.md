@@ -14,7 +14,7 @@
 - Denote its $n$-th homology as $H_n(T_\bullet)$.
 - Theorem (Acyclic models). If $T_\bullet$ is free on $\mathcal{M}$ and $S_\bullet$ is acyclic on $\mathcal{M}$, then for any natural transformation $\theta:H_0(T_\bullet)\to H_0(S_\bullet)$, there exists a natural chain map $\Theta:T_\bullet\to S_\bullet$ inducing it. Moreover, $\Theta$ is unique up to natural chain homotopy.
 	- Proof. This is very basic.
-	- Since $S_\bullet\to H_0()
+	- Since $S_\bullet\to H_0(S_\bullet)\to 0$ is exact on $\mathcal{M}$, the existence reduces to the following: If $S_2\to S_1\to S_0$ is exact on $\mathcal{M}$, then $
 	- Now, suppose $\Theta$ and $\Theta'$ both induces $\theta$ at $n=0$, we need to inductively build $h:T_\bullet\to S_\bullet[1]$ such that $\partial_{n+1}h_n+h_{n-1}\partial_n=\Theta_n-\Theta'_n=:\varphi_n$. Put $h_n=0$ for $n<0$, and suppose we have constructed up to $h_{n-1}$. Then
 	- $$\partial_n(\varphi_n-h_{n-1}\partial_n)=(\varphi_{n-1}-\partial_nh_{n-1})\partial_n=h_{n-2}\partial_{n-1}\partial_n=0.$$
 	- Use above logic again, we find $h_n$ such that $\partial h_n=\varphi_n-h_{n-1}\partial_n$. QED
