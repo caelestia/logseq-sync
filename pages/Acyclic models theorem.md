@@ -6,7 +6,7 @@
 	- Now consider the adjunction pair $\operatorname{Free}:\mathsf{Set}\rightleftarrows\mathsf{Ab}:\operatorname{U}$. Because the isomorphism $\varphi\leftrightarrow\psi$ is given by "absolute"/"natural" equations (viz. $\psi=\operatorname{U}\varphi\circ\eta$), this easily lifts an adjunction
 	- $$\operatorname{Free}_*:\mathsf{Set}^{\mathscr{C}}\rightleftarrows\mathsf{Ab}^{\mathscr{C}}:\operatorname{U}_*$$
 	- By the Yoneda lemma, $x\in UT(M)$ gives a natural transformation $\operatorname{Hom}(M,-)=:k_M\to U_*T$, such that the corresponding $\operatorname{Free}_*k_M\to T$ is an isomorphism.
-	- $$\operatorname{Hom}(T,Z)=\operatorname{Hom}(k_M,U_*Z)=Z(M)$$
+	- $$\operatorname{Hom}(T,Z)=\operatorname{Hom}(k_M,U_*Z)\simeq Z(M),\quad \phi\mapsto\phi(M)(x)$$
 	- Which implies that $T$ is projective since $Z\mapsto Z(M)$ is exact.
 - Now consider a functor $T_\bullet:\mathscr{C}\to\mathsf{Ch}_{\geq0}(\mathsf{Ab})$. We say it is
 	- Free on $\mathcal{M}$, if $T_i$ is free on $\mathcal{M}$ for all $i\geq 0$.
