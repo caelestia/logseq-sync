@@ -1,4 +1,4 @@
-- Let $\mathscr{C}$ be a category. A set of models simply means a subset $\mathcal{M}\subset\operatorname{Ob}(\mathscr{C})$.
+- Let $\mathscr{C}$ be a category. A set of models simply means a subset $\mathcal{M}\subset\operatorname{Ob}(\mathscr{C})$. Fix a set map $I\to\mathcal{M}$.
 - We say that a functor $T:\mathscr{C}\to\mathsf{Ab}$ (or $R\text{-}\mathsf{Mod}$) is
 	- Free on $\mathcal{M}$ with model basis $\{x_i\in T(M_i):i\in I,\,M_i\in\mathcal{M}\}$, if for all $C\in\operatorname{Ob}(\mathscr{C})$, the set $\{T(f)(x_i):i\in I,\, f\in\operatorname{Hom}(M_i,C)\}$ is a basis for $T(C)$.
 - Lemma. If $T$ is free on $\mathcal{M}$, then it is a projective in the category $\mathsf{Ab}^{\mathscr{C}}=\mathsf{Fct}(\mathscr{C},\mathsf{Ab})$.
