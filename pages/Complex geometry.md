@@ -33,3 +33,4 @@
 	- Let $A,B\in\Gamma(X^{0,1})$, so $A+iJA=B+iJB=0$. We have
 	- $$C:=[2A,2B]=[A-iJA,B-iJB]=[A,B]-i[JA,B]-i[A,JB]-[JA,JB].$$
 	- $$2C^{1,0}=C+iJC=N_J(A,B)+iJN_J(A,B)=2N_J(A,B)^{1,0}.$$
+	- Since in $T_{\mathbb{C}}(X)$,
