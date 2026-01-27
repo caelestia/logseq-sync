@@ -21,4 +21,4 @@
 	- Now, suppose $\Theta$ and $\Theta'$ both induces $\theta$ at $n=0$, we need to inductively build $h:T_\bullet\to S_\bullet[1]$ such that $\partial_{n+1}h_n+h_{n-1}\partial_n=\Theta_n-\Theta'_n=:\varphi_n$. Put $h_n=0$ for $n<0$, and suppose we have constructed up to $h_{n-1}$. Then
 	- $$\partial_n(\varphi_n-h_{n-1}\partial_n)=(\varphi_{n-1}-\partial_nh_{n-1})\partial_n=h_{n-2}\partial_{n-1}\partial_n=0.$$
 	- Use above logic again, we find $h_n$ such that $\partial h_n=\varphi_n-h_{n-1}\partial_n$. QED
-- Corollary. If both $T_\bullet,S_\bullet$ are free and acyclic on $\mathcal{M}$, and if $\theta:H_0(T_\bullet)\xrightarrow{\sim}H_0(S_\bullet)$
+- Corollary. If both $T_\bullet,S_\bullet$ are free and acyclic on $\mathcal{M}$, and if $\theta:H_0(T_\bullet)\xrightarrow{\sim}H_0(S_\bullet)$, then any natural chain map $\Theta$ inducing $\theta$ is a natural homotopy equivalence.
