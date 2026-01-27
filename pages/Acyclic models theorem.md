@@ -3,7 +3,6 @@
 	- Free on $\mathcal{M}$ with model basis $\{x_i\in T(M_i):i\in I,\,M_i\in\mathcal{M}\}$, if for all $C\in\operatorname{Ob}(\mathscr{C})$, the set $\{T(f)(x_i):i\in I,\, f\in\operatorname{Hom}(M_i,C)\}$ is a basis for $T(C)$.
 - Lemma. If $T$ is free on $\mathcal{M}$, then it is a projective in the category $\mathsf{Ab}^{\mathscr{C}}=\mathsf{Fct}(\mathscr{C},\mathsf{Ab})$.
 	- Proof. First, observe that $T=\bigoplus_{i\in I}T_i$ because colimits are pointwise in the functor category, where $T_i$ is a functor that's free on a single model $\{M_i\}$ with basis $\{x_i\}$. By how projectives work, we may assume $|I|=1$ and $\mathcal{M}=\{M\}$.
-	- The result now follows from the Yoneda lemma.
 	- Consider the adjunction pair $\operatorname{Free}:\mathsf{Set}\rightleftarrows\mathsf{Ab}:\operatorname{U}$. Because the isomorphism $\varphi\leftrightarrow\psi$ is given by "absolute"/"natural" equations (viz. $\psi=\operatorname{U}\varphi\circ\eta$), this easily lifts an adjunction
 	- $$\operatorname{Free}_*:\mathsf{Set}^{\mathscr{C}}\rightleftarrows\mathsf{Ab}^{\mathscr{C}}:\operatorname{U}_*$$
 	- By the Yoneda lemma, $x\in UT(M)$ gives a natural transformation $\operatorname{Hom}(M,-)=:k_M\to U_*T$, such that the corresponding $\operatorname{Free}_*k_M\to T$ is an isomorphism by assumption. Hence
