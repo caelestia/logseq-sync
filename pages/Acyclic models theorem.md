@@ -1,7 +1,7 @@
 - Let $\mathscr{C}$ be a category. A set of models simply means a subset $\mathcal{M}\subset\operatorname{Ob}(\mathscr{C})$. Fix a set map $I\to\mathcal{M}$.
 - We say that a functor $T:\mathscr{C}\to\mathsf{Ab}$ (or $R\text{-}\mathsf{Mod}$) is
 	- Free on $\mathcal{M}$ with model basis $\{x_i\in T(M_i):i\in I,\,M_i\in\mathcal{M}\}$, if for all $C\in\operatorname{Ob}(\mathscr{C})$, the set $\{T(f)(x_i):i\in I,\, f\in\operatorname{Hom}(M_i,C)\}$ is a basis for $T(C)$.
-- Lemma. If $T$ is free on $\mathcal{M}$, then it is a projective in the category $\mathsf{Ab}^{\mathscr{C}}=\mathsf{Fct}(\mathscr{C},\mathsf{Ab})$.
+- Lemma. If $T$ is free on $\mathcal{M}$, then it is a projective generator in the category $\mathsf{Ab}^{\mathscr{C}}=\mathsf{Fct}(\mathscr{C},\mathsf{Ab})$.
 	- Proof. First, observe that $T=\bigoplus_{i\in I}T_i$ because colimits are pointwise in the functor category, where $T_i$ is a functor that's free on a single model $\{M_i\}$ with basis $\{x_i\}$. By how projectives work, we may assume $|I|=1$ and $\mathcal{M}=\{M\}$.
 	- Consider the adjunction pair $\operatorname{Free}:\mathsf{Set}\rightleftarrows\mathsf{Ab}:\operatorname{U}$. Because the isomorphism $\varphi\leftrightarrow\psi$ is given by "absolute"/"natural" equations (viz. $\psi=\operatorname{U}\varphi\circ\eta$), this easily lifts an adjunction
 	- $$\operatorname{Free}_*:\mathsf{Set}^{\mathscr{C}}\rightleftarrows\mathsf{Ab}^{\mathscr{C}}:\operatorname{U}_*$$
