@@ -31,5 +31,5 @@
 - The Nijenhuis tensor is defined by $N_J(A,B)=[A,B]+J[JA,B]+J[A,JB]-[JA,JB]$.
 - $N_J=0$ iff the Lie bracket of two $(0,1)$-vector fields is again of type $(0,1)$. Or $(1,0)$.
 	- Let $A,B\in\Gamma(X^{0,1})$, so $A+iJA=B+iJB=0$. We have
-	- $$[2A,2B]=[A-iJA,B-iJB]=[A,B]-i[JA,B]-i[A,JB]-[JA,JB].$$
-	- $$2[]$$
+	- $$C:=[2A,2B]=[A-iJA,B-iJB]=[A,B]-i[JA,B]-i[A,JB]-[JA,JB].$$
+	- $$2C^{1,0}=C+iJ[2A,2B]=$$
