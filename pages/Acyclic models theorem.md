@@ -8,6 +8,7 @@
 	- By the Yoneda lemma, $x\in UT(M)$ gives a natural transformation $\operatorname{Hom}(M,-)=:k_M\to U_*T$, such that the corresponding $\operatorname{Free}_*k_M\to T$ is an isomorphism by assumption. Hence
 	- $$\operatorname{Hom}(T,Z)=\operatorname{Hom}(k_M,U_*Z)\simeq Z(M),\quad \phi\mapsto\phi(M)(x),$$
 	- Which implies that $T$ is projective since $Z\mapsto Z(M)$ is exact. QED
+- Remark: for the acyclic models theorem, simple projectivity is not quite enough, we need to use the above Yoneda isomorphism.
 - Now consider a functor $T_\bullet:\mathscr{C}\to\mathsf{Ch}_{\geq0}(\mathsf{Ab})$. We say it is
 	- Free on $\mathcal{M}$, if $T_n$ is free on $\mathcal{M}$ for all $n\geq 0$.
 	- Acyclic on $\mathcal{M}$, if $T(M)$ is acyclic for all $M\in\mathcal{M}$.
