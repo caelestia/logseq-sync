@@ -9,7 +9,7 @@
 	- $$\operatorname{Hom}(T,Z)=\operatorname{Hom}(k_M,U_*Z)\simeq Z(M),\quad \phi\mapsto\phi(M)(x),$$
 	- Which implies that $T$ is projective since $Z\mapsto Z(M)$ is exact. QED
 - Now consider a functor $T_\bullet:\mathscr{C}\to\mathsf{Ch}_{\geq0}(\mathsf{Ab})$. We say it is
-	- Free on $\mathcal{M}$, if $T_i$ is free on $\mathcal{M}$ for all $i\geq 0$.
+	- Free on $\mathcal{M}$, if $T_n$ is free on $\mathcal{M}$ for all $n\geq 0$.
 	- Acyclic on $\mathcal{M}$, if $T(M)$ is acyclic for all $M\in\mathcal{M}$.
-- Denote its $i$-th homology as $H_i(T_\bullet)$.
+- Denote its $n$-th homology as $H_i(T_\bullet)$.
 -
