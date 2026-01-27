@@ -30,4 +30,4 @@
 - ### Integrability
 - The Nijenhuis tensor is defined by $N_J(A,B)=[A,B]+J[JA,B]+J[A,JB]-[JA,JB]$.
 - $N_J=0$ iff the Lie bracket of two $(0,1)$-vector fields is again of type $(0,1)$. Or $(1,0)$.
-	-
+	- Let $A,B\in\Gamma(X^{0,1})$, so $A+
