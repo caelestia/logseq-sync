@@ -12,5 +12,5 @@
 	- Free on $\mathcal{M}$, if $T_n$ is free on $\mathcal{M}$ for all $n\geq 0$.
 	- Acyclic on $\mathcal{M}$, if $T(M)$ is acyclic for all $M\in\mathcal{M}$.
 - Denote its $n$-th homology as $H_n(T_\bullet)$.
-- Theorem (Acyclic models). If $T_\bullet$ is free on $\mathcal{M}$ and $S_\bullet$ is acyclic on $\mathcal{M}$, then for any natural transformation $\theta:H_0(T_\bullet)\to H_0(S_\bullet)$, there exists
+- Theorem (Acyclic models). If $T_\bullet$ is free on $\mathcal{M}$ and $S_\bullet$ is acyclic on $\mathcal{M}$, then for any natural transformation $\theta:H_0(T_\bullet)\to H_0(S_\bullet)$, there exists a natural chain map $\T_\bullet\to S_\bullet$ inducing it. Moreover
 -
