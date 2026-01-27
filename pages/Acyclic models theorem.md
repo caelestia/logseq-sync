@@ -13,4 +13,5 @@
 	- Acyclic on $\mathcal{M}$, if $T(M)$ is acyclic for all $M\in\mathcal{M}$.
 - Denote its $n$-th homology as $H_n(T_\bullet)$.
 - Theorem (Acyclic models). If $T_\bullet$ is free on $\mathcal{M}$ and $S_\bullet$ is acyclic on $\mathcal{M}$, then for any natural transformation $\theta:H_0(T_\bullet)\to H_0(S_\bullet)$, there exists a natural chain map $\Theta:T_\bullet\to S_\bullet$ inducing it. Moreover, $\Theta$ is unique up to natural chain homotopy.
-	- Proof. For existence, notice that
+	- Proof. Existence follows from exactness of $S_\bullet\to H_0(S_\bullet)\to 0$ and projectivity of the $T_n$.
+	- Now ,
