@@ -23,4 +23,5 @@
 	- Use above logic again, we find $h_n$ such that $\partial h_n=\varphi_n-h_{n-1}\partial_n$. QED
 - Corollary. If both $T_\bullet,S_\bullet$ are free and acyclic on $\mathcal{M}$, and if $\theta:H_0(T_\bullet)\xrightarrow{\sim}H_0(S_\bullet)$, then any natural chain map $\Theta$ inducing $\theta$ is a natural homotopy equivalence. In particular, such $\Theta$ exists, so $T_\bullet$ and $S_\bullet$ have isomorphic homology groups.
 - ## Applications
+- ### Homotopy invariance of H_sing
 -
