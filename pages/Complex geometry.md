@@ -29,4 +29,4 @@
 - Example. The tautological line bundle $\mathcal{O}(-1)=\{(x,v)\in\mathbb{CP}^n\times\C^{n+1}:v\in x\}$ over $\mathbb{CP}^n$.
 - ### Integrability
 - The Nijenhuis tensor is defined by $N_J(A,B)=[A,B]+J[JA,B]+J[A,JB]-[JA,JB]$.
-- If $J$ is integrable, then $N_J$
+- $N_J=0$ iff the Lie bracket of two $(0,1)$-vector fields is again of
