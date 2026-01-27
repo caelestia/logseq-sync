@@ -1,3 +1,4 @@
+## Setup
 - Let $\mathscr{C}$ be a category. A set of models simply means a subset $\mathcal{M}\subset\operatorname{Ob}(\mathscr{C})$. Fix a set map $I\to\mathcal{M}$.
 - We say that a functor $T:\mathscr{C}\to\mathsf{Ab}$ (or $R\text{-}\mathsf{Mod}$) is
 	- Free on $\mathcal{M}$ with model basis $\{x_i\in T(M_i):i\in I,\,M_i\in\mathcal{M}\}$, if for all $C\in\operatorname{Ob}(\mathscr{C})$, the set $\{T(f)(x_i):i\in I,\, f\in\operatorname{Hom}(M_i,C)\}$ is a basis for $T(C)$.
@@ -13,6 +14,7 @@
 	- Free on $\mathcal{M}$, if $T_n$ is free on $\mathcal{M}$ for all $n\geq 0$.
 	- Acyclic on $\mathcal{M}$, if $T(M)$ is acyclic for all $M\in\mathcal{M}$.
 - Denote its $n$-th homology as $H_n(T_\bullet)$.
+- ## The theorem
 - Theorem (Acyclic models). If $T_\bullet$ is free on $\mathcal{M}$ and $S_\bullet$ is acyclic on $\mathcal{M}$, then for any natural transformation $\theta:H_0(T_\bullet)\to H_0(S_\bullet)$, there exists a natural chain map $\Theta:T_\bullet\to S_\bullet$ inducing it. Moreover, $\Theta$ is unique up to natural chain homotopy.
   background-color:: yellow
 	- Proof. This is very basic.
