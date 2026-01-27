@@ -12,4 +12,4 @@
 	- Free on $\mathcal{M}$, if $T_n$ is free on $\mathcal{M}$ for all $n\geq 0$.
 	- Acyclic on $\mathcal{M}$, if $T(M)$ is acyclic for all $M\in\mathcal{M}$.
 - Denote its $n$-th homology as $H_n(T_\bullet)$.
-- Theorem (Acyclic models).
+- Theorem (Acyclic models). If $T_\bullet$ is free on $\mathcal{M}$ and $S_\bullet$ is acyclic
