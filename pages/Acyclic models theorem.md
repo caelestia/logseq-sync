@@ -42,3 +42,5 @@
 	- $$\partial K+K\epsilon=\mathrm{id},$$
 	- where $\epsilon:S_0(D)\to\mathbb{Z}$ is the augmentation map. QED
 - ### Simplicial homology = Singular homology
+- We have a version of the above lemma for simplicial sets, as well:
+-
