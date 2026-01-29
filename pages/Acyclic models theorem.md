@@ -25,7 +25,7 @@
 	- Use above logic again, we find $h_n$ such that $\partial h_n=\varphi_n-h_{n-1}\partial_n$. QED
 - Corollary. If both $T_\bullet,S_\bullet$ are free and acyclic on $\mathcal{M}$, and if $\theta:H_0(T_\bullet)\xrightarrow{\sim}H_0(S_\bullet)$, then any natural chain map $\Theta$ inducing $\theta$ is a natural homotopy equivalence. In particular, such $\Theta$ exists, so $T_\bullet$ and $S_\bullet$ have isomorphic homology groups.
 - ## Applications
-- ### Homotopy invariance of H_sing
+- ### Homotopy invariance of singular homology
 - Consider the two embeddings $\iota_0,\iota_1:X\to X\times I$. Given two continuous maps $f,g:X\to Y$, a homotopy $f\simeq g$ is $H:X\times I\to Y$ satisfying $H\iota_0=f$, $H\iota_1=g$.
 - We want to show that $f_*=g_*$ at *homology* level. It suffices to prove $f_*$ and $g_*$ are homotopic at *chain* level.
 - Proposition. The induced chain maps $(\iota_0)_*$ and $(\iota_1)_*$ are homotopic.
@@ -34,4 +34,4 @@
 	- To apply the uniqueness of the theorem, it remains to check that $T_\bullet$ is acyclic on $\mathcal{M}$. This is done by the following lemma. QED
 - Lemma. The reduced homology of any convex subset $D$ of an Euclidean space is $0$.
 - Proof. Pick an arbitrary "apex" $x\in D$.
-- ###
+- ### Simplicial homology = Singular homology
