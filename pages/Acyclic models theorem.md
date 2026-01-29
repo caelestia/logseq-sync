@@ -39,5 +39,6 @@
 	- Suppose $n\geq1$ and we compute the $i$-th faces of $K\sigma$, $0\leq i\leq n+1$. If $i=0$, we get $(K\sigma)d_i=\sigma$. If $i>1$, we clearly have $(K\sigma)d_i=K(\sigma d_{i-1})$. Hence
 	- $$\partial K+K\partial=\mathrm{id}.$$
 	- Finally, if $n=1$, $Kx$ is a line from $x\in D$ to $a$, so $\partial Kx=x-a$. Hence
-	- $$\partial K+K\epsilon=\$$
+	- $$\partial K+K\epsilon=\mathrm{id},$$
+	- where $\epsilon:S_0(D)\to\mathbb{Z}$ is the augmentation map. QED
 - ### Simplicial homology = Singular homology
