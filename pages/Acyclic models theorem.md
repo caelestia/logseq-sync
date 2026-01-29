@@ -27,4 +27,4 @@
 - ## Applications
 - ### Homotopy invariance of H_sing
 - Consider the two embeddings $\iota_0,\iota_1:X\to X\times I$. Given two continuous maps $f,g:X\to Y$, a homotopy $f\simeq g$ is $H:X\times I\to Y$ satisfying $H\iota_0=f$, $H\iota_1=g$.
--
+- Proposition.
