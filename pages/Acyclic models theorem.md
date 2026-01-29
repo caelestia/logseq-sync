@@ -33,6 +33,7 @@
 	- It is clear that $H_0(\iota_0)=H_0(\iota_1)$.
 	- To apply the uniqueness of the theorem, it remains to check that $T_\bullet$ is acyclic on $\mathcal{M}$. This is done by the following lemma. QED
 - Lemma. The reduced homology of any convex subset $D$ of an Euclidean space is $0$.
+  background-color:: yellow
 	- Proof. Pick an arbitrary "apex" $a\in D$. Define the cone operator $K:S_\bullet(D)\to S_\bullet(D)[1]$ which, on an $n$-simplex $\sigma$, is given by
 	- $$(K\sigma)(t_0,\cdots,t_{n+1})=t_0a+(1-t_0)\sigma\left(\frac{t_1}{1-t_0},\cdots,\frac{t_{n+1}}{1-t_0}\right).$$
 	- Suppose $n\geq1$ and we compute the $i$-th faces of $K\sigma$, $0\leq i\leq n+1$. If $i=0$, we get $(K\sigma)d_i=\sigma$. If $i>1$, we clearly have $(K\sigma)d_i=K(\sigma d_{i-1})$. Hence
