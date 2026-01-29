@@ -27,4 +27,5 @@
 - ## Applications
 - ### Homotopy invariance of H_sing
 - Consider the two embeddings $\iota_0,\iota_1:X\to X\times I$. Given two continuous maps $f,g:X\to Y$, a homotopy $f\simeq g$ is $H:X\times I\to Y$ satisfying $H\iota_0=f$, $H\iota_1=g$.
-- We want to show that $f_*=g_*$ at *homology* level. It suffices to prove $f_*$ and $g_*$ are homotopic at *chain* level.
+- We want to show that $f_*=g_*$ at *homology* level. It suffices to prove $f_*$ and $g_*$ are homotopic at *chain* level. For this, we prove:
+-
