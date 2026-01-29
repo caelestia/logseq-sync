@@ -35,5 +35,5 @@
 - Lemma. The reduced homology of any convex subset $D$ of an Euclidean space is $0$.
 	- Proof. Pick an arbitrary "apex" $a\in D$. Define the cone operator $K:S_\bullet(D)\to S_\bullet(D)[1]$ which, on an $n$-simplex $\sigma$, is given by
 	- $$(K\sigma)(t_0,\cdots,t_{n+1})=t_0a+(1-t_0)\sigma\left(\frac{t_1}{1-t_0},\cdots,\frac{t_{n+1}}{1-t_0}\right).$$
-	-
+	- Suppose $n\geq1$.
 - ### Simplicial homology = Singular homology
