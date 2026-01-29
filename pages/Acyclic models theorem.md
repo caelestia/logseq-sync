@@ -29,8 +29,8 @@
 - Consider the two embeddings $\iota_0,\iota_1:X\to X\times I$. Given two continuous maps $f,g:X\to Y$, a homotopy $f\simeq g$ is $H:X\times I\to Y$ satisfying $H\iota_0=f$, $H\iota_1=g$.
 - We want to show that $f_*=g_*$ at *homology* level. It suffices to prove $f_*$ and $g_*$ are homotopic at *chain* level.
 - Proposition. The induced chain maps $(\iota_0)_*$ and $(\iota_1)_*$ are homotopic.
-- Proof. $\iota_0$ is a natural transformation, and so is $(\iota_0)_*=S_\bullet\circ\iota_0:S_\bullet\to T_\bullet$, where $T_\bullet(-):=S_\bullet(-\times I)$. On $\mathscr{C}=\mathsf{Top}$, we choose $\mathcal{M}=\{\Delta^p\}_{p\geq0}$. Then each $S_n$ is free on the basis $\{\mathrm{id}_{\Delta^n}\}$.
-- It is clear that $H_0(\iota_0)=H_0(\iota_1)$.
-- To apply the uniqueness of the theorem, it remains to check that $T_\bullet$ is acyclic on $\mathcal{M}$. This is done by the following lemma. QED
-- Lemm
-- Alternatively, by simply translating the argument to singular homology, we can directly prove that the reduced homology of any convex subset $D$ of an Euclidean space is $0$. Here the "apex" can be an arbitrary $x\in D$.
+	- Proof. $\iota_0$ is a natural transformation, and so is $(\iota_0)_*=S_\bullet\iota_0:S_\bullet\to T_\bullet$, where $T_\bullet(-):=S_\bullet(-\times I)$. On $\mathscr{C}=\mathsf{Top}$, we choose $\mathcal{M}=\{\Delta^p\}_{p\geq0}$. Then each $S_n$ is free on the basis $\{\mathrm{id}_{\Delta^n}\}$.
+	- It is clear that $H_0(\iota_0)=H_0(\iota_1)$.
+	- To apply the uniqueness of the theorem, it remains to check that $T_\bullet$ is acyclic on $\mathcal{M}$. This is done by the following lemma. QED
+- Lemma. The reduced homology of any convex subset $D$ of an Euclidean space is $0$.
+- Proof. Here the "apex" can be an arbitrary $x\in D$.
