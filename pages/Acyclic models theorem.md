@@ -26,5 +26,5 @@
 - Corollary. If both $T_\bullet,S_\bullet$ are free and acyclic on $\mathcal{M}$, and if $\theta:H_0(T_\bullet)\xrightarrow{\sim}H_0(S_\bullet)$, then any natural chain map $\Theta$ inducing $\theta$ is a natural homotopy equivalence. In particular, such $\Theta$ exists, so $T_\bullet$ and $S_\bullet$ have isomorphic homology groups.
 - ## Applications
 - ### Homotopy invariance of H_sing
-- Consider the two continuous maps $\iota_0,\iota_1:X\to X\times I$.
+- Consider the two continuous maps $\iota_0,\iota_1:X\to X\times I$. Given two continuous maps $f,g:X\to Y$, a homotopy is $H:X\times I\to Y$ satisfying $H\iota_1=f$, $
 -
