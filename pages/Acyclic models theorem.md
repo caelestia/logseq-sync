@@ -31,4 +31,4 @@
 - Proposition. The induced chain maps $(\iota_0)_*$ and $(\iota_1)_*$ are homotopic.
 - Proof. $\iota_0$ is a natural transformation, and so is $(\iota_0)_*=S_\bullet\circ\iota_0:S_\bullet\to T_\bullet$, where $T_\bullet(-):=S_\bullet(-\times I)$. On $\mathscr{C}=\mathsf{Top}$, we choose $\mathcal{M}=\{\Delta^p\}_{p\geq0}$. Then each $S_n$ is free on the basis $\{\mathrm{id}_{\Delta^n}\}$.
 - It is clear that $H_0(\iota_0)=H_0(\iota_1)$.
-- To apply the uniqueness of the theorem, it remains to check that $T_\bullet$ is acyclic on $\mathcal{M}$. Indeed, we can prove that the reduced homology of any convex subset $X$ of an Euclidean space is $0$.
+- To apply the uniqueness of the theorem, it remains to check that $T_\bullet$ is acyclic on $\mathcal{M}$. Indeed, we can prove that the reduced homology of any convex subset $X$ of an Euclidean space is $0$. Pick
