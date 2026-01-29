@@ -43,5 +43,5 @@
 	- where $\epsilon:S_0(D)\to\mathbb{Z}$ is the augmentation map. QED
 - ### Simplicial homology = Singular homology
 - We have a version of the above lemma for simplicial sets, as well:
-- Lemma. If $P$ is a poset with a minimal element $\bot$, the nerve $N(P)$ has acyclic homology.
+- Lemma. If $P$ is a poset with a minimal element $\bot$, the nerve $N(P)$ has the simplicial homology.
 	- Proof.
