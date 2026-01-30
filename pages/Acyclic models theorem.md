@@ -50,4 +50,5 @@
 - Remark. To be precise, $K$ shows that the composition $N(P)\to N(\{\bot\})=\Delta^0\to N(P)$ is homotopic to $\mathrm{id}$ at chain level. It follows that the chain complex associated to $N(P)$ is homotopy equivalent to that of a point.
 - Definition. The simplicial homology of a simplicial set $X$ is the homology of $C(\Z X)$, denoted as $H_\bullet(X)$.
 - Definition. The singular homology of $X$ is that of its geometric realization $H_\bullet(|X|)$.
-- Theorem. There is a natural comparison isomorphism $\Psi:H_\bullet(X)\to H_\bullet()
+- Theorem. There is a natural isomorphism $\Psi:H_\bullet(X)\to H_\bullet(|X|)$.
+	- Proof. First, we obtain the comparison map $\psi:C(\Z X)\to
