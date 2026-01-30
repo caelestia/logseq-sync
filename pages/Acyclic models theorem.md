@@ -54,4 +54,4 @@
 	- Proof. First, we obtain the comparison map $\psi_X:C(\Z X)\to S_\bullet(|X|)$ via acyclic models theorem. Take $\mathscr{C}=\mathsf{sSet}$ and $\mathcal{M}=\{\Delta^p\}_{p\geq0}$. In the last section, we've checked that RHS is acyclic on $\mathcal{M}$. LHS is free on $\mathcal{M}$ since $C(\Z X)_n=\Z X_n=\Z\operatorname{Hom}_{\mathsf{sSet}}(\Delta^n,X)$. We have a natural map of $H_0(\psi)$ as well. Hence the acyclic models theorem guarantees such $\psi$ exists.
 	- Next, we check that $\psi$ is a quasi-isomorphism for simplices. Since both sides are acyclic and $H_0(\psi)$ is clearly an isomorphism, this is clear.
 	-
-- Remark. This proof does not actually rely on the acyclic models theorem, because there is an obvious construction of $\psi$; it is also given by the unit of the adjunction $\left|-\right|\dashv\operatorname{Sing}$.
+- Remark. This does not actually rely on the acyclic models theorem, because there is an obvious construction of $\psi$. It is also given by the unit of the adjunction $\left|-\right|\dashv\operatorname{Sing}$.
