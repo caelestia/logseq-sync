@@ -1,5 +1,5 @@
 - This is a step in proving the result
 	- ((697bd235-724a-4d7c-ac40-0d566c15f6bc))
-- To recap, we have defined a comparison $\psi:C(\Z X)\to S_\bullet(|X|)$ and checked it's a quasi-isomorphism on simplices.
+- To recap, we have defined a comparison map $\psi_X:C(\Z X)\to S_\bullet(|X|)$ and checked it's a quasi-isomorphism for simplices. So we need to study its
 - ### Simplicial homology and the colimit
 	-
