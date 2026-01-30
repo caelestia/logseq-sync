@@ -1,3 +1,3 @@
 - This is a step in proving the following.
-- ((697bd235-724a-4d7c-ac40-0d566c15f6bc))
+- [[Acyclic models theorem]]
 -
