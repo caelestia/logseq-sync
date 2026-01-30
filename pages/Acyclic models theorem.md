@@ -44,5 +44,5 @@
 - ### Simplicial homology = Singular homology
 - We have a version of the above lemma for simplicial sets, as well:
 - Lemma. If $P$ is a poset with a minimal element $\bot$, the nerve $N(P)$ is acyclic for simplicial homology.
-	- Proof. Likewise, we explicitly find a retracting chain homotopy $K$ on the Moore chain complex $C(\mathbb{Z}N(P))$. An $n$-simplex $\sigma$ is a tuple $(x_0\leq\cdots\leq x_n)$, and we define $K\sigma=(\bot\leq x_0\leq)$
-	-
+	- Proof. Likewise, we explicitly find a retracting chain homotopy $K$ on the Moore chain complex $C(\mathbb{Z}N(P))$. An $n$-simplex $\sigma$ is a tuple $(x_0\leq\cdots\leq x_n)$, and we define $K\sigma=(\bot\leq x_0\leq\cdots\leq x_n)$. Now
+	- $$\partial K\sigma+K\partial\sigma=\sigma+\sum_{i=1}^{n+1}(-1)^iK(\sigma d_{i-1})+$$
