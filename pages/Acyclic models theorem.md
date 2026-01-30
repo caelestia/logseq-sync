@@ -55,3 +55,4 @@
 	- Next, we check that $\psi$ is a quasi-isomorphism for simplices. Since both sides are acyclic and $H_0(\psi)$ is clearly an isomorphism, this is clear.
 	-
 - Remark. This does not actually rely on the acyclic models theorem, because there is an obvious construction of $\psi$. It is also given by the unit of the adjunction $\left|-\right|\dashv\operatorname{Sing}$.
+-
