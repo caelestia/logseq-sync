@@ -46,4 +46,5 @@
 - Lemma. If $P$ is a poset with a minimal element $\bot$, the nerve $N(P)$ is acyclic for simplicial homology.
 	- Proof. Likewise, we explicitly find a retracting chain homotopy $K$ on the Moore chain complex $C(\mathbb{Z}N(P))$. An $n$-simplex $\sigma$ is a tuple $(x_0\leq\cdots\leq x_n)$, and we define $K\sigma=(\bot\leq x_0\leq\cdots\leq x_n)$. Now if $n>0$,
 	- $$\partial K\sigma+K\partial\sigma=\sigma+\sum_{i=1}^{n+1}(-1)^iK(\sigma d_{i-1})+K\partial\sigma=\sigma.$$
-	- This shows that all homologies of degree $>0$ vanish. On the other hand it is rather trivial that $H_0=\Z$. QED
+	- This shows that homologies of degree $>0$ vanish. On the other hand it is rather obvious that $H_0=\Z$. QED
+- Remark:
