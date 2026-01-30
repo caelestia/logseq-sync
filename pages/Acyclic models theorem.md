@@ -52,5 +52,6 @@
 - Definition. The singular homology of $X$ is that of its geometric realization $H_\bullet(|X|)$.
 - Theorem. There is a natural isomorphism $\Psi:H_\bullet(X)\to H_\bullet(|X|)$.
 	- Proof. First, we obtain the comparison map $\psi_X:C(\Z X)\to\operatorname{Sing}|X|$ via acyclic models theorem. Take $\mathscr{C}=\mathsf{sSet}$ and $\mathcal{M}=\{\Delta^p\}_{p\geq0}$. In the last section, we've checked that RHS is acyclic on $\mathcal{M}$. LHS is free on $\mathcal{M}$ since $C(\Z X)_n=\Z X_n=\Z\operatorname{Hom}_{\mathsf{sSet}}(\Delta^n,X)$. We have a natural map of $H_0(\psi)$ as well. Hence the acyclic models theorem guarantees such $\psi$ exists.
-	- Second, we check that $\psi$ is a quasi-isomorphism for simplices. Since both sides are acyclic and $H_0(\psi)$ is clearly an isomorphism,
+	- Next, we check that $\psi$ is a quasi-isomorphism for simplices. Since both sides are acyclic and $H_0(\psi)$ is clearly an isomorphism, this is clear.
+	-
 - Remark. This proof does not actually rely on the acyclic models theorem, because $\psi$ can be naturally constructed from the adjunction $\left|-\right|\dashv\operatorname{Sing}$.
