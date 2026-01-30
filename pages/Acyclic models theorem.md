@@ -48,4 +48,4 @@
 	- $$\partial K\sigma+K\partial\sigma=\sigma+\sum_{i=1}^{n+1}(-1)^iK(\sigma d_{i-1})+K\partial\sigma=\sigma.$$
 	- This shows that homologies of degree $>0$ vanish. On the other hand it is rather obvious that $H_0=\Z$. QED
 - Remark. To be precise, $K$ shows that the composition $N(P)\to N(\{\bot\})=\Delta^0\to N(P)$ is homotopic to $\mathrm{id}$ at chain level. It follows that the chain complex associated to $N(P)$ is homotopy equivalent to that of a point.
--
+- Definition. The simplicial homology of a simplicial set $X$ is $$
