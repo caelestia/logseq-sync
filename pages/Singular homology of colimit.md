@@ -1,3 +1,5 @@
 - This is a step in proving the result
 	- ((697bd235-724a-4d7c-ac40-0d566c15f6bc))
--
+- To recap,
+- ### Simplicial homology and the colimit
+	-
