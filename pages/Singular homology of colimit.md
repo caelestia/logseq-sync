@@ -1,5 +1,5 @@
 - This is a step in proving the result
 	- ((697bd235-724a-4d7c-ac40-0d566c15f6bc))
-- To recap,
+- To recap, we have defined a comparison $\psi:C(\Z X)\to S_\bullet(|X|)$ and checked it's a quasi-isomorphism on simplices.
 - ### Simplicial homology and the colimit
 	-
