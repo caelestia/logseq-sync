@@ -44,4 +44,4 @@
 - ### Simplicial homology = Singular homology
 - We have a version of the above lemma for simplicial sets, as well:
 - Lemma. If $P$ is a poset with a minimal element $\bot$, the nerve $N(P)$ is acyclic for simplicial homology.
-	- Proof. Likewise, we explicitly find a chain homotopy $h:C(\mathbb{Z}N(P))\simeq\Z$
+	- Proof. Likewise, we explicitly find a chain homotopy $h:C(\mathbb{Z}N(P))$
