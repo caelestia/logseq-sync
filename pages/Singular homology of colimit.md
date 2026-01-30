@@ -1,5 +1,6 @@
 - This is a step in proving the result
 	- ((697bd235-724a-4d7c-ac40-0d566c15f6bc))
 - To recap, we have defined a comparison map $\psi_X:C(\Z X)\to S_\bullet(|X|)$ and checked it's a quasi-isomorphism for simplices. So we need to study its interaction with the colimit next.
-- ### Simplicial homology and the colimit
-	- Observe that $\varinjlim_{(n,x)}\Delta^nC(\Z\Delta^n)$
+- ### Treatment of LHS
+	- Observe that $C(\Z X)=\varinjlim_{(n,x)}C(\Z\Delta^n)$.
+- ### Singular homology and
