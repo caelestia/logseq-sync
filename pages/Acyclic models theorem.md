@@ -28,7 +28,7 @@
 - ### Homotopy invariance of singular homology
 - Consider the two embeddings $\iota_0,\iota_1:X\to X\times I$. Given two continuous maps $f,g:X\to Y$, a homotopy $f\simeq g$ is $H:X\times I\to Y$ satisfying $H\iota_0=f$, $H\iota_1=g$.
 - We want to show that $f_*=g_*$ at *homology* level. It suffices to prove $f_*$ and $g_*$ are homotopic at *chain* level.
-- Proposition. The induced chain maps $(\iota_0)_*$ and $(\iota_1)_*$ are homotopic.
+- Theorem. The induced chain maps $(\iota_0)_*$ and $(\iota_1)_*$ are homotopic.
 	- Proof. $\iota_0$ is a natural transformation, and so is $(\iota_0)_*=S_\bullet\iota_0:S_\bullet\to T_\bullet$, where $T_\bullet(-):=S_\bullet(-\times I)$. On $\mathscr{C}=\mathsf{Top}$, we choose $\mathcal{M}=\{\Delta^p\}_{p\geq0}$. Then each $S_n$ is free on the basis $\{\mathrm{id}_{\Delta^n}\}$.
 	- It is clear that $H_0(\iota_0)=H_0(\iota_1)$.
 	- To apply the uniqueness of the theorem, it remains to check that $T_\bullet$ is acyclic on $\mathcal{M}$. This is done by the following lemma. QED
@@ -50,4 +50,4 @@
 - Remark. To be precise, $K$ shows that the composition $N(P)\to N(\{\bot\})=\Delta^0\to N(P)$ is homotopic to $\mathrm{id}$ at chain level. It follows that the chain complex associated to $N(P)$ is homotopy equivalent to that of a point.
 - Definition. The simplicial homology of a simplicial set $X$ is the homology of $C(\Z X)$, denoted as $H_\bullet(X)$.
 - Definition. The singular homology of $X$ is that of its geometric realization $H_\bullet(|X|)$.
--
+- Theorem.
