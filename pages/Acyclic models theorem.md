@@ -42,6 +42,7 @@
 	- $$\partial K+K\epsilon=\mathrm{id},$$
 	- where $\epsilon:S_0(D)\to\mathbb{Z}$ is the augmentation map. QED
 - ### Simplicial homology = Singular homology
+  id:: 697bd235-724a-4d7c-ac40-0d566c15f6bc
 - We have a version of the above lemma for simplicial sets, as well:
 - Lemma. If $P$ is a poset with a minimal element $\bot$, the nerve $N(P)$ is acyclic for simplicial homology.
 	- Proof. Likewise, we explicitly find a retracting chain homotopy $K$ on the Moore chain complex $C(\mathbb{Z}N(P))$. An $n$-simplex $\sigma$ is a tuple $(x_0\leq\cdots\leq x_n)$, and we define $K\sigma=(\bot\leq x_0\leq\cdots\leq x_n)$. Now if $n>0$,
