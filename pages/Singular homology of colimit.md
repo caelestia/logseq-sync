@@ -1,3 +1,3 @@
 - This is a step in proving the following.
-- [[Acyclic models theorem]]
+- [[Acyclic models theorem]],
 -
