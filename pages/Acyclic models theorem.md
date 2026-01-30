@@ -52,4 +52,4 @@
 - Definition. The singular homology of $X$ is that of its geometric realization $H_\bullet(|X|)$.
 - Theorem. There is a natural isomorphism $\Psi:H_\bullet(X)\to H_\bullet(|X|)$.
 	- Proof. First, we obtain the comparison map $\psi:C(\Z X)\to\operatorname{Sing}|X|$ via acyclic models theorem. Take $\mathscr{C}=\mathsf{sSet}$ and $\mathcal{M}=\{\Delta^p\}_{p\geq0}$.
-- Remark. In fact this proof does not require the acyclic models theorem because $\psi$ can be naturally obtained from
+- Remark. This proof does not actually rely on the acyclic models theorem, because $\psi$ can be naturally defined by the
