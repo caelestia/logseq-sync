@@ -51,5 +51,6 @@
 - Definition. The simplicial homology of a simplicial set $X$ is the homology of $C(\Z X)$, denoted as $H_\bullet(X)$.
 - Definition. The singular homology of $X$ is that of its geometric realization $H_\bullet(|X|)$.
 - Theorem. There is a natural isomorphism $\Psi:H_\bullet(X)\to H_\bullet(|X|)$.
-	- Proof. First, we obtain the comparison map $\psi:C(\Z X)\to\operatorname{Sing}|X|$ via acyclic models theorem. Take $\mathscr{C}=\mathsf{sSet}$ and $\mathcal{M}=\{\Delta^p\}_{p\geq0}$. In the last section, we've checked that RHS is
+	- Proof. First, we obtain the comparison map $\psi:C(\Z X)\to\operatorname{Sing}|X|$ via acyclic models theorem. Take $\mathscr{C}=\mathsf{sSet}$ and $\mathcal{M}=\{\Delta^p\}_{p\geq0}$. In the last section, we've checked that RHS is acyclic on $\mathcal{M}$.
+	-
 - Remark. This proof does not actually rely on the acyclic models theorem, because $\psi$ can be naturally defined by the
