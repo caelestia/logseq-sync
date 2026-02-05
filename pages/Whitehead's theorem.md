@@ -10,4 +10,5 @@
 - ### Weak homotopy equivalence
 - Theorem. Let $f:X\to Y$ be a morphism of Kan complexes. The following are equivalent:
 	- (a) $f$ is a homotopy equivalence;
-	- (b) $\pi_0(f)$ is a bijection, and for every $x\in X$
+	- (b) $\pi_0(f)$ is a bijection, and for every $x\in X$ and $n>0$, $\pi_n(f):\pi_n(X,x)\to\pi_n(Y,f(x))$ is an isomorphism.
+- Proof.
