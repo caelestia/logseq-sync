@@ -11,5 +11,5 @@
 	- Since (1) the geometric realization commutes with all colimits, (2) homology commutes with filtered colimits, and the section above, we've successfully reduced the comparison to finite simplicial sets (viz. those having a finite number of non-degenerate simplices).
 	- By (1) again, the pushout $Y'=Y\cup D^n$ induces a short exact sequence $0\to S_\bullet(S^{n-1})\to S_\bullet(Y)\oplus S_\bullet(D^n)\to S_\bullet(Y')\to 0$, and hence a long exact sequence in homology.
 	- The question now reduces to the Mayer-Vietoris theorem. Since $S^{n-1}\hookrightarrow D^n$ is  a cofibrations, this is known.
-	- By the five lemma, if the comparison is an isomorphism for $S^{n-1}, D^n$ and $Y$, then it holds for $Y'$ as well. $D^n=|\Delta^n|$ is the base case we shown a while ago, and
+	- By the five lemma, if the comparison is a quasi-isomorphism for $S^{n-1}, D^n$ and $Y$, then it is a quasi-isomorphism for $Y'$ as well. $D^n=|\Delta^n|$ is the base case we shown a while ago, and everything now follows from induction.
 - QED
