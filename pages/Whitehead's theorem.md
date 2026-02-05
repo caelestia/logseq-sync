@@ -1,2 +1,2 @@
 ## Simplicial Sets
-- Definition.
+- Definition. A
