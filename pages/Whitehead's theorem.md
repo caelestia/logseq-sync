@@ -1,2 +1,2 @@
 ## Simplicial Sets
-- Definition. A
+- Definition. A Kan complex
