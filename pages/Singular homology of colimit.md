@@ -9,4 +9,4 @@
 	- Corollary. If $A$ is a compact subset of a CW complex, then it only intersects finitely many open cells. Moreover, it's contained in a finite subcomplex.
 		- Proof. In the above, let each $Y_{\alpha+1}\setminus Y_\alpha$ be an open cell. Then $B$ can only intersect finitely many of them. It is clear by induction that closed cells are contained in finite subcomplexes, and the result follows. QED
 	- Since the geometric realization commutes with all colimits, and homology commutes with filtered colimits, we've successfully reduced the comparison to finite simplicial sets (viz. those having a finite number of non-degenerate simplices).
-	- Now
+	-
