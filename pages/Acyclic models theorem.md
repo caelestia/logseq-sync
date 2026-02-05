@@ -60,4 +60,4 @@
 - The barycentric subdivision is an explicitly defined natural chain map $\operatorname{Sd}_\bullet:S_\bullet\to S_\bullet$.
 - Apply the acylic models theorem. Since $S_\bullet$ is free and acyclic on the models  $\{\Delta^p\}_p$, and $H_0\circ\operatorname{Sd}=\operatorname{id}$, there exists a natural homotopy $h:\operatorname{Sd}\simeq\operatorname{id}$.
 - ### Cup product
--
+- x
