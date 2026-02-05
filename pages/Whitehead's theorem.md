@@ -4,4 +4,4 @@
 	- [[Kan complexes are the fibrant objects]]
 - For any topological space $X$, $\operatorname{Sing}_\bullet(X)$ is a Kan complex.
 - The following lemmas won't be proven here.
-	- Lemma. A Kan complex $X$ is contractible if and only if $X$ is connected and $\pi_n(X,x)=1$ for every
+	- Lemma. A Kan complex $X$ is contractible iff it is connected and $\pi_n(X,x)=1$ for every $n>0$, $x\in X$, if and only if the
