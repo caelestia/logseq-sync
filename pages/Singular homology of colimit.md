@@ -11,5 +11,5 @@
 	- Since (1) the geometric realization commutes with all colimits, (2) homology commutes with filtered colimits, and the section above, we've successfully reduced the comparison to finite simplicial sets (viz. those having a finite number of non-degenerate simplices).
 	- By (1) again, the pushout $Y'=Y\cup D^n$ induces a short exact sequence $0\to S_\bullet(S^{n-1})\to S_\bullet(Y)\oplus S_\bullet(D^n)\to S_\bullet(Y')\to 0$, and hence a long exact sequence in homology.
 	- The question now reduces to the Mayer-Vietoris theorem. Since relative CW complexes are always cofibrations, this is known.
-	-
+	- By the five lemma, if the comparison is an isomorphism for $S^{n-1},
 - QED
