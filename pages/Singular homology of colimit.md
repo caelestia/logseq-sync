@@ -8,5 +8,5 @@
 		- Proof. Observe that, if $B\subset Y$ satisfies $B\cap(Y_{\alpha+1}\setminus Y_{\alpha})$ is finite for all $\alpha$, then $B$ is closed; but the same applies to any subset of $B$, so $B$ is discrete. Hence if $B$ is infinite, it can't be compact. QED
 	- Corollary. If $A$ is a compact subset of a CW complex, then it only intersects finitely many open cells. Moreover, it's contained in a finite subcomplex.
 		- Proof. In the above, let each $Y_{\alpha+1}\setminus Y_\alpha$ be an open cell. Then $B$ can only intersect finitely many of them. It is clear by induction that closed cells are contained in finite subcomplexes, and the result follows. QED
-	- Since the geometric realization commutes with all colimits, and homology commutes with filtered colimits, we've successfully reduced the comparison to finite simplicial sets (viz. those having a finite number of non-degenerate simplices).
+	- Since (1) the geometric realization commutes with all colimits, (2) homology commutes with filtered colimits, (3) , (4) $C$ is an equivalence by Dold-Kan, we've successfully reduced the comparison to finite simplicial sets (viz. those having a finite number of non-degenerate simplices).
 	-
