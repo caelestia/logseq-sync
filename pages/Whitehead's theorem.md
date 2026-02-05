@@ -10,4 +10,4 @@
 - ### Weak homotopy equivalence
 - Theorem. Let $f:X\to Y$ be a morphism of Kan complexes. The following are equivalent:
 	- (a) $f$ is a homotopy equivalence;
-	- (b) $f$
+	- (b) $\pi_0(f)$ is a bijection, and for every $x\in X$
