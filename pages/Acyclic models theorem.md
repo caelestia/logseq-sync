@@ -57,4 +57,4 @@
 	- Finally, we use $X=\varinjlim_{(n,x\in X_n)}\Delta^n$ to extend this to all $X$. [Details.]([[Singular homology of colimit]]) QED
 - Remark. This does not actually rely on the acyclic models theorem, because there is an obvious construction of $\psi$. It is also given by the unit of the adjunction $\left|-\right|\dashv\operatorname{Sing}$.
 - ### Barycentric subdivision
--
+- The barycentric sub
