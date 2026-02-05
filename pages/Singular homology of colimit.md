@@ -5,4 +5,5 @@
 	- Observe that $C(\Z X)=\varinjlim_{(n,x)}C(\Z\Delta^n)$. Indeed, in the beginning of ((69764c6d-0883-4e9a-a94b-5bea775aca45)) we showed that $\Z-$ (denoted $\operatorname{Free}_*$ there) is a left adjoint, so preserves colimits; and $C(-)$ is an equivalence by Dold-Kan.
 - ### Singular homology
 	- Lemma. Let $X_0\hookrightarrow X_1\hookrightarrow\cdots\hookrightarrow X_n\hookrightarrow\cdots$ be closed embeddings of T1 spaces, $X=\varinjlim X_n$. If $A$ is compact, then any map $A\to X$ factors through some $X_n$.
-		- Proof. Observe that if $B$
+		- Proof. Observe that if $B\subset X$ satisfies $B\cap X_n$ is finite for all $n\geq 0$, then $B$ is closed; but the same applies to any subset of $B$, so $B$ is in fact discrete. If $B$ is infinite, it can't be compact. QED
+	-
