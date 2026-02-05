@@ -9,7 +9,7 @@
 	- Corollary. If $A$ is a compact subset of a CW complex, then it only intersects finitely many open cells. Moreover, it's contained in a finite subcomplex.
 		- Proof. In the above, let each $Y_{\alpha+1}\setminus Y_\alpha$ be an open cell. Then $B$ can only intersect finitely many of them. It is clear by induction that closed cells are contained in finite subcomplexes, and the result follows. QED
 	- Since (1) the geometric realization commutes with all colimits, (2) homology commutes with filtered colimits, and the section above, we've successfully reduced the comparison to finite simplicial sets (viz. those having a finite number of non-degenerate simplices).
-	- By (1) again, the pushout $Y_{\alpha}
+	- By (1) again, the pushout $Y_{\alpha+1}=Y_\alpha\cup D^n$ induces a short exact sequence of
 	- The question now reduces to the Mayer-Vietoris theorem. Since relative CW complexes are always cofibrations, this is known.
 	-
 - QED
