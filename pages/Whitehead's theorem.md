@@ -5,4 +5,5 @@
 - For any topological space $X$, $\operatorname{Sing}_\bullet(X)$ is a Kan complex.
 - The following lemmas won't be proven here.
 	- Lemma. A Kan complex $X$ is contractible iff it is connected and $\pi_n(X,x)=1$ for every $n>0$ and $x\in X$, iff $X\to\Delta^0$ is a trivial fibration.
-	- Lemma (Long exact sequence of fibration). If $(X,*)\to(Y,*)$ is a fibration of Kan complexes, $(F,*)$ is the fiber over the base point,
+	- Lemma (Long exact sequence of fibration). If $(X,*)\to(Y,*)$ is a fibration of Kan complexes, $(F,*)$ is the fiber over the base point, then
+		- $$\cdots \rightarrow \pi _{2}(S,s) \xrightarrow {\partial } \pi _{1}(X_ s, x) \rightarrow \pi _{1}( X, x) \rightarrow \pi _1(S,s) \xrightarrow {\partial } \pi _{0}(X_ s, x) \rightarrow \pi _0( X,x) \rightarrow \pi _0(S,s)$$
