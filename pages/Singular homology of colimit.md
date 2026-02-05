@@ -4,4 +4,4 @@
 - ### Treatment of LHS
 	- Observe that $C(\Z X)=\varinjlim_{(n,x)}C(\Z\Delta^n)$. Indeed, in the beginning of ((69764c6d-0883-4e9a-a94b-5bea775aca45)) we showed that $\Z-$ (denoted $\operatorname{Free}_*$ there) is a left adjoint, so preserves colimits; and $C(-)$ is an equivalence by Dold-Kan.
 - ### Singular homology
-	- Lemma. If $X_0\hookrightarrow X_1\hookrightarrow\cdots\hookrightarrow X_n\hookrightarrow\cdots$ is
+	- Lemma. Let $X_0\hookrightarrow X_1\hookrightarrow\cdots\hookrightarrow X_n\hookrightarrow\cdots$ be closed embeddings of T1 spaces, $X=\varinjlim X_n$, $
