@@ -1,2 +1,2 @@
 ## Simplicial Sets
-- Definition. A Kan complex
+- Definition. A Kan complex is
