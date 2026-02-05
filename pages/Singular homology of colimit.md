@@ -6,5 +6,5 @@
 - ### Singular homology
 	- Lemma. Let $Y_0\hookrightarrow Y_1\hookrightarrow\cdots\hookrightarrow Y_n\hookrightarrow\cdots$ be closed embeddings of T1 spaces, $Y=\varinjlim Y_n$. If $A$ is compact, then any map $A\to Y$ factors through some $Y_n$.
 		- Proof. Observe that, if $B\subset Y$ satisfies $B\cap Y_n$ is finite for all $n\geq 0$, then $B$ is closed; but the same applies to any subset of $B$, so $B$ is discrete. Hence if $B$ is infinite, it can't be compact. QED
-	- Since
+	- Since geometric realization commutes with all colimits, and homology commutes with filtered colimits, we reduce the comparison
 	-
