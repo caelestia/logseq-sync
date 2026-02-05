@@ -7,6 +7,6 @@
 	- Lemma. Let $Y_0\hookrightarrow Y_1\hookrightarrow\cdots\hookrightarrow Y_\alpha\hookrightarrow\cdots$ (indexed by ordinals $\alpha$ less than some $\sigma$) be closed embeddings of T1 spaces, $Y=\varinjlim_\alpha Y_\alpha$. If $A$ is compact, then any map $A\to Y$ factors through some $Y_\alpha$.
 		- Proof. Observe that, if $B\subset Y$ satisfies $B\cap(Y_{\alpha+1}\setminus Y_{\alpha})$ is finite for all $\alpha$, then $B$ is closed; but the same applies to any subset of $B$, so $B$ is discrete. Hence if $B$ is infinite, it can't be compact. QED
 	- Corollary. If $A$ is a compact subset of a CW complex, then it only intersects finitely many open cells.
-		- Proof. In the above, let each $Y_{}$
+		- Proof. In the above, let each $Y_{\alpha+1}\setminus Y_\alpha$ be an open cell. Then $B$ can only intersect finitely many of them. QED
 	- Since the geometric realization commutes with all colimits, and homology commutes with filtered colimits, we reduce the comparison to finite simplicial sets (viz. those having a finite number of non-degenerate simplices).
 	-
