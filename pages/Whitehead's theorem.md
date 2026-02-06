@@ -16,5 +16,5 @@
 	- (c) $\pi_0(f)$ is a bijection, and for every $x\in X$ and $n>0$, $\pi_n(f):\pi_n(X,x)\to\pi_n(Y,f(x))$ is an isomorphism.
 - Proof.
 - (a) implies (b).
-- (b) implies (c) is homotopy invariance, which is clear since $\pi_n(-)=[S^n,-]$. See [here](https://kerodon.net/tag/04GD).
+- (b) implies (c) is homotopy invariance, which is clear since $\pi_n(-)=[S^n,-]$. For turning the homotopy equivalence into a pointed one, see [here](https://kerodon.net/tag/04GD).
 - (c) implies (a). First factor $f$ as $X\to Z\to Y$, where $X\to Z$ is a trivial cofibration and $Z\to Y$ is a fibration. Since $Z\to Y\to *$ is a fibration, $Z$ is a Kan complex.
