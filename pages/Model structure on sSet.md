@@ -14,4 +14,5 @@
 - ## Checking the axioms
 - ### Trivial things
 - M0. This is known for presheaf categories.
-- M2. In a diagram
+- M2. Given $X\xrightarrow{f}Y\xrightarrow{g}Z$, any Kan complex $W$, we have $f^*g^*=(gf)^*$.
+-
