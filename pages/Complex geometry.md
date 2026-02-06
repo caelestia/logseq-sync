@@ -40,4 +40,5 @@
 - Basic definition omitted.
 - TODO
 - ### Connections
-- A connection on a complex vector bundle $E$ is a $\mathbb{C}$-linear map $\nabla:C^\infty(X,E)\to C^\infty(X,\Omega^1\otimes E)$, satisfying the Leibniz rule $\nabla(fs)=df\otimes
+- A connection on a complex vector bundle $E$ is a $\mathbb{C}$-linear map $\nabla:C^\infty(X,E)\to C^\infty(X,\Omega^1\otimes E)$, satisfying the Leibniz rule $\nabla(fs)=df\otimes s+f\nabla s$.
+- The space of connections on $E$ is an affine space
