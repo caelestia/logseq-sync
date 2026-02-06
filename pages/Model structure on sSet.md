@@ -3,4 +3,4 @@
 	- (M1) all three classes are closed under retracts;
 	- (M2) weak equivalences satisfies 2 out of 3;
 	- (M3) acyclic cofibrations have the left lifting property against fibrations, and cofibrations have the left lifting property against acyclic fibrations;
-	- (M4)
+	- (M4) every morphism can be factorized as a
