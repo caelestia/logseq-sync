@@ -25,5 +25,5 @@
 	- logseq.order-list-type:: number
 	  $$gh_0=\overline{h}_{\Delta^1\times\partial\Delta^n},$$
 	- logseq.order-list-type:: number
-	  $$h_0(1)=\beta.$$
+	  $$h_0|_{\{1\}\times\partial\Delta^n}=u|_{\partial\Delta^n}.$$
 -
