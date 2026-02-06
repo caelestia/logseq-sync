@@ -40,4 +40,4 @@
 - Basic definition omitted.
 - TODO
 - ### Connections
--
+- A connection on a complex vector bundle $E$ is a $\mathbb{C}$-linear map $
