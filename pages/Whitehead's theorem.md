@@ -16,6 +16,7 @@
 	- (c) $\pi_0(f)$ is a bijection, and for every $x\in X$ and $n>0$, $\pi_n(f):\pi_n(X,x)\to\pi_n(Y,f(x))$ is an isomorphism.
 - #### Proof.
 - (a) implies (b) directly follows from the definition. Since $X$ is a Kan complex, by surjectivity of $[Y,X]\to[X,X]$, there is $g:Y\to X$ such that $gf\simeq\mathrm{id}_X$. Now $fgf\simeq\mathrm{id}_Y\circ f$, so by injectivity of $[Y,Y]\to[X,Y]$ (because $Y$ is a Kan complex), $fg\simeq\mathrm{id}_Y$.
+- (b) implies (a) is obvious.
 - (b) implies (c) is the homotopy invariance, which is clear since $\pi_n(-)=[S^n,-]$. For turning the homotopy equivalence into a pointed one, see [here](https://kerodon.net/tag/04GD). Note that this step requires $X,Y$ be Kan complexes.
 - (c) implies (a). First, factor $f$ as $X\to Z\to Y$, where $X\to Z$ is a trivial cofibration and $Z\to Y$ is a fibration. Since $Z\to Y\to *$ is a fibration, $Z$ is a Kan complex. It remains to show that $g:Z\to Y$ is an acyclic fibration. By the two lemmas above, the fiber $F$ of $g$ over any base point is contractible.
 - We need to solve the following lifting problem:
