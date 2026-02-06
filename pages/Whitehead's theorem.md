@@ -12,4 +12,4 @@
 - Theorem. Let $f:X\to Y$ be a morphism of Kan complexes. The following are equivalent:
 	- (a) $f$ is a homotopy equivalence;
 	- (b) $\pi_0(f)$ is a bijection, and for every $x\in X$ and $n>0$, $\pi_n(f):\pi_n(X,x)\to\pi_n(Y,f(x))$ is an isomorphism.
-- Proof. (a) implies (b) is homotopy invariance, which is clear since $\pi_n(-)=[S^n,-]$.
+- Proof. (a) implies (b) is homotopy invariance, which is clear since $\pi_n(-)=[S^n,-]$. To prove the converse, first factor $f$ as $X\to Z\to Y$, where $X\to Z$ is a trivial cofibration and
