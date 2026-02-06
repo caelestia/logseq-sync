@@ -30,5 +30,5 @@
 - Finally, the existence of $k$ is clear from the diagram:
 - <!-- https://q.uiver.app/#q=WzAsNCxbMCwwLCJcXHswXFx9XFx0aW1lc1xccGFydGlhbFxcRGVsdGFebiJdLFswLDEsIlxcRGVsdGFeMVxcdGltZXNcXHBhcnRpYWxcXERlbHRhXm4iXSxbMSwwLCJaIl0sWzEsMSwiWSJdLFsxLDMsImh8X3tcXHRleHR7d2FsbHN9fSIsMl0sWzIsMywiZyJdLFswLDIsIlxcYmV0YSJdLFswLDEsIiIsMCx7InN0eWxlIjp7InRhaWwiOnsibmFtZSI6Imhvb2siLCJzaWRlIjoidG9wIn19fV0sWzEsMiwiIiwxLHsic3R5bGUiOnsiYm9keSI6eyJuYW1lIjoiZGFzaGVkIn19fV1d -->
   <iframe class="quiver-embed" src="https://q.uiver.app/#q=WzAsNCxbMCwwLCJcXHswXFx9XFx0aW1lc1xccGFydGlhbFxcRGVsdGFebiJdLFswLDEsIlxcRGVsdGFeMVxcdGltZXNcXHBhcnRpYWxcXERlbHRhXm4iXSxbMSwwLCJaIl0sWzEsMSwiWSJdLFsxLDMsImh8X3tcXHRleHR7d2FsbHN9fSIsMl0sWzIsMywiZyJdLFswLDIsIlxcYmV0YSJdLFswLDEsIiIsMCx7InN0eWxlIjp7InRhaWwiOnsibmFtZSI6Imhvb2siLCJzaWRlIjoidG9wIn19fV0sWzEsMiwiIiwxLHsic3R5bGUiOnsiYm9keSI6eyJuYW1lIjoiZGFzaGVkIn19fV1d&embed" width="200" height="200" style="border-radius: 8px; border: none;"></iframe>
-- If the left map is an acyclic cofibration, then the dashed arrow exists.
+- If the left map is an acyclic cofibration, then the dashed arrow exists. But it's clearly a cofibration and a homotopy equivalence, so everything follows from *(b) implies (a)*.
 - QED
