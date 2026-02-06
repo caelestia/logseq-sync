@@ -17,4 +17,4 @@
 - M2. Given $X\xrightarrow{f}Y\xrightarrow{g}Z$, any Kan complex $W$, we have $f^*g^*=(gf)^*$. Since bijections satisfy 2 out of 3, we're done.
 - M1. This is easy for all three classes:
 	- Retracts of monomorphisms are monomorphisms.
-	-
+	- Retracts
