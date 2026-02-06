@@ -14,4 +14,4 @@
 - ## Checking the axioms
 - ### Trivial things
 - M0. This is known for presheaf categories.
-- M2.
+- M2. In a diagram
