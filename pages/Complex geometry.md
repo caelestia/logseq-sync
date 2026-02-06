@@ -45,5 +45,6 @@
 - On a local trivialization $\psi:E|_U\xrightarrow{\sim}U\times\mathbb{C}^r$, we can write $\nabla=\psi^{-1}(d+A)\psi$, where $A$ is a section of $\Omega^1\otimes\mathbb{C}^{r\times r}$ depending on $\psi$.
 - If $\psi'$ is another trivialization, $\psi'=\phi\psi$ where $\phi:U\to\mathrm{GL}_r(\mathbb{C})$, then $\nabla=\psi'^{-1}(d+A')\psi'$ where $A'=\phi d\phi^{-1}+\phi A\phi^{-1}$.
 - Examples.
-	- $E_1$, $E_2$ bundles with connections $\nabla_1$, $\nabla_2$, we can define a connection on $E_1\oplus E_2$ and $E_1\otimes E_2$.
+	- $E_1$, $E_2$ bundles with connections $\nabla_1$, $\nabla_2$, we can define a connection on $E_1\oplus E_2$ by $\nabla(s_1+s_2)=
+	- And on $E_1\otimes E_2$, by $\nabla(s_1\otimes s_2)=(\nabla_1s_1)\otimes s_2+s_1\otimes\nabla_2s_2$.
 	-
