@@ -10,10 +10,10 @@
 - The cofibrations are the monomorphisms.
 - The fibrations are the morphisms having right lifting property against the horn inclusions $\Lambda^n_k\to\Delta^n$.
 - Kan complexes are the fibrant objects, equivalently, those with the horn filling property.
-- A morphism $f:X\to Y$ is a weak homotopy equivalence iff, for every Kan complex $Z$, the induced map $[Y,Z]\to[X,Z]$ is a bijection.
+- A morphism $f:X\to Y$ is a weak homotopy equivalence iff, for every Kan complex $Z$, the induced map $f^*:[Y,Z]\to[X,Z]$ is a bijection.
 - ## Checking the axioms
 - ### Trivial things
 - M0. This is known for presheaf categories.
 - M2. Given $X\xrightarrow{f}Y\xrightarrow{g}Z$, any Kan complex $W$, we have $f^*g^*=(gf)^*$. Since bijections satisfy 2 out of 3, we're done.
-- M1.
--
+- M1. This is easy for all three classes:
+	-
