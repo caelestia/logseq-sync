@@ -22,7 +22,7 @@
 - We need to solve the following lifting problem:
 	- <!-- https://q.uiver.app/#q=WzAsNCxbMCwwLCJcXHBhcnRpYWxcXERlbHRhXm4iXSxbMCwxLCJcXERlbHRhXm4iXSxbMSwwLCJaIl0sWzEsMSwiWSJdLFsxLDMsIlxcc2lnbWEiLDJdLFsyLDMsImciXSxbMCwyLCJcXGJldGEiXSxbMCwxXSxbMSwyLCIiLDEseyJzdHlsZSI6eyJib2R5Ijp7Im5hbWUiOiJkYXNoZWQifX19XV0= -->
 	  <iframe class="quiver-embed" src="https://q.uiver.app/#q=WzAsNCxbMCwwLCJcXHBhcnRpYWxcXERlbHRhXm4iXSxbMCwxLCJcXERlbHRhXm4iXSxbMSwwLCJaIl0sWzEsMSwiWSJdLFsxLDMsIlxcc2lnbWEiLDJdLFsyLDMsImciXSxbMCwyLCJcXGJldGEiXSxbMCwxXSxbMSwyLCIiLDEseyJzdHlsZSI6eyJib2R5Ijp7Im5hbWUiOiJkYXNoZWQifX19XV0=&embed" width="200" height="200" style="border-radius: 8px; border: none;"></iframe>
-- For this, we apply HELP to reduce to the case where $\sigma=c_y$, $y\in Y$. In details, since $\Delta^n$ is contractible, there is $y\in Y$ and a homotopy $\overline{h}:\Delta^1\times\Delta^n\to Y$ from $\sigma$ to $c_y$. For $c_y$, the desired map $\Delta^n\to Z$ exists by contractibility of $F_y:=g^{-1}(y)$ (lemma 1). Denote this map as $u$. Next, we find a homotopy "on the walls" $k:\Delta^1\times\partial\Delta^n\to Z$, satisfying
+- For this, we use HELP to reduce to the case where $\sigma=c_y$, $y\in Y$. In details, since $\Delta^n$ is contractible, there is $y\in Y$ and a homotopy $\overline{h}:\Delta^1\times\Delta^n\to Y$ from $\sigma$ to $c_y$. For $c_y$, the desired map $\Delta^n\to Z$ exists by contractibility of $F_y:=g^{-1}(y)$ (lemma 1). Denote this map as $u$. Next, we find a homotopy "on the walls" $k:\Delta^1\times\partial\Delta^n\to Z$, satisfying
 	- logseq.order-list-type:: number
 	  $$gk=\overline{h}_{\Delta^1\times\partial\Delta^n},$$
 	- logseq.order-list-type:: number
