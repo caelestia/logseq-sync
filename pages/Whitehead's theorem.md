@@ -14,7 +14,7 @@
 	- (a) $f$ is a weak homotopy equivalence;
 	- (b) $f$ is a homotopy equivalence;
 	- (c) $\pi_0(f)$ is a bijection, and for every $x\in X$ and $n>0$, $\pi_n(f):\pi_n(X,x)\to\pi_n(Y,f(x))$ is an isomorphism.
-- Proof.
+- #### Proof.
 - (a) implies (b) directly follows from the definition. Since $X$ is a Kan complex, by surjectivity of $[Y,X]\to[X,X]$, there is $g:Y\to X$ such that $gf\simeq\mathrm{id}_X$. Now $fgf\simeq\mathrm{id}_Y\circ f$, so by injectivity of $[Y,Y]\to[X,Y]$ (because $Y$ is a Kan complex), $fg\simeq\mathrm{id}_Y$.
 - (b) implies (c) is the homotopy invariance, which is clear since $\pi_n(-)=[S^n,-]$. For turning the homotopy equivalence into a pointed one, see [here](https://kerodon.net/tag/04GD). Note that this step requires $X,Y$ be Kan complexes.
 - (c) implies (a). First, factor $f$ as $X\to Z\to Y$, where $X\to Z$ is a trivial cofibration and $Z\to Y$ is a fibration. Since $Z\to Y\to *$ is a fibration, $Z$ is a Kan complex. It remains to show that $g:Z\to Y$ is an acyclic fibration. By the two lemmas above, the fiber $F$ of $g$ over any base point is contractible.
@@ -30,5 +30,5 @@
 - Finally, the existence of $k$ is clear from the diagram:
 - <!-- https://q.uiver.app/#q=WzAsNCxbMCwwLCJcXHswXFx9XFx0aW1lc1xccGFydGlhbFxcRGVsdGFebiJdLFswLDEsIlxcRGVsdGFeMVxcdGltZXNcXHBhcnRpYWxcXERlbHRhXm4iXSxbMSwwLCJaIl0sWzEsMSwiWSJdLFsxLDMsImh8X3tcXHRleHR7d2FsbHN9fSIsMl0sWzIsMywiZyJdLFswLDIsIlxcYmV0YSJdLFswLDEsIiIsMCx7InN0eWxlIjp7InRhaWwiOnsibmFtZSI6Imhvb2siLCJzaWRlIjoidG9wIn19fV0sWzEsMiwiIiwxLHsic3R5bGUiOnsiYm9keSI6eyJuYW1lIjoiZGFzaGVkIn19fV1d -->
   <iframe class="quiver-embed" src="https://q.uiver.app/#q=WzAsNCxbMCwwLCJcXHswXFx9XFx0aW1lc1xccGFydGlhbFxcRGVsdGFebiJdLFswLDEsIlxcRGVsdGFeMVxcdGltZXNcXHBhcnRpYWxcXERlbHRhXm4iXSxbMSwwLCJaIl0sWzEsMSwiWSJdLFsxLDMsImh8X3tcXHRleHR7d2FsbHN9fSIsMl0sWzIsMywiZyJdLFswLDIsIlxcYmV0YSJdLFswLDEsIiIsMCx7InN0eWxlIjp7InRhaWwiOnsibmFtZSI6Imhvb2siLCJzaWRlIjoidG9wIn19fV0sWzEsMiwiIiwxLHsic3R5bGUiOnsiYm9keSI6eyJuYW1lIjoiZGFzaGVkIn19fV1d&embed" width="200" height="200" style="border-radius: 8px; border: none;"></iframe>
-- If the left map is an acyclic cofibration, then the dashed arrow exists. But it's clearly a cofibration and a homotopy equivalence, so everything follows from *(b) implies (a)*.
-- QED
+- If the left map is an acyclic cofibration, then the dashed arrow exists. But it's clearly a cofibration and a homotopy equivalence, so everything follows from *(b) implies (a)*. QED
+- ##
