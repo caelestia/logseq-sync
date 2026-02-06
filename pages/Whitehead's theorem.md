@@ -21,5 +21,5 @@
 - We need to solve the following lifting problem:
 	- <!-- https://q.uiver.app/#q=WzAsNCxbMCwwLCJcXHBhcnRpYWxcXERlbHRhXm4iXSxbMCwxLCJcXERlbHRhXm4iXSxbMSwwLCJaIl0sWzEsMSwiWSJdLFsxLDMsIlxcc2lnbWEiLDJdLFsyLDMsImYnIl0sWzAsMiwiXFxzaWdtYXxfe1xccGFydGlhbFxcRGVsdGFebn0iXSxbMCwxXSxbMSwyLCIiLDEseyJzdHlsZSI6eyJib2R5Ijp7Im5hbWUiOiJkYXNoZWQifX19XV0= -->
 	  <iframe class="quiver-embed" src="https://q.uiver.app/#q=WzAsNCxbMCwwLCJcXHBhcnRpYWxcXERlbHRhXm4iXSxbMCwxLCJcXERlbHRhXm4iXSxbMSwwLCJaIl0sWzEsMSwiWSJdLFsxLDMsIlxcc2lnbWEiLDJdLFsyLDMsImYnIl0sWzAsMiwiXFxzaWdtYXxfe1xccGFydGlhbFxcRGVsdGFebn0iXSxbMCwxXSxbMSwyLCIiLDEseyJzdHlsZSI6eyJib2R5Ijp7Im5hbWUiOiJkYXNoZWQifX19XV0=&embed" width="200" height="200" style="border-radius: 8px; border: none;"></iframe>
-- Now, we apply HELP to reduce to the case where $f'=$
+- For this, we apply HELP to reduce to the case where $\sigma=c_y$, $y\in Y$. In details,
 -
