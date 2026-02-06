@@ -22,4 +22,6 @@
 	- <!-- https://q.uiver.app/#q=WzAsNCxbMCwwLCJcXHBhcnRpYWxcXERlbHRhXm4iXSxbMCwxLCJcXERlbHRhXm4iXSxbMSwwLCJaIl0sWzEsMSwiWSJdLFsxLDMsIlxcc2lnbWEiLDJdLFsyLDMsImYnIl0sWzAsMiwiXFxiZXRhIl0sWzAsMV0sWzEsMiwiIiwxLHsic3R5bGUiOnsiYm9keSI6eyJuYW1lIjoiZGFzaGVkIn19fV1d -->
 	  <iframe class="quiver-embed" src="https://q.uiver.app/#q=WzAsNCxbMCwwLCJcXHBhcnRpYWxcXERlbHRhXm4iXSxbMCwxLCJcXERlbHRhXm4iXSxbMSwwLCJaIl0sWzEsMSwiWSJdLFsxLDMsIlxcc2lnbWEiLDJdLFsyLDMsImYnIl0sWzAsMiwiXFxiZXRhIl0sWzAsMV0sWzEsMiwiIiwxLHsic3R5bGUiOnsiYm9keSI6eyJuYW1lIjoiZGFzaGVkIn19fV1d&embed" width="200" height="200" style="border-radius: 8px; border: none;"></iframe>
 - For this, we apply HELP to reduce to the case where $\sigma=c_y$, $y\in Y$. In details, since $\Delta^n$ is contractible, there is $y\in Y$ and a homotopy $\overline{h}:\Delta^1\times\Delta^n\to Y$ from $\sigma$ to $c_y$. For $c_y$, the desired map $\Delta^n\to Z$ exists by contractibility of $F_y:=f'^{-1}(y)$ (lemma 1). Denote this map as $u$. We want to lift $\overline{h}$ to a homotopy $\Delta^1\times\Delta^n\to Z$ from $h(0)$ to $u$, which also extends a homotopy $h_0:\Delta^1\times\partial\Delta^n\to Z$. To apply HELP, $h_0$ must satisfy:
-	-
+	- logseq.order-list-type:: number
+	  $$f'h_0=\overline{h}_{\Delta^1\times\partial\Delta^n}$$
+	- logseq.order-list-type:: number
