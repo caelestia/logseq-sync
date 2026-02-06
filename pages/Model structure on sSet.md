@@ -6,5 +6,7 @@
 	- (M4) cofibrations have the left lifting property against acyclic fibrations;
 	- (M5) every morphism can be factorized as a cofibration with an acyclic fibration;
 	- (M6) every morphism can be factorized as an acyclic cofibration with with a fibration.
-- ### Definition
-- We'll
+- ### Definitions
+- A cofibration is a monomorphism.
+-
+- . Let $f:X\to Y$ be a morphism of simplicial sets. We say $f$ is a weak homotopy equivalence if, for every Kan complex $Z$, the induced map $[Y,Z]\to[X,Z]$ is a bijection.
