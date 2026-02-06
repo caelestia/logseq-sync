@@ -4,9 +4,9 @@
 	- [[Kan complexes are the fibrant objects]]
 - For any topological space $X$, $\operatorname{Sing}_\bullet(X)$ is a Kan complex.
 - The following lemmas won't be proven here.
-	- Lemma. A Kan complex $X$ is contractible iff it is connected and $\pi_n(X,x)=1$ for every $n>0$ and every $x\in X$, iff $X\to\Delta^0$ is a trivial fibration.
+	- Lemma 1. A Kan complex $X$ is contractible iff it is connected and $\pi_n(X,x)=1$ for every $n>0$ and every $x\in X$, iff $X\to\Delta^0$ is a trivial fibration.
 		- [[Contractible Kan complexes]]
-	- Lemma (Long exact sequence of fibration). If $(X,*)\to(Y,*)$ is a fibration of pointed Kan complexes, $(F,*)$ is the fiber over the base point, then $F$ is obviously a Kan complex and we have a long exact sequence
+	- Lemma 2, Long exact sequence of fibration. If $(X,*)\to(Y,*)$ is a fibration of pointed Kan complexes, $(F,*)$ is the fiber over the base point, then $F$ is obviously a Kan complex and we have a long exact sequence
 		- $$\cdots \rightarrow \pi _1(Y,*) \xrightarrow {\partial } \pi _{0}(F, *) \rightarrow \pi _0( X,*) \rightarrow \pi _0(Y,*).$$
 - ### Weak homotopy equivalence
 - Definition. Let $f:X\to Y$ be a morphism of simplicial sets. We say $f$ is a weak homotopy equivalence if, for every Kan complex $Z$, the induced map $[Y,Z]\to[X,Z]$ is a bijection.
@@ -21,4 +21,4 @@
 - We need to solve the following lifting problem:
 	- <!-- https://q.uiver.app/#q=WzAsNCxbMCwwLCJcXHBhcnRpYWxcXERlbHRhXm4iXSxbMCwxLCJcXERlbHRhXm4iXSxbMSwwLCJaIl0sWzEsMSwiWSJdLFsxLDMsIlxcc2lnbWEiLDJdLFsyLDMsImYnIl0sWzAsMiwiXFxiZXRhIl0sWzAsMV0sWzEsMiwiIiwxLHsic3R5bGUiOnsiYm9keSI6eyJuYW1lIjoiZGFzaGVkIn19fV1d -->
 	  <iframe class="quiver-embed" src="https://q.uiver.app/#q=WzAsNCxbMCwwLCJcXHBhcnRpYWxcXERlbHRhXm4iXSxbMCwxLCJcXERlbHRhXm4iXSxbMSwwLCJaIl0sWzEsMSwiWSJdLFsxLDMsIlxcc2lnbWEiLDJdLFsyLDMsImYnIl0sWzAsMiwiXFxiZXRhIl0sWzAsMV0sWzEsMiwiIiwxLHsic3R5bGUiOnsiYm9keSI6eyJuYW1lIjoiZGFzaGVkIn19fV1d&embed" width="200" height="200" style="border-radius: 8px; border: none;"></iframe>
-- For this, we apply HELP to reduce to the case where $\sigma=c_y$, $y\in Y$. In details, since $\Delta^n$ is contractible, there is $y\in Y$ and a homotopy $\overline{h}:\Delta^1\times\Delta^n\to Y$ from $\sigma$ to $c_y$. For $c_y$, the desired map $\Delta^n\to Z$ exists by contractibility of $F_y:=f'^{-1}(y)$.
+- For this, we apply HELP to reduce to the case where $\sigma=c_y$, $y\in Y$. In details, since $\Delta^n$ is contractible, there is $y\in Y$ and a homotopy $\overline{h}:\Delta^1\times\Delta^n\to Y$ from $\sigma$ to $c_y$. For $c_y$, the desired map $\Delta^n\to Z$ exists by contractibility of $F_y:=f'^{-1}(y)$ (lemma 1).
