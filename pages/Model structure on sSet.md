@@ -8,5 +8,7 @@
 	- (M6) every morphism can be factorized as an acyclic cofibration with with a fibration.
 - ### Definitions
 - The cofibrations are the monomorphisms.
-- The fibrations are the morphisms having right lifting property against
+- The fibrations are the morphisms having right lifting property against the horn inclusions $\Lambda^n_k\to\Delta^n$.
+-
 - A morphism $f:X\to Y$ is a weak homotopy equivalence iff, for every Kan complex $Z$, the induced map $[Y,Z]\to[X,Z]$ is a bijection.
+-
