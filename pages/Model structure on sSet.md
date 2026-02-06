@@ -1,1 +1,2 @@
-- Our goal is to define the three classes of special morphisms on
+- Our goal is to define the three classes of special morphisms on $\mathsf{sSet}$, and check that they satisfies the axioms of a model category:
+	- (M1)
