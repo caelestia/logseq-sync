@@ -16,5 +16,5 @@
 - M0. This is known for presheaf categories.
 - M2. Given $X\xrightarrow{f}Y\xrightarrow{g}Z$, any Kan complex $W$, we have $f^*g^*=(gf)^*$. Since bijections satisfy 2 out of 3, we're done.
 - M1. This is easy for all three classes:
-	- Retracts of monomorphisms are monomorphisms.
-	- Retracts preserve
+	- Retracts of monomorphisms are monomorphisms. These are just the cofibrations.
+	- Retracts preserve all lifting properties. In particular, if $f$ has the right lifting property against some morphism $l$, then so does any retract of $f$. Hence
