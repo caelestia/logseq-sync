@@ -18,4 +18,4 @@
 - M1. This is easy for all three classes:
 	- Retracts of monomorphisms are monomorphisms.
 	- Retracts preserve all lifting properties. In particular, if $f$ has the right lifting property against some morphism $l$, then so does any retract of $f$. Hence fibrations are closed under retract.
-	- Retracts are absolute, in particular they are preserved by the functor $[-,W]$ where $W$ is any
+	- Retracts are absolute, in particular they are preserved by the functor $[-,W]$ where $W$ is any Kan complex. In
