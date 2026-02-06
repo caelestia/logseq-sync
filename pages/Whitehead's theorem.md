@@ -25,7 +25,5 @@
 	- logseq.order-list-type:: number
 	  $$gk=\overline{h}_{\Delta^1\times\partial\Delta^n},$$
 	- logseq.order-list-type:: number
-	  $$k|_{\{1\}\times\partial\Delta^n}=u|_{\partial\Delta^n}.$$
-- And for $h(0)$ to fit in the original diagram, we need
-	- $$k|_{\{0\}\times\partial\Delta^n}=\beta.$$
-- We want to lift $\overline{h}$ to a homotopy $h:\Delta^1\times\Delta^n\to Z$ from some $h(0)$ to $u$, while also extending a homotopy $k$
+	  $$k|_{\{0\}\times\partial\Delta^n}=\beta.$$
+- Invoking HELP, we can lift $\overline{h}$ to a homotopy $h:\Delta^1\times\Delta^n\to Z$ from some $h(0)$ to $u$, while also extending a homotopy $k$
