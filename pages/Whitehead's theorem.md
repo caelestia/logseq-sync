@@ -26,6 +26,8 @@
 	  $$gk=\overline{h}_{\Delta^1\times\partial\Delta^n},$$
 	- logseq.order-list-type:: number
 	  $$k|_{\{0\}\times\partial\Delta^n}=\beta.$$
-- Invoking HELP, we can lift $\overline{h}$ to a homotopy $h:\Delta^1\times\Delta^n\to Z$ from some $h(0)$ to $u$, while also extending $k$. Such $h(0)$ is our desired lift of $\sigma$.
--
+- Invoking HELP, we can then lift $\overline{h}$ to a homotopy $h:\Delta^1\times\Delta^n\to Z$ from some $h(0)$ to $u$, while also extending $k$. Such $h(0)$ is our desired lift of $\sigma$.
+- Finally, the existence of $k$ is clear from the diagram:
+- <!-- https://q.uiver.app/#q=WzAsNCxbMCwwLCJcXHswXFx9XFx0aW1lc1xccGFydGlhbFxcRGVsdGFebiJdLFswLDEsIlxcRGVsdGFeMVxcdGltZXNcXHBhcnRpYWxcXERlbHRhXm4iXSxbMSwwLCJaIl0sWzEsMSwiWSJdLFsxLDMsImh8X3tcXHRleHR7d2FsbHN9fSIsMl0sWzIsMywiZyJdLFswLDIsIlxcYmV0YSJdLFswLDEsIiIsMCx7InN0eWxlIjp7InRhaWwiOnsibmFtZSI6Imhvb2siLCJzaWRlIjoidG9wIn19fV0sWzEsMiwiIiwxLHsic3R5bGUiOnsiYm9keSI6eyJuYW1lIjoiZGFzaGVkIn19fV1d -->
+  <iframe class="quiver-embed" src="https://q.uiver.app/#q=WzAsNCxbMCwwLCJcXHswXFx9XFx0aW1lc1xccGFydGlhbFxcRGVsdGFebiJdLFswLDEsIlxcRGVsdGFeMVxcdGltZXNcXHBhcnRpYWxcXERlbHRhXm4iXSxbMSwwLCJaIl0sWzEsMSwiWSJdLFsxLDMsImh8X3tcXHRleHR7d2FsbHN9fSIsMl0sWzIsMywiZyJdLFswLDIsIlxcYmV0YSJdLFswLDEsIiIsMCx7InN0eWxlIjp7InRhaWwiOnsibmFtZSI6Imhvb2siLCJzaWRlIjoidG9wIn19fV0sWzEsMiwiIiwxLHsic3R5bGUiOnsiYm9keSI6eyJuYW1lIjoiZGFzaGVkIn19fV1d&embed" width="200" height="200" style="border-radius: 8px; border: none;"></iframe>
 - QED
