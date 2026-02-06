@@ -43,4 +43,5 @@
 - A connection on a complex vector bundle $E$ is a $\mathbb{C}$-linear map $\nabla:C^\infty(X,E)\to C^\infty(X,\Omega^1\otimes E)$, satisfying the Leibniz rule $\nabla(fs)=df\otimes s+f\nabla s$.
 - The space of connections on $E$ is an affine space over $C^\infty(X,\Omega^1\otimes\operatorname{End}(E))$.
 - On a local trivialization $\psi:E|_U\xrightarrow{\sim}U\times\mathbb{C}^r$, we can write $\nabla=\psi^{-1}(d+A)\psi$, where $A$ is a section of $\Omega^1\otimes\mathbb{C}^{r\times r}$ depending on $\psi$.
-- If $\psi'$ is another section, $\psi'=\phi\psi$ where $\phi:U\to\mathrm{GL}_r(\mathbb{C})$, then $\nabla=\psi'^{-1}(d+A')\psi'$ where $A'=\phi d\phi^{-1}+\phi A\phi^{-1}$.
+- If $\psi'$ is another trivialization, $\psi'=\phi\psi$ where $\phi:U\to\mathrm{GL}_r(\mathbb{C})$, then $\nabla=\psi'^{-1}(d+A')\psi'$ where $A'=\phi d\phi^{-1}+\phi A\phi^{-1}$.
+-
