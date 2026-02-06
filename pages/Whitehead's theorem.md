@@ -9,9 +9,11 @@
 	- Lemma (Long exact sequence of fibration). If $(X,*)\to(Y,*)$ is a fibration of pointed Kan complexes, $(F,*)$ is the fiber over the base point, then we have a long exact sequence
 		- $$\cdots \rightarrow \pi _1(Y,*) \xrightarrow {\partial } \pi _{0}(F, *) \rightarrow \pi _0( X,*) \rightarrow \pi _0(Y,*).$$
 - ### Weak homotopy equivalence
-- Definition. Let $f:X\to Y$ be a morphism of simplicial sets. We say $f$ is a weak homotopy equivalence if precomposition with $f$ induces a bijection $[X,Z]\to[]$
+- Definition. Let $f:X\to Y$ be a morphism of simplicial sets. We say $f$ is a weak homotopy equivalence if, for every Kan complex $Z$, the induced map $[Y,Z]\to[X,Z]$ is a bijection.
 - Theorem. Let $f:X\to Y$ be a morphism of Kan complexes. The following are equivalent:
 	- (a) $f$ is a weak homotopy equivalence;
 	- (b) $f$ is a homotopy equivalence;
 	- (c) $\pi_0(f)$ is a bijection, and for every $x\in X$ and $n>0$, $\pi_n(f):\pi_n(X,x)\to\pi_n(Y,f(x))$ is an isomorphism.
-- Proof. (a) implies (c) is homotopy invariance, which is clear since $\pi_n(-)=[S^n,-]$. To prove the converse, first factor $f$ as $X\to Z\to Y$, where $X\to Z$ is a trivial cofibration and $Z\to Y$ is a fibration. Since $Z\to Y\to *$ is a fibration, $Z$ is a Kan complex.
+- Proof.
+-
+- (a) implies (c) is homotopy invariance, which is clear since $\pi_n(-)=[S^n,-]$. To prove the converse, first factor $f$ as $X\to Z\to Y$, where $X\to Z$ is a trivial cofibration and $Z\to Y$ is a fibration. Since $Z\to Y\to *$ is a fibration, $Z$ is a Kan complex.
