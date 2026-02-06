@@ -26,5 +26,5 @@
 	  $$gk=\overline{h}_{\Delta^1\times\partial\Delta^n},$$
 	- logseq.order-list-type:: number
 	  $$k|_{\{1\}\times\partial\Delta^n}=u|_{\partial\Delta^n}.$$
-- And for $h(0)$ to fit in the original diagram,
--
+- And for $h(0)$ to fit in the original diagram, we need
+	- $$k|_{\{0\}\times\partial\Delta^n}=\beta.$$
