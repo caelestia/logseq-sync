@@ -1,2 +1,4 @@
 - Our goal is to define the three classes of special morphisms on $\mathsf{sSet}$, and check that they satisfies the axioms of a model category:
-	- (M1)
+	- (M1) All three classes are closed under retracts;
+	- (M2) Weak equivalences satisfies 2 out of 3;
+	- (M3) acyclic cofibrations have the left lifting property against fibrations, and cofibrations have the left lifting property against acyclic fibrations.
