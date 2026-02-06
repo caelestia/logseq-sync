@@ -12,4 +12,5 @@
 - Kan complexes are the fibrant objects, equivalently, those with the horn filling property.
 - A morphism $f:X\to Y$ is a weak homotopy equivalence iff, for every Kan complex $Z$, the induced map $[Y,Z]\to[X,Z]$ is a bijection.
 - ## Checking the axioms
-- ###
+- ### Trivial things
+- M0. This
