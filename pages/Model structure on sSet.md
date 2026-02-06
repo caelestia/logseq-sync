@@ -14,5 +14,6 @@
 - ## Checking the axioms
 - ### Trivial things
 - M0. This is known for presheaf categories.
-- M2. Given $X\xrightarrow{f}Y\xrightarrow{g}Z$, any Kan complex $W$, we have $f^*g^*=(gf)^*$.
+- M2. Given $X\xrightarrow{f}Y\xrightarrow{g}Z$, any Kan complex $W$, we have $f^*g^*=(gf)^*$. Since bijections satisfy 2 out of 3, we're done.
+- M1.
 -
