@@ -13,4 +13,5 @@
 - A morphism $f:X\to Y$ is a weak homotopy equivalence iff, for every Kan complex $Z$, the induced map $[Y,Z]\to[X,Z]$ is a bijection.
 - ## Checking the axioms
 - ### Trivial things
-- M0. This
+- M0. This is known for presheaf categories.
+- M2.
