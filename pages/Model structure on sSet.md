@@ -9,6 +9,6 @@
 - ### Definitions
 - The cofibrations are the monomorphisms.
 - The fibrations are the morphisms having right lifting property against the horn inclusions $\Lambda^n_k\to\Delta^n$.
-- Kan complexes are the fibrant objects, i.e. $X\to
+- Kan complexes are the fibrant objects, equivalently, those with the horn filling property.
 - A morphism $f:X\to Y$ is a weak homotopy equivalence iff, for every Kan complex $Z$, the induced map $[Y,Z]\to[X,Z]$ is a bijection.
 -
