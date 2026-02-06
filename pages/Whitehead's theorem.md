@@ -10,6 +10,7 @@
 		- $$\cdots \rightarrow \pi _1(Y,*) \xrightarrow {\partial } \pi _{0}(F, *) \rightarrow \pi _0( X,*) \rightarrow \pi _0(Y,*).$$
 - ### Weak homotopy equivalence
 - Theorem. Let $f:X\to Y$ be a morphism of Kan complexes. The following are equivalent:
-	- (a) $f$ is a homotopy equivalence;
-	- (b) $\pi_0(f)$ is a bijection, and for every $x\in X$ and $n>0$, $\pi_n(f):\pi_n(X,x)\to\pi_n(Y,f(x))$ is an isomorphism.
-- Proof. (a) implies (b) is homotopy invariance, which is clear since $\pi_n(-)=[S^n,-]$. To prove the converse, first factor $f$ as $X\to Z\to Y$, where $X\to Z$ is a trivial cofibration and $Z\to Y$ is a fibration. Since $Z\to Y\to *$ is a fibration, $Z$ is a Kan complex.
+	- (a) $f$ is a weak homotopy equivalence;
+	- (b) $f$ is a homotopy equivalence;
+	- (c) $\pi_0(f)$ is a bijection, and for every $x\in X$ and $n>0$, $\pi_n(f):\pi_n(X,x)\to\pi_n(Y,f(x))$ is an isomorphism.
+- Proof. (a) implies (c) is homotopy invariance, which is clear since $\pi_n(-)=[S^n,-]$. To prove the converse, first factor $f$ as $X\to Z\to Y$, where $X\to Z$ is a trivial cofibration and $Z\to Y$ is a fibration. Since $Z\to Y\to *$ is a fibration, $Z$ is a Kan complex.
