@@ -6,7 +6,7 @@
 - The following lemmas won't be proven here.
 	- Lemma. A Kan complex $X$ is contractible iff it is connected and $\pi_n(X,x)=1$ for every $n>0$ and every $x\in X$, iff $X\to\Delta^0$ is a trivial fibration.
 		- [[Contractible Kan complexes]]
-	- Lemma (Long exact sequence of fibration). If $(X,*)\to(Y,*)$ is a fibration of pointed Kan complexes, $(F,*)$ is the fiber over the base point, then $F$ is a Kan complex and we have a long exact sequence
+	- Lemma (Long exact sequence of fibration). If $(X,*)\to(Y,*)$ is a fibration of pointed Kan complexes, $(F,*)$ is the fiber over the base point, then $F$ is obviously a Kan complex and we have a long exact sequence
 		- $$\cdots \rightarrow \pi _1(Y,*) \xrightarrow {\partial } \pi _{0}(F, *) \rightarrow \pi _0( X,*) \rightarrow \pi _0(Y,*).$$
 - ### Weak homotopy equivalence
 - Definition. Let $f:X\to Y$ be a morphism of simplicial sets. We say $f$ is a weak homotopy equivalence if, for every Kan complex $Z$, the induced map $[Y,Z]\to[X,Z]$ is a bijection.
@@ -17,4 +17,4 @@
 - Proof.
 - (a) implies (b) directly follows from the definition. Since $X$ is a Kan complex, by surjectivity of $[Y,X]\to[X,X]$, there is $g:Y\to X$ such that $gf\simeq\mathrm{id}_X$. Now $fgf\simeq\mathrm{id}_Y\circ f$, so by injectivity of $[Y,Y]\to[X,Y]$ (because $Y$ is a Kan complex), $fg\simeq\mathrm{id}_Y$.
 - (b) implies (c) is homotopy invariance, which is clear since $\pi_n(-)=[S^n,-]$. For turning the homotopy equivalence into a pointed one, see [here](https://kerodon.net/tag/04GD).
-- (c) implies (a). First factor $f$ as $X\to Z\to Y$, where $X\to Z$ is a trivial cofibration and $Z\to Y$ is a fibration. Since $Z\to Y\to *$ is a fibration, $Z$ is a Kan complex. By *(a) implies (b)* above, $X\to Z$ is a homotopy equivalence. Thus, it suffices to prove the fibration $f':Z\to Y$ is a homotopy equivalence. By the two lemmas above, the fiber $F$ of $f'$ over any base point is contractible.
+- (c) implies (a). First factor $f$ as $X\to Z\to Y$, where $X\to Z$ is a trivial cofibration and $Z\to Y$ is a fibration. Since $Z\to Y\to *$ is a fibration, $Z$ is a Kan complex. By *(a) implies (b)* above, $X\to Z$ is a homotopy equivalence. Thus, it suffices to show the fibration $f':Z\to Y$ is a homotopy equivalence. By the two lemmas above, the fiber $F$ of $f'$ over any base point is contractible.
