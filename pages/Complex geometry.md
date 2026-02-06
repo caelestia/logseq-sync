@@ -39,4 +39,5 @@
 - ### Dolbeault cohomology
 - Basic definition omitted.
 - TODO
-- ###
+- ### Connections
+-
