@@ -2,6 +2,9 @@
 	- (M0) The category is complete and cocomplete;
 	- (M1) all three classes are closed under retracts;
 	- (M2) weak equivalences satisfies 2 out of 3;
-	- (M3) acyclic cofibrations have the left lifting property against fibrations, and cofibrations have the left lifting property against acyclic fibrations;
-	- (M4) every morphism can be factorized as a cofibration with an acyclic fibration;
-	- (M5) every morphism can be factorized as an acyclic cofibration with with an
+	- (M3) acyclic cofibrations have the left lifting property against fibrations;
+	- (M4) cofibrations have the left lifting property against acyclic fibrations;
+	- (M5) every morphism can be factorized as a cofibration with an acyclic fibration;
+	- (M6) every morphism can be factorized as an acyclic cofibration with with a fibration.
+- ### Definition
+- We'll
