@@ -9,7 +9,7 @@
 	- Lemma (Long exact sequence of fibration). If $(X,*)\to(Y,*)$ is a fibration of pointed Kan complexes, $(F,*)$ is the fiber over the base point, then we have a long exact sequence
 		- $$\cdots \rightarrow \pi _1(Y,*) \xrightarrow {\partial } \pi _{0}(F, *) \rightarrow \pi _0( X,*) \rightarrow \pi _0(Y,*).$$
 - ### Weak homotopy equivalence
-- Definition. Let $f:X\to Y$ be a morphism of simplicial sets.
+- Definition. Let $f:X\to Y$ be a morphism of simplicial sets. We say $f$ is a weak homotopy equivalence if precomposition with $f$ induces a bijection $[X,Z]\to[]$
 - Theorem. Let $f:X\to Y$ be a morphism of Kan complexes. The following are equivalent:
 	- (a) $f$ is a weak homotopy equivalence;
 	- (b) $f$ is a homotopy equivalence;
