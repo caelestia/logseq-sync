@@ -26,4 +26,5 @@
   <!-- https://q.uiver.app/#q=WzAsNCxbMCwwLCJcXGNvcHJvZF97bixcXHNpZ21hfVxccGFydGlhbFxcRGVsdGFebiJdLFsxLDAsIlgoaSkiXSxbMSwxLCJYKGkrMSkiXSxbMCwxLCJcXGNvcHJvZF97bixcXHNpZ21hfVxcRGVsdGFebiJdLFswLDNdLFszLDJdLFsxLDJdLFswLDFdLFswLDIsIiIsMSx7InN0eWxlIjp7Im5hbWUiOiJjb3JuZXItaW52ZXJzZSJ9fV1d -->
   <iframe class="quiver-embed" src="https://q.uiver.app/#q=WzAsNCxbMCwwLCJcXGNvcHJvZF97bixcXHNpZ21hfVxccGFydGlhbFxcRGVsdGFebiJdLFsxLDAsIlgoaSkiXSxbMSwxLCJYKGkrMSkiXSxbMCwxLCJcXGNvcHJvZF97bixcXHNpZ21hfVxcRGVsdGFebiJdLFswLDNdLFszLDJdLFsxLDJdLFswLDFdLFswLDIsIiIsMSx7InN0eWxlIjp7Im5hbWUiOiJjb3JuZXItaW52ZXJzZSJ9fV1d&embed" width="200" height="200" style="border-radius: 8px; border: none;"></iframe>
 - Let $X'=\varinjlim_iX(i)$. We have a factorization of $f$ as $X\hookrightarrow X'\xrightarrow{p} Y$. Then $p$ clearly has the right lifting property against the boundary embeddings $\partial\Delta^n\to\Delta^n$. To conclude, we need
-- Proposition.
+- **Proposition**. A map $p:X\to Y$ is a trivial fibration if and only if it has the right lifting property against the boundary embeddings.
+-
