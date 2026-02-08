@@ -25,4 +25,4 @@
 - And define $X(i+1)$, as well as the map $X(i+1)\to Y$, by the pushout
   <!-- https://q.uiver.app/#q=WzAsNCxbMCwwLCJcXGNvcHJvZF97bixcXHNpZ21hfVxccGFydGlhbFxcRGVsdGFebiJdLFsxLDAsIlgoaSkiXSxbMSwxLCJYKGkrMSkiXSxbMCwxLCJcXGNvcHJvZF97bixcXHNpZ21hfVxcRGVsdGFebiJdLFswLDNdLFszLDJdLFsxLDJdLFswLDFdLFswLDIsIiIsMSx7InN0eWxlIjp7Im5hbWUiOiJjb3JuZXItaW52ZXJzZSJ9fV1d -->
   <iframe class="quiver-embed" src="https://q.uiver.app/#q=WzAsNCxbMCwwLCJcXGNvcHJvZF97bixcXHNpZ21hfVxccGFydGlhbFxcRGVsdGFebiJdLFsxLDAsIlgoaSkiXSxbMSwxLCJYKGkrMSkiXSxbMCwxLCJcXGNvcHJvZF97bixcXHNpZ21hfVxcRGVsdGFebiJdLFswLDNdLFszLDJdLFsxLDJdLFswLDFdLFswLDIsIiIsMSx7InN0eWxlIjp7Im5hbWUiOiJjb3JuZXItaW52ZXJzZSJ9fV1d&embed" width="200" height="200" style="border-radius: 8px; border: none;"></iframe>
-- Let $X'=\varinjlim_iX(i)$. We have a factorization
+- Let $X'=\varinjlim_iX(i)$. We have a factorization of $f$ as $X\hookrightarrow X'\to Y$.
