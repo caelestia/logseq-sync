@@ -35,5 +35,5 @@
 - ## Topological spaces
 - Definition. A morphism $f:X\to Y$ of topological spaces is a weak homotopy equivalence if $\pi_0(f)$ is a bijection, and for every $x\in X$ and $n>0$, $\pi_n(f):\pi_n(X,x)\to\pi_n(Y,f(x))$ is an isomorphism.
 - Recall the adjunction pair $|\cdot|\dashv\operatorname{Sing}$. Both the unit and counit preserves the base point, so we get a adjunction between $\mathsf{sSet}^{*/}$ and $\mathsf{Top}^{*/}$ as well.
-- Hence for a pointed topological space $X$, $\pi_n(X,x)\simeq\pi_n(\operatorname{Sing}(X),x)$ naturally for all $n$.
+- Hence for a pointed topological space $X$, $\pi_n(X,x)\simeq\pi_n(\operatorname{Sing}(X),x)$ naturally for all $n>0$. Same for $\pi_0$.
 -
