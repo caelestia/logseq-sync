@@ -2,3 +2,4 @@
 - Recall the Eilenberg-Zilber lemma: every simplex has a unique expression as a degeneracy of a non-degenerate simplex.
 - **Base case**, $n=0$. By the lifting property against $\varnothing\to\Delta^1$, $p$ is surjective on vertices. Define $s$ as any section of this.
 - **Inductive step**, $n>0$. Suppose that $s$ is constructed for all simplices of degree $<n$, as well as all simplices degenerated from such by $ss_i=s_is$.
+-
