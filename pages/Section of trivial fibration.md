@@ -21,4 +21,4 @@
   <!-- https://q.uiver.app/#q=WzAsNCxbMCwwLCJcXHBhcnRpYWxcXERlbHRhXm4iXSxbMSwwLCJYIl0sWzEsMSwiWSJdLFswLDEsIlxcRGVsdGFebiJdLFswLDNdLFszLDIsIlxcb3ZlcmxpbmV7aH1cXHNpZ21hIiwyXSxbMSwyLCJwIl0sWzAsMSwiaFxcc2lnbWEiXSxbMywxLCIiLDEseyJzdHlsZSI6eyJib2R5Ijp7Im5hbWUiOiJkYXNoZWQifX19XV0= -->
   <iframe class="quiver-embed" src="https://q.uiver.app/#q=WzAsNCxbMCwwLCJcXHBhcnRpYWxcXERlbHRhXm4iXSxbMSwwLCJYIl0sWzEsMSwiWSJdLFswLDEsIlxcRGVsdGFebiJdLFswLDNdLFszLDIsIlxcb3ZlcmxpbmV7aH1cXHNpZ21hIiwyXSxbMSwyLCJwIl0sWzAsMSwiaFxcc2lnbWEiXSxbMywxLCIiLDEseyJzdHlsZSI6eyJib2R5Ijp7Im5hbWUiOiJkYXNoZWQifX19XV0=&embed" width="200" height="200" style="border-radius: 8px; border: none;"></iframe>
 - QED
-- In fact, we've just proved that: If $p:X\to Y$ is a trivial fibration, $Z$ is any simplicial set, then $f_*:[Z,X]\to[Z,Y]$ is injective. Using the lifting property against $\varnothing
+- In fact, we've just proved that: If $p:X\to Y$ is a trivial fibration, $Z$ is any simplicial set, then $f_*:[Z,X]\to[Z,Y]$ is injective. Moreover, using the lifting property against $\varnothing\to Z$, this is actually a bijection.
