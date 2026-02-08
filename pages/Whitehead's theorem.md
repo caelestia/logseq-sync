@@ -41,5 +41,5 @@
 	- $\Longleftrightarrow$ $\operatorname{Sing}(f)$ is a weak homotopy equivalence 
 	  $\Longleftrightarrow$ $\operatorname{Sing}(f)$ is a homotopy equivalence
 - ### Whitehead's theorem
-- Proposition. Let $f:X\to Y$ is a weak homotopy equivalence of topological spaces, $K$ be a CW complex, $g:K$
+- Proposition. Let $f:X\to Y$ is a weak homotopy equivalence of topological spaces, and $K$ be a CW complex. Given a  $g:K\to Y$ continuous, there exists $K\to
 - Corollary. If $f:X\to Y$ is a weak homotopy equivalence and $X,Y$ are homotopy equialent to CW complexes, then $f$ is a homotopy equivalence.
