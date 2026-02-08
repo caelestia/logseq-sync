@@ -40,4 +40,6 @@
 - By the last section, we have $f$ is a weak homotopy equivalence
 	- $\Longleftrightarrow$ $\operatorname{Sing}(f)$ is a weak homotopy equivalence 
 	  $\Longleftrightarrow$ $\operatorname{Sing}(f)$ is a homotopy equivalence
-- Theorem (Whitehead). If $f:X\to Y$ is a weak homotopy equivalence, $X$
+- ### Whitehead's theorem
+- Theorem (Whitehead). If $f:X\to Y$ is a weak homotopy equivalence and $X,Y$ are homotopy equialent to CW complexes, then $f$ is a homotopy equivalence.
+-
