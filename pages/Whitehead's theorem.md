@@ -35,6 +35,6 @@
 - ## Topological spaces
 - Definition. A morphism $f:X\to Y$ of topological spaces is a weak homotopy equivalence if $\pi_0(f)$ is a bijection, and for every $x\in X$ and $n>0$, $\pi_n(f):\pi_n(X,x)\to\pi_n(Y,f(x))$ is an isomorphism.
 - From the adjunction pair $|\cdot|\dashv\operatorname{Sing}$, it is easy to show that
-	- $$\pi_n=[(|\Delta^n|,|\partial\Delta^n|),(X,A)]=[(\Delta^n,\partial\Delta^n),(\operatorname{Sing}(X),\operatorname{Sing}(A))]$$
+	- $$\pi_n(X,A):=[(|\Delta^n|,|\partial\Delta^n|),(X,A)]=[(\Delta^n,\partial\Delta^n),(\operatorname{Sing}(X),\operatorname{Sing}(A))]$$
 - Hence $\pi_n(X,x)\simeq\pi_n(\operatorname{Sing}(X),x)$ naturally for all $n>0$. Same for $\pi_0$.
 -
