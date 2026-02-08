@@ -33,4 +33,4 @@
   <iframe class="quiver-embed" src="https://q.uiver.app/#q=WzAsNCxbMCwwLCJcXHswXFx9XFx0aW1lc1xccGFydGlhbFxcRGVsdGFebiJdLFswLDEsIlxcRGVsdGFeMVxcdGltZXNcXHBhcnRpYWxcXERlbHRhXm4iXSxbMSwwLCJaIl0sWzEsMSwiWSJdLFsxLDMsIlxcb3ZlcmxpbmUgaHxfe1xcdGV4dHt3YWxsc319IiwyXSxbMiwzLCJnIl0sWzAsMiwiXFxiZXRhIl0sWzAsMSwiIiwwLHsic3R5bGUiOnsidGFpbCI6eyJuYW1lIjoiaG9vayIsInNpZGUiOiJ0b3AifX19XSxbMSwyLCIiLDEseyJzdHlsZSI6eyJib2R5Ijp7Im5hbWUiOiJkYXNoZWQifX19XV0=&embed" width="200" height="200" style="border-radius: 8px; border: none;"></iframe>
 - If the left map is an acyclic cofibration, then the dashed arrow exists. But it's clearly a cofibration and a homotopy equivalence, so everything follows from *(b) implies (a)*. QED
 - ## Topological spaces
-- Definition. A topological space $X$
+- Definition. A morphism $f:X\to Y$ of topological spaces is a weak homotopy equivalence if
