@@ -9,4 +9,4 @@
   <iframe class="quiver-embed" src="https://q.uiver.app/#q=WzAsNCxbMCwwLCJcXHBhcnRpYWxcXERlbHRhXm4iXSxbMSwwLCJYIl0sWzEsMSwiWSJdLFswLDEsIlxcRGVsdGFebiJdLFswLDNdLFszLDIsIlxcc2lnbWEiLDJdLFsxLDIsInAiXSxbMCwxLCJiIl0sWzMsMSwiIiwxLHsic3R5bGUiOnsiYm9keSI6eyJuYW1lIjoiZGFzaGVkIn19fV1d&embed" width="200" height="200" style="border-radius: 8px; border: none;"></iframe>
 - where the top map $b$ exists by induction hypothesis. This $s(\sigma)$ obviously commutes with taking faces. QED
 - ### Construction of the homotopy
--
+- This is very similar
