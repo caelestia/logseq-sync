@@ -22,5 +22,5 @@
 - ### M5: factorization into cofibration + acyclic fibration
 - Let $f:X\to Y$ be a morphism of simplicial sets. Put $X(0)=X$. For $i\geq0$, let $\sigma$ run through all commutative squares of the form
 - <!-- https://q.uiver.app/#q=WzAsNCxbMCwwLCJcXHBhcnRpYWxcXERlbHRhXm4iXSxbMSwwLCJYKGkpIl0sWzEsMSwiWSJdLFswLDEsIlxcRGVsdGFebiJdLFswLDNdLFszLDJdLFsxLDJdLFswLDFdXQ== -->
-  <iframe class="quiver-embed" src="https://q.uiver.app/#q=WzAsNCxbMCwwLCJcXHBhcnRpYWxcXERlbHRhXm4iXSxbMSwwLCJYKGkpIl0sWzEsMSwiWSJdLFswLDEsIlxcRGVsdGFebiJdLFswLDNdLFszLDJdLFsxLDJdLFswLDFdXQ==&embed" width="200" height="200" style="border-radius: 8px; border: none;"></iframe>
+  <iframe class="quiver-embed" src="https://q.uiver.app/#q=WzAsNCxbMCwwLCJcXHBhcnRpYWxcXERlbHRhXm4iXSxbMSwwLCJYKGkpIl0sWzEsMSwiWSJdLFswLDEsIlxcRGVsdGFebiJdLFswLDNdLFszLDJdLFsxLDJdLFswLDFdXQ==&embed" width="100" hweight="100" style="border-radius: 8px; border: none;"></iframe>
 -
