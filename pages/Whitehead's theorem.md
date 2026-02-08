@@ -49,4 +49,4 @@
 	- $$\operatorname{S}(X) \longrightarrow \operatorname{S}(X)\underset{\operatorname{Hom}(\{0\},\operatorname{S}(Y))}{\times}\operatorname{Hom}(\Delta^1,\operatorname{S}(Y)) \longrightarrow \operatorname{Hom}(\{1\},\operatorname{S}(Y)),$$
 	- where the first map is an acyclic cofibration, and the second map (which is $\pi$) is a fibration. $\operatorname{S}(f)$ is a weak equivalence by assumption, so $\pi$ is an acyclic fibration. Hence the lifting problem has a solution. QED
 - Corollary. If $f:X\to Y$ is a weak homotopy equivalence and $X,Y$ are homotopy equialent to CW complexes, then $f$ is a homotopy equivalence.
-	- Proof. Let $\psi:X\to X$ be a homotopy equivalence where $X'$ is a CW complex.
+	- Proof. Let $\psi:Y'\to Y$ be a homotopy equivalence where $Y'$ is a CW complex. By the proposition, there is $g:Y'\to X$ such that $
