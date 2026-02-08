@@ -16,4 +16,5 @@
 	  logseq.order-list-type:: number
 	- $h(1)=\mathrm{id}_X$.
 	  logseq.order-list-type:: number
-- Induct on the degree $n\geq0$. Suppose $h$ is constructed for all simplices of degree $<n$ satisfying 1. and commutes
+- Induct on the degree $n\geq0$. Suppose $h$ is constructed for all simplices of degree $<n$ satisfying 1. and commutes with face and degeneracy.
+- Given a non-degenerate $n$-simplex $\sigma$ not contained in the two ", its faces
