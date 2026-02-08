@@ -23,3 +23,6 @@
 - Let $f:X\to Y$ be a morphism of simplicial sets. Put $X(0)=X$. For $i\geq0$, let $\sigma$ run through all commutative squares of the form <!-- https://q.uiver.app/#q=WzAsNCxbMCwwLCJcXHBhcnRpYWxcXERlbHRhXm4iXSxbMSwwLCJYKGkpIl0sWzEsMSwiWSJdLFswLDEsIlxcRGVsdGFebiJdLFswLDNdLFszLDJdLFsxLDJdLFswLDFdXQ== -->
   <iframe class="quiver-embed" src="https://q.uiver.app/#q=WzAsNCxbMCwwLCJcXHBhcnRpYWxcXERlbHRhXm4iXSxbMSwwLCJYKGkpIl0sWzEsMSwiWSJdLFswLDEsIlxcRGVsdGFebiJdLFswLDNdLFszLDJdLFsxLDJdLFswLDFdXQ==&embed" width="200" height="200" style="border-radius: 8px; border: none;"></iframe>
 - And define $X(i+1)$, as well as the map $X(i+1)\to Y$, by the pushout
+  <!-- https://q.uiver.app/#q=WzAsNCxbMCwwLCJcXGNvcHJvZF97bixcXHNpZ21hfVxccGFydGlhbFxcRGVsdGFebiJdLFsxLDAsIlgoaSkiXSxbMSwxLCJYKGkrMSkiXSxbMCwxLCJcXGNvcHJvZF97bixcXHNpZ21hfVxcRGVsdGFebiJdLFswLDNdLFszLDJdLFsxLDJdLFswLDFdLFswLDIsIiIsMSx7InN0eWxlIjp7Im5hbWUiOiJjb3JuZXItaW52ZXJzZSJ9fV1d -->
+  <iframe class="quiver-embed" src="https://q.uiver.app/#q=WzAsNCxbMCwwLCJcXGNvcHJvZF97bixcXHNpZ21hfVxccGFydGlhbFxcRGVsdGFebiJdLFsxLDAsIlgoaSkiXSxbMSwxLCJYKGkrMSkiXSxbMCwxLCJcXGNvcHJvZF97bixcXHNpZ21hfVxcRGVsdGFebiJdLFswLDNdLFszLDJdLFsxLDJdLFswLDFdLFswLDIsIiIsMSx7InN0eWxlIjp7Im5hbWUiOiJjb3JuZXItaW52ZXJzZSJ9fV1d&embed" width="200" height="200" style="border-radius: 8px; border: none;"></iframe>
+- Taking
