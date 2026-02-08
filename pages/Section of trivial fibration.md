@@ -10,5 +10,6 @@
 - where the top map $b$ exists by induction hypothesis. This $s(\sigma)$ obviously commutes with taking faces. QED
 - ### Construction of the homotopy
 - This proof is very similar to the above, so we won't explain the treatment of degenerate simplices. We wish to find a map $h:\Delta^1\times X\to X$, such that
-	- $h$ lifts a constant homotopy $p$
+	- $h$ lifts the constant homotopy $\overline{h}=p\circ\mathrm{pr}_2$, i.e. $ph=\overline{h}$;
 	  logseq.order-list-type:: number
+	- logseq.order-list-type:: number
