@@ -9,7 +9,7 @@
   <iframe class="quiver-embed" src="https://q.uiver.app/#q=WzAsNCxbMCwwLCJcXHBhcnRpYWxcXERlbHRhXm4iXSxbMSwwLCJYIl0sWzEsMSwiWSJdLFswLDEsIlxcRGVsdGFebiJdLFswLDNdLFszLDIsIlxcc2lnbWEiLDJdLFsxLDIsInAiXSxbMCwxLCJiIl0sWzMsMSwiIiwxLHsic3R5bGUiOnsiYm9keSI6eyJuYW1lIjoiZGFzaGVkIn19fV1d&embed" width="200" height="200" style="border-radius: 8px; border: none;"></iframe>
 - where the top map $b$ exists by induction hypothesis. This $s(\sigma)$ obviously commutes with taking faces. QED
 - ### Construction of the homotopy
-- This proof is very similar to the above, so we won't explain the treatment of degenerate simplices. We wish to find a map $h:\Delta^1\times X\to X$, such that
+- This proof is very similar to the above, so we omit the treatment of degenerate simplices. We wish to find a map $h:\Delta^1\times X\to X$, such that
 	- $h$ lifts the constant homotopy $\overline{h}=p\circ\mathrm{pr}_2$, i.e. $ph=\overline{h}$;
 	  logseq.order-list-type:: number
 	- $h(0)=sp$;
@@ -18,4 +18,6 @@
 	  logseq.order-list-type:: number
 - Induct on the degree $n\geq0$. Suppose $h$ is constructed for all simplices of degree $<n$ satisfying 1. and commutes with face and degeneracy.
 - Given a non-degenerate $n$-simplex $\sigma$ of $\Delta^1\times X$ not contained in $\partial\Delta^1\times X$, its faces are already constructed, and we're left with the extension problem
+  <!-- https://q.uiver.app/#q=WzAsNCxbMCwwLCJcXHBhcnRpYWxcXERlbHRhXm4iXSxbMSwwLCJYIl0sWzEsMSwiWSJdLFswLDEsIlxcRGVsdGFebiJdLFswLDNdLFszLDIsIlxcb3ZlcmxpbmV7aH1cXHNpZ21hIiwyXSxbMSwyLCJwIl0sWzAsMSwiaFxcc2lnbWEiXSxbMywxLCIiLDEseyJzdHlsZSI6eyJib2R5Ijp7Im5hbWUiOiJkYXNoZWQifX19XV0= -->
+  <iframe class="quiver-embed" src="https://q.uiver.app/#q=WzAsNCxbMCwwLCJcXHBhcnRpYWxcXERlbHRhXm4iXSxbMSwwLCJYIl0sWzEsMSwiWSJdLFswLDEsIlxcRGVsdGFebiJdLFswLDNdLFszLDIsIlxcb3ZlcmxpbmV7aH1cXHNpZ21hIiwyXSxbMSwyLCJwIl0sWzAsMSwiaFxcc2lnbWEiXSxbMywxLCIiLDEseyJzdHlsZSI6eyJib2R5Ijp7Im5hbWUiOiJkYXNoZWQifX19XV0=&embed" width="200" height="200" style="border-radius: 8px; border: none;"></iframe>
 -
