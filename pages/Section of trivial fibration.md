@@ -1,2 +1,2 @@
 - Given a morphism of simplicial sets $p:X\to Y$ having the right lifting property against boundary inclusions $\partial\Delta^n\to\Delta^n$, we will find a section $s$ to $p$, and a homotopy $sp\simeq\mathrm{id}_X$.
--
+- Recall the Eilenberg-Zilber lemma: every simplex has a unique
