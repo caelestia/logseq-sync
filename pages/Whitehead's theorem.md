@@ -34,5 +34,5 @@
 - If the left map is an acyclic cofibration, then the dashed arrow exists. But it's clearly a cofibration and a homotopy equivalence, so everything follows from *(b) implies (a)*. QED
 - ## Topological spaces
 - Definition. A morphism $f:X\to Y$ of topological spaces is a weak homotopy equivalence if $\pi_0(f)$ is a bijection, and for every $x\in X$ and $n>0$, $\pi_n(f):\pi_n(X,x)\to\pi_n(Y,f(x))$ is an isomorphism.
-- Recall the adjunction pair $|\cdot|\dashv\operatorname{Sing}$. Both the unit and counit preserves the base point, so we get a adjunction $|\cdot|\dsahv
-- op
+- Recall the adjunction pair $|\cdot|\dashv\operatorname{Sing}$. Both the unit and counit preserves the base point, so we get a adjunction between $\mathsf{sSet}^{*/}$ and $\mathsf{Top}^{*/}$ as well.
+- Hence for a topological space $X$, $$
