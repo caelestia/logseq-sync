@@ -9,4 +9,6 @@
   <iframe class="quiver-embed" src="https://q.uiver.app/#q=WzAsNCxbMCwwLCJcXHBhcnRpYWxcXERlbHRhXm4iXSxbMSwwLCJYIl0sWzEsMSwiWSJdLFswLDEsIlxcRGVsdGFebiJdLFswLDNdLFszLDIsIlxcc2lnbWEiLDJdLFsxLDIsInAiXSxbMCwxLCJiIl0sWzMsMSwiIiwxLHsic3R5bGUiOnsiYm9keSI6eyJuYW1lIjoiZGFzaGVkIn19fV1d&embed" width="200" height="200" style="border-radius: 8px; border: none;"></iframe>
 - where the top map $b$ exists by induction hypothesis. This $s(\sigma)$ obviously commutes with taking faces. QED
 - ### Construction of the homotopy
-- This proof is very similar to the above, so we won't explain the treatment of degenerate simplices.
+- This proof is very similar to the above, so we won't explain the treatment of degenerate simplices. We wish to find a map $h:\Delta^1\times X\to X$, such that
+	- $h$ lifts a constant homotopy $p$
+	  logseq.order-list-type:: number
