@@ -20,4 +20,4 @@
 - Given a non-degenerate $n$-simplex $\sigma$ of $\Delta^1\times X$ not contained in $\partial\Delta^1\times X$, its faces are already constructed, and we're left with the extension problem
   <!-- https://q.uiver.app/#q=WzAsNCxbMCwwLCJcXHBhcnRpYWxcXERlbHRhXm4iXSxbMSwwLCJYIl0sWzEsMSwiWSJdLFswLDEsIlxcRGVsdGFebiJdLFswLDNdLFszLDIsIlxcb3ZlcmxpbmV7aH1cXHNpZ21hIiwyXSxbMSwyLCJwIl0sWzAsMSwiaFxcc2lnbWEiXSxbMywxLCIiLDEseyJzdHlsZSI6eyJib2R5Ijp7Im5hbWUiOiJkYXNoZWQifX19XV0= -->
   <iframe class="quiver-embed" src="https://q.uiver.app/#q=WzAsNCxbMCwwLCJcXHBhcnRpYWxcXERlbHRhXm4iXSxbMSwwLCJYIl0sWzEsMSwiWSJdLFswLDEsIlxcRGVsdGFebiJdLFswLDNdLFszLDIsIlxcb3ZlcmxpbmV7aH1cXHNpZ21hIiwyXSxbMSwyLCJwIl0sWzAsMSwiaFxcc2lnbWEiXSxbMywxLCIiLDEseyJzdHlsZSI6eyJib2R5Ijp7Im5hbWUiOiJkYXNoZWQifX19XV0=&embed" width="200" height="200" style="border-radius: 8px; border: none;"></iframe>
--
+- QED
