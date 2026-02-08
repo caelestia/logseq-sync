@@ -20,4 +20,4 @@
 	- Retracts preserve all lifting properties. In particular, if $f$ has the right lifting property against some morphism $l$, then so does any retract of $f$. Hence fibrations are closed under retract.
 	- Retracts are absolute, in particular, they are preserved by the functor $[-,W]$ where $W$ is any Kan complex. In $\mathsf{Set}$, retracts of bijections are bijections. Hence weak equivalences are closed under retract.
 - ### M5: factorization into cofibration + acyclic fibration
-- Let $f:X\to Y$ be a morphism of simplicial sets.
+- Let $f:X\to Y$ be a morphism of simplicial sets. Put $X(0)=X$. For $i\geq0$, let $\sigma$
