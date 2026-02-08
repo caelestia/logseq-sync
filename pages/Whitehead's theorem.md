@@ -37,7 +37,7 @@
 - From the adjunction pair $|\cdot|\dashv\operatorname{Sing}$, it is easy to show that
 	- $$\pi_n(X,A):=[(|\Delta^n|,|\partial\Delta^n|),(X,A)]=[(\Delta^n,\partial\Delta^n),(\operatorname{Sing}(X),\operatorname{Sing}(A))]$$
 - Hence $\pi_n(X,x)\simeq\pi_n(\operatorname{Sing}(X),x)$ naturally for all $n>0$. Same for $\pi_0$.
-- By the last section, we have $f$ is a weak homotopy equivalence 
-  $\Longleftrightarrow$ $\operatorname{Sing}(f)$ is a weak homotopy equivalence 
-  $\Longleftrightarrow$ $\operatorname{Sing}(f)$ is a homotopy equivalence
--
+- By the last section, we have $f$ is a weak homotopy equivalence
+	- $\Longleftrightarrow$ $\operatorname{Sing}(f)$ is a weak homotopy equivalence 
+	  $\Longleftrightarrow$ $\operatorname{Sing}(f)$ is a homotopy equivalence
+- Theorem (Whitehead). If $f:X\to Y$ is a weak homotopy equivalence, $X$
