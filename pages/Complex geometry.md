@@ -51,4 +51,5 @@
 - The curvature of $\nabla$ is defined as $F_\nabla=\nabla\circ\nabla:C^\infty(X,\Omega^0\otimes E)\to C^\infty(X,\Omega^2\otimes E)$. This is $C^\infty(X)$-linear:
 	- $$F_\nabla(fs)=\nabla(df\otimes s+f\nabla s)=ddf\otimes s-df\wedge\nabla s+df\wedge\nabla s+f\nabla s=f\nabla s.$$
 - Riemann curvature tensor. Let $x\in X$, $E\to X$ be a complex (real) vector bundle. Let $v,w\in T_x$, $\xi\in E_x$, take any extension to vector fields $V,W$ and section $s$ of $E$. Then
-	- $F_\nabla(v,w)\xi=(\nabla_V\nabla_W-\nabla_W\nabla_V-\nabla_{[V,W]})s_x
+	- $$F_\nabla(v,w)\xi=(\nabla_V\nabla_Ws-\nabla_W\nabla_Vs-\nabla_{[V,W]}s)(x)$$
+-
