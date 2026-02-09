@@ -31,7 +31,7 @@
 - **Proposition**. A map $p:X\to Y$ is a trivial fibration if it has the right lifting property against the boundary embeddings.
 - *Proof*. Since the horns $\Lambda^n_k$ are inside the boundary $\partial\Delta^n$, $p$ is clearly a fibration. To show that $p$ is a weak equivalence, we inductively find a section of $p$ which is a homotopy inverse. [Details of this step.]([[Section of trivial fibration]]) QED
 - ### M4: cofibration lifts with acyclic fibration
-- We must show the converse of the above proposition. If $X,Y$ are Kan complexes, this follows from computing homotopy groups of the fiber, but in general this is more difficult. The idea is to find a minimal fibration which is a deformation retract of our acyclic fibration $p$.
+- We must show the converse of the above proposition. If $X,Y$ are Kan complexes, this follows from an application of HELP, but in general this is more difficult. The idea is to find a minimal fibration which is a deformation retract of our acyclic fibration $p$.
 - LATER
   :LOGBOOK:
   CLOCK: [2026-02-09 Mon 10:05:24]
@@ -44,4 +44,4 @@
 - Let $\mathcal{A}$ (known as anodyne maps) denote the smallest family of morphism that is closed under retracts, pushouts and transfinite composition (saturated), that contains the horn inclusions $\{\Lambda^n_k\to\Delta^n\}$.
 - Then, by definition, fibrations have right lifting property against maps in $\mathcal{A}$. We need to prove
 - **Proposition**. Any acyclic cofibration is in $\mathcal{A}$.
-- *Proof*. Let $f:X\to Y$ be an acyclic cofibration. Applyling the construction of M5, we factorize $f$ as $pi$, where $i\in\mathcal{A}$ and $p$
+- *Proof*. Let $f:X\to Y$ be an acyclic cofibration. Applyling the construction of M5, we factorize $f$ as $pi$, where $i\in\mathcal{A}$ and $p$ is a fibration.
