@@ -44,4 +44,4 @@
 - Let $\mathcal{A}$ denote the smallest family of morphism that is closed under retracts, pushouts and transfinite composition (saturated), that contains the horn inclusions $\{\Lambda^n_k\to\Delta^n\}$.
 - Then, by definition, fibrations have right lifting property against maps in $\mathcal{A}$. We need to prove
 - **Proposition**. Any acyclic cofibration is in $\mathcal{A}$.
--
+- *Proof*. Let $f:X\to Y$ be an acyclic cofibration. Using M6, write $f=ip$, where $i:X\to X'$ is a cofibration
