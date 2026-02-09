@@ -50,6 +50,6 @@
 	  :END:
 - **Proposition**. Any acyclic cofibration is in $\mathcal{A}$.
 	- *Proof*. Let $f:X\to Y$ be an acyclic cofibration. Applyling the construction of M5, we factorize $f$ as $pi$, where $i\in\mathcal{A}$ and $p$ is a fibration. By the lemma and 2 out of 3, $p$ is a trivial fibration. Since $f$ is mono, the diagram
-	- <!-- https://q.uiver.app/#q=WzAsNSxbMCwwLCJYIl0sWzEsMCwiWCciXSxbMSwxLCJZIl0sWzAsMSwiWSJdLFsyLDFdLFswLDEsImkiXSxbMSwyLCJwIl0sWzAsMywiZiIsMl0sWzMsMiwiPSIsMl0sWzMsMSwicyIsMCx7InN0eWxlIjp7ImJvZHkiOnsibmFtZSI6ImRhc2hlZCJ9fX1dXQ== -->
-	  <iframe class="quiver-embed" src="https://q.uiver.app/#q=WzAsNSxbMCwwLCJYIl0sWzEsMCwiWCciXSxbMSwxLCJZIl0sWzAsMSwiWSJdLFsyLDFdLFswLDEsImkiXSxbMSwyLCJwIl0sWzAsMywiZiIsMl0sWzMsMiwiPSIsMl0sWzMsMSwicyIsMCx7InN0eWxlIjp7ImJvZHkiOnsibmFtZSI6ImRhc2hlZCJ9fX1dXQ==&embed" width="200" height="200" style="border-radius: 8px; border: none;"></iframe>
-	- has a lift $s$, which is a section of $p$.
+	- <!-- https://q.uiver.app/#q=WzAsNCxbMCwwLCJYIl0sWzEsMCwiWCciXSxbMSwxLCJZIl0sWzAsMSwiWSJdLFswLDEsImkiXSxbMSwyLCJwIl0sWzAsMywiZiIsMl0sWzMsMiwiPSIsMl0sWzMsMSwicyIsMCx7InN0eWxlIjp7ImJvZHkiOnsibmFtZSI6ImRhc2hlZCJ9fX1dXQ== -->
+	  <iframe class="quiver-embed" src="https://q.uiver.app/#q=WzAsNCxbMCwwLCJYIl0sWzEsMCwiWCciXSxbMSwxLCJZIl0sWzAsMSwiWSJdLFswLDEsImkiXSxbMSwyLCJwIl0sWzAsMywiZiIsMl0sWzMsMiwiPSIsMl0sWzMsMSwicyIsMCx7InN0eWxlIjp7ImJvZHkiOnsibmFtZSI6ImRhc2hlZCJ9fX1dXQ==&embed" width="200" height="200" style="border-radius: 8px; border: none;"></iframe>
+	- has a lift $s$, which is a section of $p$. we
