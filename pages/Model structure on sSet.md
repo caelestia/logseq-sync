@@ -38,4 +38,4 @@
   :END:
 - [ref](https://mat.uab.cat/~kock/crm/hocat/advanced-course/Quadern47.pdf)
 - ### M5 factorization into acyclic cofibration + fibration
-- This follows from a small object argument on the inclusions $\{\Lambda^n_k\to\Delta^n\}_{n,k}$.
+- This follows from a small object argument on the inclusions $\{\Lambda^n_k\to\Delta^n\}_{n,k}$. Denote the resulting factorization as $X\to X'\to Y$, then the second map is a
