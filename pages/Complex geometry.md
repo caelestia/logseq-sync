@@ -48,4 +48,4 @@
 	- Given $E_1$, $E_2$ bundles with connections $\nabla_1$, $\nabla_2$, we can define a connection on $E_1\oplus E_2$ by $\nabla(s_1+s_2)=\nabla_1s_1+\nabla_2s_2$.
 	- And on $E_1\otimes E_2$, by $\nabla(s_1\otimes s_2)=(\nabla_1s_1)\otimes s_2+s_1\otimes\nabla_2s_2$.
 	- And on $\mathrm{Hom}(E_1,E_2)$, by $\nabla(f)(s_1)=\nabla_2(f(s_1))-f\nabla_1s_1$.
-- The curvature of $\nabla$ is defined as $F_\nabla=\nabla\circ\nabla:C^\infty(X,\Omega^0\otimes E)\to C^\infty(X,\Omega^2\otimes E)$.
+- The curvature of $\nabla$ is defined as $F_\nabla=\nabla\circ\nabla:C^\infty(X,\Omega^0\otimes E)\to C^\infty(X,\Omega^2\otimes E)$. This is $C^\infty(X)
