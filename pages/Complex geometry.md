@@ -52,4 +52,4 @@
 	- $$F_\nabla(fs)=\nabla(df\otimes s+f\nabla s)=ddf\otimes s-df\wedge\nabla s+df\wedge\nabla s+f\nabla s=f\nabla s.$$
 - Riemann curvature tensor. Let $x\in X$, $E\to X$ be a complex (real) vector bundle. Let $v,w\in T_x$, $\xi\in E_x$, take any extension to vector fields $V,W$ and section $s$ of $E$. Then
 	- $$F_\nabla(v,w)\xi=(\nabla_V\nabla_Ws-\nabla_W\nabla_Vs-\nabla_{[V,W]}s)(x)$$
-	- Proof. Check that RHS is also $C^\infty$-linear. It suffices to prove in the case $V=\partial
+	- Proof. Check that RHS is also $C^\infty$-linear. It suffices to prove in the case $V={\partial\over{\partial x_i}}$ and $W={\partial\over\partial x_j}$,
