@@ -44,10 +44,12 @@
 - Let $\mathcal{A}$ (known as anodyne maps) denote the smallest family of morphism that is closed under retracts, pushouts and transfinite composition (saturated), that contains the horn inclusions $\{\Lambda^n_k\to\Delta^n\}$.
 - Then, by definition, fibrations have right lifting property against maps in $\mathcal{A}$.
 - **Lemma**. Any map in $\mathcal{A}$ is a weak equivalence.
-- LATER *Proof*.
-  :LOGBOOK:
-  CLOCK: [2026-02-09 Mon 15:49:59]--[2026-02-09 Mon 15:50:01] =>  00:00:02
-  :END:
+	- LATER *Proof*.
+	  :LOGBOOK:
+	  CLOCK: [2026-02-09 Mon 15:49:59]--[2026-02-09 Mon 15:50:01] =>  00:00:02
+	  :END:
 - **Proposition**. Any acyclic cofibration is in $\mathcal{A}$.
-- *Proof*. Let $f:X\to Y$ be an acyclic cofibration. Applyling the construction of M5, we factorize $f$ as $pi$, where $i\in\mathcal{A}$ and $p$ is a fibration. By the lemma and 2 out of 3, $p$ is a trivial fibration. In the diagram
-	-
+	- *Proof*. Let $f:X\to Y$ be an acyclic cofibration. Applyling the construction of M5, we factorize $f$ as $pi$, where $i\in\mathcal{A}$ and $p$ is a fibration. By the lemma and 2 out of 3, $p$ is a trivial fibration. Hence the diagram
+	- <!-- https://q.uiver.app/#q=WzAsNSxbMCwwLCJYIl0sWzEsMCwiWCciXSxbMSwxLCJZIl0sWzAsMSwiWSJdLFsyLDFdLFswLDEsImkiXSxbMSwyLCJwIl0sWzAsMywiZiIsMl0sWzMsMiwiPSIsMl0sWzMsMSwicyIsMCx7InN0eWxlIjp7ImJvZHkiOnsibmFtZSI6ImRhc2hlZCJ9fX1dXQ== -->
+	  <iframe class="quiver-embed" src="https://q.uiver.app/#q=WzAsNSxbMCwwLCJYIl0sWzEsMCwiWCciXSxbMSwxLCJZIl0sWzAsMSwiWSJdLFsyLDFdLFswLDEsImkiXSxbMSwyLCJwIl0sWzAsMywiZiIsMl0sWzMsMiwiPSIsMl0sWzMsMSwicyIsMCx7InN0eWxlIjp7ImJvZHkiOnsibmFtZSI6ImRhc2hlZCJ9fX1dXQ==&embed" width="200" height="200" style="border-radius: 8px; border: none;"></iframe>
+	- has a lift $s$, which is a
