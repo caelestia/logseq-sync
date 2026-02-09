@@ -41,4 +41,4 @@
 - This follows from a small object argument on the inclusions $\{\Lambda^n_k\to\Delta^n\}_{n,k}$.
 - Denote the resulting factorization as $X\to X'\to Y$, then the second map is a fibration by construction. The first map is an acyclic cofibration because acyclic cofibrations are closed under pushout and transfinite composition.
 - ### M3: acyclic cofibration lifts with fibration
-- Let $\mathcal{A}$ denote a family of morphism that is closed under retracts, pushouts and transfinite composition (saturated), and contains the horn inclusions $\{\Lambda^n_k\to\Delta^n\}$. Then by definition fibration have right lifting property
+- Let $\mathcal{A}$ denote the smallest family of morphism that is closed under retracts, pushouts and transfinite composition (saturated), that contains the horn inclusions $\{\Lambda^n_k\to\Delta^n\}$. Then by definition fibration have right lifting property
