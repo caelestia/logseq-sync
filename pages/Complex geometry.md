@@ -50,4 +50,4 @@
 	- And on $\mathrm{Hom}(E_1,E_2)$, by $\nabla(f)(s_1)=\nabla_2(f(s_1))-f\nabla_1s_1$.
 - The curvature of $\nabla$ is defined as $F_\nabla=\nabla\circ\nabla:C^\infty(X,\Omega^0\otimes E)\to C^\infty(X,\Omega^2\otimes E)$. This is $C^\infty(X)$-linear:
 	- $$F_\nabla(fs)=\nabla(df\otimes s+f\nabla s)=ddf\otimes s-df\wedge\nabla s+df\wedge\nabla s+f\nabla s=f\nabla s.$$
-- Riemann curvature tensor.
+- Riemann curvature tensor. Let $x\in X$, $E\to X$ be a complex (real) vector bundle. Let $v,w\in T_x$, $\
