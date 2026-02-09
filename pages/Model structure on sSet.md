@@ -35,4 +35,4 @@
   :LOGBOOK:
   CLOCK: [2026-02-09 Mon 10:05:24]
   :END:
--
+- [ref](https://mat.uab.cat/~kock/crm/hocat/advanced-course/Quadern47.pdf)
