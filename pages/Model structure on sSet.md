@@ -49,4 +49,5 @@
   CLOCK: [2026-02-09 Mon 15:49:59]--[2026-02-09 Mon 15:50:01] =>  00:00:02
   :END:
 - **Proposition**. Any acyclic cofibration is in $\mathcal{A}$.
-- *Proof*. Let $f:X\to Y$ be an acyclic cofibration. Applyling the construction of M5, we factorize $f$ as $pi$, where $i\in\mathcal{A}$ and $p$ is a fibration. By the lemma and 2 out of 3, $p$ is a trivial fibration.
+- *Proof*. Let $f:X\to Y$ be an acyclic cofibration. Applyling the construction of M5, we factorize $f$ as $pi$, where $i\in\mathcal{A}$ and $p$ is a fibration. By the lemma and 2 out of 3, $p$ is a trivial fibration. In the diagram
+	-
