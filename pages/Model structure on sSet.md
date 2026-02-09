@@ -30,7 +30,7 @@
 - Let $X'=\varinjlim_iX(i)$. We have a factorization of $f$ as $X\hookrightarrow X'\xrightarrow{p} Y$. Then $p$ clearly has the right lifting property against the boundary embeddings $\partial\Delta^n\to\Delta^n$. To conclude, we need
 - **Proposition**. A map $p:X\to Y$ is a trivial fibration if it has the right lifting property against the boundary embeddings.
 - *Proof*. Since the horns $\Lambda^n_k$ are inside the boundary $\partial\Delta^n$, $p$ is clearly a fibration. To show that $p$ is a weak equivalence, we inductively find a section of $p$ which is a homotopy inverse. [Details of this step.]([[Section of trivial fibration]]) QED
-- ### M4: cofibrations lifts with acyclic fibrations
+- ### M4: cofibration lifts with acyclic fibration
 - We must show the converse of the above proposition. The idea is to find a minimal fibration which is a deformation retract of our acyclic fibration $p$.
 - LATER
   :LOGBOOK:
@@ -40,4 +40,5 @@
 - ### M5: factorization into acyclic cofibration + fibration
 - This follows from a small object argument on the inclusions $\{\Lambda^n_k\to\Delta^n\}_{n,k}$.
 - Denote the resulting factorization as $X\to X'\to Y$, then the second map is a fibration by construction. The first map is an acyclic cofibration because acyclic cofibrations are closed under pushout and transfinite composition.
-- ###
+- ### M3: acyclic cofibration lifts with fibration
+-
