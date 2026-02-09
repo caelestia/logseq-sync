@@ -55,4 +55,6 @@
 	- Proof. Check that RHS is also $C^\infty$-linear. It suffices to prove in the case $V={\partial\over{\partial x_i}}$ and $W={\partial\over\partial x_j}$ in local coordinates, where we have $\nabla=\sum_k dx_k\otimes\nabla_{\partial\over\partial x_k}$ and $[V,W]=0$. Then it is easy to check.
 - Locally, if $\nabla=d+A$ is connection on trivial bundle, then $F_\nabla=dA+A\wedge A$, where $(A\wedge A)(v,w)=A(v)A(w)-A(w)A(v)$.
 	- If $\nabla=\psi^{-1}(d+A)\psi=\psi'^{-1}(d+A')\psi'$, where $\psi,\psi'$ are local trivializations and $\phi\psi=\psi'$, then $dA'+A'\wedge A'=\phi(dA+A\wedge A)\phi^{-1}$.
-	- $F_{}
+	- $F_{\nabla+a}=F_\nabla+\nabla a+a\wedge a$.
+	- Bianchi's idendity: $\nabla F_\nabla=0$.
+-
