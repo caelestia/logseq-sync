@@ -31,7 +31,7 @@
 - **Proposition**. A map $p:X\to Y$ is a trivial fibration if it has the right lifting property against the boundary embeddings.
 - *Proof*. Since the horns $\Lambda^n_k$ are inside the boundary $\partial\Delta^n$, $p$ is clearly a fibration. To show that $p$ is a weak equivalence, we inductively find a section of $p$ which is a homotopy inverse. [Details of this step.]([[Section of trivial fibration]]) QED
 - ### M4: cofibration lifts with acyclic fibration
-- We must show the converse of the above proposition. The idea is to find a minimal fibration which is a deformation retract of our acyclic fibration $p$.
+- We must show the converse of the above proposition. If $X,Y$ are Kan complexes, , but in general  more difficult. The idea is to find a minimal fibration which is a deformation retract of our acyclic fibration $p$.
 - LATER
   :LOGBOOK:
   CLOCK: [2026-02-09 Mon 10:05:24]
