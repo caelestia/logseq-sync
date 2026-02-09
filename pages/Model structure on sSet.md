@@ -42,8 +42,11 @@
 - Denote the resulting factorization as $X\to X'\to Y$, then the second map is a fibration by construction. The first map is an acyclic cofibration because acyclic cofibrations are closed under pushout and transfinite composition.
 - ### M3: acyclic cofibration lifts with fibration
 - Let $\mathcal{A}$ (known as anodyne maps) denote the smallest family of morphism that is closed under retracts, pushouts and transfinite composition (saturated), that contains the horn inclusions $\{\Lambda^n_k\to\Delta^n\}$.
-- Then, by definition, fibrations have right lifting property against maps in $\mathcal{A}$. Observe that
+- Then, by definition, fibrations have right lifting property against maps in $\mathcal{A}$.
 - **Lemma**. Any map in $\mathcal{A}$ is a weak equivalence.
-- *Proof*.
+- LATER *Proof*.
+  :LOGBOOK:
+  CLOCK: [2026-02-09 Mon 15:49:59]--[2026-02-09 Mon 15:50:01] =>  00:00:02
+  :END:
 - **Proposition**. Any acyclic cofibration is in $\mathcal{A}$.
-- *Proof*. Let $f:X\to Y$ be an acyclic cofibration. Applyling the construction of M5, we factorize $f$ as $pi$, where $i\in\mathcal{A}$ and $p$ is a fibration.
+- *Proof*. Let $f:X\to Y$ be an acyclic cofibration. Applyling the construction of M5, we factorize $f$ as $pi$, where $i\in\mathcal{A}$ and $p$ is a fibration. By the lemma and 2 out of 3, $p$ is a trivial
