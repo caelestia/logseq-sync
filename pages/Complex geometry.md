@@ -53,4 +53,5 @@
 - Riemann curvature tensor. Let $x\in X$, $E\to X$ be a complex (real) vector bundle. Let $v,w\in T_x$, $\xi\in E_x$, take any extension to vector fields $V,W$ and section $s$ of $E$. Then
 	- $$F_\nabla(v,w)\xi=(\nabla_V\nabla_Ws-\nabla_W\nabla_Vs-\nabla_{[V,W]}s)(x)$$
 	- Proof. Check that RHS is also $C^\infty$-linear. It suffices to prove in the case $V={\partial\over{\partial x_i}}$ and $W={\partial\over\partial x_j}$ in local coordinates, where we have $\nabla=\sum_k dx_k\otimes\nabla_{\partial\over\partial x_k}$ and $[V,W]=0$. Then it is easy to check.
-- Locally, if $\nabla=d+A$ is connection on trivial bundle, then $F_\nabla=dA+A\wedge A$
+- Locally, if $\nabla=d+A$ is connection on trivial bundle, then $F_\nabla=dA+A\wedge A$, where $(A\wedge A)(v,w)=A(v)A(w)-A(w)A(v)$.
+-
