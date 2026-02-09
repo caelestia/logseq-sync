@@ -57,4 +57,5 @@
 	- If $\nabla=\psi^{-1}(d+A)\psi=\psi'^{-1}(d+A')\psi'$, where $\psi,\psi'$ are local trivializations and $\phi\psi=\psi'$, then $dA'+A'\wedge A'=\phi(dA+A\wedge A)\phi^{-1}$.
 	- $F_{\nabla+a}=F_\nabla+\nabla a+a\wedge a$.
 	- Bianchi's idendity: $\nabla F_\nabla=0$.
+- ### Hermitian metrics
 -
