@@ -58,4 +58,5 @@
 	- $F_{\nabla+a}=F_\nabla+\nabla a+a\wedge a$.
 	- Bianchi's idendity: $\nabla F_\nabla=0$.
 - ### Hermitian metrics
-- A Hermitian metric on a $\mathbb{C}$-vector space is a conjugate-symmetric, positive definite .
+- A Hermitian metric on a $\mathbb{C}$-vector space is a conjugate-symmetric, positive definite bilinear form that's linear in the first argument.
+-
