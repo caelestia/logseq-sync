@@ -58,4 +58,4 @@
 	- $F_{\nabla+a}=F_\nabla+\nabla a+a\wedge a$.
 	- Bianchi's idendity: $\nabla F_\nabla=0$.
 - ### Hermitian metrics
--
+- A Hermitian metric on a $\mathbb{C}$-
