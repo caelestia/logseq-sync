@@ -16,7 +16,7 @@
 - ### Almost complex structure
 - Let $M$ be a real/complex manifold. The real tangent space $T_x(M)$ at $x$ is the set of equivalence classes of curves $\gamma:(-\varepsilon,\varepsilon)\to M$, $\varepsilon>0$ satisfying $\gamma(0)=x$. Let $\gamma\sim\delta$ iff $\left.\frac{d}{dt}\right|_{t=0}(\varphi\circ\gamma)(t)=\left.\frac{d}{dt}\right|_{t=0}(\varphi\circ\delta)(t)$ for some chart $(U,\varphi)$ around $x$.
 - If $M$ is a complex manifold, it induces an almost complex structure by $J_x:T_x(M)\to T_x(M)$, $[\gamma]\mapsto[\varphi^{-1}(i\varphi\circ\gamma)]$.
-- Denote the complexified tangent space at $x$ by $T_{x,\C}(M)=T_x(M)\otimes_\R\C$. It has $\C$-basis $\{\frac{\partial}{\partial z_i}, \frac{\partial}{\partial\bar z_i}\}_i$.
+	- Denote the complexified tangent space at $x$ by $T_{x,\C}(M)=T_x(M)\otimes_\R\C$. It has $\C$-basis $\{\frac{\partial}{\partial z_i}, \frac{\partial}{\partial\bar z_i}\}_i$.
 	- Define $T^{1,0}_x(M), T^{0,1}_x(M)$ as $\pm i$-eigenspaces of $J_x$.
 - Jacobian. Let $f:X\to Y$ holomorphic, then the Jacobian $J_f$ at $x$ is the $\C$-linear component $df_\C:T^{1,0}_xX\to T^{1,0}_{f(x)}Y$, written in the bases $\{\frac{\partial}{\partial z_i}\}_i$.
 - Submersion and Immersion. If $r=\dim Y\leq X$ (resp. $r=\dim X\leq Y$) and $J_f$ has max rank $r$ at every point $x\in X$.
