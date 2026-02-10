@@ -67,6 +67,7 @@
   $(\Omega^p_{X,\mathbb{C}}\otimes E)\otimes\overline{\Omega^q_{X,\mathbb{C}}\otimes E}\to\Omega^{p+q}_{X,\mathbb{C}}$.
 - Given a connection $\nabla$ on $E$, it is compatible if $d\langle s,t\rangle=\langle\nabla s,t\rangle+\langle s,\nabla t\rangle$ for sections $s,t$ of $E$.
 - Lemma. Let $E$ be Hermitian with local orthomormal frame $\psi=(s_1,\cdots,s_r)$. Then a connection $\nabla=\psi^{-1}(d+A)\psi$ is compatible iff $A^{T}=-\overline A$.
-	- LATER Proof. Compute
+	- Proof. If $s=\sum_if_is_i$, $t=\sum_jg_js_j$, we have
+	  $$a$$
 	- If $H$ is the matrix of the metric in this local frame, the condition is equivalent to
 	  $dH=A^{T}H+H\overline{A}$.
