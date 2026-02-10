@@ -66,5 +66,5 @@
 - Given a Hermitian vector bundle $E$ on a real manifold $X$, we have a bilinear pairing 
   $(\Omega^p_{X,\mathbb{C}}\otimes E)\otimes\overline{\Omega^q_{X,\mathbb{C}}\otimes E}\to\Omega^{p+q}_{X,\mathbb{C}}$.
 - Given a connection $\nabla$ on $E$, it is compatible if $d\langle s,t\rangle=\langle\nabla s,t\rangle+\langle s,\nabla t\rangle$ for sections $s,t$ of $E$.
-- Lemma. Let $E$ be Hermitian with local orthomormal frame $\psi=(s_1,\cdots,s_r)$. Then a connection $\nabla=\psi^{-1}(d+A)\psi$ is compatible iff $A^{t}=-\overline A$.
+- Lemma. Let $E$ be Hermitian with local orthomormal frame $\psi=(s_1,\cdots,s_r)$. Then a connection $\nabla=\psi^{-1}(d+A)\psi$ is compatible iff $A^{T}=-\overline A$.
 	- Proof.
