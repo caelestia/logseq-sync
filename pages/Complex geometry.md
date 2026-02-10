@@ -71,5 +71,5 @@
 	   $\langle\nabla s,t\rangle=(df+Af)^T\overline{g}=df^T\overline{g}+f^TA^T\overline{g}$, and
 	   $\langle s,\nabla t\rangle=f^T\cdot\overline{dg+Ag}=f^Td\overline{g}+f^T\overline{Ag}$.
 	- Since $f,g$ are arbitrary, $A^T+\overline{A}=0$. QED
-	- If $H$ is the matrix for the metric in this local frame, the condition is equivalent to
-	  $dH=A^{T}H+H\overline{A}$.
+- If $H$ is the matrix for the metric in this local frame, the condition is equivalent to
+  $$dH=A^{T}H+H\overline{A}.$$
