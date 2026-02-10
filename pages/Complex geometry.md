@@ -64,4 +64,4 @@
 	- Proof. The set of Hermitian inner products on a fixed vector space is a positive cone in an ordered real vector space; in particular, it is convex. Result follows from partition of unity.
 - Given a Hermitian vector bundle $E$ on a real manifold $X$, we have a bilinear pairing 
   $(\Omega^p_{X,\mathbb{C}}\otimes E)\otimes\overline{\Omega^q_{X,\mathbb{C}}\otimes E}\to\Omega^{p+q}_{X,\mathbb{C}}$.
-- Given a connection $\nabla$ on $E$, it is compatible if $d\langle\sigma,\tau\rangle$
+- Given a connection $\nabla$ on $E$, it is compatible if $d\langle s,t\rangle=\langle\nabla s,t\rangle+\langle s,\nabla t\rangle$ for sections $s,t$ of $E$.
