@@ -61,4 +61,4 @@
 - A Hermitian inner product on a $\mathbb{C}$-vector space is a conjugate-symmetric, positive definite bilinear form that's linear in the first argument.
 - A Hermitian metric on a complex vector bundle $E$ is a smooth section of the dual of $E\otimes\overline{E}$ which induces a hermitian inner product on fibers of $E$.
 - A Hermitian metric exist on every complex vector bundle.
-	- Proof. The space of Hermitian inner products on a fixed vector space forms a positive cone
+	- Proof. The space of Hermitian inner products on a fixed vector space forms a positive cone in an ordered real vector space
