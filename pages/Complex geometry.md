@@ -67,6 +67,6 @@
   $(\Omega^p_{X,\mathbb{C}}\otimes E)\otimes\overline{\Omega^q_{X,\mathbb{C}}\otimes E}\to\Omega^{p+q}_{X,\mathbb{C}}$.
 - Given a connection $\nabla$ on $E$, it is compatible if $d\langle s,t\rangle=\langle\nabla s,t\rangle+\langle s,\nabla t\rangle$ for sections $s,t$ of $E$.
 - Lemma. Let $E$ be Hermitian with local orthomormal frame $\psi=(s_1,\cdots,s_r)$. Then a connection $\nabla=\psi^{-1}(d+A)\psi$ is compatible iff $A^{T}=-\overline A$.
-	- Proof. If $s=\sum_if_is_i$, $t=\sum_jg_js_j$, we have $\langle s,t\rangle=f^T\overline{g}$, $\langle\nabla s,t\rangle=(df+Af)^T\overline{g}=df^T\overline{g}+f^TA^T\overline{g}$, and $\langle s,\nabla t\rangle=(df+Af)^T\overline{g}=df^T\overline{g}+f^TA^T\overline{g}$
+	- Proof. If $s=\sum_if_is_i$, $t=\sum_jg_js_j$, we have $\langle s,t\rangle=f^T\overline{g}$, $\langle\nabla s,t\rangle=(df+Af)^T\overline{g}=df^T\overline{g}+f^TA^T\overline{g}$, and $\langle s,\nabla t\rangle=f^T\overline{dg+Ag}=f^Td\overline{g}+f^TA^T\overline{g}$
 	- If $H$ is the matrix for the metric in this local frame, the condition is equivalent to
 	  $dH=A^{T}H+H\overline{A}$.
