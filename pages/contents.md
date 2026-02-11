@@ -1,4 +1,3 @@
-- Logistics
 - Number theory
 	- [[Analytic number theory]]
 	- [[Commutative ring theory]]
@@ -23,4 +22,4 @@
 	- [[Model structure on sSet]]
 	- [[Classification theorem of principal bundles]]
 - Geometry
-	-
+	- [[What is a connection]]
