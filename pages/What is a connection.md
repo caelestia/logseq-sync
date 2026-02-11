@@ -9,4 +9,4 @@
 - Tensor from the right by the dual of a locally free sheaf $\mathcal{E}^\vee$
   $$0\to\mathcal{A}\otimes\mathcal{E}^\vee\xrightarrow{\iota}\mathcal{D}^1\otimes\mathcal{E}^\vee\xrightarrow{\sigma}\mathcal{T}\otimes\mathcal{E}^\vee\to0$$
 - A section $\nabla$ of $\sigma$ is a connection on $E$:
-	- $\nabla:\mathcal{T}\to\mathcal{E\otimes D\otimes E}^\vee=:\mathcal{D}^1(\mathcal{E,E})$, such that $[\nabla_X,f]=\sigma(X)f=Xf\otimes$.
+	- $\nabla:\mathcal{T}\to\mathcal{E\otimes D\otimes E}^\vee=:\mathcal{D}^1(\mathcal{E,E})$, such that $[\nabla_X,f]=\sigma(X)f=\iota(Xf)$.
