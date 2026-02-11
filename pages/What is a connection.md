@@ -3,4 +3,4 @@
 - This is a SES of locally free *right* $\mathcal{A}$-modules. The idea of a connection is closely related to the obstruction of writing a section $T$ of $\mathcal{D^1}$ into a sum $\iota(a)+\sigma(T)$.
 - Recall that $\mathcal{D}^1$ is defined as the $\R$-linear endormorphisms of $\mathcal{A}$ satisfying $[T,f]=\sigma(T)f\in\Gamma(\mathcal{A})$.
 - A section $\nabla$ of $\sigma$ is a connection of the trivial line bundle.
-	- Locally,
+	- Locally, it assigns
