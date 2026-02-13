@@ -80,4 +80,5 @@
 - ### Chern connections
 - On a complex vector bundle a connection $\nabla$ decomposes $\nabla=\nabla^{1,0}+\nabla^{0,1}$.
 - If $E$ is a holomorphic vector bundle, we have an operator $\overline{\partial}_E$.
-- Theorem (Chern connection). On holomorphic Hermitian vector bundle $E$ there exists a unique Hermitian connection $\nabla_E$
+- Theorem (Chern connection). On holomorphic Hermitian vector bundle $E$ there exists a unique Hermitian connection $\nabla_E$ such that $\nabla^{0,1}=\overline{\partial}_E$.
+	- Locally, if $\nabla=\psi^{-1}(d+A)\psi$ we have $A=\overline{H}\partial\overline{H}$.
