@@ -77,4 +77,5 @@
 	- Proof. Pick a connection $\nabla$ and fix it.
 - Lemma. If $\nabla$ is a Hermitian connection, then for each $x_0\in X$, there is a smooth orthonormal frame $(s_j)$ in some neighborhood such that $\nabla s_j=0$ at $x_0$.
 	- Proof. Choose some orthonormal frame $(s_j)$. Let $\nabla s_j=:\theta_j^k\otimes s_k$, the matrix $\theta$ is skew-Hermitian. Let $A_{ja}^kdx_a|_{x_0}=\theta_j^k|_{x_0}$, and define $F:U\to\mathrm{Mat}(r,\mathbb{C})$ as $F(x)=A_{ja}^kx_a$. $F(x)$ is skew-Hermitian for all $x\in U$. Put $B(x)=e^{-F(x)}$ and $\tilde s_k(x)=B_k^j(x)s_j(x)$. Check.
+- ### Chern connections
 -
