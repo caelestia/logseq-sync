@@ -85,4 +85,4 @@
 	- Then $A$ is of type $(1,0)$ and $\partial A=-A\wedge A$.
 	- The Chern connection $\Theta_E=\overline{\partial}A$ is of type $(1,1)$.
 - Proof.
-- Converse: If $E$ Hermitian vector bundle on complex manifold, $\nabla$ connection such that $F_\nabla$
+- Converse: If $E$ Hermitian complex vector bundle on complex manifold, $\nabla$ connection such that $F_\nabla$ is of type $(1,1)$, then
