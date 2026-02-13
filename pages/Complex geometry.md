@@ -73,4 +73,5 @@
 	- Since $f,g$ are arbitrary, $A^T+\overline{A}=0$. QED
 - If $H$ is the matrix for the metric in this local frame, the condition is equivalent to
   $$dH=A^{T}H+H\overline{A}.$$
-- Lemma. If $X$: manifold
+- Lemma. If $E$ is Hermitian then it admits a compatible connection.
+-

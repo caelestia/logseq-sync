@@ -10,7 +10,7 @@
 		- [[Cohomology of constant sheaf and singular cohomology]]
 	- [[pi_n(S^m)=0, n<m]]
 - Imperial
-	- [[Complex gemetry]]
+	- [[Complex geometry]]
 - Groups
 	- [[Locally compact groups]]
 - Analysis
