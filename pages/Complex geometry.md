@@ -74,4 +74,5 @@
 - If $H$ is the matrix for the metric in this local frame, the condition is equivalent to
   $$dH=A^{T}H+H\overline{A}.$$
 - Lemma. If $E$ is Hermitian then it admits a compatible connection.
+	- Proof. Pick a connection $\nabla$ and fix it.
 -
