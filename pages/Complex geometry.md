@@ -76,4 +76,4 @@
 - Lemma. If $E$ is Hermitian then it admits a compatible connection.
 	- Proof. Pick a connection $\nabla$ and fix it.
 - Lemma. If $\nabla$ is a Hermitian connection, then for each $x_0\in X$, there is a smooth orthonormal frame $(s_j)$ in some neighborhood such that $\nabla s_j=0$ at $x_0$.
-	- Proof. Choose $(s_j)$ some orthonormal frame.
+	- Proof. Choose some orthonormal frame $(s_j)$. Let $\nabla s_j=:\theta_j^k\otimes s_k$, the matrix $\theta$ is skew-Hermitian. Let $A
