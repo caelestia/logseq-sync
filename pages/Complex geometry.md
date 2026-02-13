@@ -80,9 +80,9 @@
 - ### Chern connections
 - On a complex vector bundle a connection $\nabla$ decomposes $\nabla=\nabla^{1,0}+\nabla^{0,1}$.
 - If $E$ is a holomorphic vector bundle, we have an operator $\overline{\partial}_E$.
-- Theorem (Chern connection). If holomorphic Hermitian vector bundle $E$ there exists a unique Hermitian connection $\nabla_E$ such that $\nabla^{0,1}=\overline{\partial}_E$.
+- Theorem (Chern connection). If holomorphic Hermitian vector bundle $E$ on complex manifold $X$, there exists a unique Hermitian connection $\nabla_E$ such that $\nabla^{0,1}=\overline{\partial}_E$.
 	- Locally, if $\nabla=\psi^{-1}(d+A)\psi$ we have $A=\overline{H}^{-1}\partial\overline{H}$.
 	- Then $A$ is of type $(1,0)$ and $\partial A=-A\wedge A$.
 	- The Chern connection $\Theta_E=\overline{\partial}A$ is of type $(1,1)$.
 - Proof.
-- Proposition.
+- Converse: If $E$ Hermitian vector bundle on complex manifold, $\nabla$ connection such that $F_\nabla$
