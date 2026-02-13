@@ -79,4 +79,5 @@
 	- Proof. Choose some orthonormal frame $(s_j)$. Let $\nabla s_j=:\theta_j^k\otimes s_k$, the matrix $\theta$ is skew-Hermitian. Let $A_{ja}^kdx_a|_{x_0}=\theta_j^k|_{x_0}$, and define $F:U\to\mathrm{Mat}(r,\mathbb{C})$ as $F(x)=A_{ja}^kx_a$. $F(x)$ is skew-Hermitian for all $x\in U$. Put $B(x)=e^{-F(x)}$ and $\tilde s_k(x)=B_k^j(x)s_j(x)$. Check.
 - ### Chern connections
 - On a complex vector bundle a connection $\nabla$ decomposes $\nabla=\nabla^{1,0}+\nabla^{0,1}$.
+- If $E$ is a holomorphic vector bundle, we have an operator $\overline{\partial}_E$.
 -
