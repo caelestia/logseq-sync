@@ -1,2 +1,3 @@
 - Fix $X$ paracompact Hausdorff. Let $\mathcal{U}$ be a locally finite good open cover (viz. all non-empty finite intersections are contractible), we have the nerve $N_\mathcal{U}$, which can be viewed as either a simplicial complex or a simplicial set.
-- **Theorem**. There is a homotopy equivalence $h_\mathcal{U}:X\to|N_\mathcal{U}|$
+- **Theorem**. There is a homotopy equivalence $h_\mathcal{U}:X\to|N_\mathcal{U}|$.
+-
