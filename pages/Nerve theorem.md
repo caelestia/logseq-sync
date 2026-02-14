@@ -4,4 +4,4 @@
 - First, recall that the CW complex $|N_\mathcal{U}|$ has a cell for each non-degenerate simplex in $N_\mathcal{U}$. We get a map $\rho:|N_\mathcal{U}|\to\mathcal{P}(X)$. Define
   $$\mathcal{D}:=\mathcal{D}_\mathcal{U}=\{(a,x):x\in\rho(a)\}.$$
   This has projections $p,q$ to $|N_\mathcal{U}|, X$ respectively.
-- Lemma.
+- Lemma. There is a deformation retract $X$
