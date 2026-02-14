@@ -4,5 +4,7 @@
 - First, recall that the CW complex $|N_\mathcal{U}|$ has a cell for each non-degenerate simplex in $N_\mathcal{U}$. We get a map $\rho:|N_\mathcal{U}|\to\mathcal{P}(X)$. Define
   $$\mathcal{D}:=\mathcal{D}_\mathcal{U}=\{(a,x):x\in\rho(a)\}.$$
   This has projections $p,q$ to $|N_\mathcal{U}|, X$ respectively.
-- Step 1. There is a section $s$ of $q$ such that $s(X)$ is a DR of $\mathcal{D}$. Thus $q$ is a homotopy equivalence.
-- Step 2. $p$ is a homotopy equivalence.
+- Step 1. There is a section $s$ of $q$ such that $s(X)\simeq X$ is a DR of $\mathcal{D}$. Thus $q$ is a homotopy equivalence.
+- Step 2. $\mathcal{D}$ is a deformation retract of $M(p)$. Thus $p$ is a homotopy equivalence.
+- ### Step 1
+-
