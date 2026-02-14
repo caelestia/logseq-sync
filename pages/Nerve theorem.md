@@ -14,5 +14,5 @@
   $$H:\mathcal{D}\times I\to\mathcal{D},\quad ((a,x),t)\mapsto(t\Theta(x)+(1-t)a,x)$$ 
   because the simplex is convex.
 - ### Step 2
-- Let $
-- First we show that
+- Let $\mathcal{D}^k=p^{-1}(N^{(k)})$ and $p^k=p|_{\mathcal{D}^k}$.
+- First we show that for all $k
