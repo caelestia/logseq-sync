@@ -1,1 +1,1 @@
-- Fix $X$ paracompact Hausdorff. Let $\mathcal{U}$ be a locally finite good open cover (viz. the )
+- Fix $X$ paracompact Hausdorff. Let $\mathcal{U}$ be a locally finite good open cover (viz. all non-empty finite intersections are contractible), we have the nerve $N_
