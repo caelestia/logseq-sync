@@ -14,4 +14,5 @@
   $$H:\mathcal{D}\times I\to\mathcal{D},\quad ((a,x),t)\mapsto(t\Theta(x)+(1-t)a,x)$$ 
   because the simplex is convex.
 - ### Step 2
-- First, claim that
+- Let $
+- First we show that
