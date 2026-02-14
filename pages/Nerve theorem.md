@@ -15,4 +15,6 @@
   because the simplex is convex.
 - ### Step 2
 - Let $\mathcal{D}^k=p^{-1}(N^{(k)})$ and $p^k=p|_{\mathcal{D}^k}$.
-- First we show that for all $k\geq0$, $\mathcal{D}^k\cup M(p^{k-1})$ is a SDR of $M(p^k)$, and that these
+- First we show that for all $k\geq0$, $\mathcal{D}^k\cup M(p^{k-1})$ is a SDR of $M(p^k)$, naturally in $k$, by induction.
+- #### $k=0$
+-
