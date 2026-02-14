@@ -16,4 +16,4 @@
 - ### Step 2
 - Let $\mathcal{D}^k=p^{-1}(N^{(k)})$ and $p^k:=p|_{\mathcal{D}^k}:\mathcal{D}^k\to N^{(k)}$.
 - First we show that for all $k\geq0$, $\mathcal{D}^k\cup M(p^{k-1})$ is a SDR of $M(p^k)$, naturally in $k$, by induction.
-	- If $k=0$, $\mathcal{D}^0=\bigsqcup_i\{i\}\times U_i$, and $M(p^0)$ is the disjoint union of cones over the $U_i$. Since each $U_i$ is contractible, $(CU_i,U_i)$ is a DR
+	- If $k=0$, $\mathcal{D}^0=\bigsqcup_i\{i\}\times U_i$, and $M(p^0)$ is the disjoint union of cones over the $U_i$. Since each $U_i$ is contractible, $(CU_i,U_i)$ is a DR pair.
