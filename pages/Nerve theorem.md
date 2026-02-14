@@ -8,4 +8,5 @@
 	- Step 1. There is a section $s$ of $q$ such that $s(X)\simeq X$ is a DR of $\mathcal{D}$. Thus $q$ is a homotopy equivalence.
 	- Step 2. $\mathcal{D}$ is a deformation retract of $M(p)$. Thus $p$ is a homotopy equivalence.
 - ### Step 1
-- Pick $\theta_i$ a partition of unity subordinate to $\mathcal{U}$. Since $\theta_i(x)>0\Longleftrightarrow x\in\operatorname{supp}\theta_i$ holds for finitely many $i$, we have a map $\Theta:
+- Pick $\theta_i$ a partition of unity subordinate to $\mathcal{U}$. Since $\theta_i(x)>0\Longleftrightarrow x\in\operatorname{supp}\theta_i$ holds for finitely many $i$, we can define a map $\Theta:x\mapsto[j\mapsto\theta_j(x)]\in|N_\mathcal{U}|$.
+-
