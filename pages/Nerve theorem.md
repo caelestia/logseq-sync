@@ -1,0 +1,1 @@
+- Fix $X$ paracompact Hausdorff. Let $\mathcal{U}$ be a locally finite good open cover (viz. the )
