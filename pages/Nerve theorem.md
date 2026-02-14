@@ -9,4 +9,4 @@
 	- Step 2. $\mathcal{D}$ is a deformation retract of $M(p)$. Thus $p$ is a homotopy equivalence.
 - ### Step 1
 - Pick $\theta_i$ a partition of unity subordinate to $\mathcal{U}$. Since $\theta_i(x)>0\Longleftrightarrow x\in\operatorname{supp}\theta_i$ holds for finitely many $i$, we can define a map $\Theta:x\mapsto[j\mapsto\theta_j(x)]\in|N_\mathcal{U}|$.
--
+- Then $s:x\mapsto(\Theta(x),x)$ is a section of $q$ and we can check that it is continuous .
