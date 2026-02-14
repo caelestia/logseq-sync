@@ -11,5 +11,5 @@
 - Pick $\theta_i$ a partition of unity subordinate to $\mathcal{U}$. Since $\theta_i(x)>0\Longleftrightarrow x\in\operatorname{supp}\theta_i$ holds for finitely many $i$, we can define a map $\Theta:x\mapsto[j\mapsto\theta_j(x)]\in|N_\mathcal{U}|$.
 - Then $s:x\mapsto(\Theta(x),x)$ is a section of $q$ and we can check its continuity locally.
 - It is clearly a deformation retract, as we can exhibit the homotopy
-  $$H:\mathcal{D}\times I\to\mathcal{D},\quad ((a,x),t)\mapsto(t\Theta(x)+(1-t)a,x)$$
--
+  $$H:\mathcal{D}\times I\to\mathcal{D},\quad ((a,x),t)\mapsto(t\Theta(x)+(1-t)a,x)$$ 
+  because the simplex is convex.
