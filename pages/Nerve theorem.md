@@ -30,3 +30,4 @@
 		  :END:
 		  $X\times CY\times I \cup CX\times Y\times I \cup CX\times CY\times \{0\}$.
 		- Proof. This is the same as pushing the unit cube $I^3$ onto three faces given by $x=0\vee y=0\vee z=0$, while keeping the *two* faces $x=1$ and $y=1$ invariant. This is easy: just push everything away from $(1,1,2)$ at unit speed. For $CX,CY$, apply this to their height.
+- Now, we can patch these maps together by taking composition on
