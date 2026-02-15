@@ -25,4 +25,4 @@
 	- ![image.png](../assets/image_1771169169807_0.png)
 	- it suffices to show that $M(p)\times I$ retracts to $M(p)\times\{0\}\cup A\times I$. Expanding the definition, this amounts to the following construction.
 		- Let $X,Y,Z$ be spaces, then there is a retract (in fact a SDR) from $CX\times CY\times CZ$ to $X\times CY\times CZ \cup CX\times Y\times CZ \cup CX\times CY\times Z$.
-		-
+	-
