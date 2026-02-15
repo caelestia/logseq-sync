@@ -24,8 +24,9 @@
 	- it suffices to show that $A\hookrightarrow M(p)$ is a cofibration. By another result (loc. cit.),
 	- ![image.png](../assets/image_1771169169807_0.png)
 	- it suffices to show that $M(p)\times I$ retracts to $M(p)\times\{0\}\cup A\times I$. Expanding the definition, this amounts to the following construction.
-		- Let $X,Y$ be spaces, then there is a retract (in fact, an SDR) from $CX\times CY\times I$ to $X\times CY\times I \cup CX\times Y\times I \cup CX\times CY\times \{0\}$.
+		- Let $X,Y$ be spaces, then there is a retract (in fact, an SDR) from $CX\times CY\times I$ to 
 		  :LOGBOOK:
 		  CLOCK: [2026-02-15 Sun 16:03:05]
 		  :END:
-		- Proof. This is the same as pushing the unit cube $I^3$ onto three faces given by $x=0\vee y=0\vee z=0$, while keeping the *two* faces $x=1$ and $y=1$ each identified. This is easy: just push everything away from $(1,1,2)$ at unit speed. For $CX,CY$, apply this to their height, and for $CZ$ we pick a SDR and apply that.
+		  $X\times CY\times I \cup CX\times Y\times I \cup CX\times CY\times \{0\}$.
+		- Proof. This is the same as pushing the unit cube $I^3$ onto three faces given by $x=0\vee y=0\vee z=0$, while keeping the *two* faces $x=1$ and $y=1$ each identified. This is easy: just push everything away from $(1,1,2)$ at unit speed. For $CX,CY$, apply this to their height.
