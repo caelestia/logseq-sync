@@ -21,4 +21,5 @@
 	- Now $\mathcal{D}=\sigma\times V$ and $p:\mathcal{D}\to\sigma$ is the first projection, hence $M(p)=\sigma\times CV$ and $M(p^{k-1})=\partial\sigma\times CV$. By the same reason, $(CV,V)$ and hence $(M(p^{k-1}),\partial\sigma\times V)$ are SDR pairs. Hence $\mathcal{D}$ is a SDR of $A:=\mathcal{D}\cup M(p^{k-1})$. Thus $A$ is contractible and $A\hookrightarrow M(p)$ is a homotopy equivalence.
 	- We want to show that this is a SDR pair. By this result (May Chapter 6),
 	- ![image.png](../assets/image_1771168424398_0.png)
-	- it suffices to show that $A\hookrightarrow M(p)$ is a cofibration. By another result ()
+	- it suffices to show that $A\hookrightarrow M(p)$ is a cofibration. By another result (loc. cit.),
+	- **ibid.**
