@@ -22,4 +22,5 @@
 	- We want to show that this is a SDR pair. By this result (May Chapter 6),
 	- ![image.png](../assets/image_1771168424398_0.png)
 	- it suffices to show that $A\hookrightarrow M(p)$ is a cofibration. By another result (loc. cit.),
-	- **ibid.**
+	- ![image.png](../assets/image_1771169169807_0.png)
+	- it suffices to show that $M(p)\times I=$ retracts to $M(p)\times\{0\}\cup A\times I=$.
