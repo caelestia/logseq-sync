@@ -18,5 +18,5 @@
 - First we inductively show that for all $k\geq0$, $\mathcal{D}^k\cup M(p^{k-1})$ is a SDR of $M(p^k)$.
 	- If $k=0$, $\mathcal{D}^0=\bigsqcup_i\{i\}\times U_i$, and $M(p^0)$ is the disjoint union of cones over the $U_i$. Since each $U_i$ is contractible, $(CU_i,U_i)$ is a SDR pair, see [[Cone over contractible base is SDR]]. Hence also $(M(p^0),\mathcal{D}^0)$.
 	- If $k\geq1$, we can reduce to gluing a single $k$-cell $\sigma$ of $N$. Denote $|\sigma|$ also by $\sigma$ and $V:=U_\sigma$.
-	- Now $\mathcal{D}=\sigma\times V$ and $p:\mathcal{D}\to\sigma$ is the first projection, hence $M(p)=\sigma\times CV$ and $M(p^{k-1})=\partial\sigma\times CV$. By the same reason, $(CV,V)$ and hence $(M(p^{k-1}),\partial\sigma\times V)$ are SDR pairs. Hence $\mathcal{D}$ is a SDR of $A:=\mathcal{D}\cup M(p^{k-1})$. Thus $A$ is contractible.
+	- Now $\mathcal{D}=\sigma\times V$ and $p:\mathcal{D}\to\sigma$ is the first projection, hence $M(p)=\sigma\times CV$ and $M(p^{k-1})=\partial\sigma\times CV$. By the same reason, $(CV,V)$ and hence $(M(p^{k-1}),\partial\sigma\times V)$ are SDR pairs. Hence $\mathcal{D}$ is a SDR of $A:=\mathcal{D}\cup M(p^{k-1})$. Thus $A$ is contractible and $A\hookrightarrow M(p)$ is a homotopy equivalence.
 	-
