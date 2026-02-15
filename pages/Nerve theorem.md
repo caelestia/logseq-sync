@@ -23,4 +23,5 @@
 	- ![image.png](../assets/image_1771168424398_0.png)
 	- it suffices to show that $A\hookrightarrow M(p)$ is a cofibration. By another result (loc. cit.),
 	- ![image.png](../assets/image_1771169169807_0.png)
-	- it suffices to show that $M(p)\times I=$ retracts to $M(p)\times\{0\}\cup A\times I=$.
+	- it suffices to show that $M(p)\times I$ retracts to $M(p)\times\{0\}\cup A\times I$. Expanding the definition, this amounts to the following construction.
+	-
