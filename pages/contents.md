@@ -4,6 +4,7 @@
 	- [[Class field theory]]
 	- [[NT Misc]]
 	- [[Hasse-Minkowski]]
+	- [[Lifting the exponent]]
 - First Course
 	- [[Comment on "sigma"]]
 	- Sheaf cohomology
