@@ -33,4 +33,4 @@
 - We conclude that $\mathcal{D}\cup M(p^{k-1})$ is a SDR of $\mathcal{D}\cup M(p^k)$ for all $k\geq0$.
 - Now, we can patch these homotopies together by taking composition on the intervals $[2^{-k-1},2^{-k}]$ to get a homotopy from $\mathrm{id}_{\mathcal{D}\cup M(p^\infty)}$ to a retraction onto $\mathcal{D}$.
 - ### Why?
-- Form a diagram The construction of
+- Form a diagram of spaces out of $\mathcal{U}$ with the non-empty finite intersections and inclusions. Its colimit is $X$. The construction of $\mathcal{D}$.
