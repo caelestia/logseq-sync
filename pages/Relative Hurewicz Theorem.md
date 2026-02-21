@@ -1,0 +1,3 @@
+- Here is a proof of the relative Hurewicz theorem via the Serre spectral sequence.
+- ### Setup
+- Let $
