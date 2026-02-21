@@ -1,3 +1,3 @@
 - Here is a proof of the relative Hurewicz theorem via the Serre spectral sequence.
 - ### Setup
-- Let $(X,A)$ be simply connected spaces, $n\geq1$ such that $\pi_i(X,A,a)=0$
+- Let $(X,A)$ be simply connected spaces, $n\geq2$ such that $\pi_i(X,A,a)=0$
