@@ -39,4 +39,5 @@
 	  logseq.order-list-type:: number
 	- If $\mathcal{U}$ is good, then $\operatorname{hocolim}$ is homotopy equivalent to the homotopy colimit of a diagram of points with the same shape.
 	  logseq.order-list-type:: number
+- ### Cech-to-derived spectral sequence
 -
