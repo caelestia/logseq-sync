@@ -35,5 +35,8 @@
 - ### Why?
 - Form a diagram of spaces out of $\mathcal{U}$ with the non-empty finite intersections and inclusions. Its colimit is $X$. The construction of $\mathcal{D}_\mathcal{U}$ is the homotopy colimit.
 - We basically proved a version of the following facts:
-	- If $\mathcal{U}$ has a subordinate partition of unity, then $\operatorname{hocolim}\to\operatorname{colim}$ is a homotopy equiavle
+	- If $\mathcal{U}$ has a subordinate partition of unity, then $\operatorname{hocolim}\to\operatorname{colim}$ is a homotopy equivalence.
 	  logseq.order-list-type:: number
+	- If $\mathcal{U}$ is good, then $\operatorname{hocolim}$ is homotopy equivalent to the homotopy colimit of a diagram of points with the same shape.
+	  logseq.order-list-type:: number
+-
