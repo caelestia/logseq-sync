@@ -1,3 +1,3 @@
 - Here is a proof of the relative Hurewicz theorem via the Serre spectral sequence.
 - ### Setup
-- Let $
+- Let $(X,A)$ be simply connected spaces, $n>$ such that $\pi$
