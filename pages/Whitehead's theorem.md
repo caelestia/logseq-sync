@@ -54,5 +54,5 @@
 - Proposition (Homology Whitehead's theorem). If $X,Y$ are path connected and simply connected, and $f:X\to Y$ induces isomorphism of singular homology groups, then it induces isomorphism of homotopy groups.
 	- Proof. Replacing $f$ with the cofibration $f':X\to M_f$, we get
 	  $$H_n(M_f,X)=\tilde H_n(M_f/X)=\tilde H_n(C_f)\overset{\text{MV}}{=}0.$$
-	- By the relative Hurewicz theorem, we see by induction that $
+	- By [the relative Hurewicz theorem]([[Hurewicz Theorem]]), we see by induction that $$
 - Corollary. Under the above assumptions, if $X,Y$ are homotopy equivalent to CW complexes, then $f$ is a homotopy equivalence.
