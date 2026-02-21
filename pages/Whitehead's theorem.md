@@ -51,7 +51,7 @@
 - Corollary. If $f:X\to Y$ is a weak homotopy equivalence and $X,Y$ are homotopy equialent to CW complexes, then $f$ is a homotopy equivalence.
 	- Proof. Let $\psi:Y'\to Y$ be a homotopy equivalence where $Y'$ is a CW complex. By the proposition, there is $\phi:Y'\to X$ such that $[f\phi]=[\psi]$. Thus $f$ has a right homotopy inverse $g$. By the same logic, $g$ has a right homotopy inverse $f'$. Then $[f]=[fgf']=[f']$, QED.
 - ### Homology version
-- Proposition (Homology Whitehead's theorem). If $X,Y$ are path connected and simply connected, and $f:X\to Y$ induces an isomorphism of singular homology groups, then it induces isomorphism of homotopy groups.
+- Proposition (Homology Whitehead's theorem). If $X,Y$ are path connected and simply connected, and $f:X\to Y$ induces isomorphism of singular homology groups, then it induces isomorphism of homotopy groups.
 	- Proof. Replacing $f$ with the cofibration $f':X\to M_f$, we get
 	  $$H_n(M_f,X)=H_n(M_f/X)=H_n(C_f)\overset{\text{MV}}{=}0.$$
 - Corollary. Under the above assumptions, if $X,Y$ are homotopy equivalent to CW complexes, then $f$ is a homotopy equivalence.
