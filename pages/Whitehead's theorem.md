@@ -50,4 +50,4 @@
 	- where the first map is an acyclic cofibration, and the second map (which is $\pi$) is a fibration. $\operatorname{S}(f)$ is a weak equivalence by assumption, so $\pi$ is an acyclic fibration. Hence the lifting problem has a solution. QED
 - Corollary. If $f:X\to Y$ is a weak homotopy equivalence and $X,Y$ are homotopy equialent to CW complexes, then $f$ is a homotopy equivalence.
 	- Proof. Let $\psi:Y'\to Y$ be a homotopy equivalence where $Y'$ is a CW complex. By the proposition, there is $\phi:Y'\to X$ such that $[f\phi]=[\psi]$. Thus $f$ has a right homotopy inverse $g$. By the same logic, $g$ has a right homotopy inverse $f'$. Then $[f]=[fgf']=[f']$, QED.
-- Corollary. (Homology Whitehead's theorem) If $X,Y$ are simply connected
+- Corollary. (Homology Whitehead's theorem) If $X,Y$ are path connected and simply connected, and $f:X\to Y$ induces an isomorphism of singuar homology groups,
