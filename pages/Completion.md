@@ -8,4 +8,4 @@
 	  $$(A+U)\cap(B+V)\supset(A\cap B)+(U\cap V).$$
 	- It is Cauchy because for any nhood $U$, we can pick a nhood $W$ such that $W+W-W\subset U$ and $A\in\mathcal{F}$ such that $A-A\subset W$. Then
 	  $$(A+W)-(A+W)=A-A+W-W\subset W+W-W\subset U.$$
-	- It is minimal, because
+	- It
