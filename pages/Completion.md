@@ -21,6 +21,6 @@
 - **Lemma.** The map $\iota$ is continuous with dense image.
 	- Proof. $\iota$ is continuous by $\iota^{-1}(\mathcal{F}+\tilde U)=\iota^{-1}(\mathcal{F})+\iota^{-1}(\tilde U)=\iota^{-1}(\mathcal{F})+U$.
 	- Now, to prove density, we show that there exists $\mathcal{N}_g\in\mathcal{F}+\tilde U$ for all $\mathcal{F}$ and $U$. Let $A+W\in\mathcal{F}$ such that $A+W-(A+W)\subset U$ and take any $g\in A$. Then observe that $\mathcal{G}:=\mathcal{N}_g-\mathcal{F}$ contains $U$, i.e., $\mathcal{G}\in\tilde U$. QED
-- **Lemma.** If $G$ is Hausdorff, then $\iota$ is an embedding.
+- **Lemma.** If $G$ is Hausdorff, then $\iota$ is an embedding. The converse is also true.
 	- Proof. The map $\iota:G\to\operatorname{im}(\iota)$ is an open mapping, because $\iota(U)=\operatorname{im}(\iota)\cap\tilde U$ for every open nhood $U\ni0$.
-	- It suffices to show injectivity of $\iota$.
+	- Injectivity of $\iota$ is equivalent to $
