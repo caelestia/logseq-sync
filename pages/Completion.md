@@ -16,7 +16,7 @@
 - This turns $\hat G$ into an abelian group with identity element $\mathcal{N}_0=\{U\ni0\}$.
 - The natural map $\iota:G\to\hat G$ given by $g\mapsto \mathcal{N}_g=g+\mathcal{N}_0$ is a group homomorphism.
 - ## Topology
-- Let a nhood basis of $\hat0$ be given by the sets $\{\mathcal{F}\in\hat G:U\in\mathcal{F}\}$ where $U\in\hat0$.
+- Let a nhood basis of $\hat0$ be given by the sets $\tilde U:=\{\mathcal{F}\in\hat G:U\in\mathcal{F}\}$ where $U\in\hat0$.
 - This makes $\hat G$ a topological abelian group.
 - **Lemma.** The map $\iota$ is continuous with dense image.
-	- Proof.
+	- Proof. $\iota$ is continuous by $\iota^{-1}(\mathcal{F}+\tilde U)
