@@ -16,4 +16,4 @@
 - This turns $\hat G$ into an abelian group with identity element $\mathcal{N}_0=\{U\ni0\}$.
 - The natural map $\iota:G\to\hat G$ given by $g\mapsto \mathcal{N}_g=g+\mathcal{N}_0$ is a group homomorphism.
 - ## Topology
--
+- Let a nhood basis of $$
