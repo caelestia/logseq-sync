@@ -23,4 +23,4 @@
 	- Now, to prove density, we show that there exists $\mathcal{N}_g\in\mathcal{F}+\tilde U$ for all $\mathcal{F}$ and $U$. Let $A+W\in\mathcal{F}$ such that $A+W-(A+W)\subset U$ and take any $g\in A$. Then observe that $\mathcal{G}:=\mathcal{N}_g-\mathcal{F}$ contains $U$, i.e., $\mathcal{G}\in\tilde U$. QED
 - **Lemma.** If $G$ is Hausdorff, then $\iota$ is an embedding. The converse is also true.
 	- Proof. The map $\iota:G\to\operatorname{im}(\iota)$ is an open mapping, because $\iota(U)=\operatorname{im}(\iota)\cap\tilde U$ for every open nhood $U\ni0$.
-	- Injectivity of $\iota$ is equivalent to $
+	- Injectivity of $\iota$ is equivalent to $\iota^{-1}(\hat0)=0$, or equivalently, that $\mathcal{N}_g=\mathcal{N}_0\implies g=0$. QED
