@@ -20,4 +20,4 @@
 - This makes $\hat G$ a topological abelian group.
 - **Lemma.** The map $\iota$ is continuous with dense image.
 	- Proof. $\iota$ is continuous by $\iota^{-1}(\mathcal{F}+\tilde U)=\iota^{-1}(\mathcal{F})+\iota^{-1}(\tilde U)=\iota^{-1}(\mathcal{F})+U$.
-	- Now, to prove that
+	- Now, to prove density.
