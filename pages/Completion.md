@@ -8,4 +8,4 @@
 	  $$(A+U)\cap(B+V)\supset(A\cap B)+(U\cap V).$$
 	- It is Cauchy because for any nhood $U$, we can pick a nhood $W$ such that $W+W-W\subset U$ and $A\in\mathcal{F}$ such that $A-A\subset W$. Then
 	  $$(A+W)-(A+W)=A-A+W-W\subset W+W-W\subset U.$$
-	- Finally, we prove it's minimal. Let $\mathcal{G}\subset\mathcal{F}^\dagger$, $A+U\notin\mathcal{G}$.
+	- Finally, we prove it's minimal. Let $\mathcal{G}\subset\mathcal{F}^\dagger$ be Cauchy, $A+U\notin\mathcal{G}$. Take $B\in\mathcal{G}$ such that $B-B\subset U$. Since $A,B\in\mathcal{F}$, there is $x\in A\cap B$. Then $B\subset x+U$
