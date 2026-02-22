@@ -1,5 +1,5 @@
 ## Setup
-- Let $G$ be an topological abelian group.
+- Let $G$ be a topological abelian group.
 - A filter $\mathcal{F}$ is called a Cauchy filter, if for every neighborhood $U$ (of $0$), there exists $A\in\mathcal{F}$ such that $A-A\subset U$.
 - From the example $\mathbb Q\leadsto\R$, we learnt that a point in the completion corresponds to multiple Cauchy filters. Thus we introduce:
 - A minimal Cauchy filter is a Cauchy filter which does not properly contain another Cauchy filter.
