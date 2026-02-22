@@ -19,4 +19,4 @@
 - Let a nhood basis of $\hat0$ be given by the sets $\{\mathcal{F}\in\hat G:U\in\mathcal{F}\}$ where $U\in\hat0$.
 - This makes $\hat G$ a topological abelian group.
 - **Lemma.** The map $\iota$ is continuous with dense image.
-	-
+	- Proof.
