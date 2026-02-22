@@ -9,3 +9,6 @@
 	- It is Cauchy because for any nhood $U$, we can pick a nhood $W$ such that $W+W-W\subset U$ and $A\in\mathcal{F}$ such that $A-A\subset W$. Then
 	  $$(A+W)-(A+W)=A-A+W-W\subset W+W-W\subset U.$$
 	- Finally, we prove it's minimal. Suppose $\mathcal{G}\subset\mathcal{F}^\dagger$ is Cauchy, $A+U\notin\mathcal{G}$. Take $B\in\mathcal{G}$ such that $B-B\subset U$. Since $A,B\in\mathcal{F}$, there is $x\in A\cap B$. Then $\mathcal{G}\ni B\subset x+U\subset A+U$, a contradiction. QED
+- Let $\
+- ## Group structure
+-
