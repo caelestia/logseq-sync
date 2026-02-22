@@ -1,1 +1,3 @@
-- Let $G$ be an abelian group.
+- Let $G$ be an topological abelian group.
+- A filter $\mathcal{F}$ is called a Cauchy filter, if for every neighborhood $U$ (of $0$), there exists $A\in\mathcal{F}$ such that $A-A\subset U$.
+-
