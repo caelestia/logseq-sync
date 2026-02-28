@@ -15,7 +15,7 @@
 	- [[Complex geometry]]
 - Groups
 	- [[Locally compact groups]]
-	- [[Completion]]
+	- [[Completion]].
 - Analysis
 	- [[Riesz representation theorem]]
 - Topology

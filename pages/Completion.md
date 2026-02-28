@@ -48,4 +48,5 @@
 	- It remains to check continuity of $\hat f$. Let $U\ni0$ be a nhood of $0\in H$. Pick an open nhood $V$ of $0\in G$ such that $\overline{f(V)}\subset U$. Thus
 	- $$\hat f(\tilde V)\subset U$$
 	  $$\Longleftarrow\ \hat f(\tilde V)\subset \overline{f(V)}$$
-	  $$\Longleftarrow\ \forall\mathcal{F}\in\hat G,\, V\in\mathcal{F},\,  $$
+	  $$\Longleftarrow\ \forall\mathcal{F}\in\hat G,\, V\in\mathcal{F}\text{ implies } \lim f\mathcal{F}\in\overline{f(V)} $$
+	- This is obvious. QED
