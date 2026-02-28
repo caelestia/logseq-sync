@@ -56,4 +56,4 @@
 - By barycentric subdivision (proven [here]([[Cohomology of constant sheaf and singular cohomology]])), $S_\bullet^\mathcal{U}(X)$ is quasi-isomorphic to $S_\bullet(X)$.
 - Hence the spectral sequence collapses at $E^2$ page, and $E^2_{0,q}=H_q(X)$.
 - ### Conclusion
--
+- We've shown that the homology groups $H_n(X)$ and $H_n(|N_\mathcal{U}|)$ are isomorph
