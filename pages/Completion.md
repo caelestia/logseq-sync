@@ -37,5 +37,6 @@
 	- For any element $\alpha\in A$ and $x\in\iota^{-1}(A+\tilde V)\in\mathcal{T}$, we have
 	  $$\iota(x)-\alpha\in A+\tilde V-A\subset 2\tilde V\Longrightarrow 2V\in\iota(x)-\alpha$$
 	- Hence there is $s_x\in\alpha$ such that $2V\supset x-s_x$.
-	- Since $\alpha$ is itself a Cauchy filter on $G$, pick $t\in a$ such that $t-t\subset V$, independent of $x$. Then $t$ intersects every $s_x$, and by the triangle inequality,
-	  $$x-t\subset x-s_x+s_x-t\subset $$
+	- Since $\alpha$ is itself a Cauchy filter on $G$, pick $t\in \alpha$ such that $t-t\subset V$, independent of $x$. Then $t$ intersects every $s_x$, and by the triangle inequality,
+	  $$x-t\subset x-(s_x\cap t)+(s_x\cap t)-t\subset 2V+V=3V.$$
+	-
