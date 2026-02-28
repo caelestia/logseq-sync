@@ -34,4 +34,5 @@
 	- Hence $\mathcal{T}\in\hat G$.
 	- It remains to see that $\mathcal{L\to T}$. Let $U\ni0$ be arbitrarily small and pick $V\ni0$ such that $V=-V$ and $3V:=V+V+V\subset U$. We want to show that $\mathcal{T}+\tilde U\in\mathcal{L}$.
 	- Pick an element $A\in\mathcal{L}$ such that $A-A\subset \tilde V$.
-	-
+	- For any element $s\in A$ and $x\in\iota^{-1}(A+\tilde V)\in\mathcal{T}$, we have
+	  $$\iota(x)-a\in A+\tilde V-A\subset 2\tildeV,\Longrightarrow 2V\in$$
