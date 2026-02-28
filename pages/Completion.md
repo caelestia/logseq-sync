@@ -30,4 +30,5 @@
 	  $$\mathcal{T}=\{\iota^{-1}(A):A\in\mathcal{L}^\dagger\}\subset 2^G.$$
 		- $\mathcal T$ is a filter.
 		- $\mathcal T$ is Cauchy, because for any $U\ni0$, there is $A\in\mathcal{L}^\dagger$ satisfying $A-A\subset \tilde U$, so we have $\iota^{-1}(A)-\iota^{-1}(A)\subset U$.
-		- $\mathcal{T}$ is minimal, because
+		- $\mathcal{T}$ is minimal, because $\iota^{-1}(A+U)=\iota^{-1}(A)+\iota^{-1}(U)$.
+	- Hence $\mathcal{T}\in\hat G$.
