@@ -32,4 +32,6 @@
 		- $\mathcal T$ is Cauchy, because for any $U\ni0$, there is $A\in\mathcal{L}^\dagger$ satisfying $A-A\subset \tilde U$, so we have $\iota^{-1}(A)-\iota^{-1}(A)\subset U$.
 		- $\mathcal{T}$ is minimal, because if $V+V\subset U$, then $\iota^{-1}(A+\tilde U)\supset\iota^{-1}(A+\tilde V)+V$.
 	- Hence $\mathcal{T}\in\hat G$.
-	- It remains to see that $\mathcal{L\to T}$. If $U\ni0$, choose $V\ni0$ such that $V+V\subset U$. Then $\tilde V+\tilde V\subset \tilde U$ as well.
+	- It remains to see that $\mathcal{L\to T}$. Let $U\ni0$ be arbitrarily small and pick $V\ni0$ such that $V=-V$ and $3V:=V+V+V\subset U$. We want to show that $\mathcal{T}+\tilde U\in\mathcal{L}$.
+	- Pick an element $A\in\mathcal{L}$ such that $A-A\subset \tilde V$.
+	-
