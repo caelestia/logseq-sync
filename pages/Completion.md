@@ -31,4 +31,5 @@
 		- $\mathcal T$ is a filter because $\operatorname{im}(\iota)$ is dense.
 		- $\mathcal T$ is Cauchy, because for any $U\ni0$, there is $A\in\mathcal{L}^\dagger$ satisfying $A-A\subset \tilde U$, so we have $\iota^{-1}(A)-\iota^{-1}(A)\subset U$.
 		- $\mathcal{T}$ is minimal, because $\iota^{-1}(A+U)=\iota^{-1}(A)+\iota^{-1}(U)$.
-	- Hence $\mathcal{T}\in\hat G$. It remains to see $\mathcal{L\to T}$. If $U\ni0$, then $\mathcal{T}+\tilde U$
+	- Hence $\mathcal{T}\in\hat G$.
+	- It remains to see that $\mathcal{L\to T}$. If $U\ni0$, choose $V\ni0$ such that $V+V\subset U$. Then $\tilde V+\tilde V\subset \tilde U$ as well.
