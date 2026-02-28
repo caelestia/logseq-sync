@@ -29,4 +29,5 @@
 	- Proof. Let $\mathcal{L}$ be a Cauchy filter on $\hat G$. Define
 	  $$\mathcal{T}=\{\iota^{-1}(A):A\in\mathcal{L}^\dagger\}\subset 2^G.$$
 		- $\mathcal T$ is a filter.
-		- $\mathcal T$ is Cauchy, because for any $U\ni0$, there is $A\in\mathcal{L}^+$ satisfying $\tilde U\in A-A$, so $\iota^{-1}(A)-\iota^{-1}(A)\subset U$.
+		- $\mathcal T$ is Cauchy, because for any $U\ni0$, there is $A\in\mathcal{L}^\dagger$ satisfying $A-A\subset \tilde U$, so we have $\iota^{-1}(A)-\iota^{-1}(A)\subset U$.
+		- $\mathcal{T}$ is minimal, because
