@@ -47,4 +47,5 @@
 	- The horizontal differential is the alternating sum of maps on singualr chains induced by inclusion.
 - ### Filtration 1, vertical
 - Since $\mathcal{U}$ is a good cover, all higher ($q>0$) rows in the $E^1$ page vanish, and $E^1_{p,0}$ is a free abelian group whose generators corresponds to the non-empty $p$-fold intersections in $\mathcal{U}$. This is exactly the Moore chain complex of $\mathbb{Z}N_\mathcal{U}$.
--
+- Hence the spectral sequence degenerates at $E^2$ page, and $E^2_{p,0}=H_p(N_\mathcal{U})$.
+- Recall that
