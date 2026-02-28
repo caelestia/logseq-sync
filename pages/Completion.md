@@ -40,4 +40,4 @@
 	- Since $\alpha$ is itself a Cauchy filter on $G$, pick $t\in \alpha$ such that $t-t\subset V$, independent of $x$. Then $t$ intersects every $s_x$, and by the triangle inequality,
 	  $$x-t\subset x-(s_x\cap t)+(s_x\cap t)-t\subset 2V+V=3V.$$
 	- Since $x$ is arbitrary, we get $\iota^{-1}(A+\tilde V)-t\subset 3V$, and thus $\mathcal{T}-\alpha\in 3\tilde V$.
-	- Since $\alpha$ is arbitrary, we get $\mathcal{T}-A\subset 3\tilde V\subset\tilde U$.
+	- Since $\alpha$ is arbitrary, we get $\mathcal{T}-A\subset 3\tilde V$. Hence $A\subset\mathcal{T}+\tilde U$. QED
