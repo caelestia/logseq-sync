@@ -27,5 +27,6 @@
 - ## Completion
 - **Lemma.** $\hat G$ is complete.
 	- Proof. Let $\mathcal{L}$ be a Cauchy filter on $\hat G$. Define
-	  $$\mathcal{F}=\{\iota^{-1}(A):A\in\mathcal{L}^\dagger\}.$$
-	-
+	  $$\mathcal{T}=\{\iota^{-1}(A):A\in\mathcal{L}^\dagger\}\subset 2^G.$$
+		- $\mathcal T$ is a filter.
+		- $\mathcal T$ is Cauchy, because for any $U\ni0$, there is $$
