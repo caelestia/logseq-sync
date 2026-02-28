@@ -46,4 +46,5 @@
 	- The vertical differential is the standard boundary map $S_q\to S_{q-1}$.
 	- The horizontal differential is the alternating sum of maps on singualr chains induced by inclusion.
 - ### Filtration 1, vertical
-- Since $\mathcal{U}$ is a good cover, all higher ($q>0$) rows in the $E^1$ page vanish, and $E^1_{p,0}$ is a free abelian group whose generators corresponds to the non-empty $p$-fold intersections in $\mathcal{U}$. This is exactly the Moore chain complex of $N_\mathcal{U}$.
+- Since $\mathcal{U}$ is a good cover, all higher ($q>0$) rows in the $E^1$ page vanish, and $E^1_{p,0}$ is a free abelian group whose generators corresponds to the non-empty $p$-fold intersections in $\mathcal{U}$. This is exactly the normalized chain complex of $N_\mathcal{U}$.
+-
