@@ -54,4 +54,6 @@
   $$\cdots\longrightarrow\bigoplus_{\alpha\in I_\sigma^3}\Z\longrightarrow\bigoplus_{\alpha\in I_\sigma^2}\Z\longrightarrow\bigoplus_{i\in I_\sigma}\Z$$
 - If $I_\sigma\neq\varnothing$, this is acyclic with $0$-th homology $\Z$ by the standard cone homotopy, mapping $(i_0,\cdots,i_p)$ to $(v,i_0,\cdots,i_p)$ where $v\in I_\sigma$ is an arbitrary "apex". Hence the $q$-th row of the double complex is acyclic with $0$-th homology $S_q^\mathcal{U}(X)=E^1_{0,q}$.
 - By barycentric subdivision (proven [here]([[Cohomology of constant sheaf and singular cohomology]])), $S_\bullet^\mathcal{U}(X)$ is quasi-isomorphic to $S_\bullet(X)$.
-- Hence the $E^2$ page is given by
+- Hence the spectral sequence collapses at $E^2$ page, and $E^2_{0,q}=H_q(X)$.
+- ### Conclusion
+-
