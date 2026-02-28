@@ -1,13 +1,14 @@
 - Number theory
 	- [[Analytic number theory]]
 	- [[Commutative ring theory]]
-	- [[Class field theory]]
 	- [[NT Misc]]
 	- [[Hasse-Minkowski]]
 	- [[Lifting the exponent]]
+	- [[Weil height machine]]
 - First Course
 	- [[Comment on "sigma"]]
 	- Sheaf cohomology
+		- [[Sheaf of O modules]]
 		- [[Cohomology of constant sheaf and singular cohomology]]
 	- [[pi_n(S^m)=0, n<m]]
 - Imperial

@@ -1,0 +1,5 @@
+.tight-block {
+  margin-top: -35px !important;
+  margin-bottom: -30px !important;
+  display: block; /* Ensures the margins are respected */
+}
