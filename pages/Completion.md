@@ -31,4 +31,4 @@
 		- $\mathcal T$ is a filter.
 		- $\mathcal T$ is Cauchy, because for any $U\ni0$, there is $A\in\mathcal{L}^\dagger$ satisfying $A-A\subset \tilde U$, so we have $\iota^{-1}(A)-\iota^{-1}(A)\subset U$.
 		- $\mathcal{T}$ is minimal, because every element can be written as $\iota^{-1}(A+U)=\iota^{-1}(A)+\iota^{-1}(U)$.
-	- Hence $\mathcal{T}\in\hat G$. It's obvious that $\mathcal{L\to T}
+	- Hence $\mathcal{T}\in\hat G$. It remains to see $\mathcal{L\to T}$. If $U\ni0$, then $\mathcal{T}+\tilde U$
