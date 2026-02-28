@@ -26,4 +26,4 @@
 	- Injectivity of $\iota$ is equivalent to $\iota^{-1}(\hat0)=0$, or equivalently, that $\mathcal{N}_g=\mathcal{N}_0\implies g=0$. QED
 - ## Completion
 - **Lemma.** $\hat G$ is complete.
-	- Proof.
+	- Proof. Let $
