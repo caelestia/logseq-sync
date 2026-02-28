@@ -42,9 +42,9 @@
 - ## Cech-to-derived spectral sequence
 - Without using much homotopy theory, we can compute the singular homology of $|N_\mathcal{U}|$. Let $\mathcal{U}$ be a good open cover on any space $X$.
 - Define the double complex 
-  $$C_{p,q}:=\check{C}_p(\mathcal{U},S_q)=\bigoplus_{i_0<\cdots<i_p}S_q(U_{i_0\cdots i_p}).$$
+  $$C_{p,q}:=\check{C}_p(\mathcal{U},S_q)=\bigoplus_{i_0,\cdots,i_p}S_q(U_{i_0\cdots i_p}).$$
 	- The vertical differential is the standard boundary map $S_q\to S_{q-1}$.
 	- The horizontal differential is the alternating sum of maps on singualr chains induced by inclusion.
 - ### Filtration 1, vertical
-- Since $\mathcal{U}$ is a good cover, all higher ($q>0$) rows in the $E^1$ page vanish, and $E^1_{p,0}$ is a free abelian group whose generators corresponds to the non-empty $p$-fold intersections in $\mathcal{U}$. This is exactly the normalized chain complex of $N_\mathcal{U}$.
+- Since $\mathcal{U}$ is a good cover, all higher ($q>0$) rows in the $E^1$ page vanish, and $E^1_{p,0}$ is a free abelian group whose generators corresponds to the non-empty $p$-fold intersections in $\mathcal{U}$. This is exactly the Moore chain complex of $\mathbb{Z}N_\mathcal{U}$.
 -
