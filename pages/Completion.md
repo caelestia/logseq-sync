@@ -21,7 +21,7 @@
 - **Lemma.** The map $\iota$ is continuous with dense image.
 	- Proof. $\iota$ is continuous by $\iota^{-1}(\mathcal{F}+\tilde U)=\iota^{-1}(\mathcal{F})+\iota^{-1}(\tilde U)=\iota^{-1}(\mathcal{F})+U$.
 	- Now, to prove density, we show that there exists $\mathcal{N}_g\in\mathcal{F}+\tilde U$ for all $\mathcal{F}$ and $U$. Let $A+W\in\mathcal{F}$ such that $A+W-(A+W)\subset U$ and take any $g\in A$. Then observe that $\mathcal{G}:=\mathcal{N}_g-\mathcal{F}$ contains $U$, i.e., $\mathcal{G}\in\tilde U$. QED
-- **Lemma.** The map $\iota:G\to\operatorname{im}(\iota)$ is an open mapping. If $G$ is Hausdorff, then $\iota$ is an embedding. The converse is also true.
+- **Lemma.** The map $\iota:G\to\operatorname{im}(\iota)$ is open. $\iota$ is an embedding if and only if $G$ is Hausdorff.
 	- Proof. The first result is because $\iota(U)=\operatorname{im}(\iota)\cap\tilde U$ for every open nhood $U\ni0$.
 	- Injectivity of $\iota$ is equivalent to $\iota^{-1}(\hat0)=0$, or equivalently, that $\mathcal{N}_g=\mathcal{N}_0\implies g=0$. QED
 - ## Completion
@@ -30,5 +30,5 @@
 	  $$\mathcal{T}=\{\iota^{-1}(A):A\in\mathcal{L}^\dagger\}\subset 2^G.$$
 		- $\mathcal T$ is a filter.
 		- $\mathcal T$ is Cauchy, because for any $U\ni0$, there is $A\in\mathcal{L}^\dagger$ satisfying $A-A\subset \tilde U$, so we have $\iota^{-1}(A)-\iota^{-1}(A)\subset U$.
-		- $\mathcal{T}$ is minimal, because $\iota^{-1}(A+U)=\iota^{-1}(A)+\iota^{-1}(U)$.
+		- $\mathcal{T}$ is minimal, because every element can be written as $\iota^{-1}(A+U)=\iota^{-1}(A)+\iota^{-1}(U)$.
 	- Hence $\mathcal{T}\in\hat G$.
