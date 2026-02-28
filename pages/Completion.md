@@ -45,4 +45,4 @@
 	- Proof. To see it's Hausdorff, suppose $\mathcal{F}\in\hat G$ lies in every $\tilde U$. Then $\hat 0\subset\mathcal{F}$, and by minimality, $\mathcal{F}=\hat0$. QED
 - **Theorem (Universal property).** Suppose $G$ is Hausdorff. For any complete Hausdorff topological abelian group $H$ and continous homomorphism $f:G\to H$, there is a unique $\hat f:\hat G\to H$ such that $\hat f\circ\iota=f$.
 	- Proof. The image of a Cauchy filter under a continuous homomorphism is also a Cauchy filter. Hence there's a unique choice of $\hat f$ sending a minimal Cauchy filter $\mathcal{F}$ to the limit of $f\mathcal{F}$.
-	-
+	- It remains to check continuity of $\hat f$.
