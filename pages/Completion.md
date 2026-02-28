@@ -47,4 +47,5 @@
 	- Proof. The image of a Cauchy filter under a continuous homomorphism is also a Cauchy filter. Hence there's a unique choice of $\hat f$ sending a minimal Cauchy filter $\mathcal{F}$ to the limit of $f\mathcal{F}$.
 	- It remains to check continuity of $\hat f$. Let $U\ni0$ be a nhood of $0\in H$. Pick an open nhood $V$ of $0\in G$ such that $\overline{f(V)}\subset U$. Thus
 	- $$\hat f(\tilde V)\subset U$$
-	  $$\Longleftarrow \hat f(\tilde V)\subset \overline{f(V)}$$
+	  $$\Longleftarrow\ \hat f(\tilde V)\subset \overline{f(V)}$$
+	  $$\Longleftarrow\ \forall\mathcal{F}\in\hat G,\, V\in\mathcal{F},\,  $$
