@@ -27,4 +27,5 @@
 - ## Completion
 - **Lemma.** $\hat G$ is complete.
 	- Proof. Let $\mathcal{L}$ be a Cauchy filter on $\hat G$. Define
-	  $$\mathcal{F}=\{G\cap\}$$
+	  $$\mathcal{F}=\{\iota^{-1}(A):A\in\mathcal{L}^\dagger\}.$$
+	-
