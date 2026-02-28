@@ -50,4 +50,4 @@
 - Hence the spectral sequence degenerates at $E^2$ page, and $E^2_{p,0}=H_p(N_\mathcal{U})$.
 - [Recall that]([[Acyclic models theorem]]) $|N_\mathcal{U}|$ is a CW complex and $H_p(N_\mathcal{U})=H_p(|N_\mathcal{U}|)$.
 - ### Filtration 2, horizontal
-- For each $q\geq0$, we have a complex $
+- For each $q\geq0$, we have the Cech complex of the singular $q$-chains functor. This complex is acyclic by
