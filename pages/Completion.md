@@ -43,4 +43,5 @@
 	- Since $\alpha$ is arbitrary, we get $\mathcal{T}-A\subset 3\tilde V$. Hence $A\subset\mathcal{T}+\tilde U$. QED
 - **Theorem.** $\hat G$ is a complete Hausdorff topological abelian group.
 	- Proof. To see it's Hausdorff, suppose $\mathcal{F}\in\hat G$ lies in every $\tilde U$. Then $\hat 0\subset\mathcal{F}$, and by minimality, $\mathcal{F}=\hat0$. QED
-- **Theorem (Universal property).** Suppose $G$ is Hausdorff. For any complete Hausdorff topological abelian group $H$ and continous map $
+- **Theorem (Universal property).** Suppose $G$ is Hausdorff. For any complete Hausdorff topological abelian group $H$ and continous homomorphism $f:G\to H$, there is a unique $\hat f:\hat G\to H$ such that $\hat f\circ\iota=f$.
+	-
