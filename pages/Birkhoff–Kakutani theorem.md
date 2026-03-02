@@ -9,7 +9,7 @@
 	- $U_{n+1}U_{n+1}U_{n+1}\subset U_n$.
 - Next, for each diadic rational number $r=\sum_{i=1}^k c_i2^{-i}$ in $(0,1)$, we assign the open set
   $$U(r):=U_1^{c_1}\cdots U_k^{c_k}.$$
-- Also let $U(1)=G$. Now, define
+- Also let $U(r)=G$ for all $r\geq1$. Now, define
   $$d(x,y)=d(1,x^{-1}y):=\inf\{r\in(0,1]\cap\text{diadic}: x^{-1}y\in U(r) \}.$$
 - This satisfies
 	- $d(x,y)\geq0$.
