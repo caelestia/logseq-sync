@@ -13,7 +13,7 @@
 	- $d(x,y)\geq0$.
 	- The triangle inequality $d(x,y)+d(y,z)\geq d(x,z)$ follows from concatinating the sequences.
 	- Suppose $d(x,y)=0$. Then $x^{-1}y\in U_{n_0}U_{n_1}\cdots U_{n_k}$ such that $\sum_i 2^{-n_i}< 2^{-N}$ for arbitrarily large $N$. We can show that $x^{-1}y\in U_N$ by reducing the number of sets inductively. We explain the algorithm with the following example.
-		- Suppose we start with $U_3U_4U_3U_4$. The sum $S:=\sum_i 2^{-n_i}=3*2^{-3}$.
+		- Suppose we start with $U_3U_4U_3U_4$. The sum $S:=\sum_i 2^{-n_i}=3*2^{-3}<2^{-1}$.
 			- Iteration 1. Enlarge the smallest sets $U_4$ to $U_3$, then crush any number of consecutive sequence of $U_3$'s. We get $U_3U_4U_3U_4 \leadsto U_3U_3U_3U_3 \leadsto U_2U_3$.
 			- The sum $S$ does not increase.
 			- Iteration 2. By the same process, we get $U_2U_3 \leadsto U_2U_2 \leadsto U_1$.
