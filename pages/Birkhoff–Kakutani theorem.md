@@ -22,9 +22,12 @@
 	- Let's analyze the various cases:
 		- If $L=|S|$,
 		- If $L=1$:
-			- If the block is on the boundary, $\Delta I=\Delta M-\Delta V=2^m-2^m=0$.
-			- Otherwise, $\Delta I=\Delta M-\Delta V=2^m-2\cdot2^m=-2^m$.
+			- $\Delta M=2^m$.
+			- If the block is on the boundary, $\Delta V=2^m$;
+			- otherwise, $\Delta V=2\cdot2^m=$.
 		- If we merged two consecutive $m$'s:
-			- $\Delta M=0$. If the block is on the boundary, $\Delta V=0$; otherwise, $\Delta V=2^{m}>0$. We have $\Delta I\leq0$ always.
+			- $\Delta M=0$. If the block is on the boundary, $\Delta V=0$; otherwise, $\Delta V=2^{m}>0$.
+			- We have $\Delta I\leq0$ always.
 		- If we merged three consecutive $m$'s:
-			- $\Delta M=-2^m$. If the block is on the boundary, $\Delta V=-2^m$; otherwise, $\Delta V=0$. We have $\Delta I\leq0$ always.
+			- $\Delta M=-2^m$. If the block is on the boundary, $\Delta V=-2^m$; otherwise, $\Delta V=0$.
+			- We have $\Delta I\leq0$ always.
