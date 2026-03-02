@@ -15,4 +15,4 @@
 	- Suppose $d(x,y)=0$. Then $x^{-1}y\in U_{n_0}U_{n_1}\cdots U_{n_k}$ such that $\sum_i 2^{-n_i}< 2^{-N}$ for arbitrarily large $N$. We can show that $x^{-1}y\in U_N$ by reducing the number of sets inductively. This is purely combinatorial and the details are given below.
 - Finally, we symmetrize by defining $d'(x,y)=d(x,y)+d(y,x)$. Then $d'$ is a left-invariant metric.
 - ### The lemma
-- We have a finite sequence of natural numbers $S=(n_1,\cdots,n_k)$. Let $M(S)$ be the quantity $\sum_{i=1}^k2^{n_i}$. On each turn, we can merge $1$, $2$, or $3$ consecutive copies of a number $n$ into a single copy of $n+1$. Then after a finite sequence $S_0\leadsto S_1\leadsto\cdots\leadsto S_$
+- We have a finite sequence of natural numbers $S=(n_1,\cdots,n_k)$. Let $M(S)$ be the quantity $\sum_{i=1}^k2^{n_i}$. On each turn, we can merge $1$, $2$, or $3$ consecutive copies of a number $n$ into a single copy of $n+1$. If $N\geq0$ such that $M(S_0)\leq2^N$, and after a finite sequence $S_0\leadsto S_1\leadsto\cdots\leadsto S_{\text{final}}$ of turns we have a single number $S_{\text{final}}=(n)$, then $
