@@ -18,4 +18,4 @@
 			- The sum $S$ does not decrease.
 			- Iteration 2. By the same process, we get $U_2U_3 \leadsto U_2U_2 \leadsto U_1$.
 			- The sum $S$ does not decrease.
-		- The algorithm terminates when we're left with a single $U_n$. By
+		- The algorithm terminates when we're left with a single $U_n$. Because $S_{final}\leq S\leq $
