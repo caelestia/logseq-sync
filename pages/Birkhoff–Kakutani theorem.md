@@ -10,7 +10,7 @@
 - Next, for each diadic rational number $r=\sum_{i=1}^k c_i2^{-i}$ in $(0,1)$, we assign the open set
   $$U(r):=U_1^{c_1}\cdots U_k^{c_k}.$$
 - Also let $U(1)=G$. Now, define the metric as
-  $$d(x,y)=d(1,x^{-1}y):=\inf\{r\in(0,1]\text{, diadic}: x^{-1}y\in U(r) \}.$$
+  $$d(x,y)=d(1,x^{-1}y):=\inf\{r\in(0,1]\cap\text{diadic}: x^{-1}y\in U(r) \}.$$
 - Check axioms of a metric:
 	- $d(x,y)=1$ iff $x^{-1}y=1$ iff $x=y$.
 	-
