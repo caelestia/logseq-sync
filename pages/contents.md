@@ -16,6 +16,7 @@
 - Groups
 	- [[Locally compact groups]]
 	- [[Completion]]
+	- [[Birkhoff–Kakutani theorem]]
 - Analysis
 	- [[Riesz representation theorem]]
 - Topology
