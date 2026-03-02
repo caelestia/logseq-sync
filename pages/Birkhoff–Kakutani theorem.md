@@ -7,7 +7,7 @@
 - Choose a countable neighborhood basis $\{U_n\}_{n\geq1}$ at $1$, such that for all $n\geq1$,
 	- $U_n=U_n^{-1}$,
 	- $U_{n+1}U_{n+1}U_{n+1}\subset U_n$.
-- Also let $U(r)=G$ for all $r\geq1$. Now, define
+- Now, define
   $$d(x,y):=\inf\{\sum_{i=0}^k2^{-n_i}:\exists k\geq0,\exists(x=x_0,x_1,\cdots,x_{k+1}=y),\text{ s.t.}x_i^{-1}x_{i+1}\in U_{n_i}\}.$$
 - This satisfies
 	- $d(x,y)\geq0$.
@@ -17,4 +17,5 @@
 - ### The lemma
 - We have a finite sequence of natural numbers $S=(n_1,\cdots,n_k)$. Let $M(S)$ be the quantity $\sum_{i=1}^k2^{n_i}$. On each turn, we can merge $1$, $2$, or $3$ consecutive copies of a number $n$ into a single number $n+1$. If $N\geq0$ satisfies $M(S_0)\leq2^N$, and after a finite sequence $S_0\leadsto S_1\leadsto\cdots\leadsto S_{\text{final}}$ of turns we end up with a sequence $S_{\text{final}}=(n)$ of length 1, then $n\leq N$.
 	- *Proof.* The obvious algorithm is as follows. Let $m$ be the smallest number in $S$. For each block of $m$'s of length $L$, if $L=1$, we simply replace it with $m+1$; otherwise, we merge them in pairs or triples (this is always possible for $L\geq2$). Then we get a new sequence $S'$ whose smallest number is $m+1$.
+	-
 	-
