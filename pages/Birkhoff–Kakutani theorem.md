@@ -1,0 +1,1 @@
+- Let $G$ be a topological group
