@@ -3,4 +3,4 @@
 	- (b) $G$ is metrizable as a topological space;
 	- (c) $G$ has a left invariant metric.
 - ## Proof
--
+- If suffices to
