@@ -20,14 +20,15 @@
 	- However, $M(S)$ increases in the first case. To correctly capture the "oscillation", we define another quantity $V(S)=\sum_{i=1}^{k-1}2^{\min(n_i,n_{i+1})}$.
 	- Put $I(S)=M(S)-V(S)$. Then $I(S_0)\leq M(S_0)\leq 2^N$ by assumption.
 	- Let's analyze the various cases:
-		- If $L=|S|$,
+		-
 		- If $L=1$:
-			- $\Delta M=2^m$.
-			- If the block is on the boundary, $\Delta V=2^m$;
-			- otherwise, $\Delta V=2\cdot2^m=$.
+			- $\Delta M=2^m$. If the block is on the boundary, $\Delta V=2^m$; otherwise, $\Delta V=2^{m+1}$.
+			- We have $\Delta I\leq0$ always.
 		- If we merged two consecutive $m$'s:
 			- $\Delta M=0$. If the block is on the boundary, $\Delta V=0$; otherwise, $\Delta V=2^{m}>0$.
 			- We have $\Delta I\leq0$ always.
+			  id:: 69a5b789-f26f-44e9-9c5f-7c29eca38ad6
 		- If we merged three consecutive $m$'s:
 			- $\Delta M=-2^m$. If the block is on the boundary, $\Delta V=-2^m$; otherwise, $\Delta V=0$.
 			- We have $\Delta I\leq0$ always.
+	-
