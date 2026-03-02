@@ -20,7 +20,7 @@
 	- However, $M(S)$ increases in the first case. To correctly capture the "oscillation", we define another quantity $V(S)=\sum_{i=1}^{k-1}2^{\min(n_i,n_{i+1})}$.
 	- Put $I(S)=M(S)-V(S)$. Then $I(S_0)\leq M(S_0)\leq 2^N$ by assumption.
 	- Let's analyze the various cases:
-		-
+		- The following holds if $L\neq|S|$.
 		- If $L=1$:
 			- $\Delta M=2^m$. If the block is on the boundary, $\Delta V=2^m$; otherwise, $\Delta V=2^{m+1}$.
 			- We have $\Delta I\leq0$ always.
