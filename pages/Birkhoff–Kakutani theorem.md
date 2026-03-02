@@ -12,5 +12,5 @@
   $$U(r):=U_1^{c_1}\cdots U_k^{c_k}.$$
 - And define the metric as
   $$d(x,y)=d(1,x^{-1}y):=\inf\{r\in(0,1): x^{-1}y\in U(r) \}.$$
-- It is easily checked to be a metric. We now check that it induces the same topology on $G$.
+- It is easily checked to be a metric. We now show that it induces the same topology on $G$.
 -
