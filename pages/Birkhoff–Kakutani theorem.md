@@ -24,4 +24,4 @@
 			- If the block is on the boundary, $\Delta I=\Delta M-\Delta V=2^m-2^m=0$.
 			- Otherwise, $\Delta I=\Delta M-\Delta V=2^m-2\cdot2^m=-2^m$.
 		- If we merged two consecutive $m$'s:
-			- $\Delta M=0$, $\Delta V=$
+			- $\Delta M=0$. If the block is on the boundary, $\Delta V=0$; otherwise, $\Delta V=2^{m}>0$. We always have $\Delta I\geq0$.
