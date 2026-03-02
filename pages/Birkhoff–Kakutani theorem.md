@@ -4,4 +4,8 @@
 	- (c) $G$ has a left invariant metric.
 - ## Proof
 - If suffices to prove (a) implies (c).
--
+- Choose a countable neighborhood basis $\{U_n\}_n$ at $1$, such that for all $n\geq0$,
+	- $U_0=G$,
+	- $U_n=U_n^{-1}$,
+	- $U_{n+1}U_{n+1}U_{n+1}\subset U_n$.
+- Next, we
