@@ -4,13 +4,12 @@
 	- (c) $G$ has a left invariant metric.
 - ## Proof
 - If suffices to prove (a) implies (c).
-- Choose a countable neighborhood basis $\{U_n\}_n$ at $1$, such that for all $n\geq0$,
-	- $U_0=G$,
+- Choose a countable neighborhood basis $\{U_n\}_{n\geq1}$ at $1$, such that for all $n\geq1$,
 	- $U_n=U_n^{-1}$,
 	- $U_{n+1}U_{n+1}U_{n+1}\subset U_n$.
 - Next, for each diadic rational number $r=\sum_{i=1}^k c_i2^{-i}$ in $(0,1)$, we assign the open set
   $$U(r):=U_1^{c_1}\cdots U_k^{c_k}.$$
-- And define the metric as
-  $$d(x,y)=d(1,x^{-1}y):=\inf\{r\in(0,1): x^{-1}y\in U(r) \}.$$
+- Also let $U(1)=G$. Now, define the metric as
+  $$d(x,y)=d(1,x^{-1}y):=\inf\{r\in(0,1]\text{, diadic}: x^{-1}y\in U(r) \}.$$
 - It is easily checked to be a metric. We now show that it induces the same topology on $G$.
 -
