@@ -11,5 +11,5 @@
   $$d(x,y):=\inf\{\sum_{i=1}^k2^{-n_i}:\exists k\geq0,\exists(x=x_0,x_1,\cdots,x_{k+1}=y),\text{ s.t.}x_i^{-1}x_{i+1}\in U_{n_i}\}.$$
 - This satisfies
 	- $d(x,y)\geq0$.
-	- $d(x,y)=0$
-	- $
+	- The triangle inequality $d(x,y)+d(y,z)\geq d(x,z)$ follows from concatinating the sequences.
+	- Suppose $d(x,y)=0$. Then $x^{-1}y$ is a product of
