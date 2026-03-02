@@ -11,3 +11,4 @@
 - Next, for each diadic rational number $r=\sum_{i=1}^k c_i2^{-i}$ in $(0,1)$, we assign the open set
   $$U(r):=U_1^{c_1}\cdots U_k^{c_k}.$$
 - And define the metric as
+  $$d(x,y)=d(1,x^{-1}y):=\inf\{r:\}$$
