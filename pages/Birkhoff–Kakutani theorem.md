@@ -1,1 +1,6 @@
-- Let $G$ be a topological group
+- Let $G$ be a topological group. The following are equivalent:
+	- (a) $G$ is Hausdorff and first countable;
+	- (b) $G$ is metrizable as a topological space;
+	- (c) $G$ has a left invariant metric.
+- ## Proof
+-
