@@ -8,8 +8,8 @@
 	- $U_n=U_n^{-1}$,
 	- $U_{n+1}U_{n+1}U_{n+1}\subset U_n$.
 - Also let $U(r)=G$ for all $r\geq1$. Now, define
-  $$d(x,y):=\inf\{\sum_{i=1}^k2^{-n_i}:\exists k,(x=x_0,x_1,\cdots,x_n=y),\text{ s.t.}\}.$$
+  $$d(x,y):=\inf\{\sum_{i=1}^k2^{-n_i}:\exists k\geq0,\exists(x=x_0,x_1,\cdots,x_{k+1}=y),\text{ s.t.}x_i^{-1}x_{i+1}\in U_{n_i}\}.$$
 - This satisfies
 	- $d(x,y)\geq0$.
-	- $d(x,y)=0$ iff $x^{-1}y=1$ iff $x=y$.
+	- $d(x,y)=0$
 	- $
