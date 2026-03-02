@@ -16,8 +16,8 @@
 - Finally, we symmetrize by defining $d'(x,y)=d(x,y)+d(y,x)$. Then $d'$ is a left-invariant metric.
 - ### The lemma
 - We have a finite sequence of natural numbers $S=(n_1,\cdots,n_k)$. Let $M(S)$ be the quantity $\sum_{i=1}^k2^{n_i}$. On each turn, we can merge $1$, $2$, or $3$ consecutive copies of a number $n$ into a single copy of $n+1$. If $N\geq0$ such that $M(S_0)\leq2^N$, and after a finite sequence $S_0\leadsto S_1\leadsto\cdots\leadsto S_{\text{final}}$ of turns we end up with a sequence $S_{\text{final}}=(n)$ of length 1, then $n\leq N$.
-	- *Proof.* The obvious algorithm is as follows. Let $m$ be the smallest number in $S$. For each block of $m$'s of length $L$, if $L=1$, we simply replace it with $m+1$; otherwise, we merge them in pairs or triples (this is always possible for $L\geq2$).
-	- However, $M(S)$ increases when
-	- To capture the "oscillation", we define another quantity $V(S)=\sum_{i=1}^{k-1}2^{\min(n_i,n_{i+1})}$.
-	-
+	- *Proof.* The obvious algorithm is as follows. Let $m$ be the smallest number in $S$. For each block of $m$'s of length $L$, if $L=1$, we simply replace it with $m+1$; otherwise, we merge them in pairs or triples (this is always possible for $L\geq2$). Then we get a new sequence $S'$ whose smallest number is $m+1$.
+	- However, $M(S)$ increases in the first case. To correctly capture the "oscillation", we define another quantity $V(S)=\sum_{i=1}^{k-1}2^{\min(n_i,n_{i+1})}$.
 	- Put $I(S)=M(S)-V(S)$. Then $I(S_0)\leq M(S_0)\leq 2^N$ by assumption.
+	- Let's analyze the various cases:
+		- If the block is on the boundary, $\Delta I=$
