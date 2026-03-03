@@ -47,5 +47,7 @@
 - $$\varphi\circ\iota=\operatorname{id},\quad \iota\circ\varphi\simeq_k\operatorname{id}.$$
 - Thus $\iota$ is a homotopy equivalence. QED
 - ---
-- ### Alternative way of showing acyclicity of $\tilde S^k$
-- The proof can be easily modified to work only under the assumption that $X$ is paracompact Hausdorff .
+- ### Removing the hereditary paracompact condition
+- The proof can be easily modified to work only under the assumption that $X$ is paracompact Hausdorff (and locally contractible).
+- Note that Lemma 2 still holds, as it only used Lemma 1 in the case $U=X$, which is paracompact.
+- We need a different way to show
