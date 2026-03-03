@@ -48,7 +48,7 @@
 - Thus $\iota$ is a homotopy equivalence. QED
 - ---
 - ### Removing the hereditary paracompact condition
-- The proof can be easily modified to work only under the assumption that $X$ is paracompact Hausdorff (and locally contractible).
+- The proof can be easily modified to work only under the assumption that $X$ is paracompact Hausdorff (and locally contractible of course).
 - Note that Lemma 2 still holds, as it only used Lemma 1 in the case $U=X$, which is paracompact.
 - We need a different way to show the sheaf $\tilde S^k$ is acyclic:
 	- The sheaf $\tilde S_\Z^0=S_\Z^0$ is obviously flasque, hence soft, as flasque sheaves on a paracompact space are soft. It is a ring of sheaves.
