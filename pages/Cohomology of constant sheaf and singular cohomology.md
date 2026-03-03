@@ -50,4 +50,5 @@
 - ### Removing the hereditary paracompact condition
 - The proof can be easily modified to work only under the assumption that $X$ is paracompact Hausdorff (and locally contractible).
 - Note that Lemma 2 still holds, as it only used Lemma 1 in the case $U=X$, which is paracompact.
-- We need a different way to show
+- We need a different way to show the sheaf $\tilde S^k$ is acyclic:
+	- The sheaf $\tilde S^0=S^0$ is obviously flasque, hence soft, as flasque sheaves are soft
