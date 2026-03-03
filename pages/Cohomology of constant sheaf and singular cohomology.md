@@ -46,3 +46,6 @@
 - So we define $\varphi:S_\bullet\to S_\bullet^{\mathcal{U}}$ by $\sigma\mapsto\operatorname{Sd}^{\infty}+h\sum_{N(\partial\sigma)}^{N(\sigma)-1}\operatorname{Sd}^i\partial\sigma$. We have
 - $$\varphi\circ\iota=\operatorname{id},\quad \iota\circ\varphi\simeq_k\operatorname{id}.$$
 - Thus $\iota$ is a homotopy equivalence. QED
+- ---
+- ### Alternative way of showing acyclicity of $\tilde S^k$
+- The proof can be easily modified to work only under the assumption that $X$ is paracompact Hausdorff .
