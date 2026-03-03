@@ -53,4 +53,4 @@
 - We need a different way to show the sheaf $\tilde S^k$ is acyclic:
 	- The sheaf $\tilde S_\Z^0=S_\Z^0$ is obviously flasque, hence soft, as flasque sheaves on a paracompact space are soft. It is a ring of sheaves.
 	- The sheaf $\tilde S^k$ is a sheaf of $S_\Z^0$-modules, hence soft.
-	-
+	- Therefore, they are acyclic.
