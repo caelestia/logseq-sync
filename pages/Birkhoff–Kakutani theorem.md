@@ -18,8 +18,7 @@
 - We have a finite sequence of natural numbers $S=(n_1,\cdots,n_k)$. Let $M(S)$ be the quantity $\sum_{i=1}^k2^{n_i}$. On each turn, we can merge $1$, $2$, or $3$ consecutive copies of a number $n$ into a single number $n+1$. If $N\geq0$ satisfies $M(S_0)\leq2^N$, then there exists a finite sequence $S_0\leadsto S_1\leadsto\cdots\leadsto S_{\text{final}}$ such that  $S_{\text{final}}=(N)$.
 - Observe that we can merge a subsequence $(n_1,n_2,n_3)$ into $(\max_{i=1,2,3} n_i+1)$.
 	- Also works for $(n_1,n_2)$.
-- If $k=1$, there's nothing to prove. Suppose $k\geq2$. We will now argue by induction on $N$.
-- In this case, there does not exist a number $n>N-1$ in $S$.
-- Therefore, we can split $S=S_1\frown S_2\frown S_3$ as three segments, such that $M(S_i)\leq2^{N-1}$ for $i=1,2,3$. This can be done by taking the prefix $S_1$ as long as possible under this bound, and taking $S_2$ to be the very next element. Then we must have $M(S_3)<2^{N-1}$ by construction.
-- By induction hypothesis, we get $
-	-
+- If $k=1$, there's nothing to prove. Suppose $k\geq2$. In this case, there does not exist a number $n>N-1$ in $S$.
+- We will now argue by induction on $N$.
+- We can always split $S=S_1\frown S_2\frown S_3$ as three segments, such that $M(S_i)\leq2^{N-1}$ for $i=1,2,3$. This can be done by taking the prefix $S_1$ as long as possible under this bound, and taking $S_2$ to be the very next element. Then we must have $M(S_3)<2^{N-1}$ by construction.
+- By induction hypothesis, we get $M(S_i)<$
