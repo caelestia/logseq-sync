@@ -19,7 +19,7 @@
 - Observe that we can merge a subsequence $(n_1,n_2,n_3)$ into $(\max_{i=1,2,3} n_i+1)$.
 	- Also works for $(n_1,n_2)$.
 - If $k<3$, this is trivial. Suppose $k\geq3$. We will argue by induction on $N$.
-	- Case 1. There does not exist a number $n>N-1$ in $S$.
-		- In this case, we can split $S=S_1\frown S_2\frown S_3$ as three segments, such that $M(S_i)\leq2^{N-1}$ for $i=1,2,3$. This can be done by taking the prefix $S_1$ as long as possible, and taking $S_2$ to be the very next element. Then we must have $M(S_3)<\frac{1}{2}M(S)$ by construction.
-		- By induction hypothesis, we get $
+- In this case, there does not exist a number $n>N-1$ in $S$.
+- Therefore, we can split $S=S_1\frown S_2\frown S_3$ as three segments, such that $M(S_i)\leq2^{N-1}$ for $i=1,2,3$. This can be done by taking the prefix $S_1$ as long as possible, and taking $S_2$ to be the very next element. Then we must have $M(S_3)<\frac{1}{2}M(S)$ by construction.
+- By induction hypothesis, we get $
 	-
