@@ -16,4 +16,6 @@
 - Finally, we symmetrize by defining $d'(x,y)=d(x,y)+d(y,x)$. Then $d'$ is a left-invariant metric.
 - ### The lemma
 - We have a finite sequence of natural numbers $S=(n_1,\cdots,n_k)$. Let $M(S)$ be the quantity $\sum_{i=1}^k2^{n_i}$. On each turn, we can merge $1$, $2$, or $3$ consecutive copies of a number $n$ into a single number $n+1$. If $N\geq0$ satisfies $M(S_0)\leq2^N$, then there exists a finite sequence $S_0\leadsto S_1\leadsto\cdots\leadsto S_{\text{final}}$ such that  $S_{\text{final}}=(N)$.
-- Observe that we can merge a subsequence $(n_1,n_2,n_3)$ to $(\max n_i$
+- Observe that we can merge a subsequence $(n_1,n_2,n_3)$ into $(\max_{i=1,2,3} n_i+1)$.
+- If $k<3$, this is trivial. Suppose $k\geq3$. We will argue by induction on $N$.
+-
