@@ -8,7 +8,7 @@
 	- $U_n=U_n^{-1}$,
 	- $U_{n+1}U_{n+1}U_{n+1}\subset U_n$.
 - Now, define
-  $$d(x,y):=\inf\{\sum_{i=0}^k2^{-n_i}:\exists k\geq0,\exists(x=x_0,x_1,\cdots,x_{k+1}=y),\text{ s.t.}x_i^{-1}x_{i+1}\in U_{n_i}\}.$$
+  $$d(x,y):=\inf\{\sum_{i=0}^k2^{-n_i}:\exists k\geq0,\exists(x=x_0,x_1,\cdots,x_{k+1}=y),\text{ s.t. }x_i^{-1}x_{i+1}\in U_{n_i}\}.$$
 - This satisfies
 	- $d(x,y)\geq0$.
 	- The triangle inequality $d(x,y)+d(y,z)\geq d(x,z)$ follows from concatinating the sequences.
