@@ -15,3 +15,5 @@
 	  $$\textstyle\sum_f \dashv f^* \dashv \prod_f$$
 	- In particular, the fiber functor $F_x=[\{x\}\hookrightarrow X]^*$ preserves colimits. Hence
 	  $$\mathrm{Et}(\mathcal{F})_x = \varinjlim_{s\in\mathcal{F}(U),\, x\in U}\{x\}=\mathcal{F}_x$$
+	  QED
+-
