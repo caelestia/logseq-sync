@@ -10,4 +10,4 @@
 - Also
   $$\mathrm{Et}(\mathcal{F})=\varinjlim_{\underline{U}\in\mathrm{Ob}(h/\mathcal{F})}U=\varinjlim_{s\in\mathcal{F}(U)}U$$
 - *Claim*. As a set, $\mathrm{Et}(\mathcal{F})=\bigsqcup_{x\in X}\mathcal{F}_x \xrightarrow{\pi}X$.
-	- Proof.
+	- Proof. Apply the forgetful functors $\mathsf{Top}/X \to \mathsf{Top} \to \mathsf{Set}$ and compute the colimit there.
