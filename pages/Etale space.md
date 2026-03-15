@@ -11,7 +11,7 @@
   $$\mathrm{Et}(\mathcal{F})=\varinjlim_{\underline{U}\in\mathrm{Ob}(h/\mathcal{F})}U=\varinjlim_{s\in\mathcal{F}(U)}U$$
 - *Claim*. As a set, $\mathrm{Et}(\mathcal{F})=\bigsqcup_{x\in X}\mathcal{F}_x \xrightarrow{\pi}X$.
 	- Proof. Apply the forgetful functors $\mathsf{Top}/X \to \mathsf{Top} \to \mathsf{Set}$ and compute the colimit there.
-	- In $\mathsf{Set}$, the base change functor $f^*:\mathsf{Set}/Y \to \mathsf{Set}/X$ (the pullback along the fixed $f:X\to Y$) has aboth left and right adjoints, given by the dependent sums and products:
+	- In $\mathsf{Set}$, the base change functor $f^*:\mathsf{Set}/Y \to \mathsf{Set}/X$ (the pullback along a fixed $f:X\to Y$) has both left and right adjoints, given by the dependent sums and products:
 	  $$\textstyle\sum_f \dashv f^* \dashv \prod_f$$
 	- In particular, the fiber functor $F_x=[\{x\}\hookrightarrow X]^*$ preserves colimits. Hence
 	  $$\mathrm{Et}(\mathcal{F})_x = \varinjlim_{s\in\mathcal{F}(U),\, x\in U}\{x\}=\mathcal{F}_x$$
