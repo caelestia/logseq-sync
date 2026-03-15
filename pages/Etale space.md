@@ -1,0 +1,3 @@
+- Let $X$ be a topological space, $\tau(X)$ be the category of open subsets. Let $\mathsf{Top}/X$ be the over category.
+- *Fact*. $\mathsf{Top}/X$ is cocomplete.
+	- Proof.
