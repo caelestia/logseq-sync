@@ -1,3 +1,4 @@
 - Let $X$ be a topological space, $\tau(X)$ be the category of open subsets. Let $\mathsf{Top}/X$ be the over category.
-- *Fact*. $\mathsf{Top}/X$ is cocomplete.
-	- Proof.
+- *Fact*. $\mathsf{Top}/X$ is cocomplete. More precisely, the forgetful $\mathsf{Top}/X \to \mathsf{Top}$ creates colimits.
+	- Proof. The universal property of colimits applies to the maps $\to X$ as well.
+-
