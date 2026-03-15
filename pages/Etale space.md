@@ -6,5 +6,6 @@
   $$\underline{E}\mapsto\left[U\mapsto\operatorname{Hom}_{\mathsf{Top}/X}(\underline{U},\underline{E})\right]$$
   That is, the (pre)sheaf of continuous sections functor. The "nerve".
 - To compute $\mathrm{Et}$, we have
-  $$\mathrm{Et}(\mathcal{F})=\varinjlim_=\int^{U\in\tau(X)} U\times\mathcal{F}(U).$$
--
+  $$\mathrm{Et}(\mathcal{F})=\int^{U\in\tau(X)} U\times\mathcal{F}(U).$$
+- Also
+  $$\mathrm{Et}(\mathcal{F})=\varinjlim_{\underline{U}\in\mathrm{Ob}(h/\mathcal{F})}U=\varinjlim_{s\in\mathcal{F}(U)}U$$
