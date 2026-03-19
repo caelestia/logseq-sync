@@ -20,4 +20,4 @@
 - A connection is equivalently a splitting of the tangent bundle of the total space $E$:
   $$T_E = V \oplus H$$
 - Let $e\in E$, $x:=\pi(e)$, where $\pi:E\to M$ is the projection. The *vertical space* $V_e:=\ker(d\pi)_e$ at $e$. Clearly, this is canonically isomorphic to the vector space $\pi^{-1}(x)$.
--
+- To obtain the splitting, we need to define a map $\kappa_e:T_{E,e}\to V_e$ such that $\kappa_e|_{V_e}=\mathrm{id}$.
