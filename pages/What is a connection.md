@@ -19,4 +19,4 @@
 - ### Vertical and horizontal spaces
 - A connection is equivalently a splitting of the tangent bundle of the total space $E$:
   $$T_E = V \oplus H$$
-- Let $x\in E$. The *vertical space* $V_x:=\ker(d\pi)_x$ at $x$, where $\pi:E\to M$ is the projection, and the *horizontal space* $H$ is
+- Let $e\in E$, $x:=\pi(e)$, where $\pi:E\to M$ is the projection. The *vertical space* $V_e:=\ker(d\pi)_e$ at $e$, and the *horizontal space* $H$ is
