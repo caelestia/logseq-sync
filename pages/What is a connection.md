@@ -16,4 +16,6 @@
 - If we view the connection as a smooth section of $\mathcal{D^1(E,T^*\otimes E)}$, then it's symbol (viewed as an element of $\operatorname{Hom}(\mathcal{T^*\otimes E,T^*\otimes E})$ via the natural isomorphsim) is $\mathrm{id}_{\mathcal{T^*\otimes E}}$.
 	- To see this,
 - ### Vertical and horizontal spaces
--
+- A connection is equivalently a splitting of the tangent bundle of the total space $E$:
+  $$T_E = V \oplus H$$
+- Where the *vertical space* $V:=\ker(\pi)$
