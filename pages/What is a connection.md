@@ -23,5 +23,5 @@
   $$0 \longrightarrow V_e \longrightarrow T_{E,e} \xrightarrow{d\pi_e} T_{M,x} \longrightarrow 0$$
 - Thus there are two ways to obtain the splitting:
 	- We can define a section of $d\pi_e$. This amounts to finding a local section that's parallel at $x$.
-	- We can also find a projection $T_{E,e}\to V_e$. Let $v$ be a vector in $T_{E,e}$ and choose a curve $\gamma:(-\epsilon,\epsilon)\to E$ such that $\gamma(0)=e$ and $\gamma'(0)=v$. If $d\pi(v)\neq0$, $\gamma(t)$ provides a local section over the curve $\pi\circ\gamma$. Then the covariant derivative $\nabla_{d\pi(v)}\gamma(t)$
+	- We can also find a projection $T_{E,e}\to V_e$. Let $v$ be a vector in $T_{E,e}$ and choose a curve $\gamma:(-\epsilon,\epsilon)\to E$ such that $\gamma(0)=e$ and $\gamma'(0)=v$. If $d\pi(v)\neq0$, $\gamma(t)$ provides a local section over the curve $\pi\circ\gamma$. Then the covariant derivative $\frac{\nabla}{dt}\pi\circ\gamma|_{t=0}=\nabla_{d\pi(v)}\gamma(t)$ is a well-defined
 - To show that $H$ is a subbundle of $T_E$, we compute in local coordinates.
