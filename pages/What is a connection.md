@@ -12,4 +12,8 @@
 - A section $\nabla$ of $\sigma$ is a connection on $E$:
 	- $\nabla:\mathcal{T}\to\mathcal{E\otimes D\otimes E}^\vee=:\mathcal{D}^1(\mathcal{E,E})$, such that $[\nabla_X,f]=\sigma(X)f=Xf\in\Gamma(\mathcal{A})$.
 	- That is, the Leibniz rule $\nabla_X(fs)=f\nabla_Xs+Xf\otimes s$.
-	- If we view the connection as a smooth section of $\mathcal{D^1(E,T^*\otimes E)}$, then it's symbol (viewed as an element of $\operatorname{Hom}(\mathcal{T^*\otimes E,T^*\otimes E})$ via the natural isomorphsim) is $\mathrm{id}_{}$
+- ### Lifting of symbol
+- If we view the connection as a smooth section of $\mathcal{D^1(E,T^*\otimes E)}$, then it's symbol (viewed as an element of $\operatorname{Hom}(\mathcal{T^*\otimes E,T^*\otimes E})$ via the natural isomorphsim) is $\mathrm{id}_{\mathcal{T^*\otimes E}}$.
+	- To see this,
+- ### Vertical and horizontal spaces
+-
