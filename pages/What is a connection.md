@@ -19,7 +19,7 @@
 - ### Vertical and horizontal spaces
 - A connection is equivalently a splitting of the tangent bundle of the total space $E$:
   $$T_E = V \oplus H$$
-- Let $e\in E$, $x:=\pi(e)$, where $\pi:E\to M$ is the projection. The *vertical space* $V_e:=\ker(d\pi)_e$ at $e$. Clearly, this is canonically isomorphic to the vector space $\pi^{-1}(x)$. We have the SES
+- Let $e\in E$, $x:=\pi(e)$, where $\pi:E\to M$ is the projection. The *vertical space* $V_e:=\ker(d\pi)_e$ at $e$. Clearly, this is canonically isomorphic to the vector space $\pi^{-1}(x)=E_x$. We have the SES
   $$0 \longrightarrow V_e \longrightarrow T_{E,e} \xrightarrow{d\pi_e} T_{M,x} \longrightarrow 0$$
 - Thus there are two ways to obtain the splitting:
 	- We can define a section of $d\pi_e$. This amounts to finding a local section that's parallel at $x$.
