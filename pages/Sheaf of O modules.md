@@ -42,4 +42,5 @@
 	- QED
 - ## Grothendieck category
 - **Proposition.** $\mathcal{O}\text{--}\mathsf{Mod}$ is a Grothendieck category, i.e., it's cocomplete and admits a generator, and filtered colimits are exact.
-	- Proof. Taking stalks of a presheaf commutes with taking filtered colimits, and sheafification does not change the stalks. To find a generator, it suffices to construct a generating family $\{\mathcal{F}_U\}_{U}$ and take $G=\bigoplus_U\mathcal{F}_U$, by cocompleteness. Let $\mathcal{F}_U=j_{U!}\mathcal{O}|_U$ be the extension by $0$
+	- Proof. Taking stalks of a presheaf commutes with taking filtered colimits, and sheafification does not change the stalks. To find a generator, it suffices to construct a generating family $\{\mathcal{F}_U\}_{U}$ and take $G=\bigoplus_U\mathcal{F}_U$, by cocompleteness. Let $\mathcal{F}_U=i_{U!}\mathcal{O}|_U$ be the extension by $0$ of a restriction of $\mathcal{O}_X$. By the adjunction $i_{U!} \dashv i_U^{-1}$, we get
+	  $$\operatorname{Hom}_{\mathcal{O}_X}()$$
