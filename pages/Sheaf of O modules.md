@@ -40,4 +40,6 @@
 	- Proof. We can check
 	- $$\mathcal{Hom}\mathcal{(F\otimes G,H)} \simeq \mathcal{Hom}\mathcal{(F,Hom(G,H))}.$$
 	- QED
--
+- ## Grothendieck category
+- **Proposition.** $\mathcal{O}\text{--}\mathsf{Mod}$ is a Grothendieck category, i.e., it's cocomplete and admits a generator, and filtered colimits are exact.
+	- Proof.
