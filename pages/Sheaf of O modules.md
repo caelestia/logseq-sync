@@ -42,4 +42,4 @@
 	- QED
 - ## Grothendieck category
 - **Proposition.** $\mathcal{O}\text{--}\mathsf{Mod}$ is a Grothendieck category, i.e., it's cocomplete and admits a generator, and filtered colimits are exact.
-	- Proof.
+	- Proof. Taking stalks commutes with taking filtered colimits and both are exact.
