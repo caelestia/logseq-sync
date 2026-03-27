@@ -42,5 +42,7 @@
 	- QED
 - ## Grothendieck category
 - **Proposition.** $\mathcal{O}\text{--}\mathsf{Mod}$ is a Grothendieck category, i.e., it's cocomplete and admits a generator, and filtered colimits are exact.
-	- Proof. Taking stalks of a presheaf commutes with taking filtered colimits, and sheafification does not change the stalks. To find a generator, we construct a generating family $\{\mathcal{F}_U\}_{U}$ and take $G=\bigoplus_U\mathcal{F}_U$, by cocompleteness. Let $\mathcal{F}_U=i_{U!}\mathcal{O}_U$ be the extension by $0$ of the restriction of $\mathcal{O}_X$. By the adjunction $i_{U!} \dashv i_U^{-1}$, we get
-	- $$\operatorname{Hom}_{\mathcal{O}_X}(\mathcal{F}_U,\mathcal{G})=\operatorname{Hom}_{\mathcal{O}_U}(\mathcal{O}|_U,\mathcal{G}|_U)$$
+	- Proof. Taking stalks of a presheaf commutes with taking filtered colimits, and sheafification does not change the stalks. Hence filtered colimits are exact. To find a generator, we construct a generating family $\{\mathcal{F}_U\}_{U}$ and take $G=\bigoplus_U\mathcal{F}_U$ by cocompleteness. Let $\mathcal{F}_U=i_{U!}\mathcal{O}|_U$ be the extension by $0$ of the restriction of $\mathcal{O}_X$. By the adjunction $i_{U!} \dashv i_U^{-1}$, we get
+	- $$\operatorname{Hom}_{\mathcal{O}_X}(\mathcal{F}_U,\mathcal{G})=\operatorname{Hom}_{\mathcal{O}|_U}(\mathcal{O}|_U,\mathcal{G}|_U)=\mathcal{G}(U)$$
+	- Indeed, if $\mathcal{G}(U)=0$ for all $U$, then $\mathcal{G}=0$. This proves our claim. QED
+-
