@@ -16,7 +16,7 @@
   Hence, we can sheafify a presheaf of $\mathcal{O}$-modules and get a sheaf of $\mathcal{O}$-modules.
 - ## Abelian & Closedness
 - **Lemma.** $\mathcal{O}\text{--}\mathsf{Mod}$ admits all small limits and colimits.
-	- Proof. The $\mathcal{O}$-action can be safely ignored for this (this falls into the general rule that forgetful base change admits both a left and a right adjoint). Hence all limits and colimits are computed in the category $\mathsf{Sh}(\mathsf{Ab})$, i.e., compute component-wise and sheafify for colimits.  QED
+	- Proof. The $\mathcal{O}$-action can be safely ignored for this (this falls into the general rule that forgetful base change admits both a left and a right adjoint). Hence all limits and colimits are computed in the category $\mathsf{Sh}(\mathsf{Ab})$, i.e., computed component-wise and sheafify for colimits.  QED
 - **Lemma.** $\mathcal{O}\text{--}\mathsf{Mod}$ is an Abelian category.
 	- Proof. Obvious.
 - Next, we define the tensor product. Let's first review that in $R\text{--}\mathsf{Mod}$. The tensor product of two modules $M,N$ is the coequalizer of the diagram in $\mathsf{Ab}$
@@ -42,4 +42,4 @@
 	- QED
 - ## Grothendieck category
 - **Proposition.** $\mathcal{O}\text{--}\mathsf{Mod}$ is a Grothendieck category, i.e., it's cocomplete and admits a generator, and filtered colimits are exact.
-	- Proof. Taking stalks commutes with taking filtered colimits and both are exact.
+	- Proof. Taking stalks of presheaves commutes with taking filtered colimits and both are exact.
