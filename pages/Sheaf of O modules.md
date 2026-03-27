@@ -49,4 +49,5 @@
 - Another way to construct injectives is this. If $\mathcal{F}$ is any $\mathcal{O}$-module, there is a canonical flasque resolution induced by $\mathcal{F}_{\text{God}}:U\mapsto\prod_{x\in U}\mathcal{F}_x$. We can further embed this in the sheaf $U\mapsto\prod_{x\in U}I_x$ where $I_x$ is an injective $\mathcal{O}_x$-module. This is an injective $\mathcal{O}$-module.
 - ## Derived category
 - In the category of complexes, injective resolution provides fibrant replacements. If $\mathcal{I}^\bullet$ is an injective resolution of $\mathcal{G}^\bullet$, we have
-  $$$$
+  $$\text{Hom}_{D^+(X)}(\mathcal{F}^\bullet, \mathcal{G}^\bullet) \cong \text{Hom}_{K^+(X)}(\mathcal{F}^\bullet, \mathcal{I}^\bullet).$$
+-
