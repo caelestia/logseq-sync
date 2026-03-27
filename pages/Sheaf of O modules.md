@@ -46,3 +46,4 @@
 	- $$\operatorname{Hom}_{\mathcal{O}_X}(\mathcal{F}_U,\mathcal{G})=\operatorname{Hom}_{\mathcal{O}|_U}(\mathcal{O}|_U,\mathcal{G}|_U)=\mathcal{G}(U)$$
 	- Indeed, if $\mathcal{G}(U)=0$ for all $U$, then $\mathcal{G}=0$. This proves our claim. QED
 - It follows formally that $\mathcal{O}\text{--}\mathsf{Mod}$ has enough injectives (Tohoku paper). This is due to Baer's critetion: $\mathcal{I}$ is injective iff $\mathcal{I}\to0$ has right lifting property against subobjects of $G$, and an application of the small object argument.
+- Another way to construct injectives is this. If $\mathcal{F}$ is any $\mathcal{O}$-module, there is a canonical flasque resolution, given by the functor $\mathcal{}
