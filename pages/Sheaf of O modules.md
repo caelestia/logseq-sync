@@ -26,7 +26,8 @@
 	- Proof. The coequializer diagram commutes with filtered colimits. QED
 - The category $\mathcal{O}\text{--}\mathsf{Mod}$ also admits internal Hom. This is not just for modules, but a general fact for sheaves taking value in any category. Given two sheaves $\mathcal{F,G}$, define
   $$\mathcal{Hom(F,G)}(U)=\operatorname{Hom}_{\text{Sheaf}(U)}(F|_U,G|_U),$$
-  which is automatically a sheaf by locality & patching of sheaf morphisms. For $\mathcal{O}
+  which is automatically a sheaf by locality & patching of sheaf morphisms. For $\mathcal{O}$-modules, similarly,
+  $$\mathcal{Hom(F,G)}_\mathcal{O}(U):=\operatorname{Hom}_{\mathcal{O}|_U}(F|_U,G|_U),$$
 - However, there is a catch. In general, $\mathcal{Hom(F,G)}_x$ will be different from $\operatorname{Hom}_{\mathcal{O}_x}(\mathcal{F}_x,\mathcal{G}_x)$.
 - **Proposition.** There is a canonical map $\mathcal{Hom_O(M,N)}_x\to\operatorname{Hom}_{\mathcal{O}_x}(\mathcal{M}_x,\mathcal{N}_x)$. This is injective if $\mathcal M$ is of finite type, and is an isomorphism if $\mathcal M$ is locally finitely presented.
 	- Proof. Restricting $X$ to open subsets, consider an exact sequence
