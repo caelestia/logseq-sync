@@ -1,32 +1,15 @@
-- Number theory
-	- [[Analytic number theory]]
-	- [[Commutative ring theory]]
-	- [[NT Misc]]
-	- [[Hasse-Minkowski]]
-	- [[Lifting the exponent]]
-	- [[Weil height machine]]
+- [[Number theory]]
 - First Course
 	- [[Comment on "sigma"]]
-	- Sheaf cohomology
-		- [[Etale space]]
-		- [[Sheaf of O modules]]
-		- [[Cohomology of constant sheaf and singular cohomology]]
-	- [[pi_n(S^m)=0, n<m]]
-- Imperial
-	- [[Complex geometry]]
+	- [[Sheaf cohomology]]
+- [[Imperial]]
 - Groups
 	- [[Locally compact groups]]
 	- [[Completion]]
 	- [[Birkhoff–Kakutani theorem]]
 - Analysis
 	- [[Riesz representation theorem]]
-- Topology
-	- [[Acyclic models theorem]]
-	  id:: 69764c6d-0883-4e9a-a94b-5bea775aca45
-	- [[Whitehead's theorem]]
-	- [[Model structure on sSet]]
-	- [[Nerve theorem]]
-	- [[Classification theorem of principal bundles]]
+- [[Topology]]
 - Geometry
 	- [[What is a connection]]
 	- [[Blow up]]
