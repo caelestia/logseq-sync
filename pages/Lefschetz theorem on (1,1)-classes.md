@@ -1,1 +1,3 @@
-- Let $X$ be a compact Kahler manifold. Then $c_
+- Let $X$ be a compact Kahler manifold.
+- $c_1$ is a map from holomorphic line bundles to $2\pi i H^2(X,\Z)$, fitting into the exponential sequence:
+- $$0 \longri
