@@ -4,8 +4,7 @@
 - induced by the SES $0 \to 2\pi i \Z \xrightarrow{\iota} \mathcal O \xrightarrow{\exp} \mathcal O^\times \to 0$.
 - The Lefschetz theorem states that $c_1$ is surjection onto $2\pi i H^2(X,\Z)\cap H^{1,1}(X)$.
 - Proof. By exactness and the Hodge decomposition, we need to show
-	- 1. if $\alpha$ is a (2,0)-form, then $\iota_*(\alpha)\neq 0$
-	- 1. if $\beta$ is a (1,1)-form, then $\iota_*(\beta)=0$.
-	- 1.
-	- 2.
-	-
+	- 1. if $\alpha$ is a (2,0)-form, then $\iota_*(\alpha)\neq 0$.
+	- 2. if $\beta$ is a (1,1)-form, then $\iota_*(\beta)=0$.
+	- 3. If $\gamma$ is a (0,2)-form, then $\iota_*(\gamma)\neq0$.
+- Since
