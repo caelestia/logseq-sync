@@ -1,1 +1,0 @@
-- The Neron-Severi group
