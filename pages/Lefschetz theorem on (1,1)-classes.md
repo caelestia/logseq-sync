@@ -2,5 +2,5 @@
 - $c_1$ is a map from holomorphic line bundles to $2\pi i H^2(X,\Z)$, fitting into the exponential sequence:
 - $$H^1(X,\mathcal O^\times) \xrightarrow{c_1} 2\pi i H^2(X,\Z) \xrightarrow{\iota_*} H^2(X,\mathcal O)$$
 - induced by the SES $0 \to 2\pi i \Z \xrightarrow{\iota} \mathcal O \xrightarrow{\exp} \mathcal O^\times \to 0$.
-- The Lefschetz theorem states that $c_1$ is surjective onto $2\pi i H^2(X,\Z)\cap H^{1,1}(X)$.
-- Proof.
+- The Lefschetz theorem states that $c_1$ is surjection onto $2\pi i H^2(X,\Z)\cap H^{1,1}(X)$.
+- Proof. The image of $c_1$ is a real form, so it suffices
