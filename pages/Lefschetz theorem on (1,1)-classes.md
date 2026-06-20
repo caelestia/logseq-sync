@@ -3,4 +3,4 @@
 - $$H^1(X,\mathcal O^\times) \xrightarrow{c_1} 2\pi i H^2(X,\Z) \xrightarrow{\iota_*} H^2(X,\mathcal O)$$
 - induced by the SES $0 \to 2\pi i \Z \xrightarrow{\iota} \mathcal O \xrightarrow{\exp} \mathcal O^\times \to 0$.
 - The Lefschetz theorem states that $c_1$ is surjection onto $2\pi i H^2(X,\Z)\cap H^{1,1}(X)$.
-- Proof. The image of $c_1$ is a real form, so it suffices
+- Proof. The image of $c_1$ is a real form, so it suffices to show that (1) if $\alpha$ is a (2,0)
