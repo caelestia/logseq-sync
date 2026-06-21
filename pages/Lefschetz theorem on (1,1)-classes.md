@@ -11,5 +11,5 @@
 	- If $\gamma\neq0$ is a (0,2)-form, then $\iota_*(\gamma)\neq0$.
 	  logseq.order-list-type:: number
 - Since $c_1$ gives integral, in particular real, forms, we have symmetry between 1. and 3.
-- Now, we compute $\iota$ by resolving using standard resolutions of $\underline{\mathbb C}$ and $\mathcal O$
+- Now, we compute $\iota$ by resolving using standard resolutions of $\underline{\mathbb C}$ and $\mathcal O$:
 -
