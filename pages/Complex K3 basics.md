@@ -9,4 +9,5 @@
 - For the Kummer surface $X$ associated with a product $E_1 \times E_2$ of elliptic curves, we have
 - $$\rho(X) = \begin{cases} 18, &\text{if }E_1\not\sim E_2, \\ 19,&\text{if }E_1\sim E_2\text{ without CM,}\\ 20,&\text{if }E_1\sim E_2\text{ with CM.}\end{cases}$$
 - # Background
-- The Calabi conjecture: on  a
+- The Calabi conjecture gives: on a compact Kahler manifold, there is a unique Ricci-flat metric iff
+	- Yau's proof. The Monge-Ampere equation.
