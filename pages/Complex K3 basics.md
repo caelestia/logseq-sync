@@ -13,4 +13,4 @@
 	- Yau's proof. The complex Monge-Ampere equation.
 - In this case, $M$ has holonomy in $SU(2)=Sp(1)$ (reduced from $U(2)$), thus is hyperkahler. This implies:
 	- Complex structures $I,J,K$ such that $I^2=J^2=K^2=IJK=-1$.
-	-
+	- A nowhere-vanishing holomorphic symplectic 2-form.
