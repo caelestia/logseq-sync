@@ -12,7 +12,7 @@
 - The Calabi conjecture gives: on a compact Kahler manifold $M$, there is a unique Ricci-flat metric iff $c_1(M)=0$.
 	- Yau's proof. The complex Monge-Ampere equation.
 - In this case, $M$ has holonomy in $SU(2)=Sp(1)$ (reduced from $U(2)$), thus is hyperkahler. This implies:
-	- Complex structures $I,J,K$ such that $I^2=J^2=K^2=IJK=-1$.
+	- Complex structures $I,J,K$ such that $IJK=-1$.
 	- A nowhere-vanishing holomorphic symplectic 2-form.
 - Every simply connected compact surface with vanishing $c_1$ is topologically a K3 surface.
 -
