@@ -7,4 +7,4 @@
 	- Proof. $h^{1,1}=20$.
 - ### Kummer surfaces
 - For the Kummer surface $X$ associated with a product $E_1 \times E_2$ of elliptic curves, we have
-- \[\]
+- $$\rho(X) = \begin{cases} 18, &\text{if }E_1\not\sim E_2, \\ 19,&\text{if }E_1\sim E_2\text{ without CM,}\\ 20,&\text{if }E_1\sim E_2\text{ with CM.}\end{cases}$$
