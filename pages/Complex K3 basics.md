@@ -10,5 +10,7 @@
 - $$\rho(X) = \begin{cases} 18, &\text{if }E_1\not\sim E_2, \\ 19,&\text{if }E_1\sim E_2\text{ without CM,}\\ 20,&\text{if }E_1\sim E_2\text{ with CM.}\end{cases}$$
 - # Background
 - The Calabi conjecture gives: on a compact Kahler manifold $M$, there is a unique Ricci-flat metric iff $c_1(M)=0$.
-	- Yau's proof. The Monge-Ampere equation.
-- In this case, $M$ has holonomy in $SU(2)=Sp(1)$ (reduced from $U(2)$), thus is hyperkahler.
+	- Yau's proof. The complex Monge-Ampere equation.
+- In this case, $M$ has holonomy in $SU(2)=Sp(1)$ (reduced from $U(2)$), thus is hyperkahler. This implies:
+	- Complex structures $I,J,K$ such that $I^2=J^2=K^2=IJK=-1$.
+	-
