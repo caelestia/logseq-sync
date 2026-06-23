@@ -14,4 +14,5 @@
 - Geometry
 	- [[What is a connection]]
 	- [[Blow up]]
+	- [[Kodaira's Projectivity Criterion]]
 -
