@@ -14,5 +14,5 @@
 - Geometry
 	- [[What is a connection]]
 	- [[Blow up]]
-	- [[Kodaira's Projectivity Criterion]]
+	- [[Kodaira Embedding Theorem]]
 -
