@@ -1,2 +1,3 @@
 - [[Complex K3 basics]]
-- LATER canonical bundle
+- LATER canonical bundle of kummer
+-
