@@ -1,1 +1,2 @@
 - [[Complex K3 basics]]
+- LATER canonical bundle
