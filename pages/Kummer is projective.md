@@ -1,1 +1,1 @@
-- (Hartshorne II.7.10) $X$ is noetherian scheme, $\mathcal S=$
+- (Hartshorne II.7.10) $X$ is noetherian scheme, $\mathcal S=\bigoplus_d \mathscr I^d$ is the Rees algebra of ideal sheaf (or just a quasi)
