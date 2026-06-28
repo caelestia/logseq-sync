@@ -12,3 +12,4 @@
 	- It suffices to observe that $P\simeq P'$ naturally and $\mathcal O_{P'}(1) \simeq \mathcal O_P(1)\otimes \pi'^*L$. (II.7.9)
 	- This is because tensoring with $L$ locally corresponds to multiplying with a nonzero function $f$ ( viewing $L$ as a Cartier divisor). For the structure sheaf, the numerator and denominator gets the same power of $f$, so $P\simeq P'$. But for $\mathcal{O}(1)$ we have $f^{d+1}/f^d=f$ in total.
 	- QED
+-
