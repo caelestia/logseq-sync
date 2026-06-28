@@ -1,0 +1,1 @@
+- (Hartshorne II.7.10) $X$ is noetherian scheme, $\mathcal S=$
