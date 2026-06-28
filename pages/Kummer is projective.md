@@ -3,4 +3,6 @@
 - We constructed the scheme (relative proj) $P:=\mathrm {Proj}(\mathcal S)$ which has a $\pi:P\to X$.
 	- The structure sheaf is constructed on affine opens as degree $0$ homogeneous fractions.
 - Similarly, we have a sheaf $\mathcal O_P(1)$ on $P$ given locally on affine opens as degree $1$ fractions.
-- Proposition. If $\mathcal L$ is an ample invertible sheaf on $X$, then $\mathcal O_P(1)\otimes \mathcal L^n$ is very ample for $n\
+- Proposition. If $\mathcal L$ is an ample invertible sheaf on $X$, then $\mathcal O_P(1)\otimes \mathcal L^n$ is very ample for $n\gg0$.
+- #### Proof.
+-
