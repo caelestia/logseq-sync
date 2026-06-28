@@ -10,4 +10,4 @@
 	- At graded algebra level, we get a surjective $\mathcal O_X[T_1,\cdots,T_N] \to \mathcal S*L:=\bigoplus_d \mathcal S_d\otimes L^{d}$.
 	- i.e. a closed immersion $P':=\mathrm{Proj}(\mathcal S*L) \to \mathbb P_X^N$. (ex. 3.12)
 	- It suffices to observe that $P\simeq P'$ naturally and $\mathcal O_{P'}(1) \simeq \mathcal O_P(1)\otimes \pi'^*L$. (II.7.9)
-	- This is because tensoring with $L$ locally corresponds to multiplying with a nonzero function $f$
+	- This is because tensoring with $L$ locally corresponds to multiplying with a nonzero function $f$ ( viewing $L$ as a Cartier divisor). For the structure sheaf, the numerator and denominator gets the same power of $f$, so $P\simeq P'$. But for $\mathcal{O}(1)$ we get a
