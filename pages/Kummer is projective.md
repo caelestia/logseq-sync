@@ -13,7 +13,7 @@
 	- This is because tensoring $\mathcal{S}$ with $L$ locally corresponds to multiplying with a nonzero function $f$ ( viewing $L$ as a Cartier divisor). For the structure sheaf, the numerator and denominator gets the same power of $f$, so $P\simeq P'$. But for $\mathcal{O}(1)$ we have $f^{d+1}/f^d=f$ in total.
 	- QED
 - ### Kummer surface
-- In this case $X=A/\langle\iota\rangle$ where $A$ is an [abelian surface]([[Basis of complex abelian surface]]).
+- In this case $X=A/\langle\iota\rangle$ where $A$ is an [abelian surface]([[Basis of complex abelian variety]]).
 - (ex. II.7.5) Given $X$ a noetherian scheme, if $\mathcal{L}$, $\mathcal{M}$ are ample invertible sheaves, then so is $\mathcal{L\otimes M}$.
-- So we can take an ample line bundle $\mathcal L$ on $A$, and consider $\mathcal{L\otimes\iota^* L}$, which descends to $X$.
--
+- So we can take an ample line bundle $\mathcal L$ on $A$, and consider $\mathcal{L\otimes\iota^* L}$, which descends to an ample invertible sheaf on $X$.
+- Now we can apply the above and find a polarization on the Kummer surface $\operatorname{Kum}(A)$.
