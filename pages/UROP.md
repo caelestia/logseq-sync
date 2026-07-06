@@ -1,3 +1,4 @@
 - [[Complex K3 basics]]
 - LATER [[canonical bundle of kummer]]
 - [[Kummer is projective]]
+-

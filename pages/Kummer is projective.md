@@ -13,6 +13,6 @@
 	- This is because tensoring $\mathcal{S}$ with $L$ locally corresponds to multiplying with a nonzero function $f$ ( viewing $L$ as a Cartier divisor). For the structure sheaf, the numerator and denominator gets the same power of $f$, so $P\simeq P'$. But for $\mathcal{O}(1)$ we have $f^{d+1}/f^d=f$ in total.
 	- QED
 - ### Kummer surface
-- In this case $X=A/\{\pm1\}$ where $A$ is an abelian surface.
+- In this case $X=A/\{\pm1\}$ where $A$ is an [abelian surface]([[Definition of complex abelian surface]]).
 - (ex. II.7.5) Given $X$ a noetherian scheme, if $\mathcal{L}$, $\mathcal{M}$ are ample, then so is $\mathcal{L\otimes M}$.
 -
