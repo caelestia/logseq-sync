@@ -1,2 +1,3 @@
 - Is there an Zariski open set around a singularity that an affine A^2?
--
+- Understand how to take the quotient of a flat bundle on A by involution.
+- Understand the
