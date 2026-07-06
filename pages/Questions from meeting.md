@@ -1,0 +1,2 @@
+- Is there an Zariski open set around a singularity that an affine A^2?
+-
