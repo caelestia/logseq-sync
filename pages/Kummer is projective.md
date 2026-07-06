@@ -14,5 +14,5 @@
 	- QED
 - ### Kummer surface
 - In this case $X=A/\{\pm1\}$ where $A$ is an [abelian surface]([[Basis of complex abelian surface]]).
-- (ex. II.7.5) Given $X$ a noetherian scheme, if $\mathcal{L}$, $\mathcal{M}$ are ample, then so is $\mathcal{L\otimes M}$.
--
+- (ex. II.7.5) Given $X$ a noetherian scheme, if $\mathcal{L}$, $\mathcal{M}$ are ample invertible sheaves, then so is $\mathcal{L\otimes M}$.
+- So we can take an ample line bundl
