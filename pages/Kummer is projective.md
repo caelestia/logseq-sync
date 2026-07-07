@@ -17,4 +17,5 @@
 - (ex. II.7.5) Given $X$ a noetherian scheme, if $\mathcal{L}$, $\mathcal{M}$ are ample invertible sheaves, then so is $\mathcal{L\otimes M}$.
 - So we can take an ample line bundle $\mathcal L$ on $A$, and consider $\mathcal{M}=\mathcal{L\otimes\iota^* L}$.
 - $\mathcal{M}^{\otimes2}$ descends to an ample invertible sheaf on $X$.
+	- (ex.3.5.7) Let $X,Y$ be proper schemes over a noetherian ring. Let $f:X\to Y$ be a finite surjective morphism. Let $\mathcal{L}$ be an invertible sheaf on $Y$. Then $\mathcal{L}$ is ample iff $f^*\mathcal{L}$ is ample.
 - Now we can apply the above and find a polarization on the Kummer surface $\operatorname{Kum}(A)$.
