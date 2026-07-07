@@ -15,5 +15,6 @@
 - ### Kummer surface
 - In this case $X=A/\langle\iota\rangle$ where $A$ is an [abelian surface]([[Basics of complex abelian surface]]).
 - (ex. II.7.5) Given $X$ a noetherian scheme, if $\mathcal{L}$, $\mathcal{M}$ are ample invertible sheaves, then so is $\mathcal{L\otimes M}$.
-- So we can take an ample line bundle $\mathcal L$ on $A$, and consider $\mathcal{L\otimes\iota^* L}$, which descends to an ample invertible sheaf on $X$.
+- So we can take an ample line bundle $\mathcal L$ on $A$, and consider $\mathcal{M}=\mathcal{L\otimes\iota^* L}$.
+- $\mathcal{M}^{\otimes2}$ descends to an ample invertible sheaf on $X$.
 - Now we can apply the above and find a polarization on the Kummer surface $\operatorname{Kum}(A)$.
