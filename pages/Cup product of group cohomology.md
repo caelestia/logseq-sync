@@ -4,6 +4,6 @@
 - Since $(\cdot)^G=\operatorname{Hom}_{G}(k,\cdot)$, we have $H^\bullet(G;M)=\operatorname{Ext}^\bullet_{k[G]}(k,M)$.
 - Hence, to compute the group cohomology, we often use the following "standard resolution"
   $$L_\bullet \xrightarrow{\epsilon} k$$
-	- Each $L_{n}$ is a free $k$-module on the basis $G^{n+1}$, whose elements are the *inhomogeneous chains*.
-	- As a $k[G]$-module with the diagonal action, $L_n$ has a basis of the form $(g_0)$
+	- Each $L_{n}$ is a free $k$-module on the basis $G^{n+1}$, whose elements are the *homogeneous chains*.
+	- As a $k[G]$-module with the diagonal action, $L_n$ has a basis of $G^n$. Its elements are called *homogenous chains* $(g_1|g_2|\cdots|g_n)$. This is the *bar construction*.
 -
