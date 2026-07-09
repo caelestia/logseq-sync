@@ -1,0 +1,2 @@
+- Let $G$ be a group. Fix the commutative ring $k$ throughout. A
+- If $M$ is a $G$-module, the group cohomology
