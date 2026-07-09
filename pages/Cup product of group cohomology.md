@@ -34,4 +34,5 @@
 	- QED
 - ## Back to the cup product
 - We construct the cup product from the cross product $\times$ alone.
-- Consider the diagonal homomorphism $\delta:G\to G\times G$
+- Consider the diagonal homomorphism $\delta:G\to G\times G$, $g\mapsto (g,g)$. The *cup product* is given by the composition
+- $$H^p(G;k) \otimes_k H^q(H;k) \xrightarrow{\times} H^{p+q}(G\times G;k) \xrightarrow{\operatorname{res}_\delta} H^{p+q}(G;k)$$
