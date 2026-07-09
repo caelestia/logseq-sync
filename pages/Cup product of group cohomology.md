@@ -17,10 +17,10 @@
 - For ease of notation, let's fix $M=k$.
 - # Construction 1: restriction
 - Let $P$ (resp. $Q$) be $G$- (resp. $H$-) modules. We have a natural product induced by $\mu$.
-- $$\tilde\mu:\operatorname{Hom}_G(P,k) \otimes_k \operatorname{Hom}_H(Q,k) \longrightarrow \operatorname{Hom}_{G\times H}(P\otimes_kQ,k)$$
+- $$\mu_{P,Q}:\operatorname{Hom}_G(P,k) \otimes_k \operatorname{Hom}_H(Q,k) \longrightarrow \operatorname{Hom}_{G\times H}(P\otimes_kQ,k)$$
 - $$\phi\otimes\psi \longmapsto \mu\circ(\phi\otimes\psi)$$
 - This way, $\operatorname{Hom}_G(\cdot,k)$ is turned into a lax monoidal functor.
 - If $P_\bullet\to k$ and $Q_\bullet\to k$ are resolutions, this gives a morphism of double complexes. This induces the *cross product*:
 - $$\times: H^p(G;k) \otimes_k H^q(H;k) \longrightarrow H^{p+q}(G\times H;k)$$
 - ## Kunneth formula
-- Suppose that every $P_n$ is a finite rank free $k[G]$-module.
+- Suppose that every $P_n$ is a finite rank free $k[G]$-module. Then $\mu_{P_n,Q}$ is an isomorphism.
