@@ -36,4 +36,5 @@
 - We construct the cup product from the cross product $\times$ alone.
 - Consider the diagonal homomorphism $\delta:G\to G\times G$, $g\mapsto (g,g)$. The *cup product* is defined as the composition
 - $$H^p(G;k) \otimes_k H^q(G;k) \xrightarrow{\times} H^{p+q}(G\times G;k) \xrightarrow{\operatorname{Res}_\delta} H^{p+q}(G;k)$$
-- Compl
+	- Completely analogous to the cup product in singular cohomology. In fact, group cohomology is the singular cohomology of $BG$ the topological space, and $\delta:BG\to B(G\times G)=BG\times BG$ is the diagonal map.
+-
