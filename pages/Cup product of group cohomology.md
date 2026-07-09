@@ -41,5 +41,5 @@
 - This construction comes from the derived category.
 - By a standard result, $\operatorname{Ext}^n_{k[G]}(k,k)=\operatorname{Hom}_{\mathsf{D}(G)}(k,k[n])$.
 - If $P_\bullet\to k$ is a projective resolution, then we have
-- $$\operatorname{Ext}^n_{k[G]}(k,k)=\operatorname{Hom}_{\mathsf{D}(G)}(k,k[n])=\operatorname{Hom}_{\mathsf{D}(G)}(P,P[n])=\operatorname{Hom}_{\mathsf{K}(G)}(P,P[n])$$
--
+- $$H^n(G;k)=\operatorname{Hom}_{\mathsf{D}(G)}(k,k[n])=\operatorname{Hom}_{\mathsf{D}(G)}(P,P[n])=\operatorname{Hom}_{\mathsf{K}(G)}(P,P[n])$$
+- That is, a cohomology class is
