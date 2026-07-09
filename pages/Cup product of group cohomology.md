@@ -55,7 +55,7 @@
 - The cross product is given by
 - $$\begin{align*} H^p(G;k)\otimes H^q(H;k) &\longrightarrow H^{p+q}(G\times H;k) \\ \alpha\otimes\beta\hspace{3.2em} &\longmapsto \pi_1^*(\alpha)\cup\pi_2^*(\beta) \end{align*}$$
 - # Construction 3: Diagonal approximation
-- This method allows us to build the cup product on *chain level*, capturing more information.
+- This method allows us to build the cup product on *cochain level*, capturing more information.
 - Let $P_\bullet\xrightarrow{\epsilon} k$ be a free resolution in $G$-Mod.
 	- In the following, tensor product of (chain) complexes always means the total complex.
 - **Lemma.** Tensor product preserves chain homotopies.
@@ -76,8 +76,8 @@
 - <!-- https://q.uiver.app/#q=WzAsNCxbMCwwLCJQX1xcYnVsbGV0Il0sWzEsMCwiUF9cXGJ1bGxldFxcb3RpbWVzIFBfXFxidWxsZXQiXSxbMSwxLCJrXFxvdGltZXMgayJdLFswLDEsImsiXSxbMCwxLCJcXERlbHRhIiwwLHsic3R5bGUiOnsiYm9keSI6eyJuYW1lIjoiZGFzaGVkIn19fV0sWzEsMiwiXFxlcHNpbG9uXFxvdGltZXNcXGVwc2lsb24iXSxbMCwzLCJcXGVwc2lsb24iLDJdLFszLDIsIlxcc2ltIl1d -->
   <iframe class="quiver-embed quiver" src="https://q.uiver.app/#q=WzAsNCxbMCwwLCJQX1xcYnVsbGV0Il0sWzEsMCwiUF9cXGJ1bGxldFxcb3RpbWVzIFBfXFxidWxsZXQiXSxbMSwxLCJrXFxvdGltZXMgayJdLFswLDEsImsiXSxbMCwxLCJcXERlbHRhIiwwLHsic3R5bGUiOnsiYm9keSI6eyJuYW1lIjoiZGFzaGVkIn19fV0sWzEsMiwiXFxlcHNpbG9uXFxvdGltZXNcXGVwc2lsb24iXSxbMCwzLCJcXGVwc2lsb24iLDJdLFszLDIsIlxcc2ltIl1d&embed" width="200" height="200" style="border-radius: 8px; border: none;"></iframe>
 - By the Claim, a diagonal approximation exists, and is unique up to homotopy.
-- The cup product is defined as the composition
-- $$\operatorname{Hom}_G(P_\bullet,k) \otimes_k \operatorname{Hom}_G(P_\bullet,k) \longrightarrow \operatorname{Hom}_G(P_\bullet\otimes P_\bullet,k) \xrightarrow{\Delta^*} \operatorname{Hom}_G(P_\bullet,k)$$
+- The cup product for cochains is defined as the composition
+- $$\operatorname{Hom}_G^\bullet(P_\bullet,k) \otimes_k \operatorname{Hom}_G^\bullet(P_\bullet,k) \longrightarrow \operatorname{Hom}_G^\bullet(P_\bullet\otimes P_\bullet,k) \xrightarrow{\Delta^*} \operatorname{Hom}_G^\bullet(P_\bullet,k)$$
 -
 - ## Explicit form for the standard resolution
 -
