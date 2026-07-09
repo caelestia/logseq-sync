@@ -32,4 +32,5 @@
 	- Proof. The total complex $P_\bullet\otimes Q_\bullet$ is a free resolution of the trivial $G\times H$-module $k$. By the observation above, this commutes with taking $\operatorname{Hom}_{\heartsuit}(\cdot,k)$, $\heartsuit=G,H,G\times H$.
 	- The result then follows from the algebraic Kunneth theorem. The PID condition guarantees that submodules of $\operatorname{Hom}_G(P_n,k)=k^{\operatorname{rank}(P_n)}$ are flat, which is required for Kunneth to hold.
 	- QED
+- ## Back to the cup product
 -
