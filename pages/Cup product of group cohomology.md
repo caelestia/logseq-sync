@@ -15,7 +15,7 @@
 - ## Note
 - In the following we will define the *cup product* and *cross product* structures. This requires a $k$-algebra structure on $M$, given by $\mu:M\otimes M\to M$.
 - For ease of notation, let's fix $M=k$.
-- # Construction 1: restriction
+- # Construction 1: Restriction
 - Let $P$ (resp. $Q$) be $G$- (resp. $H$-) modules. We have a natural product induced by $\mu$.
 - $$\mu_{P,Q}:\operatorname{Hom}_G(P,k) \otimes_k \operatorname{Hom}_H(Q,k) \longrightarrow \operatorname{Hom}_{G\times H}(P\otimes_kQ,k)$$
 - $$\phi\otimes\psi \longmapsto \mu\circ(\phi\otimes\psi)$$
@@ -35,7 +35,7 @@
 - ## Back to the cup product
 - We construct the cup product from the cross product $\times$ alone.
 - Consider the diagonal homomorphism $\delta:G\to G\times G$, $g\mapsto (g,g)$. The *cup product* is defined as the composition
-- $$H^p(G;k) \otimes_k H^q(G;k) \xrightarrow{\times} H^{p+q}(G\times G;k) \xrightarrow{\operatorname{Res}_\delta} H^{p+q}(G;k)$$
+- $$H^p(G;k) \otimes_k H^q(G;k) \xrightarrow{\times} H^{p+q}(G\times G;k) \xrightarrow{\delta^*} H^{p+q}(G;k)$$
 	- Completely analogous to the cup product in singular cohomology. In fact, group cohomology is the singular cohomology of $BG$ the classifying space, and $\delta:BG\to B(G\times G)=BG\times BG$ is the diagonal map.
 - # Construction 2: Yoneda product
 - This construction comes from the derived category.
@@ -52,7 +52,7 @@
 - ## Cross product
 - Since this time the cup product is constructed first, we take a moment to explain how to obtain the cross product from it.
 - Let $G$, $H$ be groups. Let $\pi_1:G\times H\to G$ and $\pi_2:G\times H\to H$ be the projections.
-- The cross product is given by
+- The cross product is given by the composition
 - # Construction 3: Diagonal approximation
 -
-- # Equivalence
+- # Equivalence of constructions
