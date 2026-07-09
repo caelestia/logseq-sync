@@ -49,7 +49,10 @@
 - That is, a cohomology class $[c]$ is the same as a homotopy class of some chain map $\tilde c:P_\bullet\to P_\bullet[n]$ which lifts a cochain $c:P_\bullet \to k[n]$ representing the class.
 	- A systematic method of computing this lift is via the "diagonal approximation" which will be explained subsequently.
 - As before, the cup product can be constructed as the "splicing", but with the advantage of being given by composition of actual chain maps.
--
+- ## Cross product
+- Since this time the cup product is constructed first, we take a moment to explain how to obtain the cross product from it.
+- Let $G$, $H$ be groups. Let $\pi_1:G\times H\to G$ and $\pi_2:G\times H\to H$ be the projections.
+- The cross product is given by
 - # Construction 3: Diagonal approximation
 -
 - # Equivalence
