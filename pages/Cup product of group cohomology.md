@@ -39,4 +39,4 @@
 	- Completely analogous to the cup product in singular cohomology. In fact, group cohomology is the singular cohomology of $BG$ the classifying space, and $\delta:BG\to B(G\times G)=BG\times BG$ is the diagonal map.
 - # Construction 2: Yoneda product
 - This construction comes from the derived category.
-- By a
+- By a standard result, $\operatorname{Ext}^n_{k[G]}(k,k)$
