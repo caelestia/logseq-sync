@@ -23,5 +23,5 @@
 - If $P_\bullet\to k$ and $Q_\bullet\to k$ are resolutions, this gives a morphism of double complexes. This induces the *cross product*:
 - $$\times: H^p(G;k) \otimes_k H^q(H;k) \longrightarrow H^{p+q}(G\times H;k)$$
 - ## Kunneth formula
-- ObservationIf $P$ is a finite rank free $k[G]$-module, then $\mu_{P_n,Q}$ is an isomorphism.
-	- It suffices to
+- **Observation**. If $P$ is a finite rank free $k[G]$-module, then $\mu_{P,Q}$ is an isomorphism.
+	- Proof. It suffices to consider $P=k[G]$. LHS is $\operatorname{Hom}_H(Q,k)$, and RHS is $\operatorname{Hom}_{G\times H}(P\)
