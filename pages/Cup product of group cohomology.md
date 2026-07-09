@@ -46,7 +46,6 @@
 - ## Construction 2': Using a concrete resolution
 - If $P_\bullet\to k$ is a projective resolution, then we have
 - $$H^n(G;k)=\operatorname{Hom}_{\mathsf{D}(G)}(k,k[n])=\operatorname{Hom}_{\mathsf{D}(G)}(P,P[n])=\operatorname{Hom}_{\mathsf{K}(G)}(P,P[n])$$
-- That is, a cohomology class is the same as a homotopy class of some chain map $P_\bullet\to P_\bullet[n]$ which lifts a cochain $P_\bullet \to k[n]$ representing the class.
--
+- That is, a cohomology class $[c]$ is the same as a homotopy class of some chain map $\tilde c:P_\bullet\to P_\bullet[n]$ which lifts a cochain $c:P_\bullet \to k[n]$ representing the class.
 - # Construction 3
 -
