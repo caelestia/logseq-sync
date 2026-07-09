@@ -38,4 +38,5 @@
 - $$H^p(G;k) \otimes_k H^q(G;k) \xrightarrow{\times} H^{p+q}(G\times G;k) \xrightarrow{\operatorname{Res}_\delta} H^{p+q}(G;k)$$
 	- Completely analogous to the cup product in singular cohomology. In fact, group cohomology is the singular cohomology of $BG$ the classifying space, and $\delta:BG\to B(G\times G)=BG\times BG$ is the diagonal map.
 - # Construction 2: Yoneda product
--
+- This construction comes from the derived category.
+- By a
