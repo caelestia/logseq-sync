@@ -77,7 +77,7 @@
   <iframe class="quiver-embed quiver" src="https://q.uiver.app/#q=WzAsNCxbMCwwLCJQX1xcYnVsbGV0Il0sWzEsMCwiUF9cXGJ1bGxldFxcb3RpbWVzIFBfXFxidWxsZXQiXSxbMSwxLCJrXFxvdGltZXMgayJdLFswLDEsImsiXSxbMCwxLCJcXERlbHRhIiwwLHsic3R5bGUiOnsiYm9keSI6eyJuYW1lIjoiZGFzaGVkIn19fV0sWzEsMiwiXFxlcHNpbG9uXFxvdGltZXNcXGVwc2lsb24iXSxbMCwzLCJcXGVwc2lsb24iLDJdLFszLDIsIlxcc2ltIl1d&embed" width="200" height="200" style="border-radius: 8px; border: none;"></iframe>
 - By the Claim, a diagonal approximation exists, and is unique up to homotopy.
 - The cup product is defined as the composition
-- $$\operatorname{Hom}_G(P_\bullet,k) \otimes_k H^q(G;k) \xrightarrow{\times} H^{p+q}(G\times G;k) \xrightarrow{\delta^*} H^{p+q}(G;k)$$
+- $$\operatorname{Hom}_G(P_\bullet,k) \otimes_k \operatorname{Hom}(P_\bullet,k) \xrightarrow{\mu} \operatorname{Hom}(G\times G;k) \xrightarrow{\delta^*} H^{p+q}(G;k)$$
 - ## Explicit form for the standard resolution
 - # Equivalence of constructions
 -
