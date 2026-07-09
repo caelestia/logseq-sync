@@ -58,5 +58,6 @@
 - This method allows us to build the cup product on *chain level*, capturing more information.
 - Let $P_\bullet\xrightarrow{\epsilon} k$ be a free resolution of $k$ in $G$-Mod.
 	- In the following, tensor product of (chain) complexes always means the total complex.
-- **Claim.** The tensor product $P_\bullet\otimes_kP_\bullet \xrightarrow{\epsilon\otimes\epsilon} k\otimes_k k \simeq k$ is a free resolution of $G$-modules.
+- **Claim.** The tensor product $P_\bullet\otimes_kP_\bullet \xrightarrow{\epsilon\otimes\epsilon} k\otimes_k k \simeq k$ is a free resolution of $G$-modules, where every term of $L_\bullet\otimes_kL_\bullet$ .
+-
 - # Equivalence of constructions
