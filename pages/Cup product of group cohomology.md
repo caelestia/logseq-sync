@@ -70,5 +70,6 @@
 	- By the Lemma, we have a sequence of homotopy equivalences
 	- $$P_\bullet \otimes_k P_\bullet \longrightarrow P_\bullet \otimes_k k \longrightarrow k\otimes_k k$$
 	- Thus $\epsilon\otimes\epsilon$ is a quasi-isomorphism.
-	- It remains to check that every element
+	- We need to check that every term is a free $k[G]$-module. It suffices to see that $k[G]\otimes_kk[G]=k[G\times G]$, given the diagonal $G$-action, has a basis. But this is exactly the bar construction for $L_1$!
+	- QED
 - # Equivalence of constructions
