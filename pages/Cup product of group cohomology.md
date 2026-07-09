@@ -1,2 +1,3 @@
-- Let $G$ be a group. Fix the commutative ring $k$ throughout. A
-- If $M$ is a $G$-module, the group cohomology
+- Let $G$ be a group. Fix the commutative ring $k$ throughout, and all $G$-modules are over $k[G]$.
+- If $M$ is a $G$-module, the *group cohomology* $H^\bullet(G;M)$ is the derived functor of $(\cdot)^G:k[G]\text{--Mod}\to k\text{--Mod}$.
+- Since
