@@ -45,5 +45,6 @@
 - # Construction 2'
 - If $P_\bullet\to k$ is a projective resolution, then we have
 - $$H^n(G;k)=\operatorname{Hom}_{\mathsf{D}(G)}(k,k[n])=\operatorname{Hom}_{\mathsf{D}(G)}(P,P[n])=\operatorname{Hom}_{\mathsf{K}(G)}(P,P[n])$$
-- That is, a cohomology class is
+- That is, a cohomology class is a homotopy class of a lifting $P_\bullet\to P[n]$.
 - # Construction 3
+-
