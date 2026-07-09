@@ -58,7 +58,8 @@
 - This method allows us to build the cup product on *chain level*, capturing more information.
 - Let $P_\bullet\xrightarrow{\epsilon} k$ be a free resolution in $G$-Mod.
 	- In the following, tensor product of (chain) complexes always means the total complex.
-- **Claim.** The tensor product $P_\bullet\otimes_kP_\bullet \xrightarrow{\epsilon\otimes\epsilon} k\otimes_k k \simeq k$ is a free resolution of $G$-modules, where $L_\bullet\otimes_kL_\bullet$ is given the diagonal action.
+- **Claim.** The tensor product $P_\bullet\otimes_kP_\bullet \xrightarrow{\epsilon\otimes\epsilon} k\otimes_k k \simeq k$ is a free resolution of $G$-modules, where $P_\bullet\otimes_kP_\bullet$ is given the diagonal action.
 	- Proof. Since $P_\bullet$ is a bounded below chain complex of projectives, the quasi-isomorphism $P_\bullet \xrightarrow{\epsilon} k$ is a homotopy equivalence.
-	- Now, observe that the tensor product preserves chain homotopies. This is because a
+	- Now, observe that the tensor product preserves chain homotopies. This is because a chain homotopy $f\simeq_h g:X_\bullet \to Y_\bullet$ is a chain homomorphism
+	  $$H : X_\bullet \otimes I_\bullet \to $$
 - # Equivalence of constructions
