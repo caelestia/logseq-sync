@@ -8,7 +8,9 @@
 	- As a $k[G]$-module with the diagonal action, $L_n$ has a basis of $G^n$. The basic elements are written as $(g_1|g_2|\cdots|g_n)\in G^n$. This is the *bar construction*.
 	- The correspondence is $(g_1|\cdots|g_n) \mapsto (1_G,g_{[1,1]},g_{[1,2]},\cdots,g_{[1,n]})$.
 - ## Other resolutions
-- We sometimes use other resolutions. For example, for $G=\Z$, the
+- We sometimes use other resolutions. For example, for $G=\Z$, the standard resolution is infinitely generated, but it has a much better resolution
+- $$0 \longrightarrow k[X^{\pm1}] \xrightarrow{X-1} k[X^{\pm1}] \longrightarrow 0$$
+-
 - ## Note
 - In the following we will define the *cup product* and *cross product* structures. This requires a $k$-algebra structure on $M$, given by $\mu:M\otimes M\to M$.
 - For ease of notation, let's fix $M=k$.
