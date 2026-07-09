@@ -55,5 +55,6 @@
 - The cross product is given by
 - $$\begin{align*} H^p(G;k)\otimes H^q(H;k) &\longrightarrow H^{p+q}(G\times H;k) \\ \alpha\otimes\beta\hspace{3.2em} &\longmapsto \pi_1^*(\alpha)\cup\pi_2^*(\beta) \end{align*}$$
 - # Construction 3: Diagonal approximation
-- This method allows us to build the cup product on *chain level* which contains more information than
+- This method allows us to build the cup product on *chain level*, capturing more information.
+-
 - # Equivalence of constructions
