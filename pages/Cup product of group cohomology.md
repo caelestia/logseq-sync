@@ -62,6 +62,7 @@
 	- Proof. Since $P_\bullet$ is a bounded below chain complex of projectives, the quasi-isomorphism $P_\bullet \xrightarrow{\epsilon} k$ is a homotopy equivalence.
 	- Now, observe that the tensor product preserves chain homotopies. This is because a chain homotopy $f\simeq_h g:X_\bullet \to Y_\bullet$ is a chain homomorphism
 	- $$H : X_\bullet \otimes_k I_\bullet \longrightarrow Y_\bullet,\quad \text{s.t. } H|_0=f,\ H|_1=g. $$
-	- Given another chain complex $Z_\bullet$, using the braided monoidal structure on $\mathsf{Ch}(k\text{--Mod})$, we obtain
-	- $$X_\bullet\otimes Z_\bullet\otimes I_\bullet \simeq X_\bullet\otimes I_\bullet\otimes Y_\bullet \to $$
+	- Given another chain complex $Z_\bullet$, using the braided monoidal structure on $\mathsf{Ch}(k\text{--Mod})$, we have a chain homotopy from $f\otimes_kZ_\bullet$ to $g\otimes_kZ_\bullet$, given by
+	- $$(X_\bullet\otimes Z_\bullet)\otimes I_\bullet \simeq (X_\bullet\otimes I_\bullet)\otimes Z_\bullet \xrightarrow{H\otimes Z_\bullet} Y_\bullet\otimes Z_\bullet$$
+	- Hence
 - # Equivalence of constructions
