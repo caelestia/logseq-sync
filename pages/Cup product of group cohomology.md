@@ -57,5 +57,6 @@
 - # Construction 3: Diagonal approximation
 - This method allows us to build the cup product on *chain level*, capturing more information.
 - Let $P_\bullet\xrightarrow{\epsilon} k$ be a free resolution of $k$.
-- **Claim.** The tensor product ()
+	- In the following, tensor product of (chain) complexes always means the total complex.
+- **Claim.** The tensor product $P_\bullet\otimes_kP_\bullet \xrightarrow{\epsilon\otimes\epsilon} k\otimes_k k \simeq k$ is a
 - # Equivalence of constructions
