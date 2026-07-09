@@ -19,4 +19,4 @@
 - Let $P$ and $Q$ be $k$-modules. We have a natural product induced by $\mu$,
 - $$\operatorname{Hom}_G(P,k) \otimes_k \operatorname{Hom}_G(Q,k) \longrightarrow \operatorname{Hom}_G(P\otimes_kQ,k)$$
 - $$\phi\otimes\psi \longmapsto \mu\circ(\phi\otimes\psi)$$
-- In other words,
+- This way, $\operatorname{Hom}_G(\cdot,k)$ made a
