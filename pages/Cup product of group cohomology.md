@@ -52,7 +52,8 @@
 - ## Cross product
 - Since this time the cup product is constructed first, we take a moment to explain how to obtain the cross product from it.
 - Let $G$, $H$ be groups. Let $\pi_1:G\times H\to G$ and $\pi_2:G\times H\to H$ be the projections.
-- The cross product is given by the composition
+- The cross product is given by
+- $$\begin{align*} H^p(G;k)\otimes H^q(H;k) &\longrightarrow H^{p+q}(G\times H;k) \\ [c]\otimes[d] &\longmapsto \pi_1^*([c])\cup\pi_\end{align*}$$
 - # Construction 3: Diagonal approximation
 -
 - # Equivalence of constructions
