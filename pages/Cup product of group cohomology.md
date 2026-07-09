@@ -60,4 +60,5 @@
 	- In the following, tensor product of (chain) complexes always means the total complex.
 - **Claim.** The tensor product $P_\bullet\otimes_kP_\bullet \xrightarrow{\epsilon\otimes\epsilon} k\otimes_k k \simeq k$ is a free resolution of $G$-modules, where $L_\bullet\otimes_kL_\bullet$ is given the diagonal action.
 	- Proof. Since $P_\bullet$ is a bounded below chain complex of projectives, the quasi-isomorphism $P_\bullet \xrightarrow{\epsilon} k$ is a homotopy equivalence.
+	- Now, observe that the tensor product preserves chain homotopies. This is because a
 - # Equivalence of constructions
