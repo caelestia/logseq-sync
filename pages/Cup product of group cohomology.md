@@ -9,8 +9,9 @@
 	- The correspondence is $(g_1|\cdots|g_n) \mapsto (1_G,g_{[1,1]},g_{[1,2]},\cdots,g_{[1,n]})$.
 - ## Other resolutions
 - We sometimes use other resolutions. For example, for $G=\Z$, the standard resolution is infinitely generated, but it has a much better resolution
-- $$0 \longrightarrow k[X^{\pm1}] \xrightarrow{X-1} k[X^{\pm1}] \longrightarrow 0$$
--
+- $$0 \longrightarrow k[X^{\pm1}] \xrightarrow{X-1} k[X^{\pm1}] \xrightarrow{\epsilon} k \longrightarrow 0$$
+- We denote the other resolutions by $P_\bullet\xrightarrow{\epsilon}k$.
+- Note: by property of projective resolution, any two resolutions will be chain homotopy equivalent.
 - ## Note
 - In the following we will define the *cup product* and *cross product* structures. This requires a $k$-algebra structure on $M$, given by $\mu:M\otimes M\to M$.
 - For ease of notation, let's fix $M=k$.
