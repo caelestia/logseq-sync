@@ -16,8 +16,9 @@
 - In the following we will define the *cup product* and *cross product* structures. This requires a $k$-algebra structure on $M$, given by $\mu:M\otimes M\to M$.
 - For ease of notation, let's fix $M=k$.
 - # Construction 1: restriction
-- Let $P$ (resp. $Q$) be $G$- (resp. $H$-) modules. We have a natural product induced by $\mu$,
+- Let $P$ (resp. $Q$) be $G$- (resp. $H$-) modules. We have a natural product induced by $\mu$.
 - $$\operatorname{Hom}_G(P,k) \otimes_k \operatorname{Hom}_H(Q,k) \longrightarrow \operatorname{Hom}_{G\times H}(P\otimes_kQ,k)$$
 - $$\phi\otimes\psi \longmapsto \mu\circ(\phi\otimes\psi)$$
 - This way, $\operatorname{Hom}_G(\cdot,k)$ is turned into a lax monoidal functor.
--
+- If $P_\bullet\to k$ and $Q_\bullet\to k$ are resolutions, this gives a morphism of double complexes. This induces the *cross product*:
+- $$\times: $$
