@@ -24,4 +24,5 @@
 - $$\times: H^p(G;k) \otimes_k H^q(H;k) \longrightarrow H^{p+q}(G\times H;k)$$
 - ## Kunneth formula
 - **Observation**. If $P$ is a finite rank free $k[G]$-module, then $\mu_{P,Q}$ is an isomorphism.
-	- Proof. It suffices to consider $P=k[G]$. LHS is $\operatorname{Hom}_H(Q,k)$, and RHS is $\operatorname{Hom}_{G\times H}(P\)
+	- Proof. It suffices to consider $P=k[G]$. LHS is $\operatorname{Hom}_H(Q,k)$. RHS is $\operatorname{Hom}_{G\times H}(k[G]\otimes_kQ,k)$.
+	- Now, notice that a $G$-invariant map $k[G]\otimes_kQ\longrightarrow k$ must factor through $k[G]\otimes_kQ\xrightarrow{\epsilon\otimes\mathrm{id}}k\otimes_kQ=Q$.
