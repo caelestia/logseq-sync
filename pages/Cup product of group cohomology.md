@@ -72,6 +72,8 @@
 	- Thus $\epsilon\otimes\epsilon$ is a quasi-isomorphism.
 	- We need to check that every term is a free $k[G]$-module. It suffices to see that $k[G]\otimes_kk[G]=k[G\times G]$, given the diagonal $G$-action, has a basis. This is exactly the bar construction for $L_1$!
 	- QED
+- **Definition**. A *diagonal approximation* for $P_\bullet$ is a chain homomorphism $\Delta$ such that the following square commutes.
 -
+- ## Explicit form for the standard resolution
 - # Equivalence of constructions
 -
