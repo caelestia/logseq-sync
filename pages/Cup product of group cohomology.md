@@ -78,7 +78,6 @@
 - By the Claim, a diagonal approximation exists, and is unique up to homotopy.
 - The cup product is defined as the composition
 - $$\operatorname{Hom}_G(P_\bullet,k) \otimes_k \operatorname{Hom}_G(P_\bullet,k) \longrightarrow \operatorname{Hom}_G(P_\bullet\otimes P_\bullet,k) \xrightarrow{\Delta^*} \operatorname{Hom}_G(P_\bullet,k)$$
--
 - ## Explicit form for the standard resolution
 -
 - # Equivalence of constructions
