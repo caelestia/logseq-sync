@@ -56,7 +56,7 @@
 - $$\begin{align*} H^p(G;k)\otimes H^q(H;k) &\longrightarrow H^{p+q}(G\times H;k) \\ \alpha\otimes\beta\hspace{3.2em} &\longmapsto \pi_1^*(\alpha)\cup\pi_2^*(\beta) \end{align*}$$
 - # Construction 3: Diagonal approximation
 - This method allows us to build the cup product on *chain level*, capturing more information.
-- Let $P_\bullet\xrightarrow{\epsilon} k$ be a free resolution of $k$.
+- Let $P_\bullet\xrightarrow{\epsilon} k$ be a free resolution of $k$ in $G$-Mod.
 	- In the following, tensor product of (chain) complexes always means the total complex.
-- **Claim.** The tensor product $P_\bullet\otimes_kP_\bullet \xrightarrow{\epsilon\otimes\epsilon} k\otimes_k k \simeq k$ is a
+- **Claim.** The tensor product $P_\bullet\otimes_kP_\bullet \xrightarrow{\epsilon\otimes\epsilon} k\otimes_k k \simeq k$ is a free resolution of $G$-modules.
 - # Equivalence of constructions
