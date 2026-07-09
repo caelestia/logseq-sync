@@ -39,8 +39,9 @@
 	- Completely analogous to the cup product in singular cohomology. In fact, group cohomology is the singular cohomology of $BG$ the classifying space, and $\delta:BG\to B(G\times G)=BG\times BG$ is the diagonal map.
 - # Construction 2: Yoneda product
 - This construction comes from the derived category.
-- By a standard result, $\operatorname{Ext}^n_{k[G]}(k,k)=\operatorname{Hom}_{\mathsf{D}(G)}(k,k[n])$.
--
+- By a standard result, $H^n(G;k)=\operatorname{Ext}^n_{k[G]}(k,k)=\operatorname{Hom}_{\mathsf{D}(G)}(k,k[n])$.
+- This has an evident product structure, given by
+- $$\begin{align*}\operatorname{Hom}_{\mathsf{D}(G)}(k,k[p])\otimes\operatorname{Hom}_{\mathsf{D}(G)}(k,k[q])=\operatorname{Hom}_{\mathsf{D}(G)}(k,k[p])\otimes\operatorname{Hom}_{\mathsf{D}(G)}(k[p],k[p+q])\longrightarrow\operatorname{Hom}_{\mathsf{D}(G)}(k,k[p+q])$$
 - # Construction 2'
 - If $P_\bullet\to k$ is a projective resolution, then we have
 - $$H^n(G;k)=\operatorname{Hom}_{\mathsf{D}(G)}(k,k[n])=\operatorname{Hom}_{\mathsf{D}(G)}(P,P[n])=\operatorname{Hom}_{\mathsf{K}(G)}(P,P[n])$$
