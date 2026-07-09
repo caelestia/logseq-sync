@@ -5,5 +5,6 @@
 - Hence, to compute the group cohomology, we often use the following "standard resolution"
   $$L_\bullet \xrightarrow{\epsilon} k$$
 	- Each $L_{n}$ is a free $k$-module on the basis $G^{n+1}$, whose elements are the *homogeneous chains*.
-	- As a $k[G]$-module with the diagonal action, $L_n$ has a basis of $G^n$. Its elements are called *homogenous chains* $(g_1|g_2|\cdots|g_n)$. This is the *bar construction*.
+	- As a $k[G]$-module with the diagonal action, $L_n$ has a basis of $G^n$. The basic elements are written as $(g_1|g_2|\cdots|g_n)\in G^n$. This is the *bar construction*.
+	- The correspondence is $(g_1|\cdots|g_n) \mapsto (1_G,g_{[1,1]},g_{[1,2]},\cdots,g_{[1,n]})$.
 -
