@@ -41,7 +41,7 @@
 - This construction comes from the derived category.
 - By a standard result, $H^n(G;k)=\operatorname{Ext}^n_{k[G]}(k,k)=\operatorname{Hom}_{\mathsf{D}(G)}(k,k[n])$.
 - This has an evident product structure, given by
-- $$\begin{align*}\operatorname{Hom}_{\mathsf{D}(G)}(k,k[p])\otimes\operatorname{Hom}_{\mathsf{D}(G)}(k,k[q])=\operatorname{Hom}_{\mathsf{D}(G)}(k,k[p])\otimes\operatorname{Hom}_{\mathsf{D}(G)}(k[p],k[p+q])\longrightarrow\operatorname{Hom}_{\mathsf{D}(G)}(k,k[p+q])$$
+- $$\begin{align*}&\operatorname{Hom}_{\mathsf{D}(G)}(k,k[p])\otimes\operatorname{Hom}_{\mathsf{D}(G)}(k,k[q]) \\ &\simeq\operatorname{Hom}_{\mathsf{D}(G)}(k[q],k[p+q])\otimes\operatorname{Hom}_{\mathsf{D}(G)}(k,k[q])\\&\longrightarrow \operatorname{Hom}_{\mathsf{D}(G)}(k,k[p+q])\end{align*}$$
 - # Construction 2'
 - If $P_\bullet\to k$ is a projective resolution, then we have
 - $$H^n(G;k)=\operatorname{Hom}_{\mathsf{D}(G)}(k,k[n])=\operatorname{Hom}_{\mathsf{D}(G)}(P,P[n])=\operatorname{Hom}_{\mathsf{K}(G)}(P,P[n])$$
