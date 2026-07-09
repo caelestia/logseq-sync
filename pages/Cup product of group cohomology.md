@@ -8,7 +8,7 @@
 	- As a $k[G]$-module with the diagonal action, $L_n$ has basis $G^n$. The basic elements are written as $(g_1|g_2|\cdots|g_n)\in G^n$. This is the *bar construction*.
 	- The correspondence is $(g_1|\cdots|g_n) \mapsto (1_G,g_{[1,1]},g_{[1,2]},\cdots,g_{[1,n]})$.
 - ## Other resolutions
-- We sometimes use other resolutions. For example, for $G=\Z$, the standard resolution is infinitely generated, but it has a much better resolution
+- We sometimes use other resolutions. For example, for $G=\Z$, the standard resolution is infinitely generated, but it has a much better free resolution
 - $$0 \longrightarrow k[X^{\pm1}] \xrightarrow{X-1} k[X^{\pm1}] \xrightarrow{\epsilon} k \longrightarrow 0$$
 - We denote the other resolutions by $P_\bullet\xrightarrow{\epsilon}k$.
 - Note: by property of projective resolution, any two resolutions will be chain homotopy equivalent.
@@ -56,8 +56,8 @@
 - $$\begin{align*} H^p(G;k)\otimes H^q(H;k) &\longrightarrow H^{p+q}(G\times H;k) \\ \alpha\otimes\beta\hspace{3.2em} &\longmapsto \pi_1^*(\alpha)\cup\pi_2^*(\beta) \end{align*}$$
 - # Construction 3: Diagonal approximation
 - This method allows us to build the cup product on *chain level*, capturing more information.
-- Let $P_\bullet\xrightarrow{\epsilon} k$ be a free resolution of $k$ in $G$-Mod.
+- Let $P_\bullet\xrightarrow{\epsilon} k$ be a free resolution in $G$-Mod.
 	- In the following, tensor product of (chain) complexes always means the total complex.
-- **Claim.** The tensor product $P_\bullet\otimes_kP_\bullet \xrightarrow{\epsilon\otimes\epsilon} k\otimes_k k \simeq k$ is a free resolution of $G$-modules, where every term of $L_\bullet\otimes_kL_\bullet$ .
--
+- **Claim.** The tensor product $P_\bullet\otimes_kP_\bullet \xrightarrow{\epsilon\otimes\epsilon} k\otimes_k k \simeq k$ is a free resolution of $G$-modules, where $L_\bullet\otimes_kL_\bullet$ is given the diagonal action.
+	- Proof.
 - # Equivalence of constructions
