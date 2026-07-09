@@ -56,5 +56,5 @@
 - $$\begin{align*} H^p(G;k)\otimes H^q(H;k) &\longrightarrow H^{p+q}(G\times H;k) \\ \alpha\otimes\beta\hspace{3.2em} &\longmapsto \pi_1^*(\alpha)\cup\pi_2^*(\beta) \end{align*}$$
 - # Construction 3: Diagonal approximation
 - This method allows us to build the cup product on *chain level*, capturing more information.
-- Let $P_\bullet\to k$ be a
+- Let $P_\bullet\xrightarrow{\epsilon} k$ be a free resolution of $k$.
 - # Equivalence of constructions
