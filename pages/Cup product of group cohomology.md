@@ -48,6 +48,6 @@
 - $$H^n(G;k)=\operatorname{Hom}_{\mathsf{D}(G)}(k,k[n])=\operatorname{Hom}_{\mathsf{D}(G)}(P,P[n])=\operatorname{Hom}_{\mathsf{K}(G)}(P,P[n])$$
 - That is, a cohomology class $[c]$ is the same as a homotopy class of some chain map $\tilde c:P_\bullet\to P_\bullet[n]$ which lifts a cochain $c:P_\bullet \to k[n]$ representing the class.
 	- A method of computing this lift will be
-- As before, the cup product can be constructed as the
+- As before, the cup product can be constructed as the "splicing", but with the advantage of being given by composition of actual chain maps.
 - # Construction 3
 -
