@@ -43,7 +43,7 @@
 - This has an evident product structure, given by
 - $$\begin{align*}&\operatorname{Hom}_{\mathsf{D}(G)}(k,k[p])\otimes\operatorname{Hom}_{\mathsf{D}(G)}(k,k[q]) \\ &\simeq\operatorname{Hom}_{\mathsf{D}(G)}(k[q],k[p+q])\otimes\operatorname{Hom}_{\mathsf{D}(G)}(k,k[q])\\&\longrightarrow \operatorname{Hom}_{\mathsf{D}(G)}(k,k[p+q])\end{align*}$$
 - This is the cup product.
-- # Construction 2'
+- ## Construction 2': Using a concrete resolution
 - If $P_\bullet\to k$ is a projective resolution, then we have
 - $$H^n(G;k)=\operatorname{Hom}_{\mathsf{D}(G)}(k,k[n])=\operatorname{Hom}_{\mathsf{D}(G)}(P,P[n])=\operatorname{Hom}_{\mathsf{K}(G)}(P,P[n])$$
 - That is, a cohomology class is the same as a homotopy class of some chain map $P_\bullet\to P_\bullet[n]$, which lifts every cochain $P_\bullet \to k[n]$ representing the class.
