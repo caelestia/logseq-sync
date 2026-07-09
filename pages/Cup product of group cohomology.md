@@ -30,6 +30,6 @@
 - **Theorem** (Kunneth for group cohomology). Suppose every $P_n$ is a finite rank free $k[G]$-module. Also suppose $k$ is a PID. Then we have the following SES.
 - $$0 \to \bigoplus_{p+q=n}H^p(G;k)\otimes H^q(H;k) \xrightarrow{\times} H^{n}(G\times H;k) \to \bigoplus_{p+q=n+1}\operatorname{Tor}_1^k(H^p(G;k),H^q(H;k)) \to 0$$
 	- Proof. The total complex $P_\bullet\otimes Q_\bullet$ is a free resolution of the trivial $G\times H$-module $k$. By the observation above, this commutes with taking $\operatorname{Hom}_{\heartsuit}(\cdot,k)$, $\heartsuit=G,H,G\times H$.
-	- The result then follows from the algebraic Kunneth theorem.
+	- The result then follows from the algebraic Kunneth theorem. The PID condition guarantees that submodules of $\operatorname{Hom}_G(P_n,k)=k^{\operatorname{rank}(P_n)}$ are flat, which is required for Kunneth to hold.
 	- QED
 -
