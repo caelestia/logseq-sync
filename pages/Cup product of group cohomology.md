@@ -33,4 +33,5 @@
 	- The result then follows from the algebraic Kunneth theorem. The PID condition guarantees that submodules of $\operatorname{Hom}_G(P_n,k)=k^{\operatorname{rank}(P_n)}$ are flat, which is required for Kunneth to hold.
 	- QED
 - ## Back to the cup product
--
+- We construct the cup product from the cross product $\times$ alone.
+- Consider the diagonal homomorphism $\delta:G\to G\times G$
