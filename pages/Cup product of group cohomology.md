@@ -57,4 +57,5 @@
 - # Construction 3: Diagonal approximation
 - This method allows us to build the cup product on *chain level*, capturing more information.
 - Let $P_\bullet\xrightarrow{\epsilon} k$ be a free resolution of $k$.
+- **Claim.** The tensor product ()
 - # Equivalence of constructions
