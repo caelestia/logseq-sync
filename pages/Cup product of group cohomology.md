@@ -21,4 +21,6 @@
 - $$\phi\otimes\psi \longmapsto \mu\circ(\phi\otimes\psi)$$
 - This way, $\operatorname{Hom}_G(\cdot,k)$ is turned into a lax monoidal functor.
 - If $P_\bullet\to k$ and $Q_\bullet\to k$ are resolutions, this gives a morphism of double complexes. This induces the *cross product*:
-- $$\times: $$
+- $$\times: H^p(G;k) \otimes_k H^q(H;k) \longrightarrow H^{p+q}(G\times H;k)$$
+- ## Kunneth formula
+- Suppose that each $P_n$ is a finite rank free module, then
