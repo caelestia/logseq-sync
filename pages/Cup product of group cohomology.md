@@ -28,4 +28,5 @@
 	- Now, notice that a $G$-invariant map $k[G]\otimes_kQ\longrightarrow k$ must factor through $k[G]\otimes_kQ\xrightarrow{\epsilon\otimes\mathrm{id}}k\otimes_kQ=Q$.
 	- QED
 - **Theorem** (Kunneth for group cohomology). Suppose every $P_n$ is a finite rank free $k[G]$-module. Then we have the following SES.
-- $$0 \to \bigoplus_{p+q=n}H^p(G;k)\otimes H$$
+- $$0 \to \bigoplus_{p+q=n}H^p(G;k)\otimes H^q(H;k) \xrightarrow{\times} H^{n}(G\times H;k) \to \bigoplus_{p+q=n+1}\operatorname{Tor}_1^k(H^p(G;k),H^q(H;k)) \to 0$$
+-
