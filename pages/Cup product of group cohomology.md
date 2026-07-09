@@ -14,7 +14,7 @@
 - Note: by property of projective resolution, any two resolutions will be chain homotopy equivalent.
 - ## Note
 - In the following we will define the *cup product* and *cross product* structures. This requires a $k$-algebra structure on $M$, given by $\mu:M\otimes M\to M$.
-- For ease of notation, let's fix $M=k$.
+- For simplicity, let's fix $M=k$.
 - # Construction 1: Restriction
 - Let $P$ (resp. $Q$) be $G$- (resp. $H$-) modules. We have a natural product induced by $\mu$.
 - $$\mu_{P,Q}:\operatorname{Hom}_G(P,k) \otimes_k \operatorname{Hom}_H(Q,k) \longrightarrow \operatorname{Hom}_{G\times H}(P\otimes_kQ,k)$$
@@ -53,7 +53,7 @@
 - Since this time the cup product is constructed first, we take a moment to explain how to obtain the cross product from it.
 - Let $G$, $H$ be groups. Let $\pi_1:G\times H\to G$ and $\pi_2:G\times H\to H$ be the projections.
 - The cross product is given by
-- $$\begin{align*} H^p(G;k)\otimes H^q(H;k) &\longrightarrow H^{p+q}(G\times H;k) \\ [c]\otimes[d]\hspace{2.9em} &\longmapsto \pi_1^*([c])\cup\pi_2^*([d]) \end{align*}$$
+- $$\begin{align*} H^p(G;k)\otimes H^q(H;k) &\longrightarrow H^{p+q}(G\times H;k) \\ \alpha\otimes\beta\hspace{3.2em} &\longmapsto \pi_1^*(\alpha)\cup\pi_2^*(\beta) \end{align*}$$
 - # Construction 3: Diagonal approximation
 -
 - # Equivalence of constructions
