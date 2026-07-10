@@ -79,7 +79,7 @@
   <iframe class="quiver-embed quiver" src="https://q.uiver.app/#q=WzAsNCxbMCwwLCJQX1xcYnVsbGV0Il0sWzEsMCwiUF9cXGJ1bGxldFxcb3RpbWVzIFBfXFxidWxsZXQiXSxbMSwxLCJrXFxvdGltZXMgayJdLFswLDEsImsiXSxbMCwxLCJcXERlbHRhIiwwLHsic3R5bGUiOnsiYm9keSI6eyJuYW1lIjoiZGFzaGVkIn19fV0sWzEsMiwiXFxlcHNpbG9uXFxvdGltZXNcXGVwc2lsb24iXSxbMCwzLCJcXGVwc2lsb24iLDJdLFszLDIsIlxcc2ltIl1d&embed" width="200" height="200" style="border-radius: 8px; border: none;"></iframe>
 - By the Claim, a diagonal approximation exists, and is unique up to homotopy.
 - The cup product for cochains is defined as the composition
-- $$\operatorname{Hom}_G(P_p,k) \otimes_k \operatorname{Hom}_G(P_q,k) \xrightarrow{\mu_{P_p,P_q}} \operatorname{Hom}_G(P_p\otimes P_q,k) \xrightarrow{\Delta_{p+q}^*} \operatorname{Hom}_G(P_{p+q},k)$$
+- $$\operatorname{Hom}_G(P_p,k) \otimes_k \operatorname{Hom}_G(P_q,k) \xrightarrow{(-1)^{pq}\mu_{P_p,P_q}} \operatorname{Hom}_G(P_p\otimes P_q,k) \xrightarrow{\Delta_{p+q}^*} \operatorname{Hom}_G(P_{p+q},k)$$
 	- This can be written as $\phi\cup\psi = (\psi\otimes\psi) \circ \Delta_{p+q}$.
 - We can then take cohomology, inducing the desired
 - $$\cup:H^p(G;k) \otimes_k H^q(G;k) \longrightarrow H^{p+q}(G;k)$$
@@ -95,7 +95,7 @@
 	- Then the commutativity of the square is very easy since $k$ is concentrated in degree $0$. The left path gives $(g) \mapsto 1 \mapsto 1\otimes 1$, and the right path gives $(g) \mapsto (g)\otimes(g) \mapsto 1\otimes 1$.
 - # Equivalence of constructions
 - ## Construction 1 $\leftrightarrow$ 3
-- These two constructions are essentially saying the same thing. Let's see why this is true.
+- These two constructions are essentially saying the same thing. The difference is that, by only
 - Let $P_\bullet \xrightarrow{\epsilon} k$ be a free resolution.
 - The first step is exactly the same: we take the $\phi\otimes\psi\mapsto\mu\circ(\phi\otimes\psi)$ map,
 - $$$$
