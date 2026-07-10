@@ -14,4 +14,6 @@
   &=: S_1 + S_2 
   \end{align*}$$
 - ## RHS
--
+- $$\begin{align*}
+  \text{RHS} &= []
+  \end{align*}$$
