@@ -3,8 +3,8 @@
 - $$(g_0,\cdots,g_n) \longmapsto ((g_0,\cdots,g_p)\otimes(g_p,\cdots,g_n))_{p=0}^n$$
 - Also recall that $\partial_n(g_0,\cdots,g_n)=\sum_{i=0}^n(-1)^i(g_0,\cdots,\hat{g_i},\cdots,g_n)$
 - ## Goal
-	- We will check that $\Delta_\bullet$ is a chain homomorphism $L_\bullet \to L_\bullet \otimes L_\bullet$.
-		- The tensor product is the total complex, following the Koszul sign rule.
-	-
--
+- We will check that $\Delta_\bullet$ is a chain homomorphism $L_\bullet \to L_\bullet \otimes L_\bullet$.
+	- The tensor product is the total complex, following the Koszul sign rule.
+- More precisely, we want to show the following equation.
+- $$[\Delta_{n-1}\partial_n(g_0,\cdots,g_n)]_j = [\partial_n\Delta_n(g_0,\cdots,g_n)]_j \;\;\in L_j\otimes L_{n-1-j}$$
 -
