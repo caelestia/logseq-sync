@@ -72,12 +72,12 @@
 	- Thus $\epsilon\otimes\epsilon$ is a quasi-isomorphism.
 	- We need to check that every term is a free $k[G]$-module. It suffices to see that $k[G]\otimes_kk[G]=k[G\times G]$, given the diagonal $G$-action, has a basis. This is exactly the bar construction for $L_1$!
 	- QED
-- **Definition**. A *diagonal approximation* for $P_\bullet$ is a chain homomorphism $\Delta$ such that the following square commutes in $G$-Mod.
+- **Definition**. A *diagonal approximation* for $P_\bullet$ is a chain homomorphism $\Delta_\bullet$ such that the following square commutes in $G$-Mod.
 - <!-- https://q.uiver.app/#q=WzAsNCxbMCwwLCJQX1xcYnVsbGV0Il0sWzEsMCwiUF9cXGJ1bGxldFxcb3RpbWVzIFBfXFxidWxsZXQiXSxbMSwxLCJrXFxvdGltZXMgayJdLFswLDEsImsiXSxbMCwxLCJcXERlbHRhIiwwLHsic3R5bGUiOnsiYm9keSI6eyJuYW1lIjoiZGFzaGVkIn19fV0sWzEsMiwiXFxlcHNpbG9uXFxvdGltZXNcXGVwc2lsb24iXSxbMCwzLCJcXGVwc2lsb24iLDJdLFszLDIsIlxcc2ltIl1d -->
   <iframe class="quiver-embed quiver" src="https://q.uiver.app/#q=WzAsNCxbMCwwLCJQX1xcYnVsbGV0Il0sWzEsMCwiUF9cXGJ1bGxldFxcb3RpbWVzIFBfXFxidWxsZXQiXSxbMSwxLCJrXFxvdGltZXMgayJdLFswLDEsImsiXSxbMCwxLCJcXERlbHRhIiwwLHsic3R5bGUiOnsiYm9keSI6eyJuYW1lIjoiZGFzaGVkIn19fV0sWzEsMiwiXFxlcHNpbG9uXFxvdGltZXNcXGVwc2lsb24iXSxbMCwzLCJcXGVwc2lsb24iLDJdLFszLDIsIlxcc2ltIl1d&embed" width="200" height="200" style="border-radius: 8px; border: none;"></iframe>
 - By the Claim, a diagonal approximation exists, and is unique up to homotopy.
 - The cup product for cochains is defined as the composition
-- $$\operatorname{Hom}_G(P_p,k) \otimes_k \operatorname{Hom}_G(P_q,k) \longrightarrow \operatorname{Hom}_G^(P_p\otimes P_q,k) \xrightarrow{\Delta^*} \operatorname{Hom}_G^\bullet(P_\bullet,k)$$
+- $$\operatorname{Hom}_G(P_p,k) \otimes_k \operatorname{Hom}_G(P_q,k) \xrightarrow{\mu_{P_p,P_q}} \operatorname{Hom}_G(P_p\otimes P_q,k) \xrightarrow{\Delta_{p+q}^*} \operatorname{Hom}_G(P_{p+q},k)$$
 -
 - ## Explicit form for the standard resolution
 -
