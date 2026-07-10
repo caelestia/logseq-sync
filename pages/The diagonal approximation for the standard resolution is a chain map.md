@@ -33,4 +33,5 @@
   &= (-1)^j R + S_2
   \end{align*}$$
 	- where $R:=(g_0,\cdots,g_j)\otimes(g_{j+1},\cdots,g_n)$ is an extra term which is cancelled.
-- We conclude that $\text{}
+- We conclude that $\text{LHS}=S_1+S_2=T_1+T_2=\text{RHS}$.
+- ## QED
