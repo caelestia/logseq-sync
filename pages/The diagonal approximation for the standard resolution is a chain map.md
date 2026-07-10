@@ -10,7 +10,8 @@
 - ## LHS
 - $$\begin{align*}
   \text{LHS} &= [\Delta_{n-1}\sum_{i}(-1)^i(g_0,\cdots,\hat{g_i},\cdots,g_n)]_j \\
-  &= \sum_{i\leq j} ()
+  &= \sum_{i\leq j} (g_1,\cdots,\hat{g_i},\cdots,g_{j+1}) \otimes (g_{j+1},\cdots,g_n) + \sum_{i>j} (g_1,\cdots,g_j) \otimes (g_j,\cdots,\hat{g_i},\cdots,g_n) \\
+  &=: S_1 + S_2 
   \end{align*}$$
 - ## RHS
 -
