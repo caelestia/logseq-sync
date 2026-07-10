@@ -10,7 +10,8 @@
 - ## LHS
 - $$\begin{align*}
   \text{LHS} &= [\Delta_{n-1}\sum_{i}(-1)^i(g_0,\cdots,\hat{g_i},\cdots,g_n)]_j \\
-  &= \sum_{i\leq j} (g_1,\cdots,\hat{g_i},\cdots,g_{j+1}) \otimes (g_{j+1},\cdots,g_n) + \sum_{i>j} (g_1,\cdots,g_j) \otimes (g_j,\cdots,\hat{g_i},\cdots,g_n) \\
+  &= \sum_{i\leq j} (-1)^i (g_1,\cdots,\hat{g_i},\cdots,g_{j+1}) \otimes (g_{j+1},\cdots,g_n) \\
+  &+ \sum_{i>j} (-1)^i (g_1,\cdots,g_j) \otimes (g_j,\cdots,\hat{g_i},\cdots,g_n) \\
   &=: S_1 + S_2 
   \end{align*}$$
 - ## RHS
@@ -29,5 +30,7 @@
   \end{align*}$$
 - $$\begin{align*}
   T_2 &= (-1)^j(g_0,\cdots,g_j)\otimes(g_{j+1},\cdots,g_n) + (-1)^j \sum_{i>j} (-1)^{i-j} (g_0,\cdots,g_j)\otimes(g_j,\cdots,\hat{g_i},\cdots,g_n) \\
-  &= (-1)^j R + 
+  &= (-1)^j R + S_2
   \end{align*}$$
+	- where $R:=(g_0,\cdots,g_j)\otimes(g_{j+1},\cdots,g_n)$ is an extra term which is cancelled.
+- We conclude that $\text{}
