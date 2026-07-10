@@ -95,7 +95,7 @@
 	- Then the commutativity of the square is very easy since $k$ is concentrated in degree $0$. The left path gives $(g) \mapsto 1 \mapsto 1\otimes 1$, and the right path gives $(g) \mapsto (g)\otimes(g) \mapsto 1\otimes 1$.
 - # Equivalence of constructions
 - ## Construction 1 $\leftrightarrow$ 3
-- These two constructions are essentially saying the same thing. The difference is that, by only
+- These two constructions are essentially saying the same thing. The difference is that, by only considering cohomology groups, construction 1 is able to avoid the Koszul sign rules etc. to simpl.
 - Let $P_\bullet \xrightarrow{\epsilon} k$ be a free resolution.
 - The first step is exactly the same: we take the $\phi\otimes\psi\mapsto\mu\circ(\phi\otimes\psi)$ map,
 - $$$$
