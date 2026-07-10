@@ -25,5 +25,9 @@
 - Compute these two terms:
 - $$\begin{align*}
   T_1 &= \sum_{i\leq j}(-1)^i(g_0,\cdots,\hat{g_i},\cdots,g_{j+1})\otimes(g_{j+1},\cdots,g_n) + (-1)^{j+1}(g_0,\cdots,g_j)\otimes(g_{j+1},\cdots,g_n) \\
-  &=: S_1 + (-1)^{j+1}
+  &=: S_1 + (-1)^{j+1}R
+  \end{align*}$$
+- $$\begin{align*}
+  T_2 &= (-1)^j(g_0,\cdots,g_j)\otimes(g_{j+1},\cdots,g_n) + (-1)^j \sum_{i>j} (-1)^{i-j} (g_0,\cdots,g_j)\otimes(g_j,\cdots,\hat{g_i},\cdots,g_n) \\
+  &= (-1)^j R + 
   \end{align*}$$
