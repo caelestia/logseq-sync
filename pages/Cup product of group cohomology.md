@@ -95,4 +95,5 @@
 	- Then the commutativity of the square is very easy since $k$ is concentrated in degree $0$. The left path gives $(g) \mapsto 1 \mapsto 1\otimes 1$, and the right path gives $(g) \mapsto (g)\otimes(g) \mapsto 1\otimes 1$.
 - # Equivalence of constructions
 - ## Construction 1 $\leftrightarrow$ 3
+- These two constructions are essentially saying the same thing, but in different languages. Let's see why this is true.
 -
