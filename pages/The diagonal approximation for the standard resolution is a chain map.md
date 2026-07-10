@@ -8,6 +8,6 @@
 - More precisely, we show the following equation.
 - $$[\Delta_{n-1}\partial_n(g_0,\cdots,g_n)]_j = [\partial_n\Delta_n(g_0,\cdots,g_n)]_j \;\;\in L_j\otimes L_{n-1-j}$$
 - ## LHS
--
+- We have
 - ## RHS
 -
