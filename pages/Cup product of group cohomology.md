@@ -94,4 +94,5 @@
 	- First, with a direct computation, we show that $\Delta_\bullet$ is indeed a homomorphism of chain complexes. [Details.]([[The diagonal approximation for the standard resolution is a chain map]])
 	- Then the commutativity of the square is very easy since $k$ is concentrated in degree $0$. The left path gives $(g) \mapsto 1 \mapsto 1\otimes 1$, and the right path gives $(g) \mapsto (g)\otimes(g) \mapsto 1\otimes 1$.
 - # Equivalence of constructions
-- We need to carefully check signs everywhere...
+- ## Construction 1 $\leftrightarrow$ 3
+-
