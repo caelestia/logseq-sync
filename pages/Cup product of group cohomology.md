@@ -85,4 +85,4 @@
 - ## Explicit form for the standard resolution
 -
 - # Equivalence of constructions
--
+- We need to carefully check signs everywhere...
