@@ -90,6 +90,7 @@
 - It is given by: $\Delta_{n}:L_n \longrightarrow \bigoplus_{p=0}^n L_p\otimes L_{n-p}$,
 - $$(g_0,\cdots,g_n) \longmapsto ((g_0,\cdots,g_p)\otimes(g_p,\cdots,g_n))_{p=0}^n$$
 	- Let's check that this is indeed a solution.
-	- First, we need to check that $\Delta_\bullet$ is indeed a homomorphism of chain complexes. [Details.]([[The diagonal approximation for the standard resolution is a chain map]])
+	- First, with a direct computation, we show that $\Delta_\bullet$ is indeed a homomorphism of chain complexes. [Details.]([[The diagonal approximation for the standard resolution is a chain map]])
+	- Next we check the commutativity of the square.
 - # Equivalence of constructions
 - We need to carefully check signs everywhere...
