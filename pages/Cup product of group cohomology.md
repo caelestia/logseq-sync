@@ -96,4 +96,5 @@
 - # Equivalence of constructions
 - ## Construction 1 $\leftrightarrow$ 3
 - These two constructions are essentially saying the same thing. Let's see why this is true.
--
+- Let $P_\bullet \xrightarrow{\epsilon} k$ be a free resolution.
+- The first step is exactly the same:
