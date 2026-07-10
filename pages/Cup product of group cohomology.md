@@ -80,7 +80,7 @@
 - By the Claim, a diagonal approximation exists, and is unique up to homotopy.
 - The cup product for cochains is defined as the composition
 - $$\operatorname{Hom}_G(P_p,k) \otimes_k \operatorname{Hom}_G(P_q,k) \xrightarrow{\mu_{P_p,P_q}} \operatorname{Hom}_G(P_p\otimes P_q,k) \xrightarrow{\Delta_{p+q}^*} \operatorname{Hom}_G(P_{p+q},k)$$
-	- This can be written as $c\cup d = (c\otimes d) \circ \Delta_{p+q}$.
+	- This can be written as $\phi\cup\psi = (\psi\otimes\psi) \circ \Delta_{p+q}$.
 - We can then take cohomology, inducing the desired
 - $$\cup:H^p(G;k) \otimes_k H^q(G;k) \longrightarrow H^{p+q}(G;k)$$
 - ## Explicit form for the standard resolution
@@ -97,4 +97,5 @@
 - ## Construction 1 $\leftrightarrow$ 3
 - These two constructions are essentially saying the same thing. Let's see why this is true.
 - Let $P_\bullet \xrightarrow{\epsilon} k$ be a free resolution.
-- The first step is exactly the same:
+- The first step is exactly the same: we take the $\phi\otimes\psi\mapsto\mu\circ(\phi\otimes\psi)$ map,
+- $$$$
