@@ -81,7 +81,7 @@
 - The cup product for cochains is defined as the composition
 - $$\operatorname{Hom}_G(P_p,k) \otimes_k \operatorname{Hom}_G(P_q,k) \xrightarrow{(-1)^{pq}\mu_{P_p,P_q}} \operatorname{Hom}_G(P_p\otimes P_q,k) \xrightarrow{\Delta_{p+q}^*} \operatorname{Hom}_G(P_{p+q},k)$$
 	- This can be written as $\phi\cup\psi = (-1)^{pq}(\psi\otimes\psi) \circ \Delta_{p+q}$.
-	- The Koszul sign $(-1)^{pq}$ is added, so that the above defines a map entirely "about" chain complexes:
+	- The sign $(-1)^{pq}$ is added to comply with the Kozsul sign rule, so that the above defines a map entirely "about" chain complexes:
 	- $$\operatorname{Hom}_{G}(P_\bullet,k) \otimes_k \operatorname{Hom}_{G}(P_\bullet,k) \xrightarrow{\tilde\mu} \operatorname{Hom}_{G}(P_\bullet\otimes P_\bullet,k) \xrightarrow{\Delta^*} \operatorname{Hom}_{G}(P_\bullet,k)$$
 	- where $\operatorname{Hom}$ is also interpreted as the Hom complex.
 - We can then take cohomology, inducing the desired
