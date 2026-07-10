@@ -86,6 +86,8 @@
 - With the standard resolution $L_\bullet \xrightarrow{\epsilon} k$ defined at the beginning, we can write down $\Delta_\bullet$ using the Alexander-Whitney map.
 	- The idea is that $L_\bullet=C(kEG)$, and $\Delta_\bullet$ is given by the composition
 	- $$C(kEG) \to C(k(EG\times EG)) \simeq C(kEG\otimes kEG) \xrightarrow{\text{AW}} C(kEG)\otimes C(kEG)$$
-	- where $EG\to EG\times
+	- where $EG\to EG\times EG$ is the true topological diagonal map.
+- It is given by: $\Delta_{n}:L_n \longrightarrow \bigoplus_{p=0}^n L_p\otimes L_{n-p}$,
+- $$(g_0,\cdots,g_n)$$
 - # Equivalence of constructions
 - We need to carefully check signs everywhere...
