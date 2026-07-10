@@ -78,7 +78,8 @@
 - By the Claim, a diagonal approximation exists, and is unique up to homotopy.
 - The cup product for cochains is defined as the composition
 - $$\operatorname{Hom}_G(P_p,k) \otimes_k \operatorname{Hom}_G(P_q,k) \xrightarrow{\mu_{P_p,P_q}} \operatorname{Hom}_G(P_p\otimes P_q,k) \xrightarrow{\Delta_{p+q}^*} \operatorname{Hom}_G(P_{p+q},k)$$
-- We can then take cohomology to obtain
+- We can then take cohomology, inducing the desired
+- $$\cup:H^p(G;k) \otimes_k H^q(G;k) \longrightarrow H^{p+q}(G;k)$$
 - ## Explicit form for the standard resolution
 -
 - # Equivalence of constructions
