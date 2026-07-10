@@ -84,5 +84,6 @@
 - $$\cup:H^p(G;k) \otimes_k H^q(G;k) \longrightarrow H^{p+q}(G;k)$$
 - ## Explicit form for the standard resolution
 - With the standard resolution $L_\bullet \xrightarrow{\epsilon} k$ defined at the beginning, we can write down $\Delta_\bullet$ using the
+-
 - # Equivalence of constructions
 - We need to carefully check signs everywhere...
