@@ -4,9 +4,11 @@
 - Since $(\cdot)^G=\operatorname{Hom}_{G}(k,\cdot)$, we have $H^\bullet(G;M)=\operatorname{Ext}^\bullet_{k[G]}(k,M)$.
 - Hence, to compute the group cohomology, we often use the following "standard resolution"
   $$L_\bullet \xrightarrow{\epsilon} k$$
+	- $\epsilon$ is a quasi-isomorphism.
 	- Each $L_{n}$ is a free $k$-module on the basis $G^{n+1}$, whose elements are the *homogeneous chains*.
 	- As a $k[G]$-module with the diagonal action, $L_n$ has basis $G^n$. The basic elements are written as $(g_1|g_2|\cdots|g_n)\in G^n$. This is the *bar construction*.
 	- The correspondence is $(g_1|\cdots|g_n) \mapsto (1_G,g_{[1,1]},g_{[1,2]},\cdots,g_{[1,n]})$.
+	- The differential is given by $\partial(g_0,g_1,\cdots,g_n)=\sum_{i=0}^n(-1)^{i}(g_0,\cdots,\hat{g_i},\cdots,g_n)$.
 - ## Other resolutions
 - We sometimes use other resolutions. For example, for $G=\Z$, the standard resolution is infinitely generated, but it has a much better free resolution
 - $$0 \longrightarrow k[X^{\pm1}] \xrightarrow{X-1} k[X^{\pm1}] \xrightarrow{\epsilon} k \longrightarrow 0$$
