@@ -81,7 +81,7 @@
 - The cup product for cochains is defined as the composition
 - $$\operatorname{Hom}_G(P_p,k) \otimes_k \operatorname{Hom}_G(P_q,k) \xrightarrow{(-1)^{pq}\mu_{P_p,P_q}} \operatorname{Hom}_G(P_p\otimes P_q,k) \xrightarrow{\Delta_{p+q}^*} \operatorname{Hom}_G(P_{p+q},k)$$
 	- This can be written as $\phi\cup\psi = (-1)^{pq}(\psi\otimes\psi) \circ \Delta_{p+q}$.
-	- The sign $(-1)^{pq}$
+	- The Koszul sign $(-1)^{pq}$ is necessary for ...
 - We can then take cohomology, inducing the desired
 - $$\cup:H^p(G;k) \otimes_k H^q(G;k) \longrightarrow H^{p+q}(G;k)$$
 - ## Explicit form for the standard resolution
