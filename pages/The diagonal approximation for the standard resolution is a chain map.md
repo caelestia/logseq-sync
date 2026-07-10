@@ -16,5 +16,6 @@
 - ## RHS
 - $$\begin{align*}
   \text{RHS} &= [\partial_n\Delta_n(g_0,\cdots,g_n)]_j \\
-  &= \partial^\vartriangleright[]_{j+1}
+  &= \partial^\vartriangleright[\Delta_n(g_0,\cdots,g_n)]_{j+1} + (-1)^j \partial^\triangledown[\Delta_n(g_0,\cdots,g_n)]_j
   \end{align*}$$
+-
