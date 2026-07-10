@@ -89,6 +89,6 @@
 	- where $EG\to EG\times EG$ is the true topological diagonal map.
 - It is given by: $\Delta_{n}:L_n \longrightarrow \bigoplus_{p=0}^n L_p\otimes L_{n-p}$,
 - $$(g_0,\cdots,g_n) \longmapsto ((g_0,\cdots,g_p)\otimes(g_p,\cdots,g_n))_{p=0}^n$$
-	- Let's check that this is indeed a solution. []()
+	- Let's check that this is indeed a solution. [s]([[Explicit form of diagonal approximation for the standard resolution of group cohomology]])
 - # Equivalence of constructions
 - We need to carefully check signs everywhere...
