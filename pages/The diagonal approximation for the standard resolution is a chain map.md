@@ -23,6 +23,7 @@
   &=: T_1 + T_2
   \end{align*}$$
 - Compute these two terms:
-- $$
-  
-  $$
+- $$\begin{align*}
+  T_1 &= \sum_{i\leq j}(-1)^i(g_0,\cdots,\hat{g_i},\cdots,g_{j+1})\otimes(g_{j+1},\cdots,g_n) + (-1)^{j+1}(g_0,\cdots,g_j)\otimes(g_{j+1},\cdots,g_n) \\
+  &=: S_1 + (-1)^{j+1}
+  \end{align*}$$
