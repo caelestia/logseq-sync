@@ -18,7 +18,11 @@
   \text{RHS} &= [\partial_n\Delta_n(g_0,\cdots,g_n)]_j \\
   &= \partial^\vartriangleright[\Delta_n(g_0,\cdots,g_n)]_{j+1} 
   + (-1)^j \partial^\triangledown[\Delta_n(g_0,\cdots,g_n)]_j \\
-  \partial(g_0,\cdots,g_{j+1}) \otimes (g_{j+1},\cdots,g_n)
-  + (-1)^j (g_0,\cdots,)
+  &= \partial(g_0,\cdots,g_{j+1}) \otimes (g_{j+1},\cdots,g_n)
+  + (-1)^j (g_0,\cdots,g_j) \otimes \partial(g_j,\cdots,g_n) \\
+  &=: T_1 + T_2
   \end{align*}$$
--
+- Compute these two terms:
+- $$
+  
+  $$
