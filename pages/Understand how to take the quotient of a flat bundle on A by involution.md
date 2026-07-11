@@ -16,5 +16,6 @@
 		- On a Stein manifold, two vector bundles are holomorphically isomorphic iff they are topologically isomorphic.
 	- These charts are homotopy equivalent to $S^1$.
 		- By the clutching construction, topological vector bundles of rank $n$ are characterized by $\pi_0(\mathrm{GL}_n(\mathbb C))$.
-		- This is always connected.
-- We conclude that all vector bundles
+		- This is always trivial since $\mathrm{GL}_n(\mathbb C)$ is connected.
+- We conclude that all vector bundles are trivial over $U_x$ and $U_y$.
+	- In particular, all vector bundles will be characterized by a transition matrix on $
