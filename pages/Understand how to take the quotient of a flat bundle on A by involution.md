@@ -3,6 +3,8 @@
 	- On a Stein manifold, two vector bundles are holomorphically isomorphic iff they are topologically isomorphic.
 - Consider a polydisc or some nice contractible $0\in D\subset\mathbb C^2$, and the trivial rank $2$ vector bundle $D\times \mathbb C^2$ over it.
 - We want to lift the involution linearly $\iota$ to $\tilde\iota$ on this bundle.
-	- At the fixed point $(0,0)$, the matrix satisfies $M^2=1$, so it is diagonalizable and has eigenvalues $\pm1$. Let it have $p=0,1,2$ plus one's and $q=2-p$ minus one's. Call this matrix $I_{p,q}$.
-	- Since the bundle trivializes, the fibers can be identified, whence $\tilde\iota$ acts on all points by a matrix by some $I_{p,q}$. But by continuity they must all be the same.
-	- Hence we can suppose $\tilde\iota(x,y,s,t)=(-x,-y,I_{p,q})
+	- At the fixed point $(0,0)$, the matrix satisfies $M^2=1$, so it is diagonalizable and has eigenvalues $\pm1$.
+	- Let it have $p=0,1,2$ plus one's and $q=2-p$ minus one's. Call this matrix $I_{p,q}$.
+	- Since the bundle trivializes, the fibers can be identified, whence $\tilde\iota$ acts on all points by a matrix of the form $I_{p,q}$. But by continuity they must all be the same.
+	- Hence we can suppose $\tilde\iota((x,y),(s,t))=((-x,-y),I_{p,q}(s,t))$.
+-
