@@ -1,0 +1,4 @@
+- Oka-Grauert principle:
+	- https://ncatlab.org/nlab/show/Oka+principle
+	- On a Stein manifold, a holomorphic vector bundle is trivial iff it's topologically trivial.
+-
