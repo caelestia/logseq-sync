@@ -5,4 +5,3 @@
   :END:
 - [[Kummer is projective]]
 - [[Questions from meeting]]
--
