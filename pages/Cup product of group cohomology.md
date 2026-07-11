@@ -103,3 +103,4 @@
 - The first step is exactly the same: we take the $\phi\otimes\psi\mapsto\mu\circ(\phi\otimes\psi)$ map which is given a Koszul sign of $(-1)^{pq}$.
 	- In construction 1, we end up with a class in $H^{p+q}(G\times G;k)$.
 	- In construction 3, we end up with a cochain in $\operatorname{Hom}^{p+q}(P_\bullet\otimes P_\bullet,k)$.
+- Recall how the restriction map $\delta^*$ of group cohomology is defined. We take a free resolution of $k[G\times G]$ modules of $k$, then
