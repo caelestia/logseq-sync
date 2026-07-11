@@ -1,4 +1,6 @@
 - Oka-Grauert principle:
 	- https://ncatlab.org/nlab/show/Oka+principle
 	- On a Stein manifold, two vector bundles are holomorphically isomorphic iff they are topologically isomorphic.
+- Consider a polydisc or some nice contractible $0\in D\subset\mathbb C^2$, and the trivial rank $2$ vector bundle $D\times \mathbb C^2$ over it.
+- We want to lift the involution $\iota$
 -
