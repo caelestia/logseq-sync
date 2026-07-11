@@ -2,5 +2,7 @@
 	- No. If stick to AG, need to work "infinitesimally" i.e. flat base change to local formal scheme.
 - Understand how to take the quotient of a flat bundle on A by involution.
 - Understand the Picard group of A.
-	- Can find $\rho(A)
+	- Can find $\rho(A)=1$ by considering Jacobian variety of some genus $2$ curve.
+	- Look up https://ncatlab.org/nlab/show/Siegel+upper+half-space.
 - Understand the "Picard group" of Eguchi-Hanson.
+	- Told: $\rho(EH)=$
