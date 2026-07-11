@@ -1,4 +1,6 @@
-- Is there an Zariski open set around a singularity that an affine A^2? No.
+- Is there an Zariski open set around a singularity that an affine A^2?
+	- No. If stick to AG, need to work "infinitesimally" i.e. flat base change to local formal scheme.
 - Understand how to take the quotient of a flat bundle on A by involution.
 - Understand the Picard group of A.
+	- Can find $\rho(A)
 - Understand the "Picard group" of Eguchi-Hanson.
