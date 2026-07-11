@@ -100,5 +100,5 @@
 - ## Construction 1 $\leftrightarrow$ 3
 - These two are essentially saying the same thing. The difference being that, by only considering cohomology groups, construction 1 avoids the Koszul sign rules etc. to simplify some things.
 - Let $P_\bullet \xrightarrow{\epsilon} k$ be a free resolution.
-- The first step is exactly the same: we take the $\phi\otimes\psi\mapsto\mu\circ(\phi\otimes\psi)$ map and give it the Koszul sign $(-1)^{pq}$,
-- $$$$
+- The first step is exactly the same: we take the $\phi\otimes\psi\mapsto\mu\circ(\phi\otimes\psi)$ map which is given a Koszul sign of $(-1)^{pq}$.
+-
