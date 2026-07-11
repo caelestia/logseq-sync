@@ -4,7 +4,8 @@
 	- Let it have $p=0,1,2$ plus one's and $q=2-p$ minus one's. Call this matrix $I_{p,q}$.
 	- Since the bundle trivializes, the fibers can be identified, whence $\tilde\iota$ acts on all points by a matrix of the form $I_{p,q}$. But by continuity they must all be the same.
 	- Hence we can suppose $\tilde\iota((x,y),(s,t))=((-x,-y),I_{p,q}(s,t))$.
-- Consider two charts
+- Consider two charts $U_x=\{x\neq0\}$ and $U_y=\{y\neq0\}$.
+	- These are
 - Oka-Grauert principle:
 	- https://ncatlab.org/nlab/show/Oka+principle
 	- On a Stein manifold, two vector bundles are holomorphically isomorphic iff they are topologically isomorphic.
