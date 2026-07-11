@@ -5,7 +5,13 @@
 	- Since the bundle trivializes, the fibers can be identified, whence $\tilde\iota$ acts on all points by a matrix of the form $I_{p,q}$. But by continuity they must all be the same.
 	- Hence we can suppose $\tilde\iota((x,y),(s,t))=((-x,-y),I_{p,q}(s,t))$.
 - Consider two charts $U_x=\{x\neq0\}$ and $U_y=\{y\neq0\}$.
-	- These are
-- Oka-Grauert principle:
-	- https://ncatlab.org/nlab/show/Oka+principle
-	- On a Stein manifold, two vector bundles are holomorphically isomorphic iff they are topologically isomorphic.
+	- These are Stein manifolds.
+		- This follows from the following two standard facts:
+			- Any open subset of $\mathbb C$ is a Stein manifold.
+			  logseq.order-list-type:: number
+			- The product of two Stein manifolds is a Stein manifold.
+			  logseq.order-list-type:: number
+	- Oka-Grauert principle:
+		- https://ncatlab.org/nlab/show/Oka+principle
+		- On a Stein manifold, two vector bundles are holomorphically isomorphic iff they are topologically isomorphic.
+-
