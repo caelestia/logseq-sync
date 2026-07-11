@@ -1,4 +1,4 @@
 - Oka-Grauert principle:
 	- https://ncatlab.org/nlab/show/Oka+principle
-	- On a Stein manifold, a holomorphic vector bundle is trivial iff it's topologically trivial.
+	- On a Stein manifold, two vector bundles are holomorphically isomorphic iff they are topologically isomorphic.
 -
