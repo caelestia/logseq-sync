@@ -11,7 +11,8 @@
 			  logseq.order-list-type:: number
 			- The product of two Stein manifolds is a Stein manifold.
 			  logseq.order-list-type:: number
-	- Oka-Grauert principle:
+	- Oka-Grauert principle applies:
 		- https://ncatlab.org/nlab/show/Oka+principle
 		- On a Stein manifold, two vector bundles are holomorphically isomorphic iff they are topologically isomorphic.
--
+	- These charts are homotopy equivalent to $S^1$.
+		- By the clutching construction, topological vector bundles are characterized by $\pi_0(\)$
