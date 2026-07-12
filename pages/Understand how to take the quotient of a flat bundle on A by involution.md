@@ -34,7 +34,8 @@
 			- $V_x=\{x\neq0\}=\{[1:y]:y\in\mathbb C\}$,
 			  id:: 6a52f976-5d51-47c5-a1e7-20b82541d37c
 			- $V_y=\{y\neq0\}=\{[x:1]:x\in\mathbb C\}$.
-		- These charts looks like $\mathbb C\times\mathbb C^\times$.
+		- Then:
+			- These charts are isomorphic to $\mathbb C\times\mathbb C^\times$.
+			- As in the first part, holomorphic vector bundles on $V_x$ and $V_y$ are trivial.
 		- We then restrict $\mathbb C$ to $D$.
 	- logseq.order-list-type:: number
-- As previously argued, holomorphic vector bundles on
