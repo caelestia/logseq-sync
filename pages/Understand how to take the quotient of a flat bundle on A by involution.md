@@ -40,5 +40,5 @@
 		- We then restrict the fibers to some small punctured disc $\Delta\setminus\{0\}$.
 	- Try the AG description.
 	  logseq.order-list-type:: number
-		-
+		- We need to cover $\operatorname{Spec}(\mathbb C[u,v,w]/(uv=w^2))$ with
 -
