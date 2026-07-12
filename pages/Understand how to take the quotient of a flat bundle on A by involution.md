@@ -37,5 +37,6 @@
 		- Then:
 			- These charts are isomorphic to $\mathbb C\times\mathbb C^\times$.
 			- As in the first part, holomorphic vector bundles on $V_x$ and $V_y$ are trivial.
-		- We then restrict $\mathbb C$ to $D$.
+		- We then take the intersection with $D/\langle\iota\rangle$.
 	- logseq.order-list-type:: number
+-
