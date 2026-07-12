@@ -27,4 +27,5 @@
 	- We can also cover it with two charts as follows.
 	  logseq.order-list-type:: number
 		- The map $\pi:\mathbb C^2\setminus\{0\} \to \mathbb P^1$ shows that $\mathbb C^2\setminus\{0\}$ is the total space of $\mathcal{O}_{\mathbb{P}^1}(-1)$ minus the zero section.
-		-
+		- When we take the quotient by $\iota$, the transition function gets squared. So we have
+		- $$(\mathbb{C}^2\setminus\{0\})/\langle\iota\rangle \simeq \text{total space of }\mathcal{O}_{\mathbb P^1}$$
