@@ -31,8 +31,9 @@
 		- $$(\mathbb{C}^2\setminus\{0\})/\langle\iota\rangle \simeq \text{total space of }\mathcal{O}_{\mathbb P^1}(-2) \setminus \text{zero section}$$
 		- Now $\mathcal{O}_{\mathbb P^1}(-2)$ is the same as the cotangent bundle.
 		- This bundle trivializes when we cover $\mathbb{P}^1$ with two charts $\{x\neq0\}$ and $\{y\neq0\}$.
-			- $\{x\neq0\}=\{[1:y]:y\in\mathbb C\}$,
+			- $V_x=\{x\neq0\}=\{[1:y]:y\in\mathbb C\}$,
 			  id:: 6a52f976-5d51-47c5-a1e7-20b82541d37c
-			- $\{y\neq0\}=\{[x:1]:x\in\mathbb C\}$.
+			- $V_y=\{y\neq0\}=\{[x:1]:x\in\mathbb C\}$.
 		- These charts looks like $\mathbb C\times\mathbb C^\times$.
--
+		- We then restrict $\mathbb C$ to $D$.
+- As previously argued, holomorphic vector bundles on
