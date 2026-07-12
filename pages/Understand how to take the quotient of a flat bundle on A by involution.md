@@ -42,6 +42,7 @@
 	  logseq.order-list-type:: number
 		- We want to cover $\operatorname{Spec}(\mathbb C[u,v,w]/(uv=w^2))\setminus\{0\}$ with charts:
 			- $V_u=\{u\neq0\}$.
-				- As before, let $s:=w/u$. We have $w=$ and $$$$
+				- As before, let $s:=w/u$. We have $w=su$ and $v=s^2u$.
+				- Thus $V_u=\operatorname{Spec}(\mathbb C[u,u^{-1},s])$.
 			- $V_v=\{v\neq0\}$.
-		-
+				- As before, let $t:=w/v$. We have $w=
