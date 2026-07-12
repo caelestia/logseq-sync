@@ -45,4 +45,8 @@
 				- As before, let $s:=w/u$. We have $w=su$ and $v=s^2u$.
 				- Thus $V_u=\operatorname{Spec}(\mathbb C[u,u^{-1},s])$.
 			- $V_v=\{v\neq0\}$.
-				- As before, let $t:=w/v$. We have $w=
+				- As before, let $t:=w/v$. We have $w=tv$ and $u=t^2v$.
+				- Thus $V_v=\operatorname{Spec}(\mathbb C[v,v^{-1},t])$.
+		- The analytification of $V_u$ and $V_v$ are just $\mathbb C\times \mathbb C^\times$.
+			- Indentical to what we get in 2.
+-
