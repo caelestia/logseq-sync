@@ -26,4 +26,5 @@
 		- $\{Re(x)>0\} \cup \{Im(x)>0\} \cup \{Re(y)>0\} \cup \{Im(y)>0\}$
 	- We can also cover it with two charts as follows.
 	  logseq.order-list-type:: number
-		- The map $\pi:\mathbb C^2\setminus\{0\}$
+		- The map $\pi:\mathbb C^2\setminus\{0\} \to \mathbb P^1$ shows that $\mathbb C^2\setminus\{0\}$ is the total space of $\mathcal{O}_{\mathbb{P}^1}(-1)$ minus the zero section.
+		-
