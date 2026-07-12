@@ -20,7 +20,7 @@
 - We conclude that all vector bundles are trivial over $U_x$ and $U_y$.
 	- In particular, all vector bundles on $U$ will be characterized by a transition matrix on $U_x\cap U_y$.
 - ---
-- Next we need to consider $U/\langle\iota\rangle$. I have three ways of finding charts on it:
+- Next we need to consider $U/\langle\iota\rangle$. I have three ideas of finding charts on it:
 	- Obviously, we can cover it with four charts:
 	  logseq.order-list-type:: number
 		- $\{Re(x)>0\} \cup \{Im(x)>0\} \cup \{Re(y)>0\} \cup \{Im(y)>0\}$
@@ -40,6 +40,7 @@
 		- We then restrict the fibers to some small punctured disc $\Delta\setminus\{0\}$.
 	- Try the AG description.
 	  logseq.order-list-type:: number
-		- We want to cover $\operatorname{Spec}(\mathbb C[u,v,w]/(uv=w^2))\setminus\{0\}$ with charts.
+		- We want to cover $\operatorname{Spec}(\mathbb C[u,v,w]/(uv=w^2))\setminus\{0\}$ with charts:
+			- $V_u=\{u\neq0\}$.
+			- $V_v=\{v\neq0\}$.
 		-
--
