@@ -20,7 +20,7 @@
 - We conclude that all vector bundles are trivial over $U_x$ and $U_y$.
 	- In particular, all vector bundles on $U$ will be characterized by a transition matrix on $U_x\cap U_y$.
 - ---
-- Next we need to consider $U/\langle\iota\rangle$. I have two ways of finding charts on it:
+- Next we need to consider $U/\langle\iota\rangle$. I have three ways of finding charts on it:
 	- Obviously, we can cover it with four charts:
 	  logseq.order-list-type:: number
 		- $\{Re(x)>0\} \cup \{Im(x)>0\} \cup \{Re(y)>0\} \cup \{Im(y)>0\}$
@@ -36,4 +36,5 @@
 			- $V_y=\{y\neq0\}=\{[x:1]:x\in\mathbb C\}$.
 		- These charts looks like $\mathbb C\times\mathbb C^\times$.
 		- We then restrict $\mathbb C$ to $D$.
+	- logseq.order-list-type:: number
 - As previously argued, holomorphic vector bundles on
