@@ -35,4 +35,4 @@
 			  id:: 6a52f976-5d51-47c5-a1e7-20b82541d37c
 			- $\{y\neq0\}=\{[x:1]:x\in\mathbb C\}$.
 		- These charts looks like $\mathbb C\times\mathbb C^\times$.
-		-
+-
