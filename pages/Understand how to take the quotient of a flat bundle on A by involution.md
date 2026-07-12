@@ -19,3 +19,4 @@
 		- This is always trivial since $\mathrm{GL}_n(\mathbb C)$ is connected.
 - We conclude that all vector bundles are trivial over $U_x$ and $U_y$.
 	- In particular, all vector bundles on $U$ will be characterized by a transition matrix on $U_x\cap U_y$.
+	-
