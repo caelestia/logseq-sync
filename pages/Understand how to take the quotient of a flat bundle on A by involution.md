@@ -37,6 +37,6 @@
 		- Then:
 			- These charts are isomorphic to $\mathbb C\times\mathbb C^\times$.
 			- As in the first part, holomorphic vector bundles on $V_x$ and $V_y$ are trivial.
-		- We then take the intersection with $D/\langle\iota\rangle$.
+		- We then restrict the fibers to some small punctured disc $\Delta\setminus\{0\}$
 	- logseq.order-list-type:: number
 -
