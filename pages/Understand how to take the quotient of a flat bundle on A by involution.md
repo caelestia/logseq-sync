@@ -20,6 +20,10 @@
 - We conclude that all vector bundles are trivial over $U_x$ and $U_y$.
 	- In particular, all vector bundles on $U$ will be characterized by a transition matrix on $U_x\cap U_y$.
 - ---
-- Next we need to consider $D/\langle\iota\rangle$. I have two ways of finding charts on it:
-	- Obviously, we can cover it
+- Next we need to consider $U/\langle\iota\rangle$. I have two ways of finding charts on it:
+	- Obviously, we can cover it with four charts:
 	  logseq.order-list-type:: number
+		- $\{Re(x)>0\} \cup \{Im(x)>0\} \cup \{Re(y)>0\} \cup \{Im(y)>0\}$
+	- We can also cover it with two charts as follows.
+	  logseq.order-list-type:: number
+		- The map $\pi:\mathbb C^2\setminus\{0\}$
