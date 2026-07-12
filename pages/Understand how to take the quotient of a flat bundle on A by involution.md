@@ -4,7 +4,7 @@
 	- Let it have $p=0,1,2$ plus one's and $q=2-p$ minus one's. Call this matrix $I_{p,q}$.
 	- Since the bundle trivializes, the fibers can be identified, whence $\tilde\iota$ acts on all points by a matrix of the form $I_{p,q}$. But by continuity they must all be the same.
 	- Hence we can suppose $\tilde\iota((x,y),(s,t))=((-x,-y),I_{p,q}(s,t))$.
-- Consider two charts $U_x=\{x\neq0\}$ and $U_y=\{y\neq0\}$. We have:
+- Let $U=D\setminus\{0\}$. Consider two charts $U_x=\{x\neq0\}$ and $U_y=\{y\neq0\}$. We have:
 	- These are Stein manifolds.
 		- This follows from the following two standard facts:
 			- Any open subset of $\mathbb C$ is a Stein manifold.
@@ -18,4 +18,4 @@
 		- By the clutching construction, topological vector bundles of rank $n$ are characterized by $\pi_0(\mathrm{GL}_n(\mathbb C))$.
 		- This is always trivial since $\mathrm{GL}_n(\mathbb C)$ is connected.
 - We conclude that all vector bundles are trivial over $U_x$ and $U_y$.
-	- In particular, all vector bundles will be characterized by a transition matrix on $
+	- In particular, all vector bundles on $U$ will be characterized by a transition matrix on $U_x\cap U_y$.
