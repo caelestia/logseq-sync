@@ -13,7 +13,7 @@
 			- Then we use the Oka-Grauert principle, introduced below. To be precise, we need an equivariant version of it.
 			- We conclude that any $\langle\iota\rangle$-equivariant structure on our vector bundle is gauge equivalent to a constant matrix action.
 		- Group cohomology proof:
-			-
+			- LATER
 	- In any case
 - Let $U=D\setminus\{0\}$. Consider two charts $U_x=\{x\neq0\}$ and $U_y=\{y\neq0\}$. We have:
 	- These are Stein manifolds.
