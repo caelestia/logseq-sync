@@ -49,4 +49,6 @@
 				- Thus $V_v=\operatorname{Spec}(\mathbb C[v,v^{-1},t])$.
 		- The analytification of $V_u$ and $V_v$ are just $\mathbb C\times \mathbb C^\times$.
 			- Indentical to what we get in 2.
+- Let's stick with 3.
+- ---
 -
