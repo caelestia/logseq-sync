@@ -31,7 +31,7 @@
 - We conclude that all vector bundles are trivial over $U_x$ and $U_y$.
 	- In particular, all vector bundles on $U$ will be characterized by a transition matrix on $U_x\cap U_y$.
 - ---
-- Next we need to consider $U/\langle\iota\rangle$. I have three ideas of finding charts on it:
+- Next we need to consider $V=U/\langle\iota\rangle$. I have three ideas of finding charts on it:
 	- Obviously, we can cover it with four charts:
 	  logseq.order-list-type:: number
 		- $\{Re(x)>0\} \cup \{Im(x)>0\} \cup \{Re(y)>0\} \cup \{Im(y)>0\}$
@@ -42,12 +42,12 @@
 		- $$(\mathbb{C}^2\setminus\{0\})/\langle\iota\rangle \simeq \text{total space of }\mathcal{O}_{\mathbb P^1}(-2) \setminus \text{zero section}$$
 		- Now $\mathcal{O}_{\mathbb P^1}(-2)$ is the same as the cotangent bundle.
 		- This bundle trivializes when we cover $\mathbb{P}^1$ with two charts $\{x\neq0\}$ and $\{y\neq0\}$.
-			- $V_x=\{x\neq0\}=\{[1:y]:y\in\mathbb C\}$,
+			- $W_x=\{x\neq0\}=\{[1:y]:y\in\mathbb C\}$,
 			  id:: 6a52f976-5d51-47c5-a1e7-20b82541d37c
-			- $V_y=\{y\neq0\}=\{[x:1]:x\in\mathbb C\}$.
+			- $W_y=\{y\neq0\}=\{[x:1]:x\in\mathbb C\}$.
 		- Then:
 			- These charts are isomorphic to $\mathbb C\times\mathbb C^\times$.
-			- As in the first part, holomorphic vector bundles on $V_x$ and $V_y$ are trivial.
+			- As in the first part, holomorphic vector bundles on $W_x$ and $W_y$ are trivial.
 		- We then restrict the fibers to some small punctured disc $\Delta\setminus\{0\}$.
 	- Try the AG description.
 	  logseq.order-list-type:: number
@@ -72,6 +72,7 @@
 	- $$e_1^y = \begin{pmatrix} y \\ 0 \end{pmatrix}, \quad e_2^y = \begin{pmatrix} 0 \\ y \end{pmatrix}$$
 	- We conclude that the transition matrix $T_{xy}$ on $V_u\cap V_v$, s.t. $\mathbf{e}^y = T_{xy} \mathbf{e}^x$, is given by
 	- $$T_{xy} = \begin{pmatrix} y/x & 0 \\ 0 & y/x \end{pmatrix} = \begin{pmatrix} s & 0 \\ 0 & s \end{pmatrix}$$
+	- That is, the descended bundle is isomorphic to $
 - Case 2, $I_{1,1}$.
 	- Similarly, the bases are given by
 	- $$e_1^x = \begin{pmatrix} 1 \\ 0 \end{pmatrix}, \quad e_2^x = \begin{pmatrix} 0 \\ x \end{pmatrix}, \quad e_1^y = \begin{pmatrix} 1 \\ 0 \end{pmatrix}, \quad e_2^y = \begin{pmatrix} 0 \\ y \end{pmatrix}$$
