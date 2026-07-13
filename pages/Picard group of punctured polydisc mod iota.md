@@ -1,2 +1,5 @@
 - Let $U=\Delta^2\setminus\{0\}$ and $V=U/\iota$.
+- ### Picard group of $U$ is trivial
+- $U$ is homotopy equivalent to $S^3$, so $H^1(U,\Z)=H^2(U,\Z)=0$.
+	- Remark: This is saying that $U$ has no topologically nontrivial line bundle.
 -
