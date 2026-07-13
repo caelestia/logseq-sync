@@ -5,6 +5,8 @@
 	- Can find $\rho(A)=1$ by considering Jacobian variety of some generic genus $2$ curve?
 		- Consider the hyperelliptic curve $y^2=f(x)$ where $x$ is a polynomial with Galois group $S_5$.
 	- Look up https://ncatlab.org/nlab/show/Siegel+upper+half-space.
+		- $\mathcal H_g = \{ X+iY : X, Y \in M_g(\mathbb R), X^t = X,\, Y^t = Y,\, Y \text{ is definite positive} \}$.
+		- The parameter space for abelian surfaces is $\mathcal H_2$.
 	- [[Appell–Humbert theorem]]:
 		- On a complex torus $A$, the theorem implies that $\operatorname{NS}(X)$ is naturally isomorphic to the group $\{E\in\bigwedge^2\operatorname{Hom}(\Lambda,\Z):E(ix,iy)=E(x,y)\}$.
 		- So we can try to start with a real torus $\mathbb{R}^4, pick a bilinear form $E\in\bigwedge^2\operatorname{Hom}(\Lambda,\Z)$, then try to find a complex structure $J$ such that $E(Jx,Jy)=E(x,y)$ and $E(x,Jx)>0$.
