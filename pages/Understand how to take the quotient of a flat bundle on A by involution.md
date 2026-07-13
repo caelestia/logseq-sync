@@ -72,9 +72,11 @@
 	- $$e_1^y = \begin{pmatrix} y \\ 0 \end{pmatrix}, \quad e_2^y = \begin{pmatrix} 0 \\ y \end{pmatrix}$$
 	- We conclude that the transition matrix $T_{xy}$ on $V_u\cap V_v$, s.t. $\mathbf{e}^y = T_{xy} \mathbf{e}^x$, is given by
 	- $$T_{xy} = \begin{pmatrix} y/x & 0 \\ 0 & y/x \end{pmatrix} = \begin{pmatrix} s & 0 \\ 0 & s \end{pmatrix}$$
-	- That is, the descended bundle is isomorphic to $\pi^*(\mathcal{O}_{\mathbb P^1}(1)\oplus\mathcal{O}_{\mathbb P^1}(1))$, where $\pi:V\to\mathbb P^1$ is induced from $(x,y)\mapsto[x:y]$. If we want, can write $\pi=s:=w/u$.
+	- That is, the descended bundle is isomorphic to $\pi^*(\mathcal{O}_{\mathbb P^1}(1)\oplus\mathcal{O}_{\mathbb P^1}(1))$
+		- Here $\pi:V\to\mathbb P^1$ is induced from $(x,y)\mapsto[x:y]$. If we want, can write $\pi=t:=w/v$.
 - Case 2, $I_{1,1}$.
 	- Similarly, the bases are given by
 	- $$e_1^x = \begin{pmatrix} 1 \\ 0 \end{pmatrix}, \quad e_2^x = \begin{pmatrix} 0 \\ x \end{pmatrix}, \quad e_1^y = \begin{pmatrix} 1 \\ 0 \end{pmatrix}, \quad e_2^y = \begin{pmatrix} 0 \\ y \end{pmatrix}$$
 	- Thus
 	- $$T_{xy} = \begin{pmatrix} 1 & 0 \\ 0 & y/x \end{pmatrix} = \begin{pmatrix} 1 & 0 \\ 0 & s \end{pmatrix}$$
+	- That is, the descended bundle is isomorphic to $\mathcal{O}\oplus\pi^*(\mathcal{O}_{\mathbb P^1}(1))$.
