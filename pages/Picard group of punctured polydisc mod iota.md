@@ -9,4 +9,5 @@
 - Standard result for equivariant Picard group:
 - $$0 \to H^1(G, \mathcal{O}(U)^*) \to \text{Pic}_G(U) \to \text{Pic}(U)$$
 	- Remark: this follows from the five-term exact sequence of the Leray spectral sequence applied to the Borel construction $X \hookrightarrow EG\times_GX \twoheadrightarrow BG$.
-- Since $\operatorname{Pic}(U)=0$, it suffices to find $
+- Since $\operatorname{Pic}(U)=0$, we have $\text{Pic}_G(U)=H^1(G, \mathcal{O}(U)^*)$.
+-
