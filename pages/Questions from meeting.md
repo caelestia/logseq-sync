@@ -5,6 +5,8 @@
 - Understand the Picard group of A.
 	- Can find $\rho(A)=1$ by considering Jacobian variety of some generic genus $2$ curve?
 		- Consider the hyperelliptic curve $y^2=f(x)$ where $x$ is a polynomial with Galois group $S_5$.
+		- If $J$ is the Jacobian of a curve, then $J$ is principally polarized giving a
+		- We have $$\text{NS}(J) \hookrightarrow \text{Hom}(J, \hat{J})$$
 	- Look up https://ncatlab.org/nlab/show/Siegel+upper+half-space.
 		- $\mathcal H_g = \{ X+iY : X, Y \in M_g(\mathbb R), X^t = X,\, Y^t = Y,\, Y \text{ is definite positive} \}$.
 		- The parameter space for abelian surfaces is $\mathcal H_2$.
