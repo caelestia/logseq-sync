@@ -2,4 +2,6 @@
 - ### Picard group of $U$ is trivial
 - $U$ is homotopy equivalent to $S^3$, so $H^1(U,\Z)=H^2(U,\Z)=0$.
 	- Remark: This is saying that $U$ has no topologically nontrivial line bundle.
--
+- Next, since $\Delta^2$ is a Stein manifold, or just Dolbeault lemma, we have $H^1(\Delta^2,\mathcal{O})=0$.
+- By local cohomology, since we are removing a codimension-2 point, $H^1(U, \mathcal{O})=0$.
+- By the exponential sequence, we conclude that $\operatorname{Pic}(U)=H^1(U,\mathcal{O}^\times)=H^$
