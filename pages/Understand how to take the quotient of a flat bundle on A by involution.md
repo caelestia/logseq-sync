@@ -62,4 +62,4 @@
 			- Indentical to what we get in 2.
 - Let's stick with 3.
 - ---
--
+- Recall that we have three cases: $I_{2,0}=\text{diag}(1,1)$, $I_{0,2}=\text{diag}(-1,-1)$, and $I_{1,1}=\text{diag}(1,-1)$. The first case is trivial, discarded.
