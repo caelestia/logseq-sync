@@ -76,4 +76,4 @@
 	- Similarly, the bases are given by
 	- $$e_1^x = \begin{pmatrix} 1 \\ 0 \end{pmatrix}, \quad e_2^x = \begin{pmatrix} 0 \\ x \end{pmatrix}, \quad e_1^y = \begin{pmatrix} 1 \\ 0 \end{pmatrix}, \quad e_2^y = \begin{pmatrix} 0 \\ y \end{pmatrix}$$
 	- Thus
-	- $$T_{xy} = \begin{pmatrix} 1 & 0 \\ 0 & y/x \end{pmatrix} = \begin{pmatrix} 1 & 0 \\ 0 & v \end{pmatrix}$$
+	- $$T_{xy} = \begin{pmatrix} 1 & 0 \\ 0 & y/x \end{pmatrix} = \begin{pmatrix} 1 & 0 \\ 0 & s \end{pmatrix}$$
