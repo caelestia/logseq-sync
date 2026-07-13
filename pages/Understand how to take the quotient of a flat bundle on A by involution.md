@@ -66,4 +66,6 @@
 	- The action $\tilde\iota$ is $(x,y,\xi) \mapsto (-x,-y,I_{p,q}\xi)$.
 - Case 1, $I_{0,2}$.
 	- Over both trivializing charts, we must have the components being odd functions: $s(-x,-y)=-s(x,y)$.
-	- On the chart $V_u$, we
+	- On the chart $U_u$, $x\neq0$, so we can take out a factor of $x$. Thus a basis of $\tilde\iota$-invariant sections over $U_u$ is given by
+	- $$e_1^x = \begin{pmatrix} x \\ 0 \end{pmatrix}, \quad e_2^x = \begin{pmatrix} 0 \\ x \end{pmatrix}$$
+	- Similarly, on the chart $U_v$, $y\neq0$, so a basis of $\tilde\iota$-invariant sections is given by
