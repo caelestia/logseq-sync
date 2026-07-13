@@ -1,5 +1,6 @@
 - Let $U=\Delta^2\setminus\{0\}$ and $V=U/\iota$. Let $G=\langle\iota\rangle\simeq\Z/2\Z$.
-- ### Picard group of $U$ is trivial
+- ---
+- First, we show that the Picard group of $U$ is trivial.
 - $U$ is homotopy equivalent to $S^3$, so $H^1(U,\Z)=H^2(U,\Z)=0$.
 	- Remark: This is saying that $U$ has no topologically nontrivial line bundle.
 - Next, since $\Delta^2$ is a Stein manifold, or just Dolbeault lemma, we have $H^1(\Delta^2,\mathcal{O})=0$.
