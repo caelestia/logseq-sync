@@ -6,4 +6,6 @@
 - By local cohomology, since we are removing a codimension-2 point, $H^1(U, \mathcal{O})=0$.
 - By the exponential sequence, we conclude that $\operatorname{Pic}(U)=H^1(U,\mathcal{O}^\times)=0$.
 - ---
-- By the
+- Standard result for equivariant Picard group:
+- $$0 \to H^1(G, \mathcal{O}(U)^*) \to \text{Pic}_G(U) \to \text{Pic}(U)$$
+-
