@@ -11,6 +11,7 @@
 		- Hence the classification of topological $\langle\iota\rangle$-vector bundles over $D$ is the same as that of the singleton space $\{0\}$.
 			- $[\mathbb{C}^2, B_G GL(2, \mathbb{C})]_G \cong [\{0\}, B_G GL(2, \mathbb{C})]_G$ where $G=\langle\iota\rangle$.
 		- Then we use the Oka-Grauert principle, introduced below.
+		- We conclude that any $\langle\iota\rangle$-equivariant holomorphic vector bundle is gauge equivalent to
 	- In any case
 - Let $U=D\setminus\{0\}$. Consider two charts $U_x=\{x\neq0\}$ and $U_y=\{y\neq0\}$. We have:
 	- These are Stein manifolds.
