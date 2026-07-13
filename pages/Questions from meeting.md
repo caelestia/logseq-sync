@@ -4,9 +4,10 @@
 	- Gluing the rank $2$ bundles on intersection?
 - Understand the Picard group of A.
 	- Can find $\rho(A)=1$ by considering Jacobian variety of some generic genus $2$ curve?
-		- If $J$ is the Jacobian of a curve, then $J$ is principally polarized giving an isomorphism $J\xrightarrow{\sim}\hat J$.
-		- We have a natural map $\text{NS}(J) \hookrightarrow \text{Hom}(J, \hat{J})$.
-		- Combining these, we see that $\text{NS}(J) \hookrightarrow \operatorname{End}(J)$. So it suffices to find a curve
+		- If $J$ is the Jacobian of a curve, then
+			- $J$ is principally polarized, giving an isomorphism $J\xrightarrow{\sim}\hat J$.
+			- As an abelian variety, we have a natural map $\text{NS}(J) \hookrightarrow \text{Hom}(J, \hat{J})$.
+		- Combining these, we see that $\text{NS}(J) \hookrightarrow \operatorname{End}(J)$. So it suffices to find a curve with $\operatorname{End}(J)=\Z$.
 		- Consider the hyperelliptic curve $y^2=f(x)$ where $x$ is a polynomial with Galois group $S_5$.
 	- Look up https://ncatlab.org/nlab/show/Siegel+upper+half-space.
 		- $\mathcal H_g = \{ X+iY : X, Y \in M_g(\mathbb R), X^t = X,\, Y^t = Y,\, Y \text{ is definite positive} \}$.
