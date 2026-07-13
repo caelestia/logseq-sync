@@ -10,4 +10,4 @@
 	- The parameter space for abelian surfaces is $\mathcal H_2$.
 - [[Appell–Humbert theorem]]:
 	- On a complex torus $A$, the theorem implies that $\operatorname{NS}(X)$ is naturally isomorphic to the group $\{E\in\bigwedge^2\operatorname{Hom}(\Lambda,\Z):E(ix,iy)=E(x,y)\}$.
-	- So we can try to start with a real torus $\mathbb{R}^4, pick a bilinear form $E\in\bigwedge^2\operatorname{Hom}(\Lambda,\Z)$, then try to find a complex structure $J$ such that $E(Jx,Jy)=E(x,y)$ and $E(x,Jx)>0$.
+	- So we can try to start with a real torus $\mathbb{R}^4$, pick a bilinear form $E\in\bigwedge^2\operatorname{Hom}(\Lambda,\Z)$, then try to find a complex structure $J$ such that $E(Jx,Jy)=E(x,y)$ and $E(x,Jx)>0$.
