@@ -11,4 +11,7 @@
 	- Remark: this follows from the five-term exact sequence of the Leray spectral sequence applied to the Borel construction $X \hookrightarrow EG\times_GX \twoheadrightarrow BG$.
 - Since $\operatorname{Pic}(U)=0$, we have $\text{Pic}_G(U)=H^1(G, \mathcal{O}(U)^\times)$.
 - By Hartogs' extension, we have $\mathcal{O}(U)^\times=\mathcal{O}(\Delta^2)^\times$. Here we used the fact that the zero locus of a holomorpic function must have codimension $1$.
+- Now, we have the exponential sequence
+- $$0 \to \mathbb{Z} \to \mathcal{O}(\Delta^2) \xrightarrow{\exp(2\pi i \cdot)} \mathcal{O}(\Delta^2)^\times \to 0$$
+- $$\dots \to H^1(G, \mathcal{O}(\Delta^2)) \to H^1(G, \mathcal{O}(\Delta^2)^\times) \to H^2(G, \mathbb{Z}) \to H^2(G, \mathcal{O}(\Delta^2)) \to \dots$$
 -
