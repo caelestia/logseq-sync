@@ -8,6 +8,8 @@
 	- However, the conclusion that we can suppose $\tilde\iota((x,y),(s,t))=((-x,-y),I_{p,q}(s,t))$ is correct.
 		- Let's see why this is true.
 		- $D$ is equivariantly contractible: $H_t(x,y)=(tx,ty)$ commutes with $\iota$ at every time slice.
+		- Hence topological $\langle\iota\rangle$-vector bundles over $D$ are the same as those over the singleton space $\{0\}$.
+		-
 - Let $U=D\setminus\{0\}$. Consider two charts $U_x=\{x\neq0\}$ and $U_y=\{y\neq0\}$. We have:
 	- These are Stein manifolds.
 		- This follows from the following two standard facts:
