@@ -1,0 +1,2 @@
+- Let $U=\Delta^2\setminus\{0\}$ and $V=U/\iota$.
+-
