@@ -2,7 +2,8 @@
 	- No. If stick to AG, need to work "infinitesimally" i.e. flat base change to local formal scheme.
 - [[Understand how to take the quotient of a flat bundle on A by involution]] .
 - Understand the Picard group of A.
-	- Can find $\rho(A)=1$ by considering Jacobian variety of some genus $2$ curve?
+	- Can find $\rho(A)=1$ by considering Jacobian variety of some generic genus $2$ curve?
+		- Consider the hyperelliptic curve $y^2=f(x)$ where $x$ is a polynomial with Galois group $S_5$.
 	- Look up https://ncatlab.org/nlab/show/Siegel+upper+half-space.
 	- [[Appell–Humbert theorem]]:
 		- On a complex torus $A$, the theorem implies that $\operatorname{NS}(X)$ is naturally isomorphic to the group $\{E\in\bigwedge^2\operatorname{Hom}(\Lambda,\Z):E(ix,iy)=E(x,y)\}$.
