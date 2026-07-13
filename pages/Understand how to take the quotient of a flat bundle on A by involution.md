@@ -80,3 +80,4 @@
 	- Thus
 	- $$T_{xy} = \begin{pmatrix} 1 & 0 \\ 0 & y/x \end{pmatrix} = \begin{pmatrix} 1 & 0 \\ 0 & s \end{pmatrix}$$
 	- That is, the descended bundle is isomorphic to $\mathcal{O}\oplus\pi^*(\mathcal{O}_{\mathbb P^1}(1))$.
+- In both cases, the descended bundle splits as two line bundles over $V$.
