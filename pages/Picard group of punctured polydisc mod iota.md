@@ -14,7 +14,8 @@
 - Now, we have the exponential sequence
 - $$0 \to \mathbb{Z} \to \mathcal{O}(\Delta^2) \xrightarrow{\exp(2\pi i \cdot)} \mathcal{O}(\Delta^2)^\times \to 0$$
 - $$\dots \to H^1(G, \mathcal{O}(\Delta^2)) \to H^1(G, \mathcal{O}(\Delta^2)^\times) \to H^2(G, \mathbb{Z}) \to H^2(G, \mathcal{O}(\Delta^2)) \to \dots$$
-- Since $|G|=2$ and $\mathcal{O}(\Delta^2)$ is a $\mathbb C$-vector space, Mashke's theorem implies that $H^p(G, \mathcal{O}(\Delta^2))=0$ for all $p>0$.
-- We conclude that
+- Since $|G|=2$ and $\mathcal{O}(\Delta^2)$ is a $\mathbb C$-vector space, Maschke's theorem implies that $H^p(G, \mathcal{O}(\Delta^2))=0$ for all $p>0$.
+- It follows that
 - $$\text{Pic}_G(U)=H^1(G,\mathcal{O}(U)^\times)=H^1(G, \mathcal{O}(\Delta^2)^\times)=H^2(\Z/2\Z,\Z)$$
-- Finally, it's
+- Finally, we know $H^2(\Z/2\Z,\Z)=\Z/2\Z$. We conclude that
+- $$\operatorname{Pic}(V) = \operatorname{Pic}_G(U) = \Z/2\Z.$$
