@@ -73,4 +73,5 @@
 	- We conclude that the transition matrix $T_{xy}$, s.t. $\mathbf{e}^y = T_{xy} \mathbf{e}^x$, is given by
 	- $$T_{xy} = \begin{pmatrix} y/x & 0 \\ 0 & y/x \end{pmatrix} = \begin{pmatrix} v & 0 \\ 0 & v \end{pmatrix}$$
 - Case 2, $I_{1,1}$.
-	-
+	- Similarly, the bases are given by
+	- $$e_1^x = \begin{pmatrix} 1 \\ 0 \end{pmatrix}, \quad e_2^x = \begin{pmatrix} 0 \\ x \end{pmatrix}, \quad e_1^y = \begin{pmatrix} 1 \\ 0 \end{pmatrix}, \quad e_2^y = \begin{pmatrix} 0 \\ y \end{pmatrix}$$
