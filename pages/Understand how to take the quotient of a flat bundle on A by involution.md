@@ -2,9 +2,11 @@
 - We want to lift the involution linearly $\iota$ to $\tilde\iota$ on this bundle.
 	- At the fixed point $(0,0)$, the matrix satisfies $M^2=1$, so it is diagonalizable and has eigenvalues $\pm1$.
 	- Let it have $p=0,1,2$ plus one's and $q=2-p$ minus one's. Call this matrix $I_{p,q}$.
-	- --[This is wrong]: Since the bundle trivializes, the fibers can be identified, whence $\tilde\iota$ acts on all points by a matrix of the form $I_{p,q}$. But by continuity they must all be the same.--
-	-
-	- Hence we can suppose $\tilde\iota((x,y),(s,t))=((-x,-y),I_{p,q}(s,t))$.
+	- [This is wrong]: Since the bundle trivializes, the fibers can be identified, whence $\tilde\iota$ acts on all points by a matrix of the form $I_{p,q}$. But by continuity they must all be the same.
+		- Instead, they just need to satisfy $M(x,y)=M(-x,-y)$.
+	- However, the conclusion that we can suppose $\tilde\iota((x,y),(s,t))=((-x,-y),I_{p,q}(s,t))$ is correct.
+		- Let's see why this is true.
+		-
 - Let $U=D\setminus\{0\}$. Consider two charts $U_x=\{x\neq0\}$ and $U_y=\{y\neq0\}$. We have:
 	- These are Stein manifolds.
 		- This follows from the following two standard facts:
