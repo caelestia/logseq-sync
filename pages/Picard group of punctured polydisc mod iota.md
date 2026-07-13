@@ -4,4 +4,6 @@
 	- Remark: This is saying that $U$ has no topologically nontrivial line bundle.
 - Next, since $\Delta^2$ is a Stein manifold, or just Dolbeault lemma, we have $H^1(\Delta^2,\mathcal{O})=0$.
 - By local cohomology, since we are removing a codimension-2 point, $H^1(U, \mathcal{O})=0$.
-- By the exponential sequence, we conclude that $\operatorname{Pic}(U)=H^1(U,\mathcal{O}^\times)=H^$
+- By the exponential sequence, we conclude that $\operatorname{Pic}(U)=H^1(U,\mathcal{O}^\times)=0$.
+- ---
+- By the
