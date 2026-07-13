@@ -1,6 +1,6 @@
 - Consider a polydisc or some nice contractible $0\in D\subset\mathbb C^2$, and the trivial rank $2$ vector bundle $D\times \mathbb C^2$ over it.
 - We want to lift the involution linearly $\iota$ to $\tilde\iota$ on this bundle.
-	- By the Hartogs' extension theorem, $\tilde\iota$ can be defined on the removed fixed point as well, since it has codimension $2$.
+	- Note: Although our goal is to classify the descents over $D\setminus\{0\}$, it suffices to consider over $D$. This is because by the Hartogs' extension theorem, $\tilde\iota$ can always be extended to the removed fixed point since it has codimension $2$.
 	- At the fixed point $(0,0)$, the matrix satisfies $M^2=1$, so it is diagonalizable and has eigenvalues $\pm1$.
 	- Let it have $p=0,1,2$ plus one's and $q=2-p$ minus one's. Call this matrix $I_{p,q}$.
 	- [This is wrong]: Since the bundle trivializes, the fibers can be identified, whence $\tilde\iota$ acts on all points by a matrix of the form $I_{p,q}$. But by continuity they must all be the same.
