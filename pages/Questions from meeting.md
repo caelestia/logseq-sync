@@ -2,7 +2,7 @@
 	- No. If stick to AG, need to work "infinitesimally" i.e. flat base change to local formal scheme.
 - [[Understand how to take the quotient of a flat bundle on A by involution]] .
 	- Gluing the rank $2$ bundles on intersection?
-- Understand the Picard group of A.
+- [[Understand the Picard group of abelian surface]] .
 	- Can find $\rho(A)=1$ by considering Jacobian variety of some generic genus $2$ curve?
 		- If $J$ is the Jacobian of a curve, then
 			- $J$ is principally polarized, giving an isomorphism $J\xrightarrow{\sim}\hat J$.
