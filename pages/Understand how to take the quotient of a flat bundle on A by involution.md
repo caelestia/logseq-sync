@@ -70,5 +70,7 @@
 	- $$e_1^x = \begin{pmatrix} x \\ 0 \end{pmatrix}, \quad e_2^x = \begin{pmatrix} 0 \\ x \end{pmatrix}$$
 	- Similarly, on the chart $U_v$, $y\neq0$, so a basis of $\tilde\iota$-invariant sections is given by
 	- $$e_1^y = \begin{pmatrix} y \\ 0 \end{pmatrix}, \quad e_2^y = \begin{pmatrix} 0 \\ y \end{pmatrix}$$
-	- We conclude that the transition matrix $T_{xy}$, s.t. $\mathbf{e}^y = \mathbf{e}^x T_{xy}$, is given by
+	- We conclude that the transition matrix $T_{xy}$, s.t. $\mathbf{e}^y = T_{xy} \mathbf{e}^x$, is given by
 	- $$T_{xy} = \begin{pmatrix} y/x & 0 \\ 0 & y/x \end{pmatrix} = \begin{pmatrix} v & 0 \\ 0 & v \end{pmatrix}$$
+- Case 2, $I_{1,1}$.
+	-
