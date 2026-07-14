@@ -5,4 +5,4 @@
   :END:
 - [[Kummer is projective]]
 - [[Questions from meeting]]
-- {{embed [[whiteboard 1]]}}
+-
