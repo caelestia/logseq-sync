@@ -16,4 +16,5 @@
 	- [[What is a connection]]
 	- [[Blow up]]
 	- [[Kodaira Embedding Theorem]]
+	- [[Hartshorne exercises]]
 -
