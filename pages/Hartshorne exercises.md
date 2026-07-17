@@ -1,1 +1,1 @@
-- [[Hartshorne II.2.1]]
+- [[Hartshorne II.2]]
