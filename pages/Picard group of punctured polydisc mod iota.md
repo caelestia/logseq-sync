@@ -20,3 +20,7 @@
 - $$\text{Pic}_G(U)=H^1(G,\mathcal{O}(U)^\times)=H^1(G, \mathcal{O}(\Delta^2)^\times)=H^2(\Z/2\Z,\Z)$$
 - Finally, we know $H^2(\Z/2\Z,\Z)=\Z/2\Z$. We conclude that
 - $$\operatorname{Pic}(V) = \operatorname{Pic}_G(U) = \Z/2\Z.$$
+- ---
+- ### Another way to show this
+-
+-
