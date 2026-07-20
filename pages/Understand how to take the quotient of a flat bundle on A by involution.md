@@ -83,4 +83,5 @@
 - In both cases, the descended bundle splits as two line bundles over $V$.
 - ---
 - Now we compute the descent globally.
-- Let $A=\mathbb C^2/\Lambda$, $\rho:\Lambda\to GL_2(\mathbb C)$.
+- Let $A=\mathbb C^2/\Lambda$. Let our flat bundle be given by $\rho:\Lambda\to GL_2(\mathbb C)$.
+-
