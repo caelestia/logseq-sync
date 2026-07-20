@@ -114,12 +114,13 @@
 		- Write $R=\begin{pmatrix}s&t\\0&s\end{pmatrix}$, $t\neq0$.
 		- Let $M=\begin{pmatrix}a&b\\c&d\end{pmatrix}$ and solve $RM=MR^{-1}$ and $M^2=1$.
 			- We get $M=\begin{pmatrix}a&b\\0&-a\end{pmatrix}$ where $a=\pm1$.
-			- In fact, there's only one case up to gauge symmetry: $M=\begin{pmatrix}1&0\\0&-1\end{pmatrix}$.
+			- In fact, there's only two cases up to gauge symmetry: $M=\begin{pmatrix}a&0\\0&-a\end{pmatrix}$.
 				- To see this, recall that a matrix commutes with a Jordan block iff it is also upper-triangular with repeated diagonal entries. Let's conjugate $M$ with $P=\begin{pmatrix}1&y\\0&1\end{pmatrix}$:
 				- $$PMP^{-1}=\begin{pmatrix}a&b-2ay\\0&-a\end{pmatrix}$$
 				- So we take $y=b/(2a)$. Under this new basis, $R$ is still a Jordan block.
 		- Every other $\rho(\alpha)$ must commute with $R$. Thus they are all of the form
 		- $$\rho(\alpha)=\begin{pmatrix}s_\alpha & t_\alpha \\ 0 & s_\alpha\end{pmatrix}$$
-		- That is, the descent contains a line bundle $L$, specified by $\alpha\mapsto s_\alpha$.
+		- That is, $V$ contains a line bundle $L$, specified by $\alpha\mapsto s_\alpha$.
 			- It is moreover a bundle extension
-			- $$0 \to L \to V/\iota \to L \to 0.$$
+			- $$0 \to L \to V \to L \to 0.$$
+		- By our computation of $M$, the descent has 2 sign
