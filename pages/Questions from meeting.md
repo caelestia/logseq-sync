@@ -10,4 +10,6 @@
 - Extend the nontrivial element of $\operatorname{Pic}(U/\iota)=\Z/2\Z$ to $\text{Bl}_0(\mathbb C^2)/\iota$.
 - Complete global part of [[Understand how to take the quotient of a flat bundle on A by involution]].
 - Find the Chern classes of some globally glued bundle.
+- ---
+- $pi_1(A/\{\pm1\})$?
 -
