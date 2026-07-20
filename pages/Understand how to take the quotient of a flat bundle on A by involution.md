@@ -87,8 +87,10 @@
 - Let our flat bundle $V$ be given by $\rho:\Lambda\to GL_2(\mathbb C)$. Then $p^*V\simeq \mathbb C^2\times\mathbb C^2$ is a trivial rank 2 bundle.
 - We want to find $\tilde\iota:V \xrightarrow{\;\sim\;} V$.
 - Since $p^*V$ is simply connected, this can be lifted to $p^*V \to p^*V$, written as
-- $$(z,v) \longmapsto (-z, M(z)v)$$
--
+	- $$(z,v) \longmapsto (-z, M(z)v)$$
+	- satisfying
+		- $M(-z)M(z)=\mathrm{id}$,
+		- $M()\rho(\gamma)M(z)$
 - For simplicity, we assume that $M(z):=M\in GL_2(\mathbb C)$ is a constant.
 	- It doesn't actually matter, by an application of Bochner's principle.
 -
