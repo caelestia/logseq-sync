@@ -94,8 +94,9 @@
 - For simplicity, we assume that $M(z):=M\in GL_2(\mathbb C)$ is a constant.
 	- It doesn't actually matter, by an application of Bochner's principle.
 - $R=\rho(\gamma)$ must satisfy $R^{-1}=M^{-1}RM=MRM$.
+	- The local involution action at a fixed point $x=\frac{1}{2}\gamma$ is given by $M_x=\rho(\gamma)M$.
 - Case 1, $M=I_2$.
 	- We must have $\rho(\gamma)^2=0$ for all $\gamma$. Then we can simultaneously diagonalize these.
-	- This implies our flat bundle splits as a sum of line bundles $V=L_1\oplus L_2$, where each line bundle is determined by choosing $\pm1$ for each of the $4$ generators. In total
+	- This implies our flat bundle splits as a sum of line bundles $V=L_1\oplus L_2$, where each line bundle is determined by choosing $\pm1$ for each of the $4$ generators.
 - Case 2, $M=I_{0,2}$.
 	-
