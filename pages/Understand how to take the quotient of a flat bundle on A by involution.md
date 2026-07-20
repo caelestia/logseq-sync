@@ -103,6 +103,7 @@
 - Case 3, $M\sim I_{1,1}$. This is the non-trivial case?
 	- Case a) Every $\rho(\gamma)$ is diagonalizable. Then they are simultaneously diagonalizable.
 		- Case i) Every $\rho(\gamma)$ is $2$-torsion.
-			- In this case, $\rho(\gamma)$ commutes with $M$.
+			- $R=R^{-1}$, so $\rho(\gamma)$ commutes with $M$.
 			- So $M$ can be simultaneously diagonalized as well.
-		- Case ii) There is some $\rho(\gamma)$ which has eigenvalues $\lambda$, $\lambda
+		- Case ii) There is some $\rho(\gamma)$ which has eigenvalues $\lambda \neq \lambda^{-1}$.
+			- Solve for $M$.
