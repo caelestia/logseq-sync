@@ -99,4 +99,6 @@
 	- We must have $\rho(\gamma)^2=0$ for all $\gamma$. Then we can simultaneously diagonalize these.
 	- This implies our flat bundle splits as a sum of line bundles $V=L_1\oplus L_2$, where each line bundle is determined by choosing $\pm1$ for each of the $4$ generators.
 - Case 2, $M=I_{0,2}$.
+	- Same as Case 1.
+- Case 3, $M=I_{1,1}$. This is the non-trivial case?
 	-
