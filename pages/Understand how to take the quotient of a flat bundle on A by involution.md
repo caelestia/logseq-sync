@@ -113,4 +113,5 @@
 		- In this case it must have repeated eigenvalue $1$ or $-1$.
 		- Write $R=\begin{pmatrix}s&t\\0&s\end{pmatrix}$, $t\neq0$.
 		- Let $M=\begin{pmatrix}a&b\\c&d\end{pmatrix}$ and solve $RM=MR^{-1}$ and $M^2=1$.
-		- We get $M=\begin{}
+			- We get $M=\begin{pmatrix}a&b\\0&-a\end{pmatrix}$ where $a=\pm1$.
+		-
