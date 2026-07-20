@@ -108,4 +108,5 @@
 		- Case ii) There is some $\rho(\gamma)$ which has eigenvalues $\lambda \neq \lambda^{-1}$.
 			- Solve for $M:=\begin{pmatrix}a&b\\c&d\end{pmatrix}$. We get
 			- $$\lambda^{-1}a=\lambda a,\;\;\lambda d=\lambda^{-1}d$$
-			- Thus $a=d=0$. By $M^2=0$ we get $bc=0$.
+			- Thus $a=d=0$. By $M^2=0$ we get $bc=0$. So $M=\begin{pmatrix}0&b\\b^{-1}&0\end{pmatrix}$.
+			-
