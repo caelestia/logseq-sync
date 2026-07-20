@@ -90,7 +90,7 @@
 	- $$(z,v) \longmapsto (-z, M(z)v)$$
 	- satisfying
 		- $M(-z)M(z)=\mathrm{id}$,
-		- $M()\rho(\gamma)M(z)$
+		- $M(z+\gamma)=\rho(-\gamma)M(z)\rho(-\gamma)$.
 - For simplicity, we assume that $M(z):=M\in GL_2(\mathbb C)$ is a constant.
 	- It doesn't actually matter, by an application of Bochner's principle.
 -
