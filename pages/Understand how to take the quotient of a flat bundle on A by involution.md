@@ -111,3 +111,6 @@
 			- Thus $a=d=0$. By $M^2=0$ we get $bc=0$. So $M=\begin{pmatrix}0&b\\b^{-1}&0\end{pmatrix}$.
 	- Case b) There is some $\lambda$ s.t. $\rho(\lambda)$ is not diagonalizable.
 		- In this case it must have repeated eigenvalue $1$ or $-1$.
+		- Write $R=\begin{pmatrix}s&t\\0&s\end{pmatrix}$, $t\neq0$.
+		- Let $M=\begin{pmatrix}a&b\\c&d\end{pmatrix}$ and solve $RM=MR^{-1}$ and $M^2=1$.
+		- We get $M=\begin{}
