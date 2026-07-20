@@ -23,5 +23,6 @@
 - ---
 - ### Another way to show this
 - We can first show that $\operatorname{Pic}(Y)=\Z$, where $Y$ is the Eguchi-Hanson space, and use
-- $$\Z \to \operatorname{Pic}(Y) \to \operatorname{Pic}()$$
+- $$\Z \xrightarrow{[\text{excep}]} \operatorname{Pic}(Y) \to \operatorname{Pic}(V) \to 0$$
+- In fact, the vector bundle projection $Y\to\mathbb P^1$ induces an isomorphism of Picard groups, and the exceptional divisor corresponds to $\mathcal{O}_\mathbb{P}(-2)$.
 -
