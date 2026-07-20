@@ -123,4 +123,5 @@
 		- That is, $V$ contains a line bundle $L$, specified by $\alpha\mapsto s_\alpha$.
 			- It is moreover a bundle extension
 			- $$0 \to L \to V \to L \to 0.$$
-		- By our computation of $M$, the descent has 2 sign
+		- By our computation of $M$, the descent has 2 possibilities:
+			- $$0 \to L^{(a)} \to V^{(\iota)} \to L^{(-a)} \to 0$$
