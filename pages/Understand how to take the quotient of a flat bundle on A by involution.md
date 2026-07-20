@@ -86,5 +86,5 @@
 - Let $A=\mathbb C^2/\Lambda$ and $p:\mathbb C^2 \to A$.
 - Let our flat bundle $V$ be given by $\rho:\Lambda\to GL_2(\mathbb C)$. Then $p^*V\simeq \mathbb C^2\times\mathbb C^2$ is a trivial rank 2 bundle.
 - We want to find $\tilde\iota:V \xrightarrow{\;\sim\;} V$.
-- Since $p^*V$ is simply connected, this can be lifted to $p^*V \to p^*V$.
--
+- Since $p^*V$ is simply connected, this can be lifted to $p^*V \to p^*V$, written as
+- $$(z,v) \longmapsto (-z, M(z)$$
