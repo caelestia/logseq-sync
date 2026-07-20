@@ -13,4 +13,4 @@
 - ---
 - $\pi_1(A/\{\pm1\})$?
 - Can $c_1(V)$ cancel with $[E_i]$?
--
+- Is descent of $V$ flat?
