@@ -103,3 +103,4 @@
 - Case 3, $M\sim I_{1,1}$. This is the non-trivial case?
 	- Case a) Every $\rho(\gamma)$ is diagonalizable. Then they are simultaneously diagonalizable.
 		- Case i) Every $\rho(\gamma)$ is $2$-torsion. This is the same as previous case.
+		- Case ii) There is some
