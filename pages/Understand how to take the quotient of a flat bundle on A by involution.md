@@ -118,4 +118,6 @@
 				- To see this, recall that a matrix commutes with a Jordan block iff it is also upper-triangular with repeated diagonal entries. Let's conjugate $M$ with $P=\begin{pmatrix}1&y\\0&1\end{pmatrix}$:
 				- $$PMP^{-1}=\begin{pmatrix}a&b-2ay\\0&-a\end{pmatrix}$$
 				- So we take $y=b/(2a)$. Under this new basis, $R$ is still a Jordan block.
-		- s
+		- Every other $\rho(\alpha)$ must commute with $R$. Thus they are all of the form
+		- $$\rho(\alpha)=\begin{pmatrix}s_\alpha & t_\alpha \\ 0 & s_\alpha\end{pmatrix}$$
+		- That is, the descent contains a bundle specified by $s_\alpha$
