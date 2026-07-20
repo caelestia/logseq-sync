@@ -22,5 +22,6 @@
 - $$\operatorname{Pic}(V) = \operatorname{Pic}_G(U) = \Z/2\Z.$$
 - ---
 - ### Another way to show this
--
+- We can first show that $\operatorname{Pic}(Y)=\Z$, where $Y$ is the Eguchi-Hanson space, and use
+- $$\Z \to \operatorname{Pic}(Y) \to \operatorname{Pic}()$$
 -
