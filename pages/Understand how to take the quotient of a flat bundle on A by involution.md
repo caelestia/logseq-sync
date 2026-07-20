@@ -109,4 +109,5 @@
 			- Solve for $M:=\begin{pmatrix}a&b\\c&d\end{pmatrix}$. We get
 			- $$\lambda^{-1}a=\lambda a,\;\;\lambda d=\lambda^{-1}d$$
 			- Thus $a=d=0$. By $M^2=0$ we get $bc=0$. So $M=\begin{pmatrix}0&b\\b^{-1}&0\end{pmatrix}$.
-	- Case b)
+	- Case b) There is some $\lambda$ s.t. $\rho(\lambda)$ is not diagonalizable.
+		- In this case it must have repeated eigenvalue $1$ or $-1$.
