@@ -106,4 +106,6 @@
 			- $R=R^{-1}$, so $\rho(\gamma)$ commutes with $M$.
 			- So $M$ can be simultaneously diagonalized as well.
 		- Case ii) There is some $\rho(\gamma)$ which has eigenvalues $\lambda \neq \lambda^{-1}$.
-			- Solve for $M$.
+			- Solve for $M:=\begin{pmatrix}a&b\\c&d\end{pmatrix}$. We get
+			- $$\lambda^{-1}a=\lambda a,\;\;\lambda d=\lambda^{-1}d$$
+			- Thus $a=d=0$. By $M^2=0$ we get $bc=0$.
