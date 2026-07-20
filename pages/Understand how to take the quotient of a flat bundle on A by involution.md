@@ -93,4 +93,4 @@
 		- $M(z+\gamma)=\rho(-\gamma)M(z)\rho(-\gamma)$.
 - For simplicity, we assume that $M(z):=M\in GL_2(\mathbb C)$ is a constant.
 	- It doesn't actually matter, by an application of Bochner's principle.
--
+- $R=\rho(\gamma)$ must satisfy $R^{-1}=M^{-1}RM=MRM$
