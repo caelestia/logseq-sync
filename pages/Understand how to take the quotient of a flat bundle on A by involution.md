@@ -96,6 +96,6 @@
 - $R=\rho(\gamma)$ must satisfy $R^{-1}=M^{-1}RM=MRM$.
 - Case 1, $M=I_2$.
 	- We must have $\rho(\gamma)^2=0$ for all $\gamma$. We can simultaneously diagonalize these.
-	- Then both $\rho(\lambda)
-- Case 2, $M=I_{1,1}$.
+	- Then the flat bundle is characterized by the signatures of $\rho(\lambda_1)$ and $\rho(\lambda_2)$.
+- Case 2, $M=I_{0,2}$.
 	-
