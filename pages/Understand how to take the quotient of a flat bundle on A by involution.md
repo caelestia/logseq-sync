@@ -102,4 +102,4 @@
 	- Same as Case 1.
 - Case 3, $M=I_{1,1}$. This is the non-trivial case?
 	- Case a) Every $\rho(\gamma)$ is diagonalizable. Then they are simultaneously diagonalizable.
-		-
+		- If $
