@@ -100,6 +100,6 @@
 	- This implies our flat bundle splits as a sum of line bundles $V=L_1\oplus L_2$, where each line bundle is determined by choosing $\pm1$ for each of the $4$ generators.
 - Case 2, $M=I_{0,2}$.
 	- Same as Case 1.
-- Case 3, $M=I_{1,1}$. This is the non-trivial case?
+- Case 3, $M\sim I_{1,1}$. This is the non-trivial case?
 	- Case a) Every $\rho(\gamma)$ is diagonalizable. Then they are simultaneously diagonalizable.
-		- If $
+		- Case i) Every $\rho(\gamma)$ is $2$-torsion. This is the same as previous case.
