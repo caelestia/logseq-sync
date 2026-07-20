@@ -82,4 +82,5 @@
 	- That is, the descended bundle is isomorphic to $\mathcal{O}\oplus\pi^*(\mathcal{O}_{\mathbb P^1}(1))$.
 - In both cases, the descended bundle splits as two line bundles over $V$.
 - ---
--
+- Now we compute the descent globally.
+- Let $A=\mathbb C^2/\Lambda$, $\rho:\Lambda\to GL_2(\mathbb C)$.
