@@ -120,4 +120,6 @@
 				- So we take $y=b/(2a)$. Under this new basis, $R$ is still a Jordan block.
 		- Every other $\rho(\alpha)$ must commute with $R$. Thus they are all of the form
 		- $$\rho(\alpha)=\begin{pmatrix}s_\alpha & t_\alpha \\ 0 & s_\alpha\end{pmatrix}$$
-		- That is, the descent contains a bundle specified by $s_\alpha$
+		- That is, the descent contains a line bundle $L$, specified by $\alpha\mapsto s_\alpha$.
+			- It is moreover a bundle extension
+			- $$0 \to L \to V/\iota \to L \to 0.$$
