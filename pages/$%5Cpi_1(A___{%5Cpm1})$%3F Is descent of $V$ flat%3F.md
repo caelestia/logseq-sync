@@ -7,5 +7,8 @@
 - Of course, this is just using the fact that $B \to B/\Z_2$ is a covering space.
 - Then $\Z_2$ is just the group of deck transformations. Its conjugation action on $\Lambda$ is precisely the action $(g \cdot \gamma) (t) = g\gamma(t)$ where $\gamma$ is a path in $B$. Hence its generator just acts as the involution
 - $$\iota : \Lambda \to \Lambda, \;\; \lambda \mapsto -\lambda$$
-- Then we can show that the SES must split. The reason is $\Lambda$ doesn't have any $2$-torsion. We can either show this directly, or compute $H^2(\Z_2;\Lambda)$.
--
+- Then we can show that the SES must split. The reason is $\Lambda$ doesn't have any $2$-torsion. We can either show this directly, or compute $H^2(\Z_2;\Lambda)=H^0(\Z_2;\Lambda)=\Lambda^{\Z_2}=0$.
+- We conclude that
+- $$\pi_1(B/\Z_2) \simeq \Lambda \rtimes \Z_2.$$
+- ---
+- So indeed every descended bundle from a flat bundle
