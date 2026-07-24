@@ -1,0 +1,2 @@
+- Let $A=\mathbb C^2/\Lambda$ be a complex torus, $B=A\setminus A[2]$.
+-

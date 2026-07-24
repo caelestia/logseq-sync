@@ -11,6 +11,6 @@
 - Complete global part of [[Understand how to take the quotient of a flat bundle on A by involution]].
 - Find the Chern classes of some globally glued bundle.
 - ---
-- $\pi_1(A/\{\pm1\})$?
+- [[$\pi_1(A/\{\pm1\})$? Is descent of $V$ flat?]]
 - Can $c_1(V)$ cancel with $[E_i]$?
-- Is descent of $V$ flat?
+-
