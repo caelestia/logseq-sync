@@ -5,4 +5,4 @@
 - since $\pi_1(\Z_2)=\pi_0(B)=0$, we have an SES
 - $$0 \to \Lambda \to \pi_1(B/\Z_2) \to \Z_2 \to 0$$
 - Of course, this is just using the fact that $B \to B/\Z_2$ is a covering space.
-- Then $\Z_2$ is just the group of deck transformations.
+- Then $\Z_2$ is just the group of deck transformations. Its conjugation action on $\Lambda$ is precisely the action $(g \cdot \gamma) (t) = g\gamma(t)$
