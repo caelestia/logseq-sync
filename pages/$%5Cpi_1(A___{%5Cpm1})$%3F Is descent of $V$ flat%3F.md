@@ -5,6 +5,8 @@
 - since $\pi_1(\Z_2)=\pi_0(B)=0$, we have an SES
 - $$0 \to \Lambda \to \pi_1(B/\Z_2) \to \Z_2 \to 0$$
 - Of course, this is just using the fact that $B \to B/\Z_2$ is a covering space.
-- Then $\Z_2$ is just the group of deck transformations. Its conjugation action on $\Lambda$ is precisely the action $(g \cdot \gamma) (t) = g\gamma(t)$ where $\gamma$ is a path in $B$. Hence it is just the involution
+- Then $\Z_2$ is just the group of deck transformations. Its conjugation action on $\Lambda$ is precisely the action $(g \cdot \gamma) (t) = g\gamma(t)$ where $\gamma$ is a path in $B$. Hence its generator just acts as the involution
 - $$\iota : \Lambda \to \Lambda, \;\; \lambda \mapsto -\lambda$$
-- Then we can show that the SES must split. This
+- Then we can show that the SES must split. The reason is $\Lambda$ doesn't have any $2$-torsion. We can either show this directly, or compute
+- $$H^2(\Z_2;\Lambda)$$
+-
