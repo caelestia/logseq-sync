@@ -11,4 +11,5 @@
 - We conclude that
 - $$\pi_1(B/\Z_2) \simeq \Lambda \rtimes \Z_2.$$
 - ---
-- So indeed every descended bundle from a flat bundle
+- So indeed every descended bundle (we constructed in [[Understand how to take the quotient of a flat bundle on A by involution]] ) from a flat bundle on $A$ is a flat bundle on $B/\iota$.
+- In particular, all of its (real) Chern classes vanish.
