@@ -1,5 +1,7 @@
 - Let $A=\mathbb C^2/\Lambda$ be a complex torus, $B=A\setminus A[2]$.
 - Then $\pi_1(B)=\pi_1(A)\simeq\Lambda$ since $A[2]$, which is $16$ discrete points, has real codimension $4$.
 - By the homotopy LES
-- $$\pi_1(\Z_2) \to \pi_1(B) \to \pi_1(B/\Z_2) \to \pi_0(\Z_2) \to \pi_$$
-- since $
+- $$\pi_1(\Z_2) \to \pi_1(B) \to \pi_1(B/\Z_2) \to \pi_0(\Z_2) \to \pi_0(B)$$
+- since $\pi_1(\Z_2)=\pi_0(B)=0$, we have an SES
+- $$0 \to \Lambda \to \pi_1(B/\Z_2) \to \Z_2 \to 0$$
+- Now,
