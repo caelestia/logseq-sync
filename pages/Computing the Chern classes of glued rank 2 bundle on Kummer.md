@@ -6,6 +6,10 @@
 - $$c_1(\mathcal{E}_i) = (m_{i,1}+m_{i,2}) [E_i]$$
 - $$c_2(\mathcal{E_i}) = m_{i,1}m_{i,2} E_i^2 = -2m_{i,1}m_{i,2}$$
 - We now glue these results into the global Chern class, leveraging the fact that the bulk part is flat. Denote the curvature $2$-form as $\Omega_\mathcal{E}$. We have
-- $$c_1(\mathcal{E})  = \left[\frac{i}{2\pi}\mathrm{Tr}(\Omega_\mathcal{E})\right]  =  \sum_{j=1}^{16} \left[\frac{i}{2\pi}\mathrm{Tr}(\Omega_{\mathcal{E}_j})\right]$$
+- $$c_1(\mathcal{E})  = \left[\frac{i}{2\pi}\mathrm{Tr}(\Omega_\mathcal{E})\right]  =  \sum_{j=1}^{16} \left[\frac{i}{2\pi}\mathrm{Tr}(\Omega_{\mathcal{E}_j})\right] = \sum_{j=1}^{16} c_1(\mathcal{E}_j) $$
 	- Since $\Omega_{\mathcal{E}}=\sum_{j=1}^{16}\Omega_{\mathcal{E}_j}$ holds literally.
-- $$1c_2(\mathcal{E}) = \frac{1}{8\pi^2} \int_{X} \mathrm{Tr} (\Omega_\mathcal{E} \wedge \Omega_\mathcal{E}) = \frac{1}{8\pi^2} \sum_{j=1}^{16} \mathrm{Tr}(\Omega_{\mathcal{E}_j} \wedge \Omega_{\mathcal{E}_j}) $$
+- $$c_2(\mathcal{E}) = \frac{1}{8\pi^2} \int_{X} \mathrm{Tr} (\Omega_\mathcal{E} \wedge \Omega_\mathcal{E}) = \frac{1}{8\pi^2} \int_X \sum_{j=1}^{16} \mathrm{Tr}(\Omega_{\mathcal{E}_j} \wedge \Omega_{\mathcal{E}_j}) = \sum_{j=1}^{16} c_2(\mathcal{E}_j)$$
+- We conclude that
+- $$c_1(\mathcal{E}) = \sum_{j=1}^{16} (m_{i,1}+m_{i,2}) [E_j] $$
+- $$c_2(\mathcal{E}) = -2 \sum_{j=1}^{16} m_{i,1}m_{i,2} $$
+-
