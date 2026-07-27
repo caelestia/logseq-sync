@@ -1,2 +1,5 @@
 - ![image.png](../assets/image_1785128116799_0.png)
-- The slope $\mu(E)$ is
+- Recall:
+	- The $H = n\pi^*M - \sum_{i=1}^{16} E_i$
+	- The slope is $\mu(\mathcal{E}) = \sum_{i=1}^{16} (m_{i,1} + m_{i,2})$.
+	-
