@@ -1,0 +1,2 @@
+- ![image.png](../assets/image_1785128116799_0.png)
+- The slope $\mu(E)$ is
