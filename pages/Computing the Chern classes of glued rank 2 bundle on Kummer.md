@@ -6,5 +6,6 @@
 - $$c_1(\mathcal{E}_i) = (m_{i,1}+m_{i,2}) [E_i]$$
 - $$c_2(\mathcal{E_i}) = m_{i,1}m_{i,2} E_i^2 = -2m_{i,1}m_{i,2}$$
 - We now glue these results into the global Chern class, leveraging the fact that the bulk part is flat. Denote the curvature $2$-form as $\Omega_\mathcal{E}$. We have
-- $$c_1(\mathcal{E})  = [\frac{i}{2\pi}\mathrm{Tr}(\Omega_\mathcal{E})]  =  \sum_{i=1}^{16} \int_{Z\cap U_i} c_1(\mathcal{E})$$
+- $$c_1(\mathcal{E})  = \left[\frac{i}{2\pi}\mathrm{Tr}(\Omega_\mathcal{E})\right]  =  \sum_{j=1}^{16} \left[\frac{i}{2\pi}\mathrm{Tr}(\Omega_{\mathcal{E}_j})\right]$$
+	- Since $\Omega_{\mathcal{E}}=\sum_{j=1}^{16}\Omega_{\mathcal{E}_j}$ holds literally.
 -
