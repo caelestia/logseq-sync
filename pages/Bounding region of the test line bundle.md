@@ -1,5 +1,7 @@
 - ![image.png](../assets/image_1785128116799_0.png)
 - Recall:
-	- The $H = n\pi^*M - \sum_{i=1}^{16} E_i$
+	- The first Chern class is $c_1(\mathcal{E})=\sum_{i=1}^{16}(m_{i,1}+m_{i,2})[E_i]$.
+	- The ample divisor is $H = n\pi^*M - \sum_{i=1}^{16} E_i$.
 	- The slope is $\mu(\mathcal{E}) = \sum_{i=1}^{16} (m_{i,1} + m_{i,2})$.
 	-
+-
