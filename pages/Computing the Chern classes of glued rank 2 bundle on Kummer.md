@@ -1,0 +1,2 @@
+- The bundle $\mathcal{E}$ is obtained by gluing.
+- On the bulk part $(A\setminus A[2])/\iota$, $\mathcal{E}$ is isorm
