@@ -1,4 +1,6 @@
 - The bundle $\mathcal{E}$ is obtained by gluing.
 - On the bulk part $(A\setminus A[2])/\iota$, $\mathcal{E}$ is a flat bundle, so all Chern classes vanish by Chern-Weil.
 - On the Eguchi-Hanson space nhood around some $E_i$, $\mathcal{E}$ is isomorphic to $m_{i,1}\mathcal{O}(E_i) \oplus m_{i,2}\mathcal{O}(E_i)$.
--
+- Since the total Chern class is multiplicative, we see that locally
+- $$c(\mathcal{E}_i) = (1+m_{i,1}[E_i]) \cup (1+m_{i,2}[E_i])
+- $$
