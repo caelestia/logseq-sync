@@ -5,4 +5,7 @@
 	- The ample divisor is $H = n\pi^*M - \sum_{i=1}^{16} E_i$.
 	- The slope is $\mu(\mathcal{E}) = \sum_{i=1}^{16} (m_{i,1} + m_{i,2})$.
 	-
+- ---
+- Suppose that $\mathcal{L}$ is a line bundle such that $\mathcal{E}\otimes\mathcal{L}$ has a global section.
+- Then $\mathcal{L}^{-1} \hookrightarrow \mathcal{E}$ as a subbundle.
 -
