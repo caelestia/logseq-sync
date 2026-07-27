@@ -4,7 +4,11 @@
 	- The second Chern class is $c_2(\mathcal{E})=-2\sum_{i=1}^{16}m_{i,1}m_{i,2}$.
 	- The ample divisor is $H = n\pi^*M - \sum_{i=1}^{16} E_i$.
 	- The slope is $\mu(\mathcal{E}) = \sum_{i=1}^{16} (m_{i,1} + m_{i,2})$.
-	-
+-
+- ----
+- Write $L=\pi^*V + S$
+- Assuming the bulk part $\pi^*V$ is $0$, we can get a bound on
+-
 - ---
 - Suppose that $\mathcal{L}$ is a line bundle such that $\mathcal{E}\otimes\mathcal{L}$ has a global section.
 - Then $\mathcal{M} := \mathcal{L}^{-1} \hookrightarrow \mathcal{E}$ as a subbundle.
