@@ -8,7 +8,8 @@
 - ----
 - Write $L=\pi^*V + \sum_{i=1}^{16} \lambda_i E_i$.
 	- The condition $\deg_H(L)\leq-\mu(E)$ becomes $2\sum\lambda_i \leq -\sum_{i=1}^{16}(m_{i,1}+m_{i,2})$.
-- Assuming the bulk part $\pi^*V$ is $0$, we can get a bound on the indivdual $\lambda_i$'s. This will immediately reduce the search
+- Idea: assume the bulk part $\pi^*V$ is $0$.
+	- Then we can get a bound on the individual $\lambda_i$'s. This will immediately reduce the search to a finite one.
 -
 - ---
 - Suppose that $\mathcal{L}$ is a line bundle such that $\mathcal{E}\otimes\mathcal{L}$ has a global section.
