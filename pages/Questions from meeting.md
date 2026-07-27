@@ -12,5 +12,5 @@
 - Find the Chern classes of some globally glued bundle.
 - ---
 - [[$\pi_1(A/\{\pm1\})$? Is descent of $V$ flat?]]
-- Can $c_1(V)$ cancel with $[E_i]$?
+	- Can $c_1(V)$ cancel with $[E_i]$? No, not on the Kummer surface, also we only care about the de Rham Chern classes not integral ones or Chow ring.
 -
