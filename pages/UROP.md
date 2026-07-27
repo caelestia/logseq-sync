@@ -4,5 +4,5 @@
   CLOCK: [2026-07-06 Mon 14:03:05]
   :END:
 - [[Kummer is projective]]
-- [[Questions from meeting]]
 - [[Brief summary 2026/Jul/26]]
+- [[Questions from meeting]]

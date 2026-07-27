@@ -15,4 +15,6 @@
 	- Can $c_1(V)$ cancel with $[E_i]$? No, not on the Kummer surface, also we only care about the de Rham Chern classes not integral ones or Chow ring.
 - [[Computing the Chern classes of glued rank 2 bundle on Kummer]]
 - [[Bounding region of the test line bundle]]
+- ---
+- [[Computing h0 in Macaulay]]
 -
