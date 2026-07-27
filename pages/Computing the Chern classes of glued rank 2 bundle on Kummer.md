@@ -6,5 +6,5 @@
 - $$c_1(\mathcal{E}_i) = (m_{i,1}+m_{i,2}) [E_i]$$
 - $$c_2(\mathcal{E_i}) = m_{i,1}m_{i,2} E_i^2 = -2m_{i,1}m_{i,2}$$
 - We now glue these results into the global Chern class, leveraging the fact that the bulk part is flat.
-- $$\int_Z c_1(\mathcal{E}) = $$
+- $$\int_Z c_1(\mathcal{E}) = \sum_{i=1}^{16} \int_{Z\cap U_i} c_1(\mathcal{E})$$
 -
