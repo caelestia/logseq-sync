@@ -21,3 +21,4 @@
 -
 - On a nice scheme: If a line bundle has nontrivial $H^0$, then is effective? For example if invertible sheaf associated to the divisor $nY$ has a nonzero section, where $Y$ is a subscheme of codim $1$, then do we know $n \geq 0$?
 - I'm interested in the following example. The scheme $X$ is the total space of a line bundle over $Y=\P^1$, and $Y$ embeds as the zero section. Then I know pullback gives $\Z \simeq Pic(Y) \simeq Pic(X)$. I suppose $\mathcal{O}(Y)=\pi^*\mathcal{O}(1)$ under this correspondence. (is this correct?) Then I wonder if the claim is correct.
+- ![image.png](../assets/image_1785414532026_0.png)
