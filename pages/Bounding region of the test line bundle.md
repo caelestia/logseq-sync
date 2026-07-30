@@ -12,7 +12,8 @@
 	- Then we can get a bound on the individual $\lambda_i$'s. This will immediately reduce the search to a finite one.
 - In the open nhood of some $E_i$ excluding all other $E_j$'s, the bundle is
 - $$\mathcal{O}((m_{i,1}+\lambda_i)E_i)\oplus \mathcal{O}((m_{i,2}+\lambda_i)E_i)$$
-- $H
+- As an additive functor, $H^0$ commutes with the biproduct, so assuming $H^0\neq0$ we get either $H^0((m_{i,1}+\lambda_i)E_i)\neq0$ or $H^0((m_{i,2}+\lambda_i)E_i)\neq0$.
+-
 - ---
 - Suppose that $\mathcal{L}$ is a line bundle such that $\mathcal{E}\otimes\mathcal{L}$ has a global section.
 - Then $\mathcal{M} := \mathcal{L}^{-1} \hookrightarrow \mathcal{E}$ as a subbundle.
