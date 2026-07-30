@@ -15,10 +15,8 @@
 - As an additive functor, $H^0$ commutes with the biproduct, so assuming $H^0\neq0$ we get either $H^0((m_{i,1}+\lambda_i)E_i)\neq0$ or $H^0((m_{i,2}+\lambda_i)E_i)\neq0$.
 - However this doesn't seem to work! Any integral multiple of $E_i$ is effective in the Eguchi-Hanson space:
 	- Let's see why this is true.
-		- The Eguchi-Hanson space is $X=\text{Tot}\mathcal{O}_{\mathbb P^1}(1-2)$.
-			- We have the isomorphism $\Z=\text{Pic}(\mathbb P^1) \xrightarrow{\pi^*} \text{Pic}(X)$.
-			- The image of $\pi^*$ is given as divisor by a single fiber of $\pi:X\to\mathbb P^1$. Let's call this $F$.
-	- We view the
+	- We can view the Eguchi-Hanson space as the strict transform of the cone $uv=w^2$ in the blow-up at origin of the affine space $\text{Spec } \mathbb C[u,v,w]$.
+	- Then the coordinate function $u$, pulled back, will vanish with order $0$ on the exceptional curve $E$ and with order $2$ on the strict transform of the line $\{x=0\}$,
 - ---
 - Suppose that $\mathcal{L}$ is a line bundle such that $\mathcal{E}\otimes\mathcal{L}$ has a global section.
 - Then $\mathcal{M} := \mathcal{L}^{-1} \hookrightarrow \mathcal{E}$ as a subbundle.
