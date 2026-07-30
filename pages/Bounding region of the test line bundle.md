@@ -16,7 +16,9 @@
 - However this doesn't seem to work! Any integral multiple of $E_i$ is effective in the Eguchi-Hanson space:
 	- Let's see why this is true.
 	- We can view the Eguchi-Hanson space as the strict transform of the cone $uv=w^2$ in the blow-up at origin of the affine space $\text{Spec } \mathbb C[u,v,w]$.
-	- Then the coordinate function $u$, pulled back, will vanish with order $0$ on the exceptional curve $E$ and with order $2$ on the strict transform of the line $\{x=0\}$,
+	- Then the coordinate function $u$, pulled back, will vanish with order $1$ on the exceptional curve $E$ and with order $2$ on the strict transform $\tilde L$ of the line $\{x=0\}$, thus proving
+	- $$E + 2\tilde L = (u) \sim 0$$
+	- In particular, $-E \sim 2\tilde L$ is effective.
 - ---
 - Suppose that $\mathcal{L}$ is a line bundle such that $\mathcal{E}\otimes\mathcal{L}$ has a global section.
 - Then $\mathcal{M} := \mathcal{L}^{-1} \hookrightarrow \mathcal{E}$ as a subbundle.
