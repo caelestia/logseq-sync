@@ -10,7 +10,9 @@
 	- The condition $\deg_H(L)\leq-\mu(E)$ becomes $2\sum\lambda_i \leq -\sum_{i=1}^{16}(m_{i,1}+m_{i,2})$.
 - Idea: assume the bulk part $\pi^*V$ is $0$.
 	- Then we can get a bound on the individual $\lambda_i$'s. This will immediately reduce the search to a finite one.
-- In the open nhood of some $E_i$ excluding all other $E_j$'s, the bundle is $\mathcal{O}(E_i)$
+- In the open nhood of some $E_i$ excluding all other $E_j$'s, the bundle is
+- $$\mathcal{O}((m_{i,1}+\lambda_i)E_i)\oplus \mathcal{O}((m_{i,2}+\lambda_i)E_i)$$
+- $H
 - ---
 - Suppose that $\mathcal{L}$ is a line bundle such that $\mathcal{E}\otimes\mathcal{L}$ has a global section.
 - Then $\mathcal{M} := \mathcal{L}^{-1} \hookrightarrow \mathcal{E}$ as a subbundle.
