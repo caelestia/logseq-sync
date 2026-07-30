@@ -13,7 +13,8 @@
 - In the open nhood of some $E_i$ excluding all other $E_j$'s, the bundle is
 - $$\mathcal{O}((m_{i,1}+\lambda_i)E_i)\oplus \mathcal{O}((m_{i,2}+\lambda_i)E_i)$$
 - As an additive functor, $H^0$ commutes with the biproduct, so assuming $H^0\neq0$ we get either $H^0((m_{i,1}+\lambda_i)E_i)\neq0$ or $H^0((m_{i,2}+\lambda_i)E_i)\neq0$.
--
+- However this doesn't seem to work! Any integral multiple of $E_i$ is effective in the Eguchi-Hanson space:
+	- Let's see why this is true. The Eguchi-Hanson space is $X=\text{Tot}\mathcal{O}_{\mathbb P^1}(1)$.
 - ---
 - Suppose that $\mathcal{L}$ is a line bundle such that $\mathcal{E}\otimes\mathcal{L}$ has a global section.
 - Then $\mathcal{M} := \mathcal{L}^{-1} \hookrightarrow \mathcal{E}$ as a subbundle.
