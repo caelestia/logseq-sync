@@ -6,3 +6,4 @@
 - [[Kummer is projective]]
 - [[Brief summary 2026/Jul/26]]
 - [[Questions from meeting]]
+-
