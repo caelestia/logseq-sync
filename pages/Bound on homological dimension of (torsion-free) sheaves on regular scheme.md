@@ -15,4 +15,5 @@
 	- id:: 6a6f5160-f4fb-4af2-a7d2-02b67c95bb9d
 	  $$\operatorname{hd}(F) = \max\{\operatorname{pd}(F_x):x\in X\} \leq \dim(X).$$
 - Now suppose $F$ is torsion free. We will show that
-- $$\operatorname{hd}(F) \leq \max\{\operatorname{pd}(F_x):x\in X\} \leq \dim(X).$$
+- $$\operatorname{hd}(F) \leq \dim(X) - 1.$$
+	- Proof. Fix $x$ and suppose $d\geq1$. Since $R$ is a domain and $F_x$ is torsin
