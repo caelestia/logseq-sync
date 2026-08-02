@@ -25,4 +25,4 @@
 - Then $\mathcal{L}^{-1} \hookrightarrow \mathcal{E}$ as a subsheaf.
 - Try to bound the self-intersection $\mathcal{L}^2$ as follows.
 - Take the saturation of $\mathcal{L}^{-1}$ in $\mathcal{E}$, call it $\mathcal{M}$.
--
+- Claim. This $\mathcal{M}$ is an invertible sheaf.
