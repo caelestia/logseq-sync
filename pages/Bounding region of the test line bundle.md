@@ -50,7 +50,7 @@
 	- By definition, $\mathcal{Q}$ is torsion-free. So it satisfies condition 1). By condition 4), we get a SES
 	- $$0 \to \mathcal{Q} \to \mathcal{Q}^{DD} \to \mathcal{T} \to 0$$
 	- By condition 3), $\mathcal{Q}$ satisfies Serre's condition $S_{1,0}$. With the same argument as above, this implies that the set of singular points $\{x\in X:\operatorname{dh}(\mathcal{Q}_x)\neq0\}$ has codimension $\geq2$.
-	- At every point $x$ where $\mathcal{Q}_x$ is free, $Thus $\operatorname{dim}(\mathcal{T})=0$.
+	- At every point $x$ where $\mathcal{Q}_x$ is free, $\mathcal Q_x\longrightarrow\mathcal Q_x^{DD}$ is an isomorphism. Thus $\operatorname{dim}(\mathcal{T})=0$.
 	- We tensor the sequence with $\mathcal{Q}^D$. This gives
 	- $$0 \to \mathcal{Q\otimes Q}^D \to \mathcal{O}_X \to \mathcal{T\otimes Q}^D \to 0$$
 	- Let $\mathcal{I}_Z:=\mathcal{Q}\otimes\mathcal{Q}^D$, then $Z$ has dimension $0$. The result follows. QED
