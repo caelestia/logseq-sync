@@ -51,4 +51,7 @@
 	- $$0 \to \mathcal{Q} \to \mathcal{Q}^{DD} \to \mathcal{T} \to 0$$
 	- By condition 3), $\mathcal{Q}$ satisfies Serre's condition $S_{1,0}$. With the same argument as above, this implies that the set of singular points $\{x\in X:\operatorname{dh}(\mathcal{Q}_x)\neq0\}$ has codimension $\geq2$.
 	- Thus $\operatorname{codim}(\mathcal{T})\geq2$.
+	- We tensor the sequence with $\mathcal{Q}^D$. This gives
+	- $$0 \to \mathcal{Q\otimes Q}^D \to \mathcal{O}_X \to \mathcal{T\otimes Q}^D \to 0$$
+	- Let $\mathcal{I}_Z:=\mathcal{Q}\otimes\mathcal{Q}^D$, then $\mathcal{O}_Z
 - Note: These statements are written in loc. cit. Example 1.1.16.
