@@ -57,3 +57,4 @@
 - Note: These statements are written in loc. cit. Example 1.1.16.
 - Chern classes. For the ideal sheaf $\mathcal{I}_Z$, we have
 - $$c(\mathcal{I}_Z) = 1 + [Z]$$
+-
