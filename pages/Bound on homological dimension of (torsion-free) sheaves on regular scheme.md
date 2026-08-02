@@ -19,4 +19,5 @@
 	- Proof. Fix $x\in X$. If $d=0$, $R$ is a field, and trivially $\text{gl.dim}=0$. So suppose $d\geq1$. Then we can pick some $a\in\mathfrak{m}_x$.
 	- Since $R$ is a domain and $F_x$ is torsion-free, $a$ must be $F_x$-regular. In particular, we have
 	- $$\operatorname{depth}(F_x) \geq 1.$$
-	- By the
+	- Recall the [Auslander–Buchsbaum formula]([[Depth of module]]) for Noetherian local rings,
+	- $$\operatorname{pd}(F_x) + \operatorname{depth}(F_x) = \operatorname{depth}(R)$$

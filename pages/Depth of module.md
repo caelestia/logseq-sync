@@ -20,5 +20,5 @@
 - LATER
 -
 -
-- Auslander–Buchsbaum. derived category?
+- Auslander–Buchsbaum. https://stacks.math.columbia.edu/tag/090U derived category?
 - Serre's conditions.
