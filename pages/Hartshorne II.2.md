@@ -1,1 +1,2 @@
 - [[Hartshorne ex.II.2.4]]
+- ![Chapter II Exercise 2.9–2.19.pdf](../assets/Chapter_II_Exercise_2.9–2.19_1785668249341_0.pdf)

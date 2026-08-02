@@ -1,3 +1,3 @@
 - ![image.png](../assets/image_1784125461865_0.png)
--
+- ![Exercise 2.4 Universal Property of Affine Scheme .pdf](../assets/Exercise_2.4_Universal_Property_of_Affine_Scheme_1785668236511_0.pdf)
 -
