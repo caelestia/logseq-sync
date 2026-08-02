@@ -10,6 +10,11 @@
 		- When $IM\neq M$, the $I$-*depth* of $M$, $\text{depth}_I(M)$ is the maximal length of $M$-regular sequences in $I$.
 		- When $IM=M$, define $\text{depth}_I(M):=\infty$.
 	- For $R$ local, this problem does not exist by Nakayama, and we put $\text{depth}(M)=\text{depth}_\mathfrak{m}(M)$.
-- # Characterization by Ext groups.
+- # Characterization by Ext groups
+- Let $(R,\mathfrak m,k)$ be a Noetherian local ring and let $M\neq0$ be finitely generated.
+- $$\operatorname{depth}_R M
+  =
+  \inf\{i\ge 0:\operatorname{Ext}^i_R(k,M)\neq 0\}.$$
+-
 - Auslander–Buchsbaum.
 - Serre's conditions.
