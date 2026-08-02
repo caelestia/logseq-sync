@@ -52,6 +52,7 @@
 	- By condition 3), $\mathcal{Q}$ satisfies Serre's condition $S_{1,0}$. With the same argument as above, this implies that the set of singular points $\{x\in X:\operatorname{dh}(\mathcal{Q}_x)\neq0\}$ has codimension $\geq2$.
 	- At every point $x$ where $\mathcal{Q}_x$ is free, $\mathcal Q_x\longrightarrow\mathcal Q_x^{DD}$ is an isomorphism. Thus $\operatorname{dim}(\mathcal{T})=0$.
 	- We tensor the sequence with $\mathcal{Q}^D\otimes\omega_X^{-1}\simeq(\mathcal{Q}^{DD})^{-1}$. This gives
-	- $$0 \to \mathcal{Q\otimes Q}^D\otimes\omega_X^{-1} \to \mathcal{O}_X \to \mathcal{T\otimes Q}^D \to 0$$
-	- Let $\mathcal{I}_Z:=\mathcal{Q}\otimes\mathcal{Q}^D$, then $Z$ has dimension $0$. The result follows. QED
+	- $$0 \to \mathcal{Q\otimes Q}^D\otimes\omega_X^{-1} \to \mathcal{O}_X \to \mathcal{T\otimes Q}^D\otimes\omega_X^{-1} \to 0$$
+	- Let $\mathcal{I}_Z:=\mathcal{Q}\otimes\mathcal{Q}^D\otimes\omega_X^{-1}$, then $Z$ has dimension $0$. The result follows. QED
 - Note: These statements are written in loc. cit. Example 1.1.16.
+-
