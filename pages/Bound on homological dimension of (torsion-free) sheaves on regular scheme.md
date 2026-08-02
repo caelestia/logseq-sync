@@ -1,1 +1,2 @@
-- Let $X$ be a regular scheme.
+- Let $X$ be a locally Noetherian regular scheme.
+- Let $F$ be a coherent sheaf.
