@@ -25,11 +25,11 @@
 - Then $\mathcal{L}^{-1} \hookrightarrow \mathcal{E}$ as a subsheaf.
 - Try to bound the self-intersection $\mathcal{L}^2$ as follows.
 - ### Step 1
-- Take the saturation of $\mathcal{L}^{-1}$ in $\mathcal{E}$, call it $\mathcal{M}$. Then $\mathcal{E}/\mathcal{M}$ is torsion-free.
+- Take the saturation of $\mathcal{L}^{-1}$ in $\mathcal{E}$, call it $\mathcal{M}$. Then $\mathcal{Q}:=\mathcal{E}/\mathcal{M}$ is torsion-free.
 - Claim. This $\mathcal{M}$ is an invertible sheaf.
 	- Proof. We first recall [the following bound:]([[Bound on homological dimension of (torsion-free) sheaves on regular scheme]])
-	- $$\operatorname{hd}(\mathcal{E}/\mathcal{M}) \leq \dim(X) - 1 = 1.$$
-	- Then, from the SES $0\to\mathcal{M}\to\mathcal{E}\to\mathcal{E/M}\to0$, [we easliy get](https://stacks.math.columbia.edu/tag/065S) $\operatorname{pd}(\mathcal{M})\leq 0$.
+	- $$\operatorname{hd}(\mathcal{Q}) \leq \dim(X) - 1 = 1.$$
+	- Then, from the SES $0\to\mathcal{M}\to\mathcal{E}\to\mathcal{Q}\to0$, [we easliy get](https://stacks.math.columbia.edu/tag/065S) $\operatorname{pd}(\mathcal{M})\leq 0$.
 	- i.e., $\mathcal{M}$ is locally free. QED
 - Claim. We have $\mathcal{M}=\mathcal{L}^{-1}(D)$ for some effective divisor $D$.
 	- Proof. This is because we have an inclusion of line bundles
@@ -39,4 +39,4 @@
 	- The result follows. QED
 - The Chern class is $c_1(\mathcal{M})=c_1(\mathcal{L}^{-1})+c_1(\mathcal{O}(D))=-c_1(\mathcal{L})+D$.
 - ### Step 2
-	- Claim. The quotient is of the form $\mathcal{E/M} \simeq I_Z \otimes $
+	- Claim. The quotient is of the form $\mathcal{Q} \simeq I_Z \otimes $
