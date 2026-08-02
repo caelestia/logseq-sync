@@ -19,9 +19,9 @@
 	- Then the coordinate function $u$, pulled back, will vanish with order $1$ on the exceptional curve $E$ and with order $2$ on the strict transform $\tilde L$ of the line $\{x=0\}$, thus proving
 	- $$E + 2\tilde L = (u) \sim 0$$
 	- In particular, $-E \sim 2\tilde L$ is effective.
-	- (In fact $\tilde L$ is the generator of the Picard group, so every divisor is effective.)
+	- (In fact $\tilde L$ is the generator of the Picard group of Eguchi-Hanson, so every divisor is effective.)
 - ---
 - Suppose that $\mathcal{L}$ is a line bundle such that $\mathcal{E}\otimes\mathcal{L}$ has a global section.
-- Then $\mathcal{M} := \mathcal{L}^{-1} \hookrightarrow \mathcal{E}$ as a subbundle.
-- Can bound the self-intersection $\mathcal{L}^2$?
--
+- Then $\mathcal{M} := \mathcal{L}^{-1} \hookrightarrow \mathcal{E}$ as a subsheaf.
+- Try to bound the self-intersection $\mathcal{L}^2$ as follows.
+- Take the saturation of $\mathcal{M}$ in $\mathcal{E}$
