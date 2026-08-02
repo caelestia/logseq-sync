@@ -9,6 +9,8 @@
 	- [[Completion]]
 	- [[Birkhoff–Kakutani theorem]]
 	- [[Cup product of group cohomology]]
+- Algebra
+	- [[Commutative Algebra]]
 - Analysis
 	- [[Riesz representation theorem]]
 - [[Topology]]
