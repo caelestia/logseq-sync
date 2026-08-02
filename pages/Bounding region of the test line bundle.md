@@ -33,4 +33,4 @@
 - Claim. We have $\mathcal{M}=\mathcal{L}^{-1}(D)$ for some effective divisor $D$.
 	- Proof. This is because we have an inclusion of line bundles
 	- $$\mathcal{L}^{-1} \hookrightarrow \mathcal{M}$$
-	- which gives us a line bundle $\mathcal{L\otimes M}$ with a non-zero section
+	- which gives us a line bundle $\mathcal{L\otimes M}$ equiwith a regular (in the sense of locally not being a zero-divisor) section
