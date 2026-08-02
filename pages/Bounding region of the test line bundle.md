@@ -40,6 +40,6 @@
 - The Chern class is $c_1(\mathcal{M})=c_1(\mathcal{L}^{-1})+c_1(\mathcal{O}(D))=-c_1(\mathcal{L})+D$.
 - ### Step 2
 - Claim. $\mathcal{Q}^\vee$ is locally free.
-	- Proof. This follows from Huybrechts-Lehn, Proposition 1.1.10. We know this sheaf has codimension $c=0$. It is reflexive in the sense that Since it's the dual of a coherent sheaf, it is reflexive.
+	- Proof. This follows from Huybrechts-Lehn, Proposition 1.1.10. It is reflexive for the algebraic dual $(-)^\vee$. However, for codimension $0$ sheaves, we have $\mathcal F^D=\mathcal F\otimes\omega_X$. In particular
 - Claim. We have $\mathcal{Q} \simeq I_Z \otimes \mathcal{Q}^\vee$, where $Z$ is either empty or has dimension $0$.
 	-
