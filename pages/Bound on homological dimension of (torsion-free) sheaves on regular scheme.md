@@ -6,7 +6,7 @@
 	  logseq.order-list-type:: number
 	- Noetherian regular local rings are Cohen-Macaulay, so $\operatorname{depth}(R) = d$.
 	  logseq.order-list-type:: number
-	- We have $\text{gl.dim}(R)=d$.
+	- [We have](https://stacks.math.columbia.edu/tag/00OC) $\text{gl.dim}(R)=d$, i.e., for every $R$-module $M$ we have $\operatorname{pd}(M)\leq d$.
 	  logseq.order-list-type:: number
-- Let $F$ be a coherent sheaf.
--
+- Now let $F$ be a coherent sheaf.
+	- It immediately follows that
