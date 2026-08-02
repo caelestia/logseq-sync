@@ -39,5 +39,7 @@
 	- The result follows. QED
 - The Chern class is $c_1(\mathcal{M})=c_1(\mathcal{L}^{-1})+c_1(\mathcal{O}(D))=-c_1(\mathcal{L})+D$.
 - ### Step 2
-- Claim. The quotient is of the form $\mathcal{Q} \simeq I_Z \otimes \mathcal{Q}^\vee$, where $Z$ is empty or has dimension $0$ and $\mathcal{Q}^\vee$ is locally free.
+- Claim. $\mathcal{Q}^\vee$ is locally free.
+	-
+- Claim. We have $\mathcal{Q} \simeq I_Z \otimes \mathcal{Q}^\vee$, where $Z$ is either empty or has dimension $0$.
 	-
