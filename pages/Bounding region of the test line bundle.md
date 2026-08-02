@@ -22,6 +22,7 @@
 	- (In fact $\tilde L$ is the generator of the Picard group of Eguchi-Hanson, so every divisor is effective.)
 - ---
 - Suppose that $\mathcal{L}$ is a line bundle such that $\mathcal{E}\otimes\mathcal{L}$ has a global section.
-- Then $\mathcal{M} := \mathcal{L}^{-1} \hookrightarrow \mathcal{E}$ as a subsheaf.
+- Then $\mathcal{L}^{-1} \hookrightarrow \mathcal{E}$ as a subsheaf.
 - Try to bound the self-intersection $\mathcal{L}^2$ as follows.
-- Take the saturation of $\mathcal{M}$ in $\mathcal{E}$
+- Take the saturation of $\mathcal{L}^{-1}$ in $\mathcal{E}$, call it $\mathcal{M}$.
+-
