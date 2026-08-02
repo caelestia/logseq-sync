@@ -1,4 +1,4 @@
-- Let $X$ be a locally Noetherian regular scheme.
+- Let $X$ be a locally Noetherian regular scheme of finite dimension $\dim(X)\geq1$.
 - At an arbitrary point $x$, put
 - $$R = \mathcal{O}_{X,x},\;\; d = \dim R.$$
 - Recall the following facts:
@@ -6,6 +6,7 @@
 	  logseq.order-list-type:: number
 	- Noetherian regular local rings are Cohen-Macaulay, so $\operatorname{depth}(R) = d$.
 	  logseq.order-list-type:: number
-	- logseq.order-list-type:: number
+	- Every
+	  logseq.order-list-type:: number
 - Let $F$ be a coherent sheaf.
 -
