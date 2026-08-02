@@ -46,4 +46,6 @@
 	- By [Auslander–Buchsbaum formula]([[Depth of module]]), we see that this is an equality and $\operatorname{hd}(\mathcal{F})=0$. QED
 - Note: this argument also works for the algebraic dual $\mathcal{Q}^\vee$.
 - Claim. We have $\mathcal{Q} \simeq I_Z \otimes \mathcal{Q}^\vee$, where $Z$ is either empty or has dimension $0$.
-	- Proof.
+	- Proof. This also follows from Huybrechts-Lehn, Proposition 1.1.10. Details:
+	- By definition, $\mathcal{Q}$ is torsion-free.
+- Note: These statements are written in loc. cit. Example 1.1.16.
