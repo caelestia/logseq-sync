@@ -1,0 +1,2 @@
+- The previously suggested way of restricting the coeffcients before the exceptional divisors doesn't work. See [[Computing h0 in Macaulay]].
+- In fact

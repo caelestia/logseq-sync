@@ -17,4 +17,4 @@
 - [[Bounding region of the test line bundle]]
 - ---
 - [[Computing h0 in Macaulay]]
--
+- [[Problems list for next meeting, 2026/Aug/02]]
