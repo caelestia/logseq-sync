@@ -47,5 +47,7 @@
 - Note: this argument also works for the algebraic dual $\mathcal{Q}^\vee$.
 - Claim. We have $\mathcal{Q} \simeq I_Z \otimes \mathcal{Q}^\vee$, where $Z$ is either empty or has dimension $0$.
 	- Proof. This also follows from Huybrechts-Lehn, Proposition 1.1.10. Details:
-	- By definition, $\mathcal{Q}$ is torsion-free.
+	- By definition, $\mathcal{Q}$ is torsion-free. So it satisfies condition 1). By condition 4), we get a SES
+	- $$0 \to \mathcal{Q} \to \mathcal{Q}^{DD} \to \mathcal{T} \to 0$$
+	- By condition 3),
 - Note: These statements are written in loc. cit. Example 1.1.16.
