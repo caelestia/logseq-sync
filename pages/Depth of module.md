@@ -7,7 +7,7 @@
 	- For a local ring (which is what we usually assume), a regular sequence is the same as a regular sequence in $\mathfrak{m}$.
 - Depth.
 	- The $I$-*depth* of $M$, $\text{depth}_I(M)$ is the maximal length of $M$-regular sequences in $I$.
-		- When $IM=M$, then there is no regular sequence, $\text{depth}_I(M):=\infty$.
+	- When $IM=M$, then there is no regular sequence, $\text{depth}_I(M):=\infty$.
 	- For $R$ local, we simply write $\text{depth}(M)=\text{depth}_\mathfrak{m}(M)$.
 -
 - Characterization by Ext groups.
