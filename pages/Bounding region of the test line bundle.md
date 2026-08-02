@@ -31,4 +31,4 @@
 	- Then, from the SES $0\to\mathcal{M}\to\mathcal{E}\to\mathcal{E/M}\to0$, [we easliy get](https://stacks.math.columbia.edu/tag/065S) $\operatorname{pd}(\mathcal{M})\leq 0$.
 	- i.e., $\mathcal{M}$ is locally free.
 - Claim. We have $\mathcal{M}=\mathcal{L}^{-1}(D)$ for some effective divisor $D$.
-	-
+	- Thi
