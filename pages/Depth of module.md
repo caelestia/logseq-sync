@@ -9,3 +9,6 @@
 	- The $I$-*depth* of $M$, $\text{depth}_I(M)$ is the maximal length of $M$-regular sequences in $I$.
 	- For $R$ local, we simply write $\text{depth}(M)=\text{depth}_\mathfrak{m}(M)$.
 -
+- Characterization by Ext groups.
+- Auslander–Buchsbaum.
+- Serre's conditions.
