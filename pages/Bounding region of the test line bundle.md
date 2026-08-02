@@ -26,4 +26,5 @@
 - Try to bound the self-intersection $\mathcal{L}^2$ as follows.
 - Take the saturation of $\mathcal{L}^{-1}$ in $\mathcal{E}$, call it $\mathcal{M}$. Then $\mathcal{E}/\mathcal{M}$ is torsion-free.
 - Claim. This $\mathcal{M}$ is an invertible sheaf.
-	- We first recall
+	- We first recall [the following bound:]([[Bound on homological dimension of (torsion-free) sheaves on regular scheme]])
+	- $$\operatorname{dh}()$$
