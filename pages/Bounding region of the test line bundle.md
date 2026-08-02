@@ -40,10 +40,10 @@
 - The Chern class is $c_1(\mathcal{M})=c_1(\mathcal{L}^{-1})+c_1(\mathcal{O}(D))=-c_1(\mathcal{L})+D$.
 - ### Step 2
 - Claim. $\mathcal{Q}^\vee$ is locally free.
-	- Proof. This follows from Huybrechts-Lehn, Proposition 1.1.10.
+	- Proof. This follows from Huybrechts-Lehn, Proposition 1.1.10. Details:
 	- $\mathcal{F}:=\mathcal{Q}^\vee$ is reflexive for the algebraic dual $(-)^\vee$. However, for codimension $0$ sheaves, we have $\mathcal F^D=\mathcal F\otimes\omega_X$. In particular, given $X$ is smooth, we actually have $\mathcal{F}^{DD} \simeq \mathcal{F}^{\vee\vee}$. Hence it is reflexive for the dualizing functor $(-)^D$, i.e. in the sense of Huybrechts-Lehn.
 	- Thus it satisfies condition 1'). By 4') of the Proposition, $\mathcal{F}$ satisfies Serre's condition $S_{2,0}$ ($=S_2$). Since we're on a surface, this simply imples
 	- $$\operatorname{depth}(\mathcal{F}_x) \geq \dim(\mathcal{O}_{X,x}), \;\; \forall x\in X.$$
 	- By [Auslander–Buchsbaum formula]([[Depth of module]]), we see that this is an equality and $\operatorname{hd}(\mathcal{F})=0$. QED
 - Claim. We have $\mathcal{Q} \simeq I_Z \otimes \mathcal{Q}^\vee$, where $Z$ is either empty or has dimension $0$.
-	-
+	- Proof.
