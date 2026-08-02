@@ -41,7 +41,7 @@
 - ### Step 2
 - Claim. $\mathcal{Q}^D$ is locally free.
 	- Proof. This follows from Huybrechts-Lehn, Proposition 1.1.10. Details:
-	- $\mathcal{F}:=\mathcal{Q}^D$ satisfies condition 1'). By 4') of the Proposition, $\mathcal{F}$ satisfies Serre's condition $S_{2,0}$ ($=S_2$). Since we're on a surface, this simply imples
+	- $\mathcal{F}:=\mathcal{Q}^D$ satisfies condition 1'). By 4') of the Proposition, $\mathcal{F}$ satisfies Serre's condition $S_{2,0}$. Since we're on a surface, this simply imples
 	- $$\operatorname{depth}(\mathcal{F}_x) \geq \dim(\mathcal{O}_{X,x}), \;\; \forall x\in X.$$
 	- By [Auslander–Buchsbaum formula]([[Depth of module]]), we see that this is an equality and $\operatorname{hd}(\mathcal{F})=0$. QED
 - Note: this argument also works for the algebraic dual $\mathcal{Q}^\vee$.
@@ -49,5 +49,5 @@
 	- Proof. This also follows from Huybrechts-Lehn, Proposition 1.1.10. Details:
 	- By definition, $\mathcal{Q}$ is torsion-free. So it satisfies condition 1). By condition 4), we get a SES
 	- $$0 \to \mathcal{Q} \to \mathcal{Q}^{DD} \to \mathcal{T} \to 0$$
-	- By condition 3),
+	- By condition 3), $\mathcal{Q}$ satisfies Serre's condition $S_{1,0}$, which analogously implies that the set of singular points $\{x\in X:\operatorname{dh}(\mathcal{Q}_x)\neq0\}$ has codimension $\geq2$.
 - Note: These statements are written in loc. cit. Example 1.1.16.
