@@ -18,3 +18,5 @@
 - ---
 - [[Computing h0 in Macaulay]]
 - [[Problems list for next meeting, 2026/Aug/02]]
+- [[Picard group of Kummer]]
+-
