@@ -16,5 +16,7 @@
 	  $$\operatorname{hd}(F) = \max\{\operatorname{pd}(F_x):x\in X\} \leq \dim(X).$$
 - Now suppose $F$ is torsion free. We will show that
 - $$\operatorname{hd}(F) \leq \dim(X) - 1.$$
-	- Proof. Fix $x\in X$ and suppose $d\geq1$.
-	- Since $R$ is a domain and $F_x$ is torsion-free, and $d\geq1$ rules out the case that $R$ is a field,
+	- Proof. Fix $x\in X$. If $d=0$, $R$ is a field, and trivially $\text{gl.dim}=0$. So suppose $d\geq1$. Then we can pick some $a\in\mathfrak{m}_x$.
+	- Since $R$ is a domain and $F_x$ is torsion-free, $a$ must be $F_x$-regular. In particular, we have
+	- $$\operatorname{depth}(F_x) \geq 1.$$
+	- By the
