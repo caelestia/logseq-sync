@@ -12,9 +12,13 @@
 	- For $R$ local, this problem does not exist by Nakayama, and we put $\text{depth}(M)=\text{depth}_\mathfrak{m}(M)$.
 - # Characterization by Ext groups
 - Let $(R,\mathfrak m,k)$ be a Noetherian local ring and let $M\neq0$ be finitely generated. We have
-- $$\operatorname{depth}_R M
+- $$\operatorname{depth}(M)
   =
   \inf\{i\ge 0:\operatorname{Ext}^i_R(k,M)\neq 0\}.$$
+- We prove this by induction. This base case is more interesting.
+- ## Base case
+-
+-
 -
 - Auslander–Buchsbaum.
 - Serre's conditions.

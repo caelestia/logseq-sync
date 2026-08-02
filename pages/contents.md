@@ -9,8 +9,6 @@
 	- [[Completion]]
 	- [[Birkhoff–Kakutani theorem]]
 	- [[Cup product of group cohomology]]
-- Algebra
-	- [[Commutative Algebra]]
 - Analysis
 	- [[Riesz representation theorem]]
 - [[Topology]]
@@ -18,4 +16,5 @@
 	- [[What is a connection]]
 	- [[Kodaira Embedding Theorem]]
 	- [[Hartshorne exercises]]
+	- [[Commutative Algebra]]
 -
