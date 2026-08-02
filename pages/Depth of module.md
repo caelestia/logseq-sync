@@ -17,8 +17,8 @@
   \inf\{i\ge 0:\operatorname{Ext}^i_R(k,M)\neq 0\}.$$
 - We prove this by induction. This base case is more interesting.
 - ## Base case
+- LATER
 -
 -
--
-- Auslander–Buchsbaum.
+- Auslander–Buchsbaum. derived category?
 - Serre's conditions.
