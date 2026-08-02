@@ -28,4 +28,5 @@
 - Claim. This $\mathcal{M}$ is an invertible sheaf.
 	- We first recall [the following bound:]([[Bound on homological dimension of (torsion-free) sheaves on regular scheme]])
 	- $$\operatorname{pd}(\mathcal{E}/\mathcal{M}) \leq \dim(X) - 1 = 1.$$
-	- Then, from the
+	- Then, from the SES $0\to\mathcal{M}\to\mathcal{E}\to\mathcal{E/M}\to0$, [we get](https://stacks.math.columbia.edu/tag/065S) $\operatorname{pd}(\mathcal{M})\leq 0$.
+	- That is,
