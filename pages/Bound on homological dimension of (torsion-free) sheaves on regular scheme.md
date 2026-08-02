@@ -1,2 +1,7 @@
 - Let $X$ be a locally Noetherian regular scheme.
+- At an arbitrary point $x$, put
+- $$R = \mathcal{O}_{X,x},\;\; M = $$
+-
+-
 - Let $F$ be a coherent sheaf.
+-
