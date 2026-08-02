@@ -29,7 +29,7 @@
 	- Proof. We first recall [the following bound:]([[Bound on homological dimension of (torsion-free) sheaves on regular scheme]])
 	- $$\operatorname{hd}(\mathcal{E}/\mathcal{M}) \leq \dim(X) - 1 = 1.$$
 	- Then, from the SES $0\to\mathcal{M}\to\mathcal{E}\to\mathcal{E/M}\to0$, [we easliy get](https://stacks.math.columbia.edu/tag/065S) $\operatorname{pd}(\mathcal{M})\leq 0$.
-	- i.e., $\mathcal{M}$ is locally free.
+	- i.e., $\mathcal{M}$ is locally free. QED
 - Claim. We have $\mathcal{M}=\mathcal{L}^{-1}(D)$ for some effective divisor $D$.
 	- Proof. This is because we have an inclusion of line bundles
 	- $$\mathcal{L}^{-1} \hookrightarrow \mathcal{M}$$
