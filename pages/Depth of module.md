@@ -6,8 +6,9 @@
 - Let $I\subset R$ be an ideal. If every $x_i\in I$ we say $x_1,\cdots,x_n$ is an $M$-regular sequence in $I$.
 	- For a local ring (which is what we usually assume), a regular sequence is the same as a regular sequence in $\mathfrak{m}$.
 - Depth.
-	- The $I$-*depth* of $M$, $\text{depth}_I(M)$ is the maximal length of $M$-regular sequences in $I$.
-	- When $IM=M$, then there is no regular sequence, $\text{depth}_I(M):=\infty$.
+	- There is a technicality here. We need to split in two
+	- When $IM\neq M$, the $I$-*depth* of $M$, $\text{depth}_I(M)$ is the maximal length of $M$-regular sequences in $I$.
+	- When $IM=M$, define $\text{depth}_I(M):=\infty$.
 	- For $R$ local, we simply write $\text{depth}(M)=\text{depth}_\mathfrak{m}(M)$.
 -
 - Characterization by Ext groups.
