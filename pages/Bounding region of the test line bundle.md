@@ -40,6 +40,6 @@
 - The Chern class is $c_1(\mathcal{M})=c_1(\mathcal{L}^{-1})+c_1(\mathcal{O}(D))=-c_1(\mathcal{L})+D$.
 - ### Step 2
 - Claim. $\mathcal{Q}^\vee$ is locally free.
-	-
+	- Proof. This follows from Huybrechts-Lehn, Proposition 1.1.10
 - Claim. We have $\mathcal{Q} \simeq I_Z \otimes \mathcal{Q}^\vee$, where $Z$ is either empty or has dimension $0$.
 	-
