@@ -36,4 +36,4 @@
 	- Which gives us a line bundle $\mathcal{L\otimes M}$ equipped with a regular (in the sense of locally not being a zero-divisor, but since we're over a regular integral scheme this is just the same as non-zero) section, that is, [the same as](https://stacks.math.columbia.edu/tag/01X0) an effective Cartier divisor $D$.
 	- $$\mathcal{L\otimes M \simeq O}(D)$$
 	- The result follows. QED
-- Now the Chern class
+- The Chern class is $c(\mathcal{M})=c(\mathcal{L}^{-1})$
