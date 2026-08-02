@@ -24,6 +24,7 @@
 - Suppose that $\mathcal{L}$ is a line bundle such that $\mathcal{E}\otimes\mathcal{L}$ has a global section.
 - Then $\mathcal{L}^{-1} \hookrightarrow \mathcal{E}$ as a subsheaf.
 - Try to bound the self-intersection $\mathcal{L}^2$ as follows.
+- ### Step 1
 - Take the saturation of $\mathcal{L}^{-1}$ in $\mathcal{E}$, call it $\mathcal{M}$. Then $\mathcal{E}/\mathcal{M}$ is torsion-free.
 - Claim. This $\mathcal{M}$ is an invertible sheaf.
 	- Proof. We first recall [the following bound:]([[Bound on homological dimension of (torsion-free) sheaves on regular scheme]])
@@ -37,4 +38,5 @@
 	- $$\mathcal{L\otimes M \simeq O}(D)$$
 	- The result follows. QED
 - The Chern class is $c_1(\mathcal{M})=c_1(\mathcal{L}^{-1})+c_1(\mathcal{O}(D))=-c_1(\mathcal{L})+D$.
+- ### Step 2
 -
