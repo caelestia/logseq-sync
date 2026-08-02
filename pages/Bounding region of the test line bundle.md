@@ -24,4 +24,4 @@
 - Suppose that $\mathcal{L}$ is a line bundle such that $\mathcal{E}\otimes\mathcal{L}$ has a global section.
 - Then $\mathcal{M} := \mathcal{L}^{-1} \hookrightarrow \mathcal{E}$ as a subbundle.
 - Can bound the self-intersection $\mathcal{L}^2$?
--
+- z
