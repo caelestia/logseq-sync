@@ -41,7 +41,8 @@
 - ### Step 2
 - Claim. $\mathcal{Q}^\vee$ is locally free.
 	- Proof. This follows from Huybrechts-Lehn, Proposition 1.1.10.
-	- It is reflexive for the algebraic dual $(-)^\vee$. However, for codimension $0$ sheaves, we have $\mathcal F^D=\mathcal F\otimes\omega_X$. In particular, given $X$ is smooth, we actually have $\mathcal{F}^{DD} \simeq \mathcal{F}^{\vee\vee}$. Hence it is reflexive for the dualizing functor $(-)^D$, i.e. in the sense of Huybrechts-Lehn.
-	- Thus it satisfies condition 1'). By 4') of the Proposition, $\mathcal{Q}^\vee$ satisfies Serre's condition $S_{2,0}=S_2$. Since we'
+	- $\mathcal{F}:=\mathcal{Q}^\vee$ is reflexive for the algebraic dual $(-)^\vee$. However, for codimension $0$ sheaves, we have $\mathcal F^D=\mathcal F\otimes\omega_X$. In particular, given $X$ is smooth, we actually have $\mathcal{F}^{DD} \simeq \mathcal{F}^{\vee\vee}$. Hence it is reflexive for the dualizing functor $(-)^D$, i.e. in the sense of Huybrechts-Lehn.
+	- Thus it satisfies condition 1'). By 4') of the Proposition, $\mathcal{F}$ satisfies Serre's condition $S_{2,0}$ ($=S_2$). Since we're on a surface, this simply imples
+	- $$\operatorname{depth}(\mathcal{F}^\vee_x) \geq \dim(\mathcal{O}_{X,x})$$
 - Claim. We have $\mathcal{Q} \simeq I_Z \otimes \mathcal{Q}^\vee$, where $Z$ is either empty or has dimension $0$.
 	-
