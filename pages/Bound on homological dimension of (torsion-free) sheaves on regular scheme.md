@@ -1,5 +1,5 @@
 - Let $X$ be a locally Noetherian regular scheme of finite dimension $\dim(X)\geq1$.
-- At an arbitrary point $x$, put
+- At an arbitrary point $x\in X$, put
 - $$R = \mathcal{O}_{X,x},\;\; d = \dim R.$$
 - Recall the following facts:
 	- $d\leq\dim(X)$.
@@ -16,4 +16,5 @@
 	  $$\operatorname{hd}(F) = \max\{\operatorname{pd}(F_x):x\in X\} \leq \dim(X).$$
 - Now suppose $F$ is torsion free. We will show that
 - $$\operatorname{hd}(F) \leq \dim(X) - 1.$$
-	- Proof. Fix $x$ and suppose $d\geq1$. Since $R$ is a domain and $F_x$ is torsin
+	- Proof. Fix $x\in X$ and suppose $d\geq1$.
+	- Since $R$ is a domain and $F_x$ is torsion-free, and $d\geq1$ rules out the case that $R$ is a field,
