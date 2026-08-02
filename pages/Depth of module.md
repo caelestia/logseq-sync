@@ -7,4 +7,5 @@
 	- For a local ring (which is what we usually assume), a regular sequence is the same as a regular sequence in $\mathfrak{m}$.
 - Depth.
 	- The $I$-*depth* of $M$, $\text{depth}_I(M)$ is the maximal length of $M$-regular sequences in $I$.
-	- For $R$ local, $I=\mathfrak{m}$, we simply write $\text{depty}(M)$.
+	- For $R$ local, we simply write $\text{depth}(M)=\text{depth}_\mathfrak{m}(M)$.
+-
