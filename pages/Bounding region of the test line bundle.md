@@ -31,4 +31,6 @@
 	- Then, from the SES $0\to\mathcal{M}\to\mathcal{E}\to\mathcal{E/M}\to0$, [we easliy get](https://stacks.math.columbia.edu/tag/065S) $\operatorname{pd}(\mathcal{M})\leq 0$.
 	- i.e., $\mathcal{M}$ is locally free.
 - Claim. We have $\mathcal{M}=\mathcal{L}^{-1}(D)$ for some effective divisor $D$.
-	- Thi
+	- Proof. This is because we have an inclusion of line bundles
+	- $$\mathcal{L}^{-1} \hookrightarrow \mathcal{M}$$
+	- which gives us a line bundle $\mathcal{L\otimes M}$ with a non-zero section
