@@ -24,6 +24,6 @@
 - Suppose that $\mathcal{L}$ is a line bundle such that $\mathcal{E}\otimes\mathcal{L}$ has a global section.
 - Then $\mathcal{L}^{-1} \hookrightarrow \mathcal{E}$ as a subsheaf.
 - Try to bound the self-intersection $\mathcal{L}^2$ as follows.
-- Take the saturation of $\mathcal{L}^{-1}$ in $\mathcal{E}$, call it $\mathcal{M}$.
+- Take the saturation of $\mathcal{L}^{-1}$ in $\mathcal{E}$, call it $\mathcal{M}$. Then $\mathcal{E}/\mathcal{M}$ is torsion-free.
 - Claim. This $\mathcal{M}$ is an invertible sheaf.
-	-
+	- We first recall
