@@ -81,11 +81,11 @@
 - But then the local matrices at $\gamma\in\Z_2^4$, $\text{Trans}(2\gamma)\cdot\text{Refl}$, will always have eigenvalue pair $(1,-1)$. In other words $m_{i,1}\equiv1$ and $m_{i,2}\equiv-1$.
 - ### Case 2. Translations are all diagonalizable but bundle is non-split
 - In this case, there is some basis under which every translation matrix is diagonalizable, is of the form
-- $$\text{diag}(\lambda,\lambda^{-1})$$
-- more invariantly we can write $T(v)=\text{diag}(\lambda(v),\lambda(v)^{-1})$, and the reflection matrix is of the form
+- $$\text{diag}(a,a^{-1})$$
+- so we can write $T(\lambda)=\text{diag}(\chi(\lambda),\chi(\lambda)^{-1})$ for a character $\chi$, and the reflection matrix is of the form
 - $$\begin{pmatrix}0&b\\b^{-1}&0\end{pmatrix}$$
-- Then the local matrices are all of the form
-- $$\begin{pmatrix}\lambda&0\\0&\lambda^{-1}\end{pmatrix}\begin{pmatrix}0&b\\b^{-1}&0\end{pmatrix}=\begin{pmatrix}0&b\lambda\\(b\lambda)^{-1}&0\end{pmatrix}$$
+- Then the local matrix at some $\lambda/2$ is of the form
+- $$\begin{pmatrix}a&0\\0&a^{-1}\end{pmatrix}\begin{pmatrix}0&b\\b^{-1}&0\end{pmatrix}=\begin{pmatrix}0&ab\\(ab)^{-1}&0\end{pmatrix},\;\; a:=$$
 - which again always has eigenvalues $(1,-1)$.
 - ### So, unless there's some other interesting case I missed,
 - We are always going to get $c_1(\mathcal{E})=0$ and $c_2(\mathcal{E})=-2\times-16=32$.
