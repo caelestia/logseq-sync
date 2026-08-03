@@ -77,4 +77,5 @@
 - ### Step 5
 - We now consider the Chern classes of $\mathcal{E}$ by considering the two (potentially nontrivial) cases of the flat bundle, computed in [[Understand how to take the quotient of a flat bundle on A by involution]].
 - ### Case 1. There is a non-diagonalizable translation matrix.
-- In this case, we've shown that there is a basis under which every translation matrix is a Jordan block, and reflection $
+- In this case, we've shown that there is a basis under which every translation matrix is a Jordan block, and we showed that the reflection matrix has essentially only one choice $\begin{pmatrix}1&0\\0&-1\end{pmatrix}$.
+-
