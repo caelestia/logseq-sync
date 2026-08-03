@@ -43,7 +43,7 @@
 - ### Step 2
 - Claim. $\mathcal{Q}^D$ is locally free.
 	- Proof. This follows from Huybrechts-Lehn, Proposition 1.1.10. Details:
-	- $\mathcal{F}:=\mathcal{Q}^D$ satisfies condition 2'). By 4') of the Proposition, $\mathcal{F}$ satisfies Serre's condition $S_{2,0}$. Since we're on a surface, this simply imples
+	- Denote for this proof $\mathcal{F}:=\mathcal{Q}^D$, which satisfies condition 2'). By 4') of the Proposition, $\mathcal{F}$ satisfies Serre's condition $S_{2,0}$. Since we're on a surface, this simply imples
 	- $$\operatorname{depth}(\mathcal{F}_x) \geq \dim(\mathcal{O}_{X,x}), \;\; \forall x\in X.$$
 	- By [Auslander–Buchsbaum formula]([[Depth of module]]), we see that this is an equality and $\operatorname{hd}(\mathcal{F})=0$. QED
 - Note: this argument also works for the algebraic dual $\mathcal{Q}^\vee$.
@@ -60,5 +60,6 @@
 - Chern classes. For the ideal sheaf $\mathcal{I}_Z$, we have
 - $$c(\mathcal{I}_Z) = 1 + [Z]$$
 - ### Step 3
-- First compute the Chern classes of $
+- First we compute the Chern classes of $\mathcal{Q}$. It's a tensor product, so we use the Chern character,
+- $$\ch(\mathcal F) = \rk(\mathcal{F}) + $$
 - Let's compute the Chern classes via
