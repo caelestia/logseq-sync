@@ -79,4 +79,4 @@
 - ### Case 1. There is a non-diagonalizable translation matrix.
 - In this case, we've shown that there is a basis under which every translation matrix is a Jordan block, with repeated eigenvalues $\pm1$, and we showed that the reflection matrix has essentially only one choice $\begin{pmatrix}1&0\\0&-1\end{pmatrix}$.
 - But then the local matrices at $\gamma\in\Z_2^4$, $\text{Trans}(2\gamma)\cdot\text{Refl}$, will always have eigenvalue pair $(1,-1)$. In other words $m_{i,1}\equiv1$ and $m_{i,2}\equiv-1$.
--
+- So $c_1(\mathcal{E})=0$ and $c_2(\mathcal{E})=-2$
