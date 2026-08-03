@@ -1,0 +1,1 @@
+- The problem is how to construct the glued rank $2$ bundle algebraically, as our previous construction relies on analytic open neighborhoods isomorphic to the E
