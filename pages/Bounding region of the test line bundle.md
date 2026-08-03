@@ -75,3 +75,6 @@
 - We have
 - $$u^2H^2+R^2 \geq \frac{1}{4}c_1(\mathcal{E})^2 - c_2(\mathcal{E}).$$
 -
+- We now consider the Chern classes
+- ### Case 1. In the representation there is a non-diagonalizable translation matrix.
+- In this case,
