@@ -1,1 +1,3 @@
-- The problem is how to construct the glued rank $2$ bundle algebraically, as our previous construction relies on analytic open neighborhoods isomorphic to the E
+- The problem is how to construct the glued rank $2$ bundle algebraically, as our previous construction relies on disjoint analytic open neighborhoods isomorphic to the Eguchi-Hanson space.
+- The solution is to make the twisting happen on the singular $A_1$ node, and then pull up to the blowup.
+-
