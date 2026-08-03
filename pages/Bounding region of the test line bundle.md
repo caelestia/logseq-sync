@@ -84,4 +84,8 @@
 - $$u^2H^2 + R^2 \geq -32$$
 - This is not finite.
 - ### Case 2. Translations are all diagonalizable but bundle is non-split
-- In
+- In this case, there is some basis under which every translation matrix is diagonalizable, is one of the following forms
+- $$\text{diag}(\pm1,\pm1),\text{ or }\text{diag}(\lambda,\lambda^{-1})$$
+- and
+- $$M=\begin{pmatrix}0&b\\b^{-1}&0\end{pmatrix}$$
+-
