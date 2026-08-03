@@ -70,4 +70,4 @@
 - $$c_2(\mathcal{E}) = c_1(\mathcal{M})\alpha + [Z].$$
 - We get $$0 \leq [Z] = c_2(\mathcal{E}) - c_1(\mathcal{M})(c_1(\mathcal{E})-c_1(\mathcal{M})) = \mathcal{M}^2 - c_1(\mathcal{E}).\mathcal{M} + c_2(\mathcal{E}).$$
 - ### Step 4
--
+- Write $M=lH+$
