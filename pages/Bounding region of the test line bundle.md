@@ -84,4 +84,4 @@
 - $$u^2H^2 + R^2 \geq -32$$
 - This is not finite.
 - ### Case 2. Translations are all diagonalizable but bundle is non-split
--
+- In
