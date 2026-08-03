@@ -88,4 +88,6 @@
 - $$\text{diag}(\lambda,\lambda^{-1})$$
 - and
 - $$M=\begin{pmatrix}0&b\\b^{-1}&0\end{pmatrix}$$
--
+- Then the local matrices are all of the form
+- $$\begin{pmatrix}\lambda&0\\0&\lambda^{-1}\end{pmatrix}^2\begin{pmatrix}0&b\\b^{-1}&0\end{pmatrix}=\begin{pmatrix}0&b\lambda^2\\(b\lambda^2)^{-1}&0\end{pmatrix}$$
+- which has eigenvalues $(1,-1)$.
