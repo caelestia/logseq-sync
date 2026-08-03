@@ -31,7 +31,7 @@
 	- $$\operatorname{hd}(\mathcal{Q}) \leq \dim(X) - 1 = 1.$$
 	- Then, from the SES $0\to\mathcal{M}\to\mathcal{E}\to\mathcal{Q}\to0$, [we easliy get](https://stacks.math.columbia.edu/tag/065S) $\operatorname{pd}(\mathcal{M})\leq 0$.
 	- i.e., $\mathcal{M}$ is locally free. QED
-- Thus we can replace $\mathcal{L}$ by $\mathcal{M}^{-1}$ in the Hoppe check!
+- Thus we can replace $\mathcal{L}$ by $\mathcal{M}^{-1}$ in the Hoppe check.
 - Claim. We have $\mathcal{M}=\mathcal{L}^{-1}(D)$ for some effective divisor $D$.
 	- Proof. This is because we have an inclusion of line bundles
 	- $$\mathcal{L}^{-1} \hookrightarrow \mathcal{M}$$
