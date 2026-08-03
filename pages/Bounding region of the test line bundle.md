@@ -61,5 +61,6 @@
 - $$c(\mathcal{I}_Z) = 1 + [Z]$$
 - ### Step 3
 - First we compute the Chern classes of $\mathcal{Q}$. It's a tensor product, so we use the Chern character,
-- $$\ch(\mathcal F) = \rk(\mathcal{F}) + $$
+- $$\ch(\mathcal F) = \operatorname{rk}(\mathcal{F}) + c_1(\mathcal{F}) + \frac{1}{2}(c_1^2-c_2)$$
+- We have $\ch
 - Let's compute the Chern classes via
