@@ -31,13 +31,14 @@
 	- $$\operatorname{hd}(\mathcal{Q}) \leq \dim(X) - 1 = 1.$$
 	- Then, from the SES $0\to\mathcal{M}\to\mathcal{E}\to\mathcal{Q}\to0$, [we easliy get](https://stacks.math.columbia.edu/tag/065S) $\operatorname{pd}(\mathcal{M})\leq 0$.
 	- i.e., $\mathcal{M}$ is locally free. QED
+- Thus we can replace $\mathcal{L}$ by $\mathcal{M}^{-1}$ in the Hoppe check!
 - Claim. We have $\mathcal{M}=\mathcal{L}^{-1}(D)$ for some effective divisor $D$.
 	- Proof. This is because we have an inclusion of line bundles
 	- $$\mathcal{L}^{-1} \hookrightarrow \mathcal{M}$$
 	- Which gives us a line bundle $\mathcal{L\otimes M}$ equipped with a regular (in the sense of locally not being a zero-divisor, but since we're over a regular integral scheme this is just the same as non-zero) section, that is, [the same as](https://stacks.math.columbia.edu/tag/01X0) an effective Cartier divisor $D$.
 	- $$\mathcal{L\otimes M \simeq O}(D)$$
 	- The result follows. QED
-- The Chern class is $c_1(\mathcal{M})=c_1(\mathcal{L}^{-1})+c_1(\mathcal{O}(D))=-c_1(\mathcal{L})+D$.
+- Note. The Chern class is $c_1(\mathcal{M})=c_1(\mathcal{L}^{-1})+c_1(\mathcal{O}(D))=-c_1(\mathcal{L})+D$. (Seems unnecessary.)
 - ### Step 2
 - Claim. $\mathcal{Q}^D$ is locally free.
 	- Proof. This follows from Huybrechts-Lehn, Proposition 1.1.10. Details:
