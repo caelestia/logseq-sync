@@ -74,7 +74,7 @@
 - By the Hodge index theorem, $R^2\leq0$.
 - We have
 - $$u^2H^2+R^2 \geq \frac{1}{4}c_1(\mathcal{E})^2 - c_2(\mathcal{E}).$$
--
-- We now consider the Chern classes
-- ### Case 1. In the representation there is a non-diagonalizable translation matrix.
-- In this case,
+- ### Step 5
+- We now consider the Chern classes of $\mathcal{E}$ by considering the two (potentially nontrivial) cases of the flat bundle, computed in [[Understand how to take the quotient of a flat bundle on A by involution]].
+- ### Case 1. There is a non-diagonalizable translation matrix.
+- In this case, we've shown that there is a basis under which every translation matrix is a Jordan block, and reflection $
