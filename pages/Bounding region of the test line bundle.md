@@ -68,4 +68,4 @@
 - We get the equations
 - $$c_1(\mathcal{E}) = c_1(\mathcal{M}) + \alpha,$$
 - $$c_2(\mathcal{E}) = c_1(\mathcal{M})\alpha + [Z].$$
-- We get $$0 \leq [Z] = $$
+- We get $$0 \leq [Z] = c_2(\mathcal{E}) - c_1(\mathcal{M})(c_1(\mathcal{E})-c_1(\mathcal{M})) = $$
