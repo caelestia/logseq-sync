@@ -78,7 +78,7 @@
 - We now consider the Chern classes of $\mathcal{E}$ by considering the only two (potentially nontrivial) cases of the flat bundle, computed in [[Understand how to take the quotient of a flat bundle on A by involution]].
 - ### Case 1. There is a non-diagonalizable translation matrix.
 - In this case, we've shown that there is a basis under which every translation matrix is a Jordan block (some but not all of which can be trivial), with repeated eigenvalues $\pm1$, and we showed that the reflection matrix has essentially only one choice $\begin{pmatrix}1&0\\0&-1\end{pmatrix}$.
-- But then the local matrices at $\gamma\in\Z_2^4$, $T(2\gamma)\cdot\text{Refl}$, will always have eigenvalue pair $(1,-1)$. In other words $m_{i,1}\equiv1$ and $m_{i,2}\equiv-1$.
+- But then the local matrices at $\lambda/2$, $T(\lambda)\cdot\text{Refl}$, will always have eigenvalue pair $(1,-1)$. In other words $m_{i,1}\equiv1$ and $m_{i,2}\equiv-1$.
 - ### Case 2. Translations are all diagonalizable but bundle is non-split
 - In this case, there is some basis under which every translation matrix is diagonalizable, is of the form
 - $$\text{diag}(a,a^{-1})$$
@@ -91,5 +91,5 @@
 - We are always going to get $c_1(\mathcal{E})=0$ and $c_2(\mathcal{E})=-2\times-16=32$.
 - We have
 - $$u^2H^2 + R^2 \geq -32$$
-- This does not successfully reduce the problem to a finite search.
+- This does not successfully reduce the problem to a finite search...
 -
