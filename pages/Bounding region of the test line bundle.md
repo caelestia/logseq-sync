@@ -79,10 +79,6 @@
 - ### Case 1. There is a non-diagonalizable translation matrix.
 - In this case, we've shown that there is a basis under which every translation matrix is a Jordan block, with repeated eigenvalues $\pm1$, and we showed that the reflection matrix has essentially only one choice $\begin{pmatrix}1&0\\0&-1\end{pmatrix}$.
 - But then the local matrices at $\gamma\in\Z_2^4$, $\text{Trans}(2\gamma)\cdot\text{Refl}$, will always have eigenvalue pair $(1,-1)$. In other words $m_{i,1}\equiv1$ and $m_{i,2}\equiv-1$.
-- So $c_1(\mathcal{E})=0$ and $c_2(\mathcal{E})=-2\times-16=32$.
-- We have
-- $$u^2H^2 + R^2 \geq -32$$
-- This is not finite.
 - ### Case 2. Translations are all diagonalizable but bundle is non-split
 - In this case, there is some basis under which every translation matrix is diagonalizable, is of the form
 - $$\text{diag}(\lambda,\lambda^{-1})$$
@@ -90,4 +86,10 @@
 - $$M=\begin{pmatrix}0&b\\b^{-1}&0\end{pmatrix}$$
 - Then the local matrices are all of the form
 - $$\begin{pmatrix}\lambda&0\\0&\lambda^{-1}\end{pmatrix}^2\begin{pmatrix}0&b\\b^{-1}&0\end{pmatrix}=\begin{pmatrix}0&b\lambda^2\\(b\lambda^2)^{-1}&0\end{pmatrix}$$
-- which has eigenvalues $(1,-1)$.
+- which again always has eigenvalues $(1,-1)$.
+- ### So, unless there's some other interesting case I missed,
+- We are always going to get $c_1(\mathcal{E})=0$ and $c_2(\mathcal{E})=-2\times-16=32$.
+- We have
+- $$u^2H^2 + R^2 \geq -32$$
+- This does not successfully reduce the problem to a finite search.
+-
