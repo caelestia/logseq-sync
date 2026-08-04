@@ -39,6 +39,7 @@
 	- Which gives us a line bundle $\mathcal{L\otimes M}$ equipped with a regular (in the sense of locally not being a zero-divisor, but since we're over a regular integral scheme this is just the same as non-zero) section, that is, [the same as](https://stacks.math.columbia.edu/tag/01X0) an effective Cartier divisor $D$.
 	- $$\mathcal{L\otimes M \simeq O}(D)$$
 	- The result follows. QED
+- Then $\deg_H(\mathcal{M}) \geq -\deg_H(\mathcal{L}) \geq \mu(\mathcal{E})$.
 - Note. The Chern class is $c_1(\mathcal{M})=c_1(\mathcal{L}^{-1})+c_1(\mathcal{O}(D))=-c_1(\mathcal{L})+D$. (Seems unnecessary.)
 - ### Step 2
 - Claim. $\mathcal{Q}^D$ is locally free.
