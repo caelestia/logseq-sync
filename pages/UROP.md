@@ -4,6 +4,6 @@
   CLOCK: [2026-07-06 Mon 14:03:05]
   :END:
 - [[Kummer is projective]]
-- [[Brief summary 2026/Jul/26]]
+- [[Brief summary of UROP]]
 - [[Questions from meeting]]
 -
