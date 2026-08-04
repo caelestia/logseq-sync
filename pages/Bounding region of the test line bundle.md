@@ -92,4 +92,6 @@
 - We have
 - $$u^2H^2 + R^2 \geq -32$$
 - This does not successfully reduce the problem to a finite search...
+- ---
+- Next idea: Find curves that intersect positively with the exceptional curves.
 -
