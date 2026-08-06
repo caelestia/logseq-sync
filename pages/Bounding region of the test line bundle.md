@@ -2,7 +2,7 @@
 - Recall:
 	- The first Chern class is $c_1(\mathcal{E})=\sum_{i=1}^{16}(m_{i,1}+m_{i,2})[E_i]$.
 	- The second Chern class is $c_2(\mathcal{E})=-2\sum_{i=1}^{16}m_{i,1}m_{i,2}$.
-	- The ample divisor is $H = n\pi^*M - \sum_{i=1}^{16} E_i$.
+	- The ample divisor is $H = n\pi^*h - \sum_{i=1}^{16} E_i$.
 	- The slope is $\mu(\mathcal{E}) = \sum_{i=1}^{16} (m_{i,1} + m_{i,2})$.
 -
 - ----
