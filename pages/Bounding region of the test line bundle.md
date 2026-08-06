@@ -71,10 +71,11 @@
 - $$c_2(\mathcal{E}) = c_1(\mathcal{M})\alpha + [Z].$$
 - We get $$0 \leq [Z] = c_2(\mathcal{E}) - c_1(\mathcal{M})(c_1(\mathcal{E})-c_1(\mathcal{M})) = \mathcal{M}^2 - c_1(\mathcal{E}).\mathcal{M} + c_2(\mathcal{E}).$$
 - ### Step 4
-- Write $M-\frac{1}{2}c_1(\mathcal{E})=uH+R$ where $R\in H^\bot$.
+- Write $N:=M-\frac{1}{2}c_1(\mathcal{E})=uH+R$ where $R\in H^\bot$.
 - By the Hodge index theorem, $R^2\leq0$.
 - We have
-- $$u^2H^2+R^2 \geq \frac{1}{4}c_1(\mathcal{E})^2 - c_2(\mathcal{E}).$$
+- $$N^2=u^2H^2+R^2 \geq \frac{1}{4}c_1(\mathcal{E})^2 - c_2(\mathcal{E}).$$
+-
 - ---
 - Next idea: Find curves that intersect positively with the exceptional curves and restrict to them.
 -
