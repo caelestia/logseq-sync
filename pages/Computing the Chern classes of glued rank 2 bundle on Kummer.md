@@ -12,4 +12,17 @@
 - We conclude that
 - $$c_1(\mathcal{E}) = \sum_{j=1}^{16} (m_{i,1}+m_{i,2}) [E_j] $$
 - $$c_2(\mathcal{E}) = -2 \sum_{j=1}^{16} m_{i,1}m_{i,2} $$
--
+- ---
+- We now consider the Chern classes of $\mathcal{E}$ by considering the only two (potentially nontrivial) cases of the flat bundle, computed in [[Understand how to take the quotient of a flat bundle on A by involution]].
+- ### Case 1. There is a non-diagonalizable translation matrix.
+- In this case, we've shown that there is a basis under which every translation matrix is a Jordan block (some but not all of which can be trivial), with repeated eigenvalues $\pm1$, and we showed that the reflection matrix has essentially only one choice $\begin{pmatrix}1&0\\0&-1\end{pmatrix}$.
+- But then the local matrices at $\lambda/2$, $T(\lambda)\cdot\text{Refl}$, will always have eigenvalue pair $(1,-1)$. In other words $m_{i,1}\in\Z$ and $m_{i,2}\in\frac{1}{2}+\Z$.
+- ### Case 2. Translations are all diagonalizable but bundle is non-split
+- In this case, there is some basis under which every translation matrix is diagonalizable, is of the form
+- $$\text{diag}(a,a^{-1})$$
+- so we can write $T(\lambda)=\text{diag}(\chi(\lambda),\chi(\lambda)^{-1})$ for a character $\chi$, and the reflection matrix is of the form
+- $$\begin{pmatrix}0&b\\b^{-1}&0\end{pmatrix}$$
+- Then the local matrix at some $\lambda/2$ is of the form
+- $$\begin{pmatrix}a&0\\0&a^{-1}\end{pmatrix}\begin{pmatrix}0&b\\b^{-1}&0\end{pmatrix}=\begin{pmatrix}0&ab\\(ab)^{-1}&0\end{pmatrix},\;\; a:=\chi(\lambda)$$
+- which again always has eigenvalues $(1,-1)$.
+- Note: There's still choice of the precise values of $m_{i,1}$ and $m_{i,2}$.
