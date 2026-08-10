@@ -77,6 +77,6 @@
 - $$N^2=u^2H^2+R^2 \geq \frac{1}{4}c_1(\mathcal{E})^2 - c_2(\mathcal{E}).$$
 - Our main goal is now to bound $N$.
 - ---
+- ### Step 5
 - Next idea: Find curves that intersect positively with the exceptional curves and restrict to them.
-- ### Case (a) Exceptional curve
 -
