@@ -79,4 +79,4 @@
 - ---
 - ### Step 5
 - Next idea: Find curves that intersect positively with the exceptional curves and restrict to them.
--
+- Take some large $N$ s.t. $NH$ is very ample. Let $j:$
