@@ -6,4 +6,4 @@
 - [[Kummer is projective]]
 - [[Brief summary of UROP]]
 - [[Questions from meeting]]
--
+- [[Picard group of Kummer]]
