@@ -89,4 +89,4 @@
 - So $m(M.h)\leq0$, and so $M.h\leq0$.
 - Since $c_1(\mathcal{E}).h=0$, we have $N.h\leq0$.
 - ### Step 7
--
+- $=
