@@ -92,7 +92,7 @@
 - We obtain a bound on $t$,
 - $$0 \leq t \leq \sqrt{\frac{pq-r^2}{p}\xi}$$
 - ### Step 8
-- If $\rho(A)=1$, we are done!
+- If $\rho(A)=1$, or if the Neron-Severi lattice of $A$ is nice enough, we are done!
 - For every value of $t$, there is only finitely many choices of $N$, because
 - $$R^2 \geq \xi-u^2H^2=\xi-t^2/q$$
 - And $R^2\leq0$ by the Hodge index theorm.
