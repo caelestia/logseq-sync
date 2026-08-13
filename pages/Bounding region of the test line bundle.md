@@ -32,7 +32,7 @@
 	- Then, from the SES $0\to\mathcal{M}\to\mathcal{E}\to\mathcal{Q}\to0$, [we easliy get](https://stacks.math.columbia.edu/tag/065S) $\operatorname{pd}(\mathcal{M})\leq 0$.
 	- i.e., $\mathcal{M}$ is locally free. QED
 - Thus we can replace $\mathcal{L}$ by $\mathcal{M}^{-1}$ in the Hoppe check! In the following we will bound $\mathcal{M}$, as it is impossible to bound $\mathcal{L}^2$ (this problem can be seen by the next section).
-- ### Side note
+- ### Step 2
 - Claim. We have $\mathcal{M}=\mathcal{L}^{-1}(D)$ for some effective divisor $D$.
 	- Proof. This is because we have an inclusion of line bundles
 	- $$\mathcal{L}^{-1} \hookrightarrow \mathcal{M}$$
@@ -41,7 +41,7 @@
 	- The result follows. QED
 - Then $\deg_H(\mathcal{M}) \geq -\deg_H(\mathcal{L}) \geq \mu(\mathcal{E})$.
 - Note. The Chern class is $c_1(\mathcal{M})=c_1(\mathcal{L}^{-1})+c_1(\mathcal{O}(D))=-c_1(\mathcal{L})+D$. (Seems unnecessary.)
-- ### Step 2
+- ### Step 3
 - Claim. $\mathcal{Q}^D$ is locally free.
 	- Proof. This follows from Huybrechts-Lehn, Proposition 1.1.10. Details:
 	- Denote for this proof $\mathcal{F}:=\mathcal{Q}^D$, which satisfies condition 2'). By 4') of the Proposition, $\mathcal{F}$ satisfies Serre's condition $S_{2,0}$. Since we're on a surface, this simply imples
@@ -60,7 +60,7 @@
 - Note: These statements are written in loc. cit. Example 1.1.16.
 - Chern classes. For the ideal sheaf $\mathcal{I}_Z$, we have
 - $$c(\mathcal{I}_Z) = 1 + [Z]$$
-- ### Step 3
+- ### Step 4
 - First we compute the Chern classes of $\mathcal{Q}$. It's a tensor product, so we use the Chern character,
 - $$\ch(\mathcal F) = \operatorname{rk}(\mathcal{F}) + c_1(\mathcal{F}) + \frac{1}{2}(c_1^2-2c_2)$$
 - We have $\ch(\mathcal{Q})=(1-[Z])(1+\alpha+\frac{1}{2}\alpha^2)$, so $c_1(\mathcal{Q})=\alpha$ and $c_2(\mathcal{Q})=[Z]$, where $\alpha:=c_1(\mathcal{Q}^{DD})$.
@@ -70,15 +70,15 @@
 - $$c_1(\mathcal{E}) = c_1(\mathcal{M}) + \alpha,$$
 - $$c_2(\mathcal{E}) = c_1(\mathcal{M})\alpha + [Z].$$
 - We get $$0 \leq [Z] = c_2(\mathcal{E}) - c_1(\mathcal{M})(c_1(\mathcal{E})-c_1(\mathcal{M})) = \mathcal{M}^2 - c_1(\mathcal{E}).\mathcal{M} + c_2(\mathcal{E}).$$
-- ### Step 4
+- ### Step 5
 - Write $N:=c_1(\mathcal M)-\frac{1}{2}c_1(\mathcal{E})=uH+R$ where $R\in H^\bot$.
-- Here $u=c_1(\mathcal M)-\frac{1}{2}c_1(\mathcal{E}).[H]/H^2\geq0$ by Step
+- Here $u=c_1(\mathcal M)-\frac{1}{2}c_1(\mathcal{E}).[H]/H^2\geq0$ by Step 2.
 - By the Hodge index theorem, $R^2\leq0$.
 - We have
 - $$N^2=u^2H^2+R^2 \geq \frac{1}{4}c_1(\mathcal{E})^2 - c_2(\mathcal{E}).$$
 - Our main goal is now to bound $N$.
 - ---
-- ### Step 5
+- ### Step 6
 - Next idea: Find curves that intersect positively with the exceptional curves and restrict to them.
 - Find a bulk curve by considering $Y=A/\iota$.
 - Take some large $m$ s.t. $mh$ is very ample on $Y$. Let $j:Y \hookrightarrow \mathbb P^N$ s.t. $mh$ is the pullback of the hyperplane divisor. Since $Y$ is a projective variety, hence proper, $j$ is a closed embedding.
@@ -89,5 +89,5 @@
 - By the projection formula, $j_*(j^*c_1(\mathcal{M})\cap[C])=c_1(\mathcal{M}).j_*[C]=m(M.h)$.
 - So $m(M.h)\leq0$ and so $M.h\leq0$.
 	- I'm being a bit sloppy, writing $h$ for $\pi^*h$.
-- ### Step 6
+- ### Step 7
 -
