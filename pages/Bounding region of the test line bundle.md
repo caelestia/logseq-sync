@@ -2,9 +2,8 @@
 - Recall:
 	- The first Chern class is $c_1(\mathcal{E})=\sum_{i=1}^{16}(m_{i,1}+m_{i,2})[E_i]$.
 	- The second Chern class is $c_2(\mathcal{E})=-2\sum_{i=1}^{16}m_{i,1}m_{i,2}$.
-	- The ample divisor is $H = n\pi^*h - \sum_{i=1}^{16} E_i$.
+	- The ample divisor is $H = nh - \sum_{i=1}^{16} E_i$, where $h=\pi^*h_0$.
 	- The slope is $\mu(\mathcal{E}) = \sum_{i=1}^{16} (m_{i,1} + m_{i,2})$.
--
 - ----
 - Write $L=\pi^*V + \sum_{i=1}^{16} \lambda_i E_i$.
 	- The condition $\deg_H(L)\leq-\mu(E)$ becomes $2\sum\lambda_i \leq -\sum_{i=1}^{16}(m_{i,1}+m_{i,2})$.
@@ -81,14 +80,13 @@
 - ### Step 6
 - Next idea: Find curves that intersect positively with the exceptional curves and restrict to them.
 - Find a bulk curve by considering $Y=A/\iota$.
-- Take some large $m$ s.t. $mh$ is very ample on $Y$. Let $j:Y \hookrightarrow \mathbb P^N$ s.t. $mh$ is the pullback of the hyperplane divisor. Since $Y$ is a projective variety, hence proper, $j$ is a closed embedding.
+- Take some large $m$ s.t. $mh_0$ is very ample on $Y$. Let $j:Y \hookrightarrow \mathbb P^N$ s.t. $mh$ is the pullback of the hyperplane divisor. Since $Y$ is a projective variety, hence proper, $j$ is a closed embedding.
 - By Bertini's theorem (Hartshorne II.8.18 and the remark after), there is a hyperplane in $\mathbb P^N$ whose intersection with $j(Y)$ is non-singular.
-- Hence $mh$ is represented by a non-singular codim $1$ subvariety, whose strict transform in $X$ is a curve $C$ not intersecting any of the $E_i$.
+- Hence $mh_0$ is represented by a non-singular codim $1$ subvariety, whose strict transform in $X$ is a curve $C$ not intersecting any of the $E_i$.
 - We have by assumption $\mathcal{M}|_C\hookrightarrow\mathcal{E}|_C$. Since [[flat bundles are semistable]], $\mu(\mathcal{E}|_C)=0$ and $\mu(\mathcal M|_C)\leq\mu(\mathcal{E}|_C)$. By definition, $\mu(\mathcal M|_C)=c_1(\mathcal{M}|_C)$ since $h|_C$ is an ample divisor.
 - Let $j:C\hookrightarrow X$. Then $c_1(\mathcal{M}|_C)=j^*c_1(\mathcal{M})$.
 - By the projection formula, $j_*(j^*c_1(\mathcal{M})\cap[C])=c_1(\mathcal{M}).j_*[C]=m(M.h)$.
 - So $m(M.h)\leq0$, and so $M.h\leq0$.
 - Since $c_1(\mathcal{E}).h=0$, we have $N.h\leq0$.
-	- I'm being a bit sloppy, writing $h$ for $\pi^*h$.
 - ### Step 7
 -
