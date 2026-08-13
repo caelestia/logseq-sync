@@ -13,13 +13,13 @@
 - In the open nhood of some $E_i$ excluding all other $E_j$'s, the bundle is
 - $$\mathcal{O}((m_{i,1}+\lambda_i)E_i)\oplus \mathcal{O}((m_{i,2}+\lambda_i)E_i)$$
 - As an additive functor, $H^0$ commutes with the biproduct, so assuming $H^0\neq0$ we get either $H^0((m_{i,1}+\lambda_i)E_i)\neq0$ or $H^0((m_{i,2}+\lambda_i)E_i)\neq0$.
-- However this doesn't seem to work! Any integral multiple of $E_i$ is effective in the Eguchi-Hanson space:
+- However this doesn't seem to work! Any integral multiple of $E_i$ is linearly equivalent to an effective divisor in the Eguchi-Hanson space:
 	- Let's see why this is true.
 	- We can view the Eguchi-Hanson space as the strict transform of the cone $uv=w^2$ in the blow-up at origin of the affine space $\text{Spec } \mathbb C[u,v,w]$.
 	- Then the coordinate function $u$, pulled back, will vanish with order $1$ on the exceptional curve $E$ and with order $2$ on the strict transform $\tilde L$ of the line $\{x=0\}$, thus proving
 	- $$E + 2\tilde L = (u) \sim 0$$
 	- In particular, $-E \sim 2\tilde L$ is effective.
-	- (In fact $\tilde L$ is the generator of the Picard group of Eguchi-Hanson, so every divisor is effective.)
+	- (In fact $\tilde L$ is the generator of the Picard group of Eguchi-Hanson, so every divisor is lin effective.)
 - ---
 - Suppose that $\mathcal{L}$ is a line bundle such that $\mathcal{E}\otimes\mathcal{L}$ has a global section.
 - Then $\mathcal{L}^{-1} \hookrightarrow \mathcal{E}$ as a subsheaf.
@@ -39,8 +39,8 @@
 	- Which gives us a line bundle $\mathcal{L\otimes M}$ equipped with a regular (in the sense of locally not being a zero-divisor, but since we're over a regular integral scheme this is just the same as non-zero) section, that is, [the same as](https://stacks.math.columbia.edu/tag/01X0) an effective Cartier divisor $D$.
 	- $$\mathcal{L\otimes M \simeq O}(D)$$
 	- The result follows. QED
+- The Chern class is $c_1(\mathcal{M})=c_1(\mathcal{L}^{-1})+c_1(\mathcal{O}(D))=-c_1(\mathcal{L})+[D]$.
 - Then $\deg_H(\mathcal{M}) \geq -\deg_H(\mathcal{L}) \geq \mu(\mathcal{E})$.
-- Note. The Chern class is $c_1(\mathcal{M})=c_1(\mathcal{L}^{-1})+c_1(\mathcal{O}(D))=-c_1(\mathcal{L})+[D]$. (Seems unnecessary.)
 - ### Step 3
 - Claim. $\mathcal{Q}^D$ is locally free.
 	- Proof. This follows from Huybrechts-Lehn, Proposition 1.1.10. Details:
