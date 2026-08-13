@@ -87,5 +87,6 @@
 - Let $j:C\hookrightarrow X$. Then $c_1(\mathcal{M}|_C)=j^*c_1(\mathcal{M})$.
 - By the projection formula, $j_*(j^*c_1(\mathcal{M})\cap[C])=c_1(\mathcal{M}).j_*[C]=m(M.h)$.
 - So $m(M.h)\leq0$ and so $M.h\leq0$.
+	- I'm being a bit sloppy, writing $h$ for $\pi^*h$.
 - ### Step 6
 -
