@@ -85,4 +85,4 @@
 - Hence $mh$ is represented by a non-singular codim $1$ subvariety, whose strict transform in $X$ is a curve $C$ not intersecting any of the $E_i$.
 - We have by assumption $\mathcal{M}|_C\hookrightarrow\mathcal{E}|_C$. Since [[flat bundles are semistable]], $\mu(\mathcal{E}|_C)=0$ and $\mu(\mathcal M|_C)\leq\mu(\mathcal{E}|_C)$. By definition, $\mu(\mathcal M|_C)=c_1(\mathcal{M}|_C).[h|_C]$ since $h|_C$ is an ample divisor.
 - Let $j:C\hookrightarrow X$. Then $c_1(\mathcal{M}|_C)=j^*c_1(\mathcal{M})$.
-- By the projection formula, $j_*(j^*c_1(\mathcal{M}).j^*[h])=$
+- By the projection formula, $j_*(j^*c_1(\mathcal{M}).j^*[h]\cap[C])=c_1(\mathcal{M}).[h].j_*[C]=M.h.C$.
