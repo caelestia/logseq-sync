@@ -1,0 +1,12 @@
+- Idea: assume the bulk part $\pi^*V$ is $0$.
+	- Then we can get a bound on the individual $\lambda_i$'s. This will immediately reduce the search to a finite one.
+- In the open nhood of some $E_i$ excluding all other $E_j$'s, the bundle is
+- $$\mathcal{O}((m_{i,1}+\lambda_i)E_i)\oplus \mathcal{O}((m_{i,2}+\lambda_i)E_i)$$
+- As an additive functor, $H^0$ commutes with the biproduct, so assuming $H^0\neq0$ we get either $H^0((m_{i,1}+\lambda_i)E_i)\neq0$ or $H^0((m_{i,2}+\lambda_i)E_i)\neq0$.
+- However this doesn't seem to work! Any integral multiple of $E_i$ is linearly equivalent to an effective divisor in the Eguchi-Hanson space:
+	- Let's see why this is true.
+	- We can view the Eguchi-Hanson space as the strict transform of the cone $uv=w^2$ in the blow-up at origin of the affine space $\text{Spec } \mathbb C[u,v,w]$.
+	- Then the coordinate function $u$, pulled back, will vanish with order $1$ on the exceptional curve $E$ and with order $2$ on the strict transform $\tilde L$ of the line $\{x=0\}$, thus proving
+	- $$E + 2\tilde L = (u) \sim 0$$
+	- In particular, $-E \sim 2\tilde L$ is effective.
+	- (In fact $\tilde L$ is the generator of the Picard group of Eguchi-Hanson, so every divisor is linearly equivalent to an effective one.)
