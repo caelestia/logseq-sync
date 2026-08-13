@@ -97,8 +97,8 @@
 - Then $G\begin{pmatrix}a\\b\end{pmatrix}=\begin{pmatrix}s\\t\end{pmatrix}$ and
 - $$P^2=\begin{pmatrix}a&b\end{pmatrix}G\begin{pmatrix}a\\b\end{pmatrix}=\begin{pmatrix}s&t\end{pmatrix}G^{-1t}\begin{pmatrix}s\\t\end{pmatrix}=\frac{qs^2-2rst+pt^2}{pq-r^2}.$$
 -
-- Since $p=h^2\geq0$, $q=(nh-\sum E_i)^2=n^2h^2-32\geq0$ and $r=h.H=nh^2$, we have $pq-r^2<0$.
+- Since $q=(nh-\sum E_i)^2=n^2h^2-32\geq0$, $p=h^2>0$ and $r=h.H=nh^2$, we have $pq-r^2<0$.
 - By Hodge index theorem,
-- $$\xi \leq N^2 \leq P^2 \leq \frac{pt^2}{pq-r^2}$$
+- $$\xi \leq N^2 \leq P^2 \leq \frac{pt^2}{pq-r^2} \leq 0$$
 - $$t \leq \sqrt{\frac{pq-r^2}{p}\xi}$$
 -
