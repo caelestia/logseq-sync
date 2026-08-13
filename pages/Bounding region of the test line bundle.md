@@ -87,7 +87,8 @@
 - We have by assumption $\mathcal{M}|_C\hookrightarrow\mathcal{E}|_C$. Since [[flat bundles are semistable]], $\mu(\mathcal{E}|_C)=0$ and $\mu(\mathcal M|_C)\leq\mu(\mathcal{E}|_C)$. By definition, $\mu(\mathcal M|_C)=c_1(\mathcal{M}|_C)$ since $h|_C$ is an ample divisor.
 - Let $j:C\hookrightarrow X$. Then $c_1(\mathcal{M}|_C)=j^*c_1(\mathcal{M})$.
 - By the projection formula, $j_*(j^*c_1(\mathcal{M})\cap[C])=c_1(\mathcal{M}).j_*[C]=m(M.h)$.
-- So $m(M.h)\leq0$ and so $M.h\leq0$.
+- So $m(M.h)\leq0$, and so $M.h\leq0$.
+- Since $c_1(\mathcal{E}).h=0$, we have $N.h\leq0$.
 	- I'm being a bit sloppy, writing $h$ for $\pi^*h$.
 - ### Step 7
 -
