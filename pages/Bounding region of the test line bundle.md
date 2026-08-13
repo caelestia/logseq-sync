@@ -104,6 +104,6 @@
 - $$0 \leq t \leq \sqrt{\frac{pq-r^2}{p}\xi}$$
 - ### Step 8
 - For every value of $t$, there is only finitely many choices of $N$, because
-- $$R^2 \geq \xi-u^2H^2$$
+- $$R^2 \geq \xi-u^2H^2=\xi-t^2/q$$
 - This will reduce the problem down to a finite check.
 -
