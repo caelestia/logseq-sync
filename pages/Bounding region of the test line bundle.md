@@ -90,4 +90,6 @@
 - So $m(M.h)\leq0$, and so $M.h\leq0$.
 - Since $c_1(\mathcal{E}).h=0$, we have $N.h\leq0$.
 - ### Step 7
--
+- Let $s=N.h\leq0$, $t=N.H\geq0$, $p=h^2$, $q=H^2$, $r=h.H$.
+- Denote the projection of $N$ to the $\langle h,H\rangle$-plane by $P:=ah+bH$.
+- Write $G=$
