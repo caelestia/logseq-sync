@@ -101,4 +101,5 @@
 - By Hodge index theorem,
 - $$\xi \leq N^2 \leq P^2 \leq \frac{pt^2}{pq-r^2} \leq 0$$
 - $$t \leq \sqrt{\frac{pq-r^2}{p}\xi}$$
+- ### Step 8
 -
