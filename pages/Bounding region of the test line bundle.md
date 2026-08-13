@@ -84,4 +84,5 @@
 - By Bertini's theorem (Hartshorne II.8.18 and the remark after), there is a hyperplane in $\mathbb P^N$ whose intersection with $j(Y)$ is non-singular.
 - Hence $mh$ is represented by a non-singular codim $1$ subvariety, whose strict transform in $X$ is a curve $C$ not intersecting any of the $E_i$.
 - We have by assumption $\mathcal{M}|_C\hookrightarrow\mathcal{E}|_C$. Since [[flat bundles are semistable]], $\mu(\mathcal{E}|_C)=0$ and $\mu(\mathcal M|_C)\leq\mu(\mathcal{E}|_C)$. By definition, $\mu(\mathcal M|_C)=c_1(\mathcal{M}|_C).[h|_C]$ since $h|_C$ is an ample divisor.
-- By the projection formula, $c_1
+- $c_1(\mathcal{M}|_C)=j^*
+- Let $j:C\hookrightarrow X$. By the projection formula, $$
