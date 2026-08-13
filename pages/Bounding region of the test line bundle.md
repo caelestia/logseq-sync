@@ -100,6 +100,10 @@
 - Since $q=(nh-\sum E_i)^2=n^2h^2-32\geq0$, $p=h^2>0$ and $r=h.H=nh^2$, we have $pq-r^2<0$.
 - By Hodge index theorem,
 - $$\xi \leq N^2 \leq P^2 \leq \frac{pt^2}{pq-r^2} \leq 0$$
-- $$t \leq \sqrt{\frac{pq-r^2}{p}\xi}$$
+- We obtain a bound on $t$,
+- $$0 \leq t \leq \sqrt{\frac{pq-r^2}{p}\xi}$$
 - ### Step 8
+- For every value of $t$, there is only finitely many choices of $N$, because
+- $$R^2 \geq \xi-u^2H^2$$
+- This will reduce the problem down to a finite check.
 -
