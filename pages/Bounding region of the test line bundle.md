@@ -99,4 +99,4 @@
 -
 - Since $p=h^2\geq0$, $q=(nh-\sum E_i)^2=n^2h^2-32\geq0$ and $r=h.H=nh^2$, we have $pq-r^2<0$.
 - By Hodge index theorem,
-- $$\xi \leq P^2$$
+- $$\xi \leq N^2 \leq P^2 \leq \frac{pt^2}{pq-r^2}$$
