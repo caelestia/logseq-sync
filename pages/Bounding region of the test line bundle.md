@@ -3,6 +3,7 @@
 	- The first Chern class is $c_1(\mathcal{E})=\sum_{i=1}^{16}(m_{i,1}+m_{i,2})[E_i]$.
 	- The second Chern class is $c_2(\mathcal{E})=-2\sum_{i=1}^{16}m_{i,1}m_{i,2}$.
 	- The ample divisor is $H = nh - \sum_{i=1}^{16} E_i$, where $h=\pi^*h_0$.
+	- The
 	- The slope is $\mu(\mathcal{E}) = \sum_{i=1}^{16} (m_{i,1} + m_{i,2})$.
 - ----
 - Write $L=\pi^*V + \sum_{i=1}^{16} \lambda_i E_i$.
@@ -89,4 +90,4 @@
 - So $m(M.h)\leq0$, and so $M.h\leq0$.
 - Since $c_1(\mathcal{E}).h=0$, we have $N.h\leq0$.
 - ### Step 7
-- $=
+-
