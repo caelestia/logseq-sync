@@ -90,10 +90,11 @@
 - So $m(M.h)\leq0$, and so $M.h\leq0$.
 - Since $c_1(\mathcal{E}).h=0$, we have $N.h\leq0$.
 - ### Step 7
-- Let $s=N.h\leq0$, $t=N.H\geq0$, $p=h^2$, $q=H^2$, $r=h.H$.
+- Let $s=N.h\leq0$, $t=N.H\geq0$.
+- Let $p=h^2$, $q=H^2$, $r=h.H$, all $\geq0$.
 - Denote the projection of $N$ to the $\langle h,H\rangle$-plane by $P:=ah+bH$.
 - Let the Gram matrix $G=\begin{pmatrix}p&r\\r&q\end{pmatrix}$.
 - Then $G\begin{pmatrix}a\\b\end{pmatrix}=\begin{pmatrix}s\\t\end{pmatrix}$ and
-- $$P^2=\begin{pmatrix}a&b\end{pmatrix}G\begin{pmatrix}a\\b\end{pmatrix}=\begin{pmatrix}s&t\end{pmatrix}G^{-1t}\begin{pmatrix}s\\t\end{pmatrix}$$
+- $$P^2=\begin{pmatrix}a&b\end{pmatrix}G\begin{pmatrix}a\\b\end{pmatrix}=\begin{pmatrix}s&t\end{pmatrix}G^{-1t}\begin{pmatrix}s\\t\end{pmatrix}=\frac{qs^2-2rst+pt^2}{pq-r^2}.$$
 -
 -
