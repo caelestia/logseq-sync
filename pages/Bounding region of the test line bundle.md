@@ -73,9 +73,9 @@
 - ### Step 5
 - Write $N:=c_1(\mathcal M)-\frac{1}{2}c_1(\mathcal{E})=uH+R$ where $R\in H^\bot$.
 - Here $N.H=uH^2=(c_1(\mathcal M)-\frac{1}{2}c_1(\mathcal{E})).H\geq0$ by Step 2.
-- By the Hodge index theorem, $R^2\leq0$.
+- By the Hodge index theorem (Hartshorne V.1.9), $R^2\leq0$.
 - We have
-- $$N^2=u^2H^2+R^2 \geq \frac{1}{4}c_1(\mathcal{E})^2 - c_2(\mathcal{E}).$$
+- $$N^2=u^2H^2+R^2 \geq \frac{1}{4}c_1(\mathcal{E})^2 - c_2(\mathcal{E}) =: \xi.$$
 - Our main goal is now to bound $N$.
 - ---
 - ### Step 6
@@ -98,4 +98,5 @@
 - $$P^2=\begin{pmatrix}a&b\end{pmatrix}G\begin{pmatrix}a\\b\end{pmatrix}=\begin{pmatrix}s&t\end{pmatrix}G^{-1t}\begin{pmatrix}s\\t\end{pmatrix}=\frac{qs^2-2rst+pt^2}{pq-r^2}.$$
 -
 - Since $p=h^2\geq0$, $q=(nh-\sum E_i)^2=n^2h^2-32\geq0$ and $r=h.H=nh^2$, we have $pq-r^2<0$.
--
+- By Hodge index theorem,
+- $$\xi \leq P^2$$
