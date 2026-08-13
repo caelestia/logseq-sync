@@ -84,7 +84,7 @@
 - Denote the projection of $N$ to the $\langle h,H\rangle$-plane by $P:=ah+bH$.
 - Let the Gram matrix $G=\begin{pmatrix}p&r\\r&q\end{pmatrix}$.
 - Then $G\begin{pmatrix}a\\b\end{pmatrix}=\begin{pmatrix}s\\t\end{pmatrix}$ and
-- $$P^2=\begin{pmatrix}a&b\end{pmatrix}G\begin{pmatrix}a\\b\end{pmatrix}=\begin{pmatrix}s&t\end{pmatrix}G^{-1t}\begin{pmatrix}s\\t\end{pmatrix}=\frac{qs^2-2rst+pt^2}{pq-r^2}.$$
+- $$P^2=\begin{pmatrix}a&b\end{pmatrix}G\begin{pmatrix}a\\b\end{pmatrix}=\begin{pmatrix}s&t\end{pmatrix}(G^{-1})^\top\begin{pmatrix}s\\t\end{pmatrix}=\frac{qs^2-2rst+pt^2}{pq-r^2}.$$
 -
 - Since $q=(nh-\sum E_i)^2=n^2h^2-32\geq0$, $p=h^2>0$ and $r=h.H=nh^2$, we have $pq-r^2<0$.
 - By Hodge index theorem,
@@ -96,3 +96,4 @@
 - $$R^2 \geq \xi-u^2H^2=\xi-t^2/q$$
 - And $R^2\leq0$ by the Hodge index theorm.
 - This reduces the problem down to a finite check.
+-
