@@ -40,7 +40,7 @@
 	- $$\mathcal{L\otimes M \simeq O}(D)$$
 	- The result follows. QED
 - Then $\deg_H(\mathcal{M}) \geq -\deg_H(\mathcal{L}) \geq \mu(\mathcal{E})$.
-- Note. The Chern class is $c_1(\mathcal{M})=c_1(\mathcal{L}^{-1})+c_1(\mathcal{O}(D))=-c_1(\mathcal{L})+D$. (Seems unnecessary.)
+- Note. The Chern class is $c_1(\mathcal{M})=c_1(\mathcal{L}^{-1})+c_1(\mathcal{O}(D))=-c_1(\mathcal{L})+[D]$. (Seems unnecessary.)
 - ### Step 3
 - Claim. $\mathcal{Q}^D$ is locally free.
 	- Proof. This follows from Huybrechts-Lehn, Proposition 1.1.10. Details:
@@ -72,7 +72,7 @@
 - We get $$0 \leq [Z] = c_2(\mathcal{E}) - c_1(\mathcal{M})(c_1(\mathcal{E})-c_1(\mathcal{M})) = \mathcal{M}^2 - c_1(\mathcal{E}).\mathcal{M} + c_2(\mathcal{E}).$$
 - ### Step 5
 - Write $N:=c_1(\mathcal M)-\frac{1}{2}c_1(\mathcal{E})=uH+R$ where $R\in H^\bot$.
-- Here $u=c_1(\mathcal M)-\frac{1}{2}c_1(\mathcal{E}).[H]/H^2\geq0$ by Step 2.
+- Here $N.H=uH^2=(c_1(\mathcal M)-\frac{1}{2}c_1(\mathcal{E})).H\geq0$ by Step 2.
 - By the Hodge index theorem, $R^2\leq0$.
 - We have
 - $$N^2=u^2H^2+R^2 \geq \frac{1}{4}c_1(\mathcal{E})^2 - c_2(\mathcal{E}).$$
