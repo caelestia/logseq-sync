@@ -79,6 +79,7 @@
 - ---
 - ### Step 5
 - Next idea: Find curves that intersect positively with the exceptional curves and restrict to them.
-- Take some large $m$ s.t. $mH$ is very ample. Let $j:X \hookrightarrow \mathbb P^N$ s.t. $mH$ is the pullback of the hyperplane divisor. Since $X$ is projective hence proper, $
-- By Bertini's theorem (Hartshorne II.8.18),
+- Take some large $m$ s.t. $mH$ is very ample. Let $j:X \hookrightarrow \mathbb P^N$ s.t. $mH$ is the pullback of the hyperplane divisor. Since $X$ is a projective variety, hence proper, $j$ is a closed embedding.
+- By Bertini's theorem (Hartshorne II.8.18 and the remark after), there is a hyperplane in $\mathbb P^N$ whose intersection with $j(X)$ is non-singular.
+- Hence $mH$ is represented by a non-singular codim $1$ subvariety.
 -
