@@ -82,5 +82,5 @@
 - Find a bulk curve by considering $Y=A/\iota$.
 - Take some large $m$ s.t. $mh$ is very ample on $Y$. Let $j:Y \hookrightarrow \mathbb P^N$ s.t. $mh$ is the pullback of the hyperplane divisor. Since $Y$ is a projective variety, hence proper, $j$ is a closed embedding.
 - By Bertini's theorem (Hartshorne II.8.18 and the remark after), there is a hyperplane in $\mathbb P^N$ whose intersection with $j(Y)$ is non-singular.
-- Hence $mh$ is represented by a non-singular codim $1$ subvariety.
+- Hence $mh$ is represented by a non-singular codim $1$ subvariety, whose strict transform in $X$ is a curve $C$ not intersecting any of the $E_i$.
 -
