@@ -31,7 +31,7 @@
 	- $$\operatorname{hd}(\mathcal{Q}) \leq \dim(X) - 1 = 1.$$
 	- Then, from the SES $0\to\mathcal{M}\to\mathcal{E}\to\mathcal{Q}\to0$, [we easliy get](https://stacks.math.columbia.edu/tag/065S) $\operatorname{pd}(\mathcal{M})\leq 0$.
 	- i.e., $\mathcal{M}$ is locally free. QED
-- Thus we can replace $\mathcal{L}$ by $\mathcal{M}^{-1}$ in the Hoppe check! In the following we will bound $\mathcal{M}^2$, as it is impossible to bound $\mathcal{L}^2$ (this problem can be seen by the next section).
+- Thus we can replace $\mathcal{L}$ by $\mathcal{M}^{-1}$ in the Hoppe check! In the following we will bound $\mathcal{M}$, as it is impossible to bound $\mathcal{L}^2$ (this problem can be seen by the next section).
 - ### Side note
 - Claim. We have $\mathcal{M}=\mathcal{L}^{-1}(D)$ for some effective divisor $D$.
 	- Proof. This is because we have an inclusion of line bundles
@@ -71,7 +71,7 @@
 - $$c_2(\mathcal{E}) = c_1(\mathcal{M})\alpha + [Z].$$
 - We get $$0 \leq [Z] = c_2(\mathcal{E}) - c_1(\mathcal{M})(c_1(\mathcal{E})-c_1(\mathcal{M})) = \mathcal{M}^2 - c_1(\mathcal{E}).\mathcal{M} + c_2(\mathcal{E}).$$
 - ### Step 4
-- Write $N:=M-\frac{1}{2}c_1(\mathcal{E})=uH+R$ where $R\in H^\bot$.
+- Write $N:=c_1(M)-\frac{1}{2}c_1(\mathcal{E})=uH+R$ where $R\in H^\bot$.
 - By the Hodge index theorem, $R^2\leq0$.
 - We have
 - $$N^2=u^2H^2+R^2 \geq \frac{1}{4}c_1(\mathcal{E})^2 - c_2(\mathcal{E}).$$
