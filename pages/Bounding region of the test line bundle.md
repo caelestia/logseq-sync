@@ -90,7 +90,7 @@
 - By Hodge index theorem,
 - $$\xi \leq N^2 \leq P^2 \leq \frac{pt^2}{pq-r^2} \leq 0$$
 - We obtain a bound on $t$,
-- $$0 \leq t \leq \sqrt{\frac{pq-r^2}{p}\xi}$$
+- $$0 \leq t \leq \sqrt{\frac{pq-r^2}{p}\xi} = \sqrt{-32\xi}$$
 - ### Step 8
 - If $\rho(A)=1$, or if the Neron-Severi lattice of $A$ is nice enough, we are done!
 - For every value of $t$, there is only finitely many choices of $N$, because
