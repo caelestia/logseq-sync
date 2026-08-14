@@ -65,6 +65,8 @@
 - By the Hodge index theorem (Hartshorne V.1.9), $R^2\leq0$.
 - We have
 - $$N^2=u^2H^2+R^2 \geq \frac{1}{4}c_1(\mathcal{E})^2 - c_2(\mathcal{E}) =: \xi.$$
+- Plug in the values of $c_1(\mathcal{E})$ and $c_2(\mathcal E)$, we find
+- $$\xi = $$
 - Our main goal is now to bound $N$.
 - ---
 - ### Step 6
