@@ -16,10 +16,11 @@
 - [[Computing the Chern classes of glued rank 2 bundle on Kummer]]
 - [[Bounding region of the test line bundle]] (IMPORTANT)
 - ---
-- [[Computing h0 in Macaulay]] (Main obstacle: constructing the rank 2 bundle via local rings.)
+- [[Computing h0 in Macaulay]] (Main obstacle: constructing the rank 2 bundle.)
 - [[Problems list for next meeting, 2026/Aug/02]]
 - [[Picard group of Kummer]]
 - ---
 - ![image.png](../assets/image_1787029616373_0.png)
 	- https://walpu.ski/Research/G2InstantonsGeneralizedKummer.pdf
+- [[GAGA related issues of Kummer project]]
 -
