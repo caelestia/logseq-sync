@@ -21,3 +21,5 @@
 - [[Picard group of Kummer]]
 - ---
 - ![image.png](../assets/image_1787029616373_0.png)
+	- https://walpu.ski/Research/G2InstantonsGeneralizedKummer.pdf
+-
