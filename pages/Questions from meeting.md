@@ -19,4 +19,5 @@
 - [[Computing h0 in Macaulay]] (Main obstacle: constructing the rank 2 bundle via local rings.)
 - [[Problems list for next meeting, 2026/Aug/02]]
 - [[Picard group of Kummer]]
--
+- ---
+- ![image.png](../assets/image_1787029616373_0.png)
