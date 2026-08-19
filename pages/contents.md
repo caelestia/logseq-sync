@@ -17,4 +17,5 @@
 	- [[Kodaira Embedding Theorem]]
 	- [[Hartshorne exercises]]
 	- [[Commutative Algebra]]
+	- [[Hodge theory]]
 -
