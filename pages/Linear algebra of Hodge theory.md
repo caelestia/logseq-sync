@@ -7,4 +7,4 @@
 	- By functoriality, we have $\bigwedge\iota:\bigwedge V\xrightarrow{\sim}\bigwedge V^\vee$.
 	- Note that we have a natural injection $\bigwedge^p V^\vee \to (\bigwedge^p V)^\vee$ given by
 	- $$\langle f_1\wedge\cdots\wedge f_p, a_1\wedge\cdots\wedge a_p\rangle = \det(f_i(a_j))$$
--
+	- Because $V$ is finite-dimensional, this induces a non-degeren
