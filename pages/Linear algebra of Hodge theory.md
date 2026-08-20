@@ -4,5 +4,6 @@
 - We then give the manifold a Riemannian structure. This makes $V=A^1$ an inner product space.
 - Then it induces an inner product structure on $A$, where $A^p$ and $A^q$ would be orthogonal if $p\neq q$.
 	- To define this, let $\iota:V \xrightarrow{\sim} V^\vee$ be the pairing.
-	- By functoriality, we have $\bigwedge\iota:\bigwedge V\to\bigwedge V^\vee=(\bigwedge V)^\vee$.
+	- By functoriality, we have $\bigwedge\iota:\bigwedge V\xrightarrow{\sim}\bigwedge V^\vee=(\bigwedge V)^\vee$.
+	-
 -
