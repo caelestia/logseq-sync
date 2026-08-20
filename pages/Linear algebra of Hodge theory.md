@@ -9,5 +9,7 @@
 	- $$\langle f_1\wedge\cdots\wedge f_p, a_1\wedge\cdots\wedge a_p\rangle = \det(f_i(a_j))$$
 	- Because $V$ is finite-dimensional, this is an isomorphism. We thus have a non-degenerate pairing on $\bigwedge V$, which is clearly symmetric.
 	- By taking an orthonormal basis $\{e_i\}$ of $V$ it's easy to see that this is positive definite, with orthonormal basis $\{e_I\}$.
-- Then $d$ has an adjoint $d^*$. Define the Laplacian $\Delta=dd^*+d^*d$.
+- Then $d$ has an adjoint $d^*$. Define the Laplacian $\Delta=dd^*+d^*d$, which is self-adjoint.
+- A well-known fact: $\ker\Delta=\ker d\cap\ker d^*$.
+	- Proof. Let $\Delta\omega=0$. Then $0=\langle\Delta\omega,\omega\rangle=\langle,\rangle$
 -
