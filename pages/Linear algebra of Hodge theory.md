@@ -1,3 +1,5 @@
-- We model the $p$-forms on a manifold as the exterior algebra of an $n$-dimensional real vector space $V$ over $\R$,
-- $$A = \bigoplus_{0\leq p\leq n} A^p$$
+- We model the $p$-forms at a point on a manifold as the exterior algebra of an $n$-dimensional real vector space $V$ over $\R$,
+- $$A = \bigoplus_{0\leq p\leq n} A^p = \bigwedge A^1$$
+- This comes with a differential $d:A\to A$ of degree $1$.
+- We then give the manifold a Riemannian structure. This makes $A^1$ an inner product space.
 -
