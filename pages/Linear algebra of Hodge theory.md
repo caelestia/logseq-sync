@@ -1,0 +1,2 @@
+- We model the $p$-forms, $0\leq p\leq n$, on a manifold by a graded algebra over $\R$,
+-
