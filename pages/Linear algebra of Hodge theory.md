@@ -7,6 +7,6 @@
 	- By functoriality, we have $\bigwedge\iota:\bigwedge V\xrightarrow{\sim}\bigwedge V^\vee$.
 	- Note that we have a natural injection $\bigwedge^p V^\vee \to (\bigwedge^p V)^\vee$ given by
 	- $$\langle f_1\wedge\cdots\wedge f_p, a_1\wedge\cdots\wedge a_p\rangle = \det(f_i(a_j))$$
-	- Because $V$ is finite-dimensional, this is an isomorphism. We thus have a non-degenerate pairing on $\bigwedge V$.
-	- By taking an orthonormal basis of $V$ it's easy to see that this is symmetric and positive definite.
+	- Because $V$ is finite-dimensional, this is an isomorphism. We thus have a non-degenerate pairing on $\bigwedge V$, which is clearly symmetric.
+	- By taking an orthonormal basis $\{e_i\}$ of $V$ it's easy to see that this is positive definite, with orthonormal basis $\{e_I\}$.
 -
