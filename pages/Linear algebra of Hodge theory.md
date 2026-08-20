@@ -1,2 +1,3 @@
-- We model the $p$-forms, $0\leq p\leq n$, on a manifold by a graded algebra over $\R$,
+- We model the $p$-forms on a manifold as the exterior algebra of an $n$-dimensional real vector space $V$ over $\R$,
+- $$A = \bigoplus_{0\leq p\leq n} A^p$$
 -
