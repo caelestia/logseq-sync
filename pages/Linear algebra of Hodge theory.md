@@ -12,4 +12,5 @@
 - Then $d$ has an adjoint $d^*$. Define the Laplacian $\Delta=dd^*+d^*d$, which is self-adjoint.
 - A well-known fact: $\ker\Delta=\ker d\cap\ker d^*$.
 	- Proof. Let $\Delta\omega=0$. Then $0=\langle\Delta\omega,\omega\rangle=\langle d\omega,d\omega\rangle + \langle d^*\omega,d^*\omega\rangle$. The result follows.
+- Cohomology
 - LATER Hodge star
