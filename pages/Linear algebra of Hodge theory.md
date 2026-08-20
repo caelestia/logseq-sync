@@ -11,5 +11,5 @@
 	- By taking an orthonormal basis $\{e_i\}$ of $V$ it's easy to see that this is positive definite, with orthonormal basis $\{e_I\}$.
 - Then $d$ has an adjoint $d^*$. Define the Laplacian $\Delta=dd^*+d^*d$, which is self-adjoint.
 - A well-known fact: $\ker\Delta=\ker d\cap\ker d^*$.
-	- Proof. Let $\Delta\omega=0$. Then $0=\langle\Delta\omega,\omega\rangle=\langle,\rangle$
--
+	- Proof. Let $\Delta\omega=0$. Then $0=\langle\Delta\omega,\omega\rangle=\langle d\omega,d\omega\rangle + \langle d^*\omega,d^*\omega\rangle$. The result follows.
+- LATER Hodge star
