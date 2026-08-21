@@ -14,4 +14,5 @@
 	- $\langle L\alpha,\beta\rangle = \int_X \omega\wedge\alpha\wedge\star\bar\beta = \int_X\alpha\wedge L(\star\bar\beta)=\int_X\alpha\wedge\star\star^{-1}L\star\bar\beta$.
 - ### Kahler identities
 - Thm. We have $[\partial,L]=0$ and $[\partial^*,L]=0$.
-	- Proof.
+	- Proof. Take a local coordinate $(z^i)$, then $\omega=\sqrt{-1}\sum_{j,k}g_{j\bar k}dz^j\wedge d\bar z^k$.
+	-
