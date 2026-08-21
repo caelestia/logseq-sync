@@ -16,4 +16,5 @@
 - Thm. We have $[\partial,L]=0$ and $[\partial^*,L]=0$.
 	- Proof. Take a local coordinate $(z^i)$, then $\omega=\sqrt{-1}\sum_{j,k}g_{j\bar k}dz^j\wedge d\bar z^k$.
 	- Moreover, suppose it is a normal coordinate around a point $p$, i.e. $g_{j\bar k}(p)=\delta_{jk}$ and $dg_{j\bar k}(p)=0$.
-	- Then $\omega=\sqrt{-1}\sum_{j,k}dz^j\wedge d\bar z^k$ at the point $p$, and the first derivative term vanishes in
+	- Then $\omega=\sqrt{-1}\sum_{j,k}dz^j\wedge d\bar z^k$ at the point $p$, and the first derivative term vanishes in $[\partial,L]$, and the other terms cancel, so in fact $[\partial,L]=0$.
+	-
