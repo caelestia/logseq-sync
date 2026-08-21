@@ -19,7 +19,7 @@
 	- Proof. We have $dV_g=\rho(z)dV_E$, where $V_E$ is the Euclidean measure. On a Kahler manifold we can write $\rho(z)=\det(g_{j\bar k}​(z))$ up to a harmless constant.
 	- We compute $\int_X \partial_j(f)\bar hdV_g = -\int_Xf\partial_j(\bar h\rho)dV_E = -\int_X f \partial_j\bar hdV_g - \int_X f\bar h\partial_j(\rho) \rho^{-1}dV_g$.
 	- So the adjoint of $\partial_j$ is $-\partial_{\bar j}-\partial_{\bar j}(\log\rho)$ in this coordinate nhood.
-	- At $x$, the $
+	- At $x$, the second term vanishes. QED
 - ### Kahler identities
 - Thm. We have $[\partial,L]=0$ and $[\partial^*,L]=-i\partial^*$.
 	- Proof. Take a local coordinate $(z^i)$, then $\omega=\sqrt{-1}\sum_{j,k}g_{j\bar k}dz^j\wedge d\bar z^k$.
