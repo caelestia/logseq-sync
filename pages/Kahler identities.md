@@ -3,6 +3,7 @@
 - The Lefschetz operator is $L:=\omega\wedge-$, with adjoint $\Lambda$.
 - Recall that the inner product on smooth $k$-forms is given by $\langle\alpha,\beta\rangle=\int_X\alpha\wedge\star\bar\beta$.
 - Claim. $\Lambda=-\star L\star$.
-	- Proof. $\langle L\alpha,\beta\rangle = \int_X \omega\wedge\alpha\wedge\star\bar\beta = \langle\alpha,L\rangle$
+	- Proof. $\langle L\alpha,\beta\rangle = \int_X \omega\wedge\alpha\wedge\star\bar\beta = \int_X\alpha\wedge L(\star\bar\beta)$.
+	-
 - ### Kahler identities
 - Thm. We have $[\partial,L]=0$ and $[\partial^*,L]=0$.
