@@ -1,3 +1,6 @@
 - Let $X$ be a Kahler manifold with fundamental form $\omega$.
-- The Lefschetz operator $L:=\omega\wedge-$.
-- Thm. We have $[\partial,L]=0$
+- ### Adjoint computation
+- The Lefschetz operator is $L:=\omega\wedge-$, with adjoint $\Lambda$.
+-
+- ### Kahler identities
+- Thm. We have $[\partial,L]=0$ and $[\partial^*,L]=0$.
