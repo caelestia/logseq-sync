@@ -15,4 +15,5 @@
 - ### Kahler identities
 - Thm. We have $[\partial,L]=0$ and $[\partial^*,L]=0$.
 	- Proof. Take a local coordinate $(z^i)$, then $\omega=\sqrt{-1}\sum_{j,k}g_{j\bar k}dz^j\wedge d\bar z^k$.
+	- Moreover, suppose it is a normal coordinate around a point $p$, i.e. $g_{j\bar k}(p)=\delta_{jk}$ and $dg_{j\bar k}(p)=0$.
 	-
