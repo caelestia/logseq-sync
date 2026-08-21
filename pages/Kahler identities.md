@@ -11,7 +11,6 @@
 	- Now $k+p=2n+1\equiv 1\pmod 2$. The result about $d$ follows. The other two equalities are proven similarly.
 - Claim. $\Lambda=-\star^{-1} L\star$.
 	- Proof. Let $\alpha$ be a $(k-2)$-form and $\beta$ be a $k$-form.
-	- $\langle L\alpha,\beta\rangle = \int_X \omega\wedge\alpha\wedge\star\bar\beta = \int_X\alpha\wedge L(\star\bar\beta)$.
-	-
+	- $\langle L\alpha,\beta\rangle = \int_X \omega\wedge\alpha\wedge\star\bar\beta = \int_X\alpha\wedge L(\star\bar\beta)=\int_X\alpha\wedge\star\star^{-1}L\star\bar\beta$.
 - ### Kahler identities
 - Thm. We have $[\partial,L]=0$ and $[\partial^*,L]=0$.
