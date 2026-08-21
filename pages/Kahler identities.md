@@ -13,8 +13,9 @@
 	- Proof. Let $\alpha$ be a $(k-2)$-form and $\beta$ be a $k$-form.
 	- $\langle L\alpha,\beta\rangle = \int_X \omega\wedge\alpha\wedge\star\bar\beta = \int_X\alpha\wedge L(\star\bar\beta)=\int_X\alpha\wedge\star\star^{-1}L\star\bar\beta$.
 - Write $\varepsilon_j:=dz^j\wedge-$ and $\iota_j=\iota(\frac{\partial}{\partial z^j})$, and also $D_j=\frac{\partial}{\partial z^j}$ (applied to the coefficients).
-- Claim. If $(z^i)$ is an orthonormal basis at a point $x$, then $\varepsilon_j^*=\iota_j$.
-	- Proof.
+- Claim. If $(z^i)$ is an orthonormal frame at a point $x$, then $\varepsilon_j^*=\iota_j$.
+	- Proof. This is basically the definition.
+- Claim. If $(z^i)$ is a normal coordinate at a
 - ### Kahler identities
 - Thm. We have $[\partial,L]=0$ and $[\partial^*,L]=-i\partial^*$.
 	- Proof. Take a local coordinate $(z^i)$, then $\omega=\sqrt{-1}\sum_{j,k}g_{j\bar k}dz^j\wedge d\bar z^k$.
