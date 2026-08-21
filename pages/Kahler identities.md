@@ -15,12 +15,12 @@
 - Write $\varepsilon_j:=dz^j\wedge-$ and $\iota_j=\iota(\frac{\partial}{\partial z^j})$, and also $D_j=\frac{\partial}{\partial z^j}$ (applied to the coefficients).
 - Claim. If $(dz^j)$ is an orthonormal frame at a point $x$, then $\varepsilon_j^*=\iota_j$ at $x$.
 	- Proof. This is basically the definition.
-- Claim. If $(z^j)$ is a normal coordinates at a point $x$, then $D_j^*=-D_{\bar j}$ at $x$.
+- Claim. If $(z^j)$ is a normal coordinates at a point $x$, i.e. $g_{j\bar k}(x)=\delta_{jk}$ and $dg_{j\bar k}(x)=0$, then $D_j^*=-D_{\bar j}$ at $x$.
 	- Proof.
 - ### Kahler identities
 - Thm. We have $[\partial,L]=0$ and $[\partial^*,L]=-i\partial^*$.
 	- Proof. Take a local coordinate $(z^i)$, then $\omega=\sqrt{-1}\sum_{j,k}g_{j\bar k}dz^j\wedge d\bar z^k$.
-	- Moreover, suppose it is a normal coordinate around a point $x$, i.e. $g_{j\bar k}(p)=\delta_{jk}$ and $dg_{j\bar k}(p)=0$.
+	- Moreover, suppose it is a normal coordinate around a point $x$, .
 	- Then $\omega=\sqrt{-1}\sum_{j,k}dz^j\wedge d\bar z^k$ at the point $p$, and the first derivative term vanishes in $[\partial,L]$, and the other terms cancel, so in fact $[\partial,L]=0$.
 	- Under a normal coordinate, at $x$, we have $\partial^*=-\sum_k \iota(\frac{\partial}{\partial z^k})\frac{\partial}{\partial \bar z^j}$.
 	-
