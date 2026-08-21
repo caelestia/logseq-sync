@@ -5,7 +5,7 @@
 - Recall $\star\star=(-1)^k$ on $k$-forms.
 - Claim. $d^*=-\star d\star$, $\partial^*=-\star\bar\partial\star$, $\bar\partial^*=-\star\partial\star$.
 	- Proof. $\langle d\alpha,\beta\rangle = \int_X d\alpha\wedge\star\bar\beta$.
-	- Integration by parts: $d(\alpha\wedge\star\bar\beta)=d\alpha\wedge\star\bar\beta + (-1)^{}$
+	- Integration by parts: $d(\alpha\wedge\star\bar\beta)=d\alpha\wedge\star\bar\beta + (-1)^{\deg\alpha}a\wedge d\star\bar\beta$.
 - Claim. $\Lambda=-\star^{-1} L\star$.
 	- Proof. $\langle L\alpha,\beta\rangle = \int_X \omega\wedge\alpha\wedge\star\bar\beta = \int_X\alpha\wedge L(\star\bar\beta)$.
 	-
