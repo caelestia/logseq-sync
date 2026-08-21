@@ -12,6 +12,8 @@
 - Claim. $\Lambda=\star^{-1} L\star$.
 	- Proof. Let $\alpha$ be a $(k-2)$-form and $\beta$ be a $k$-form.
 	- $\langle L\alpha,\beta\rangle = \int_X \omega\wedge\alpha\wedge\star\bar\beta = \int_X\alpha\wedge L(\star\bar\beta)=\int_X\alpha\wedge\star\star^{-1}L\star\bar\beta$.
+- Claim. If $(z^i)$ is an orthonormal basis at a point $x$, then $\varepsilon_j^*=\iota_j$.
+	- Proof.
 - ### Kahler identities
 - Thm. We have $[\partial,L]=0$ and $[\partial^*,L]=-i\partial^*$.
 	- Proof. Take a local coordinate $(z^i)$, then $\omega=\sqrt{-1}\sum_{j,k}g_{j\bar k}dz^j\wedge d\bar z^k$.
