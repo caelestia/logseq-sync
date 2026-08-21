@@ -19,4 +19,3 @@
 	- [[Commutative Algebra]]
 	- [[Hodge theory]]
 -
--
