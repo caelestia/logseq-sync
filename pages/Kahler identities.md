@@ -1,1 +1,3 @@
--
+- Let $X$ be a Kahler manifold with fundamental form $\omega$.
+- The Lefschetz operator $L:=\omega\wedge-$.
+- Thm. We have $[\partial,L]=0$
