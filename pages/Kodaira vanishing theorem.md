@@ -1,0 +1,2 @@
+- Analytic proof: Global Calculus
+- Sheaf theoretic proof: Birational Geometry of Algebraic Varieties - Kollar and Mori
