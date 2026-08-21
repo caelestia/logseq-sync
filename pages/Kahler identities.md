@@ -1,4 +1,4 @@
-- Let $X$ be a Kahler manifold with fundamental form $\omega$.
+- Let $X$ be a compact Kahler manifold with fundamental form $\omega$.
 - ### Adjoint computation
 - The Lefschetz operator is $L:=\omega\wedge-$, with adjoint $\Lambda$.
 - Claim. $\Lambda=-\star L\star$.
