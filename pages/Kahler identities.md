@@ -1,13 +1,13 @@
-- Let $X$ be a compact Kahler manifold of real dimension $n$, with fundamental form $\omega$.
+- Let $X$ be a compact Kahler manifold of real dimension $2n$, with fundamental form $\omega$.
 - ### Adjoint computation
 - The Lefschetz operator is $L:=\omega\wedge-$, with adjoint $\Lambda$.
 - Recall that the inner product on smooth $k$-forms is given by $\langle\alpha,\beta\rangle=\int_X\alpha\wedge\star\bar\beta$.
-- Recall $\star\star=(-1)^p$ on $p$-forms.
+- Recall $\star\star=(-1)^{p(2n-p)}=(-1)^p$ on $p$-forms.
 - Claim. $d^*=-\star d\star$, $\partial^*=-\star\bar\partial\star$, $\bar\partial^*=-\star\partial\star$.
 	- Proof. Suppose $\alpha$ is a $k-1$-form and $\beta$ is a $k$-form. $\langle d\alpha,\beta\rangle = \int_X d\alpha\wedge\star\bar\beta$.
-	- Integration by parts: $d(\alpha\wedge\star\bar\beta)=d\alpha\wedge\star\bar\beta + (-1)^{k-1}a\wedge d\star\bar\beta$.
+	- Integration by parts: $d(\alpha\wedge\star\bar\beta)=d\alpha\wedge\star\bar\beta + (-1)^{k-1}\alpha\wedge d\star\bar\beta$.
 	- Let $p=n-k+1$ be the degree of $d\star\bar\beta$.
-	- We have $\langle d\alpha,\beta\rangle=\int_X \alpha\wedge\star\star d\star\bar\beta$
+	- We have $\langle d\alpha,\beta\rangle=(-1)^{k+}\int_X \alpha\wedge\star\star d\star\bar\beta$
 - Claim. $\Lambda=-\star^{-1} L\star$.
 	- Proof. $\langle L\alpha,\beta\rangle = \int_X \omega\wedge\alpha\wedge\star\bar\beta = \int_X\alpha\wedge L(\star\bar\beta)$.
 	-
