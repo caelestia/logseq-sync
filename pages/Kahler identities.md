@@ -17,7 +17,8 @@
 	- Proof. This is basically the definition.
 - Claim. If $(z^j)$ is a normal coordinates at a point $x$, i.e. $g_{j\bar k}(x)=\delta_{jk}$ and $dg_{j\bar k}(x)=0$, then $\partial_j^*=-\partial_{\bar j}$ at $x$.
 	- Proof. We have $dV_g=\rho(z)dV_E$, where $V_E$ is the Euclidean measure. On a Kahler manifold we can write $\rho(z)=\det(g_{j\bar k}​(z))$ up to a harmless constant.
-	- We compute $\int_X \partial_j(f)\bar hdV_g = -\int_Xf\partial_j(\bar h\rho(z))dV_E$
+	- We compute $\int_X \partial_j(f)\bar hdV_g = -\int_Xf\partial_j(\bar h\rho)dV_E = -\int_X f \partial_j\bar hdV_g - \int_X f\bar h\partial_j(\rho) \rho^{-1}dV_g$.
+	-
 - ### Kahler identities
 - Thm. We have $[\partial,L]=0$ and $[\partial^*,L]=-i\partial^*$.
 	- Proof. Take a local coordinate $(z^i)$, then $\omega=\sqrt{-1}\sum_{j,k}g_{j\bar k}dz^j\wedge d\bar z^k$.
