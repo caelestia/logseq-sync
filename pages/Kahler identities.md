@@ -16,7 +16,8 @@
 - Claim. If $(dz^j)$ is an orthonormal frame at a point $x$, then $\varepsilon_j^*=\iota_j$ at $x$.
 	- Proof. This is basically the definition.
 - Claim. If $(z^j)$ is a normal coordinates at a point $x$, i.e. $g_{j\bar k}(x)=\delta_{jk}$ and $dg_{j\bar k}(x)=0$, then $D_j^*=-D_{\bar j}$ at $x$.
-	- Proof. We have
+	- Proof. We have $dV_g=\rho(z)dV_E$, where $V_E$ is the Euclidean measure. On a Kahler manifold we can write $\rho(z)=\det(g_{j\bar k}​(z))$ up to a harmless constant.
+	-
 - ### Kahler identities
 - Thm. We have $[\partial,L]=0$ and $[\partial^*,L]=-i\partial^*$.
 	- Proof. Take a local coordinate $(z^i)$, then $\omega=\sqrt{-1}\sum_{j,k}g_{j\bar k}dz^j\wedge d\bar z^k$.
