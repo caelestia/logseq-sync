@@ -6,7 +6,7 @@
 	- $\Delta_{\bar\partial_E}+\Delta_{\partial_E}=\Delta_{\nabla_E}$.
 	- $\Delta_{\bar\partial_E}-\Delta_{\partial_E}=[iF\wedge-,\Lambda]$.
 - Proof. Put $A=\partial_E$ and $B=\bar\partial_E$.
-	- The Kahler identities give $[L,B^*]=-iA$, $[L,A^*]=iB$, and $[L,A]=[L,B]=0$. Hence
+	- The [[Kahler identities]] give $[L,B^*]=-iA$, $[L,A^*]=iB$, and $[L,A]=[L,B]=0$. Hence
 		- $[L,\Delta_B]=B[L,B^*]+[L,B^*]B=-i(BA+AB)=-iF\wedge-$.
 		- $[L,\Delta_A]=A[L,A^*]+[L,A^*]A=i(AB+BA)=iF\wedge-$.
 	- We have $A^2=B^2=0$. Also $B^*=-i[\Lambda,A]$ and $A^*=i[\Lambda,B]$, so $AB^*+B^*A=0$ and $BA^*+A^*B=0$. Expanding $\Delta_{A+B}$ gives $\Delta_{\nabla_E}=\Delta_A+\Delta_B$.
