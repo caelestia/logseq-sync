@@ -1,5 +1,5 @@
 - Let $X$ be a compact Kahler manifold of real dimension $2n$, with fundamental form $\omega$.
-	- It is not necessary to assume $X$ compact. For example we can consider functions supported in the nice coordinate region, and the integration by parts argument still holds.
+	- It is not necessary to assume $X$ compact. For example we can consider functions supported in the nice coordinate chart, and the integration by parts argument still holds.
 - ### Adjoint computation
 - The Lefschetz operator is $L:=\omega\wedge-$, with adjoint $\Lambda$.
 - Recall that the inner product on smooth $k$-forms is given by $\langle\alpha,\beta\rangle=\int_X\alpha\wedge\star\bar\beta$.
@@ -38,4 +38,6 @@
 		- We compute $\iota_k\varepsilon_k\varepsilon_{\bar k}-\varepsilon_k\varepsilon_{\bar k}\iota_k = (1-\varepsilon_k\iota_k)\varepsilon_{\bar k}-\varepsilon_{k}\varepsilon_{\bar k}\iota_k=\varepsilon_{\bar k}$.
 	- Thus $[\partial^*,L] = -i\sum_{j,k}[\iota_k,\varepsilon_{j}\varepsilon_{\bar j}]\partial_{\bar k}=-i\sum_{k}\varepsilon_{\bar k}\partial_{\bar k}=-i\bar\partial^*$. QED
 - We can take conjugates and adjoints to obtain a total of 8 commutator relations:
+	- $[\bar{\partial}, L] = 0$, $[\partial, L] = 0$, $[\bar{\partial}^*, \Lambda] = 0$, $[\partial^*, \Lambda] = 0$.
+	- $[\bar{\partial}^*, L] = i\partial$, $[\partial^*, L] = -i\bar{\partial}$, $[\Lambda, \bar{\partial}] = -i\partial^*$, $[\Lambda, \partial] = i\bar{\partial}^*$.
 -
