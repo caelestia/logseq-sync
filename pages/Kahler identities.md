@@ -31,10 +31,10 @@
 	- Proof. Take a local coordinate $(z^i)$, then $\omega=\sqrt{-1}\sum_{j,k}g_{j\bar k}dz^j\wedge d\bar z^k$.
 	- Moreover, suppose it is a normal coordinate around a point $x$.
 	- Then $\omega=\sqrt{-1}\sum_{j}dz^j\wedge d\bar z^j$ at the point $x$, and the first derivative term vanishes in $[\partial,L]$, and the other terms cancel, so in fact $[\partial,L]=0$.
-	- Under this normal coordinates, at $x$, we have $\partial^*=-\sum_k \iota_k\partial_k$.
+	- Under this normal coordinates, at $x$, we have $\partial^*=-\sum_k \iota_k\partial_{\bar k}$.
 	- $\partial_k$ commutes with $L=\sqrt{-1}\sum_j \varepsilon_j\varepsilon_{\bar j}$.
 	- We just need to compute $[\iota_k,\varepsilon_j\varepsilon_{\bar j}] = \delta_{jk} \varepsilon_{\bar k}$.
 		- If $j\neq k$, these commute, so commutator $=0$. So suppose $j=k$.
 		- We compute $\iota_k\varepsilon_k\varepsilon_{\bar k}-\varepsilon_k\varepsilon_{\bar k}\iota_k = (1-\varepsilon_k\iota_k)\varepsilon_{\bar k}-\varepsilon_{k}\varepsilon_{\bar k}\iota_k=\varepsilon_{\bar k}$.
-	- Thus $[\partial^*,L] = \sqrt{-1}\sum_j[]$
+	- 1Thus $[\partial^*,L] = -\sqrt{-1}\sum_{j,k}[\iota_k,\varepsilon_{j}\varepsilon_{\bar j}]\partial_{\bar k}=-i\sum_{k}\varepsilon_{\bar k}\partial_{\bar k}=-i$
 -
