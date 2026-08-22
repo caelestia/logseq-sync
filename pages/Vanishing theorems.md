@@ -17,81 +17,78 @@
 - $$\langle[i\Theta_E,\Lambda]u,u\rangle.$$
 - Put $D'=\partial_E$, $D''=\bar\partial_E$, and $d=p+q$. Since $\Theta_E=D'D''+D''D'$ and $\Lambda^*=L$,
 	- $$\begin{aligned}
-	\langle[i\Theta_E,\Lambda]u,u\rangle
-	={}&\underbrace{i\langle D'D''\Lambda u,u\rangle}_{A}
-	+\underbrace{i\langle D''D'\Lambda u,u\rangle}_{B}
-	-\underbrace{i\langle\Theta_Eu,Lu\rangle}_{C}.
-	\end{aligned}$$
-- The adjoint computation does work. Using $D'^*=-\star D''\star$ and $D''^*=-\star D'\star$ gives
+	  \langle[i\Theta_E,\Lambda]u,u\rangle
+	  ={}&\underbrace{i\langle D'D''\Lambda u,u\rangle}_{A}
+	  +\underbrace{i\langle D''D'\Lambda u,u\rangle}_{B}
+	  -\underbrace{i\langle\Theta_Eu,Lu\rangle}_{C}.
+	  \end{aligned}$$
+- Using $D'^*=-\star D''\star$ and $D''^*=-\star D'\star$ gives
 	- $$\begin{aligned}
-	A
-	&=i\langle\Lambda u,D''^*D'^*u\rangle\\
-	&=i\langle u,L\star D'\star\star D''\star u\rangle\\
-	&=(-1)^{d+1}i\langle u,L\star D'D''\star u\rangle.
-	\end{aligned}$$
+	  A
+	  &=i\langle\Lambda u,D''^*D'^*u\rangle\\
+	  &=i\langle u,L\star D'\star\star D''\star u\rangle\\
+	  &=(-1)^{d+1}i\langle u,L\star D'D''\star u\rangle.
+	  \end{aligned}$$
 	- Indeed, the two adjacent Hodge stars act on the form $D''\star u$, whose total degree is $2n-d+1$, and therefore contribute $(-1)^{2n-d+1}=(-1)^{d+1}$.
 	- Similarly,
 	- $$\begin{aligned}
-	B
-	&=i\langle\Lambda u,D'^*D''^*u\rangle\\
-	&=i\langle u,L\star D''\star\star D'\star u\rangle\\
-	&=(-1)^{d+1}i\langle u,L\star D''D'\star u\rangle.
-	\end{aligned}$$
+	  B=(-1)^{d+1}i\langle u,L\star D''D'\star u\rangle.
+	  \end{aligned}$$
 	- Hence
 	- $$A+B=(-1)^{d+1}i\langle u,L\star\Theta_E\star u\rangle.$$
-	- Thus $B$ is the same calculation as $A$ with $D'$ and $D''$ interchanged. It is not literally the complex conjugate of the scalar $A$.
+	- Thus $B$ is the same calculation as $A$ with $D'$ and $D''$ interchanged. (It is not literally the complex conjugate of the scalar $A$.)
 - One could now expand the Hodge star using complementary multiindices. The following equivalent wedge-contraction computation makes the cancellation between $A+B$ and $C$ more visible.
 - At the center of normal coordinates, write
 	- $$\varepsilon_j=dz^j\wedge-,\qquad \bar\varepsilon_k=d\bar z^k\wedge-,\qquad
-	\iota_j=\varepsilon_j^*,\qquad \bar\iota_k=\bar\varepsilon_k^*.$$
+	  \iota_j=\varepsilon_j^*,\qquad \bar\iota_k=\bar\varepsilon_k^*.$$
 	- If $E_{\mu\lambda}=e_\lambda^*\otimes e_\mu$, then
 	- $$L=i\sum_\ell\varepsilon_\ell\bar\varepsilon_\ell,\qquad
-	\Lambda=-i\sum_\ell\bar\iota_\ell\iota_\ell,\qquad
-	i\Theta_E=i\sum_{j,k,\lambda,\mu}c_{jk\lambda\mu}
-	\varepsilon_j\bar\varepsilon_kE_{\mu\lambda}.$$
+	  \Lambda=-i\sum_\ell\bar\iota_\ell\iota_\ell,\qquad
+	  i\Theta_E=i\sum_{j,k,\lambda,\mu}c_{jk\lambda\mu}
+	  \varepsilon_j\bar\varepsilon_kE_{\mu\lambda}.$$
 - We use
 	- $$\iota_\ell\varepsilon_j+\varepsilon_j\iota_\ell=\delta_{\ell j},\qquad
-	\bar\iota_\ell\bar\varepsilon_k+\bar\varepsilon_k\bar\iota_\ell=\delta_{\ell k},$$
+	  \bar\iota_\ell\bar\varepsilon_k+\bar\varepsilon_k\bar\iota_\ell=\delta_{\ell k},$$
 	- and holomorphic and antiholomorphic odd operators anticommute. For fixed $j,k,\ell$ this gives
 	- $$\begin{aligned}
-	\varepsilon_j\bar\varepsilon_k\bar\iota_\ell\iota_\ell
-	&=\delta_{k\ell}\varepsilon_j\iota_\ell
-	+\bar\iota_\ell\varepsilon_j\bar\varepsilon_k\iota_\ell,\\
-	\bar\iota_\ell\iota_\ell\varepsilon_j\bar\varepsilon_k
-	&=\delta_{j\ell}\delta_{k\ell}
-	-\delta_{j\ell}\bar\varepsilon_k\bar\iota_\ell
-	+\bar\iota_\ell\varepsilon_j\bar\varepsilon_k\iota_\ell.
-	\end{aligned}$$
+	  \varepsilon_j\bar\varepsilon_k\bar\iota_\ell\iota_\ell
+	  &=\delta_{k\ell}\varepsilon_j\iota_\ell
+	  +\bar\iota_\ell\varepsilon_j\bar\varepsilon_k\iota_\ell,\\
+	  \bar\iota_\ell\iota_\ell\varepsilon_j\bar\varepsilon_k
+	  &=\delta_{j\ell}\delta_{k\ell}
+	  -\delta_{j\ell}\bar\varepsilon_k\bar\iota_\ell
+	  +\bar\iota_\ell\varepsilon_j\bar\varepsilon_k\iota_\ell.
+	  \end{aligned}$$
 	- The last term is common to the two lines and cancels in the commutator. Consequently,
 	- $$[i\Theta_E,\Lambda]
-	=\sum_{j,k,\lambda,\mu}c_{jk\lambda\mu}
-	\left(\bar\varepsilon_k\bar\iota_j
-	+\varepsilon_j\iota_k-\delta_{jk}\right)E_{\mu\lambda}.$$
+	  =\sum_{j,k,\lambda,\mu}c_{jk\lambda\mu}
+	  \left(\bar\varepsilon_k\bar\iota_j
+	  +\varepsilon_j\iota_k-\delta_{jk}\right)E_{\mu\lambda}.$$
 - Extend $u_{J,K,\lambda}$ alternatingly in $J$ and $K$. If $|R|=p-1$ and $|S|=q-1$, then removing and reinserting an index gives
 	- $$\begin{aligned}
-	\langle\bar\varepsilon_k\bar\iota_jE_{\mu\lambda}u,u\rangle
-	&=\sum_{J,S}u_{J,jS,\lambda}\overline{u_{J,kS,\mu}},\\
-	\langle\varepsilon_j\iota_kE_{\mu\lambda}u,u\rangle
-	&=\sum_{R,K}u_{kR,K,\lambda}\overline{u_{jR,K,\mu}},\\
-	\langle E_{\mu\lambda}u,u\rangle
-	&=\sum_{J,K}u_{J,K,\lambda}\overline{u_{J,K,\mu}}.
-	\end{aligned}$$
+	  \langle\bar\varepsilon_k\bar\iota_jE_{\mu\lambda}u,u\rangle
+	  &=\sum_{J,S}u_{J,jS,\lambda}\overline{u_{J,kS,\mu}},\\
+	  \langle\varepsilon_j\iota_kE_{\mu\lambda}u,u\rangle
+	  &=\sum_{R,K}u_{kR,K,\lambda}\overline{u_{jR,K,\mu}},\\
+	  \langle E_{\mu\lambda}u,u\rangle
+	  &=\sum_{J,K}u_{J,K,\lambda}\overline{u_{J,K,\mu}}.
+	  \end{aligned}$$
 - Substitution into the operator identity yields
 	- $$\begin{aligned}
-	\langle[i\Theta_E,\Lambda]u,u\rangle
-	={}&\sum_{j,k,\lambda,\mu,J,S}
-	c_{jk\lambda\mu}u_{J,jS,\lambda}\overline{u_{J,kS,\mu}}\\
-	&+\sum_{j,k,\lambda,\mu,R,K}
-	c_{jk\lambda\mu}u_{kR,K,\lambda}\overline{u_{jR,K,\mu}}\\
-	&-\sum_{j,\lambda,\mu,J,K}
-	c_{jj\lambda\mu}u_{J,K,\lambda}\overline{u_{J,K,\mu}}.
-	\end{aligned}$$
+	  \langle[i\Theta_E,\Lambda]u,u\rangle
+	  ={}&\sum_{j,k,\lambda,\mu,J,S}
+	  c_{jk\lambda\mu}u_{J,jS,\lambda}\overline{u_{J,kS,\mu}}\\
+	  &+\sum_{j,k,\lambda,\mu,R,K}
+	  c_{jk\lambda\mu}u_{kR,K,\lambda}\overline{u_{jR,K,\mu}}\\
+	  &-\sum_{j,\lambda,\mu,J,K}
+	  c_{jj\lambda\mu}u_{J,K,\lambda}\overline{u_{J,K,\mu}}.
+	  \end{aligned}$$
 - ## Nakano Vanishing
 - We consider the special case $p=n$.
 - Let $I=(1,\ldots,n)$. In the second sum, $u_{kR,K,\lambda}$ and $u_{jR,K,\mu}$ can both be nonzero only when $j=k$ is the unique index missing from $R$. Hence the second and third sums cancel, and
 	- $$\langle[i\Theta_E,\Lambda]u,u\rangle
-	=\sum_{j,k,\lambda,\mu,S}
-	c_{jk\lambda\mu}\,u_{I,jS,\lambda}\,
-	\overline{u_{I,kS,\mu}}.$$
+	  =\sum_{j,k,\lambda,\mu,S}
+	  c_{jk\lambda\mu}\,u_{I,jS,\lambda}\,
+	  \overline{u_{I,kS,\mu}}.$$
 - For every fixed $(q-1)$-multiindex $S$, the array $(u_{I,jS,\lambda})_{j,\lambda}$ is an element of $T_X\otimes E$. Thus Nakano positivity makes the last expression positive for every nonzero $(n,q)$-form when $q\geq 1$.
 -
