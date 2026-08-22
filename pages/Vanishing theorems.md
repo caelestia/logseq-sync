@@ -11,10 +11,10 @@
 - $$\langle [i\Theta_E,\Lambda]u,u\rangle \leq 0.$$
 - If $E$ satisfies a condition forcing $[i\Theta_E,\Lambda]$ to be positive definite, we get $u=0$, so by Hodge theory
 - $$H^{p,q}(E)=\mathcal{H}^{p,q}(E)=0.$$
-- Our next step is to expand this
+- Our next step is to expand this in coordinates.
 - ## A computation
-- Consider a $(p,q)$-form $u=\sum_{J,K,\lambda}dz^J\wedge d\bar z^K e_\lambda$.
-- We want to compute $\langle [i\Theta_E,\Lambda]u,u\rangle$.
+- Consider a $(p,q)$-form $u=\sum_{J,K,\lambda}dz^J\wedge d\bar z^K e_\lambda$. We want to compute $Q:=\langle [i\Theta_E,\Lambda]u,u\rangle$.
+-
 - ## Nakano Vanishing
 - We consider the special case $p=n$.
 -
