@@ -7,7 +7,7 @@
 	- $$i\Theta_{E}\in
 	  C^\infty\!\left(X,\Lambda^{1,1}T_X^*\otimes\operatorname{Herm}(E,E)\right).$$
 	- This means $c_{jk\lambda\mu}=\overline{c_{kj\mu\lambda}}$.
-	- Thus evaluated on any vector
+	- Thus evaluated on any vector $u=\sum u_{}$
 - If this is positive definite, we say that $(E,h)$ is *Nakano positive*.
 - ## Bochner-Kodaira-Nakano
 - In [[Nakano identities]], we computed
