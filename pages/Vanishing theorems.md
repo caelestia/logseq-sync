@@ -1,0 +1,4 @@
+-
+-
+- # Nakano Vanishing
+- We consider the special case $p=n$.
