@@ -7,7 +7,7 @@
 - ## Bochner-Kodaira-Nakano
 - In [[Nakano identities]], we computed
 - $$\Delta_{\bar\partial_E}-\Delta_{\partial_E}=[i\Theta_E,\Lambda]$$
--
+- The Bochner technique is essentially a "completing of squares". We know $\Delta_{\partial_E}$, as a Laplacian, is positive definite. If $u$ is a harmonic  form with
 - ## A computation
 - Consider a $(p,q)$-form $u=\sum_{J,K,\lambda}dz^J\wedge d\bar z^K e_\lambda$.
 - We want to compute $\langle [i\Theta_E,\Lambda]u,u\rangle$.
