@@ -28,6 +28,6 @@
 	- Then $\omega=\sqrt{-1}\sum_{j}dz^j\wedge d\bar z^j$ at the point $x$, and the first derivative term vanishes in $[\partial,L]$, and the other terms cancel, so in fact $[\partial,L]=0$.
 	- Under this normal coordinates, at $x$, we have $\partial^*=-\sum_k \iota_k\partial_k$.
 	- $\partial_k$ commutes with $L=\sqrt{-1}\sum_j \varepsilon_j\varepsilon_{\bar j}$.
-	- We just need to compute $[\iota_k,\varepsilon_j\varepsilon_{\bar j}]$ on basis elements to see that the only non-zero terms are when $j=k$ and $[\iota_k,\varepsilon_k\varepsilon_{\bar k}]=$.
+	- We just need to compute $[\iota_k,\varepsilon_j\varepsilon_{\bar j}]$ on basis elements to see that the only non-zero terms are when $j=k$ and $[\iota_k,\varepsilon_k\varepsilon_{\bar k}]=d\bar z^k$.
 -
 -
