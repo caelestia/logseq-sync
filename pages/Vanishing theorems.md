@@ -10,7 +10,7 @@
 	- Thus evaluated on any vector $u=\sum u_{j\lambda} \partial_j e_\lambda$, we have
 	- $$\langle i\Theta_Eu,u\rangle = \sum_{j,k,\lambda,\mu}c_{jk\lambda\mu}u_{j\lambda}\overline{u_{k\mu}}$$
 	- is real.
-- If this is positive definite, we say that $(E,h)$ is *Nakano positive*.
+- If this quadratic form is positive definite, we say that $(E,h)$ is *Nakano positive*.
 - ## Bochner-Kodaira-Nakano
 - In [[Nakano identities]], we computed
 - $$\Delta_{\bar\partial_E}-\Delta_{\partial_E}=[i\Theta_E,\Lambda]$$
@@ -78,5 +78,5 @@
 	- If $q=0$ then this is always $0$ because $\{S\}=\varnothing$, so not positive.
 - Thm. Let $X$ be a compact complex manifold. If $E$ is Nakano positive, then $X$ is Kahler, and
 - $$H^{n,q}(E)= H^q(X,K_X\otimes E) = 0.$$
-	- Proof. We know $i\Theta_E$ is real by discussion
+	- Proof. We know $i\Theta_E$ is real by the discussion above. We know it's closed
 -
