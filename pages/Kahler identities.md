@@ -25,6 +25,6 @@
 	- Proof. Take a local coordinate $(z^i)$, then $\omega=\sqrt{-1}\sum_{j,k}g_{j\bar k}dz^j\wedge d\bar z^k$.
 	- Moreover, suppose it is a normal coordinate around a point $x$.
 	- Then $\omega=\sqrt{-1}\sum_{j,k}dz^j\wedge d\bar z^k$ at the point $x$, and the first derivative term vanishes in $[\partial,L]$, and the other terms cancel, so in fact $[\partial,L]=0$.
-	- Under this normal coordinate, at $x$, we have $\partial^*=-\sum_k \iota(\frac{\partial}{\partial z^k})\frac{\partial}{\partial \bar z^j}$.
+	- Under this normal coordinate, at $x$, we have $\partial^*=-\sum_k \iota_k\partial_k$.
 	-
 -
