@@ -22,7 +22,7 @@
 	  +\underbrace{i\langle D''D'\Lambda u,u\rangle}_{B}
 	  -\underbrace{i\langle\Theta_Eu,Lu\rangle}_{C}.
 	  \end{aligned}$$
-- Using $D'^*=-\star D''\star$ and $D''^*=-\star D'\star$ gives
+- Using $D'^*=-\star D''\star$ and $D''^*=-\star D'\star$ from [[Kahler identities]] gives
 	- $$\begin{aligned}
 	  A
 	  &=i\langle\Lambda u,D''^*D'^*u\rangle\\
