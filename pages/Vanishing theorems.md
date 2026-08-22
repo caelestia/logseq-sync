@@ -1,9 +1,9 @@
 - > Follow Analytic Methods in Algebraic Geometry by Demailly
 - Let $X$ be a compact Kahler manifold of dimension $n$, $E$ be a Hermitian holomorphic vector bundle of rank $r$.
-- Denote the curvature of the Chern connection by
+- Denote the curvature of the Chern connection by $\Theta_E$. Write
 - $$i\Theta_E =: \sum_{j,k,\mu,\lambda} c_{jk\lambda\mu} dz^j \wedge d\bar z^k e_\lambda^*\otimes e_\mu.$$
-- This can be viewed as a quadratic form on $T_X\otimes E$.
-- If
+- $\langle i\Theta_Eu,u\rangle$ can be viewed as a quadratic form on $T_X\otimes E$.
+- If this is positive definite, we say that $(E,h)$ is
 - # Nakano Vanishing
 - We consider the special case $p=n$.
 -
