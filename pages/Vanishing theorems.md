@@ -1,7 +1,7 @@
 - > Following Analytic Methods in Algebraic Geometry by Demailly
 - Let $X$ be a compact Kahler manifold of dimension $n$, $(E,h)$ be a Hermitian holomorphic vector bundle of rank $r$.
 - Denote the curvature of the Chern connection by $\Theta_E$. Write
-- $$i\Theta_E = i\sum_{j,k,\mu,\lambda} c_{jk\lambda\mu} dz^j \wedge d\bar z^k e_\lambda^*\otimes e_\mu.$$
+- $$\Theta_E = \sum_{j,k,\mu,\lambda} c_{jk\lambda\mu} dz^j \wedge d\bar z^k e_\lambda^*\otimes e_\mu.$$
 - $\langle i\Theta_Eu,u\rangle$ can be viewed as a quadratic form on $T_X\otimes E$.
 - If this is positive definite, we say that $(E,h)$ is *Nakano positive*.
 - ## Bochner-Kodaira-Nakano
@@ -16,31 +16,31 @@
 - Consider a $(p,q)$-form $u=\sum_{J,K,\lambda} u_{J,K,\lambda} dz^J\wedge d\bar z^K e_\lambda$. We want to compute
 - $$\langle[i\Theta_E,\Lambda]u,u\rangle.$$
 - At the center of normal coordinates, write
-	- $$\varepsilon_j=dz^j\wedge-,\qquad \bar\varepsilon_k=d\bar z^k\wedge-,\qquad
-	  \iota_j=\varepsilon_j^*,\qquad \bar\iota_k=\bar\varepsilon_k^*.$$
-- Write $E_{\mu\lambda}=e_\lambda^*\otimes e_\mu$, then
-	- $$L=i\sum_\ell\varepsilon_\ell\bar\varepsilon_\ell,\qquad
-	  \Lambda=-i\sum_\ell\bar\iota_\ell\iota_\ell,\qquad
-	  i\Theta_E=i\sum_{j,k,\lambda,\mu}c_{jk\lambda\mu}
-	  \varepsilon_j\bar\varepsilon_kE_{\mu\lambda}.$$
+- $$\varepsilon_j=dz^j\wedge-,\qquad \bar\varepsilon_k=d\bar z^k\wedge-,\qquad
+  \iota_j=\varepsilon_j^*,\qquad \bar\iota_k=\bar\varepsilon_k^*.$$
+- Write $E_{\mu\lambda}=e_\lambda^*\otimes e_\mu$. Then
+- $$L=i\sum_\ell\varepsilon_\ell\bar\varepsilon_\ell,\qquad
+  \Lambda=-i\sum_\ell\bar\iota_\ell\iota_\ell,\qquad
+  i\Theta_E=i\sum_{j,k,\lambda,\mu}c_{jk\lambda\mu}
+  \varepsilon_j\bar\varepsilon_kE_{\mu\lambda}.$$
 - We use
-	- $$\iota_\ell\varepsilon_j+\varepsilon_j\iota_\ell=\delta_{\ell j},\qquad
-	  \bar\iota_\ell\bar\varepsilon_k+\bar\varepsilon_k\bar\iota_\ell=\delta_{\ell k},$$
-	- and holomorphic and antiholomorphic odd operators anticommute. For fixed $j,k,\ell$ this gives
-	- $$\begin{aligned}
-	  \varepsilon_j\bar\varepsilon_k\bar\iota_\ell\iota_\ell
-	  &=\delta_{k\ell}\varepsilon_j\iota_\ell
-	  +\bar\iota_\ell\varepsilon_j\bar\varepsilon_k\iota_\ell,\\
-	  \bar\iota_\ell\iota_\ell\varepsilon_j\bar\varepsilon_k
-	  &=\delta_{j\ell}\delta_{k\ell}
-	  -\delta_{j\ell}\bar\varepsilon_k\bar\iota_\ell
-	  +\bar\iota_\ell\varepsilon_j\bar\varepsilon_k\iota_\ell.
-	  \end{aligned}$$
-	- The last term is common to the two lines and cancels in the commutator. Consequently,
-	- $$[i\Theta_E,\Lambda]
-	  =\sum_{j,k,\lambda,\mu}c_{jk\lambda\mu}
-	  \left(\bar\varepsilon_k\bar\iota_j
-	  +\varepsilon_j\iota_k-\delta_{jk}\right)E_{\mu\lambda}.$$
+- $$\iota_\ell\varepsilon_j+\varepsilon_j\iota_\ell=\delta_{\ell j},\qquad
+  \bar\iota_\ell\bar\varepsilon_k+\bar\varepsilon_k\bar\iota_\ell=\delta_{\ell k},$$
+- and holomorphic and antiholomorphic odd operators anticommute. For fixed $j,k,\ell$ this gives
+- $$\begin{aligned}
+  \varepsilon_j\bar\varepsilon_k\bar\iota_\ell\iota_\ell
+  &=\delta_{k\ell}\varepsilon_j\iota_\ell
+  +\bar\iota_\ell\varepsilon_j\bar\varepsilon_k\iota_\ell,\\
+  \bar\iota_\ell\iota_\ell\varepsilon_j\bar\varepsilon_k
+  &=\delta_{j\ell}\delta_{k\ell}
+  -\delta_{j\ell}\bar\varepsilon_k\bar\iota_\ell
+  +\bar\iota_\ell\varepsilon_j\bar\varepsilon_k\iota_\ell.
+  \end{aligned}$$
+- Thus
+- $$[i\Theta_E,\Lambda]
+  =\sum_{j,k,\lambda,\mu}c_{jk\lambda\mu}
+  \left(\bar\varepsilon_k\bar\iota_j
+  +\varepsilon_j\iota_k-\delta_{jk}\right)E_{\mu\lambda}.$$
 - Extend $u_{J,K,\lambda}$ alternatingly in $J$ and $K$. If $|R|=p-1$ and $|S|=q-1$, then removing and reinserting an index gives
 	- $$\begin{aligned}
 	  \langle\bar\varepsilon_k\bar\iota_jE_{\mu\lambda}u,u\rangle
