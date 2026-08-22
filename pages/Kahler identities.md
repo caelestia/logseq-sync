@@ -28,7 +28,7 @@
 	- If $k\in I$, $\varepsilon_k\alpha=0$, so $[\iota_k,\varepsilon_k]\alpha=\varepsilon_k\iota_k\alpha=\alpha$.
 	- QED
 - Thm. We have $[\partial,L]=0$ and $[\partial^*,L]=-i\bar\partial$.
-	- Proof. Take a local coordinate $(z^j)$, then $\omega=i\sum_{j,k}g_{j\bar k}dz^j\wedge d\bar z^k$.
+	- Proof. Take local holomorphic coordinates $(z^j)$, then $\omega=i\sum_{j,k}g_{j\bar k}dz^j\wedge d\bar z^k$.
 	- Moreover, suppose it is a normal coordinate around a point $x$.
 	- Then $\omega=i\sum_{j}dz^j\wedge d\bar z^j$ at the point $x$, and the first derivative term vanishes in $[\partial,L]$, and the other terms cancel, so in fact $[\partial,L]=0$.
 	- Under this normal coordinates, at $x$, we have $\partial^*=-\sum_k \iota_k\partial_{\bar k}$.
@@ -45,7 +45,7 @@
 - Claim. The same 8 identities hold, with $\partial,\bar\partial$ replaced by $D',D''$:
 	- $[D'',L]=0$, $[D',L]=0$, $[(D'')^*,\Lambda]=0$, $[(D')^*,\Lambda]=0$.
 	- $[(D'')^*,L]=iD'$, $[(D')^*,L]=-iD''$, $[\Lambda,D'']=-i(D')^*$, $[\Lambda,D']=i(D'')^*$.
-- Proof. Fix a point $x$. Choose normal holomorphic coordinates for the Kahler metric at $x$, and choose a local holomorphic frame $(e_a)$ for $E$ such that $h_{a\bar b}(x)=\delta_{ab}$ and $dh_{a\bar b}(x)=0$.
+- Proof. Fix a point $x$. Choose normal holomorphic coordinates at $x$, and choose a local holomorphic frame $(e_a)$ for $E$ such that $h_{a\bar b}(x)=\delta_{ab}$ and $dh_{a\bar b}(x)=0$.
 	- In this frame the connection matrix of the Chern connection is $h^{-1}\partial h$, so it vanishes at $x$.
 	- Therefore $D'$ and $D''$, and also their formal adjoints, have at $x$ exactly the same expressions as $\partial$ and $\bar\partial$ applied coefficientwise.
 	- The scalar computation above now applies to each coefficient of an $E$-valued form. Since $x$ was arbitrary, the identities hold everywhere. QED
