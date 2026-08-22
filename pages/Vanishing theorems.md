@@ -3,12 +3,13 @@
 - Denote the curvature of the Chern connection by $\Theta_E$. Write
 - $$\Theta_E = \sum_{j,k,\mu,\lambda} c_{jk\lambda\mu} dz^j \wedge d\bar z^k e_\lambda^*\otimes e_\mu.$$
 - $\langle i\Theta_Eu,u\rangle$ can be viewed as a quadratic form on $T_X\otimes E$.
-	- It's well-known from Chern-Weil theory that $\Theta_E$ is skew-Hermitian, so
+	- Proof. It's well-known from Chern-Weil theory that $\Theta_E$ is skew-Hermitian, so
 	- $$i\Theta_{E}\in
 	  C^\infty\!\left(X,\Lambda^{1,1}T_X^*\otimes\operatorname{Herm}(E,E)\right).$$
 	- This means $c_{jk\lambda\mu}=\overline{c_{kj\mu\lambda}}$.
 	- Thus evaluated on any vector $u=\sum u_{j\lambda} \partial_j e_\lambda$, we have
-	- $$\langle i\Theta_Eu,u\rangle = \sum_{}$$
+	- $$\langle i\Theta_Eu,u\rangle = \sum_{j,k,\lambda,\mu}c_{jk\lambda\mu}u_{j\lambda}\overline{u_{k\mu}}$$
+	- is real.
 - If this is positive definite, we say that $(E,h)$ is *Nakano positive*.
 - ## Bochner-Kodaira-Nakano
 - In [[Nakano identities]], we computed
@@ -75,4 +76,5 @@
 	  \overline{u_{I,kS,\mu}}.$$
 - For every fixed $(q-1)$-multiindex $S$, the array $(u_{I,jS,\lambda})_{j,\lambda}$ defines an element of $T_X\otimes E$. Thus Nakano positivity makes the last expression positive for every nonzero $(n,q)$-form $u$ when $q\geq 1$.
 	- If $q=0$ then this is always $0$ because $\{S\}=\varnothing$, so not positive.
-- Thm.
+- Thm. Let $X$ be a complex manifold. If $E$ is Nakano positive, then $X$ is Kahler and
+- $$H^$$
