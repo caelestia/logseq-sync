@@ -1,10 +1,10 @@
 - Let $F:=\nabla_E^2\in A^{1,1}(X,\operatorname{End}E)$. Thus
-	- $F\wedge- =\partial_E\bar\partial_E+\bar\partial_E\partial_E$.
+	- $\Theta_E:=F\wedge- =\partial_E\bar\partial_E+\bar\partial_E\partial_E$.
 - Write $\Delta_A=AA^*+A^*A$.
 - Claim.
 	- $[L,\Delta_{\bar\partial_E}]=-iF\wedge-$, $[L,\Delta_{\partial_E}]=iF\wedge-$.
 	- $\Delta_{\bar\partial_E}+\Delta_{\partial_E}=\Delta_{\nabla_E}$.
-	- $\Delta_{\bar\partial_E}-\Delta_{\partial_E}=[iF\wedge-,\Lambda]$.
+	- $\Delta_{\bar\partial_E}-\Delta_{\partial_E}=[iF\wedge-,\Lambda]$. This is the Bochner-Kodaira-Nakano Identity.
 - Proof. Put $A=\partial_E$ and $B=\bar\partial_E$.
 	- The [[Kahler identities]] give $[L,B^*]=-iA$, $[L,A^*]=iB$, and $[L,A]=[L,B]=0$. Hence
 		- $[L,\Delta_B]=B[L,B^*]+[L,B^*]B=-i(BA+AB)=-iF\wedge-$.
