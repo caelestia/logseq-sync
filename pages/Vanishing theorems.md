@@ -69,4 +69,4 @@
 	  \overline{u_{I,kS,\mu}}.$$
 - For every fixed $(q-1)$-multiindex $S$, the array $(u_{I,jS,\lambda})_{j,\lambda}$ defines an element of $T_X\otimes E$. Thus Nakano positivity makes the last expression positive for every nonzero $(n,q)$-form $u$ when $q\geq 1$.
 	- If $q=0$ then this is always $0$ because $\{S\}=\varnothing$, so not positive.
--
+- Thm.
