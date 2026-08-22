@@ -1,6 +1,7 @@
+- > Follow Analytic Methods in Algebraic Geometry by Demailly
 - Let $X$ be a compact Kahler manifold of dimension $n$, $E$ be a Hermitian holomorphic vector bundle of rank $r$.
 - Denote the curvature of the Chern connection by
-- $$$$
+- $$\Theta_E = \sum_{j,k,\mu,\lambda} c_{jk\lambda\mu} dz^j \wedge d\bar z^k e_\lambda^*\otimes e_\mu$$
 - # Nakano Vanishing
 - We consider the special case $p=n$.
 -
