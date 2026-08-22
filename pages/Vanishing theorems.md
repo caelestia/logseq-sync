@@ -15,33 +15,10 @@
 - ## A computation
 - Consider a $(p,q)$-form $u=\sum_{J,K,\lambda} u_{J,K,\lambda} dz^J\wedge d\bar z^K e_\lambda$. We want to compute
 - $$\langle[i\Theta_E,\Lambda]u,u\rangle.$$
-- Put $D'=\partial_E$, $D''=\bar\partial_E$, and $d=p+q$. Since $\Theta_E=D'D''+D''D'$ and $\Lambda^*=L$,
-	- $$\begin{aligned}
-	  \langle[i\Theta_E,\Lambda]u,u\rangle
-	  ={}&\underbrace{i\langle D'D''\Lambda u,u\rangle}_{A}
-	  +\underbrace{i\langle D''D'\Lambda u,u\rangle}_{B}
-	  -\underbrace{i\langle\Theta_Eu,Lu\rangle}_{C}.
-	  \end{aligned}$$
-- Using $D'^*=-\star D''\star$ and $D''^*=-\star D'\star$ from [[Kahler identities]] gives
-	- $$\begin{aligned}
-	  A
-	  &=i\langle\Lambda u,D''^*D'^*u\rangle\\
-	  &=i\langle u,L\star D'\star\star D''\star u\rangle\\
-	  &=(-1)^{d+1}i\langle u,L\star D'D''\star u\rangle.
-	  \end{aligned}$$
-	- Indeed, the two adjacent Hodge stars act on the form $D''\star u$, whose total degree is $2n-d+1$, and therefore contribute $(-1)^{2n-d+1}=(-1)^{d+1}$.
-	- Similarly,
-	- $$\begin{aligned}
-	  B=(-1)^{d+1}i\langle u,L\star D''D'\star u\rangle.
-	  \end{aligned}$$
-	- Hence
-	- $$A+B=(-1)^{d+1}i\langle u,L\star\Theta_E\star u\rangle.$$
-	- Thus $B$ is the same calculation as $A$ with $D'$ and $D''$ interchanged. (It is not literally the complex conjugate of the scalar $A$.)
-- One could now expand the Hodge star using complementary multiindices. The following equivalent wedge-contraction computation makes the cancellation between $A+B$ and $C$ more visible.
 - At the center of normal coordinates, write
 	- $$\varepsilon_j=dz^j\wedge-,\qquad \bar\varepsilon_k=d\bar z^k\wedge-,\qquad
 	  \iota_j=\varepsilon_j^*,\qquad \bar\iota_k=\bar\varepsilon_k^*.$$
-	- If $E_{\mu\lambda}=e_\lambda^*\otimes e_\mu$, then
+- Write $E_{\mu\lambda}=e_\lambda^*\otimes e_\mu$, then
 	- $$L=i\sum_\ell\varepsilon_\ell\bar\varepsilon_\ell,\qquad
 	  \Lambda=-i\sum_\ell\bar\iota_\ell\iota_\ell,\qquad
 	  i\Theta_E=i\sum_{j,k,\lambda,\mu}c_{jk\lambda\mu}
