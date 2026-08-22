@@ -41,25 +41,25 @@
   =\sum_{j,k,\lambda,\mu}c_{jk\lambda\mu}
   \left(\bar\varepsilon_k\bar\iota_j
   +\varepsilon_j\iota_k-\delta_{jk}\right)E_{\mu\lambda}.$$
-- Extend $u_{J,K,\lambda}$ alternatingly in $J$ and $K$. If $|R|=p-1$ and $|S|=q-1$, then removing and reinserting an index gives
-	- $$\begin{aligned}
-	  \langle\bar\varepsilon_k\bar\iota_jE_{\mu\lambda}u,u\rangle
-	  &=\sum_{J,S}u_{J,jS,\lambda}\overline{u_{J,kS,\mu}},\\
-	  \langle\varepsilon_j\iota_kE_{\mu\lambda}u,u\rangle
-	  &=\sum_{R,K}u_{kR,K,\lambda}\overline{u_{jR,K,\mu}},\\
-	  \langle E_{\mu\lambda}u,u\rangle
-	  &=\sum_{J,K}u_{J,K,\lambda}\overline{u_{J,K,\mu}}.
-	  \end{aligned}$$
+- If $|R|=p-1$ and $|S|=q-1$, then removing and reinserting an index gives
+- $$\begin{aligned}
+  \langle\bar\varepsilon_k\bar\iota_jE_{\mu\lambda}u,u\rangle
+  &=\sum_{J,S}u_{J,jS,\lambda}\overline{u_{J,kS,\mu}},\\
+  \langle\varepsilon_j\iota_kE_{\mu\lambda}u,u\rangle
+  &=\sum_{R,K}u_{kR,K,\lambda}\overline{u_{jR,K,\mu}},\\
+  \langle E_{\mu\lambda}u,u\rangle
+  &=\sum_{J,K}u_{J,K,\lambda}\overline{u_{J,K,\mu}}.
+  \end{aligned}$$
 - Substitution into the operator identity yields
-	- $$\begin{aligned}
-	  \langle[i\Theta_E,\Lambda]u,u\rangle
-	  ={}&\sum_{j,k,\lambda,\mu,J,S}
-	  c_{jk\lambda\mu}u_{J,jS,\lambda}\overline{u_{J,kS,\mu}}\\
-	  &+\sum_{j,k,\lambda,\mu,R,K}
-	  c_{jk\lambda\mu}u_{kR,K,\lambda}\overline{u_{jR,K,\mu}}\\
-	  &-\sum_{j,\lambda,\mu,J,K}
-	  c_{jj\lambda\mu}u_{J,K,\lambda}\overline{u_{J,K,\mu}}.
-	  \end{aligned}$$
+- $$\begin{aligned}
+  \langle[i\Theta_E,\Lambda]u,u\rangle
+  ={}&\sum_{j,k,\lambda,\mu,J,S}
+  c_{jk\lambda\mu}u_{J,jS,\lambda}\overline{u_{J,kS,\mu}}\\
+  &+\sum_{j,k,\lambda,\mu,R,K}
+  c_{jk\lambda\mu}u_{kR,K,\lambda}\overline{u_{jR,K,\mu}}\\
+  &-\sum_{j,\lambda,\mu,J,K}
+  c_{jj\lambda\mu}u_{J,K,\lambda}\overline{u_{J,K,\mu}}.
+  \end{aligned}$$
 - ## Nakano Vanishing
 - We consider the special case $p=n$.
 - Let $I=(1,\ldots,n)$. In the second sum, $u_{kR,K,\lambda}$ and $u_{jR,K,\mu}$ can both be nonzero only when $j=k$ is the unique index missing from $R$. Hence the second and third sums cancel, and
