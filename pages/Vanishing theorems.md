@@ -14,10 +14,11 @@
 - Our next step is to expand this in coordinates.
 - ## A computation
 - Consider a $(p,q)$-form $u=\sum_{J,K,\lambda}dz^J\wedge d\bar z^K e_\lambda$. We want to compute
-- $$\langle [i\Theta_E,\Lambda]u,u\rangle = \langle \partial\bar\partial\Lambda u,u\rangle + \langle \bar\partial\partial\Lambda u,u\rangle - \langle \Theta_Eu,L\rangle$$
+- $$\langle [i\Theta_E,\Lambda]u,u\rangle = \langle \partial\bar\partial\Lambda u,u\rangle + \langle \bar\partial\partial\Lambda u,u\rangle - \langle \Theta_Eu,Lu\rangle =: A + B - C.$$
 - As in [[Kahler identities]],
 	- at the center of the normal coordinates, we have $L=i\sum_j dz^j\wedge d\bar z^j$,
 	- $\partial^*=-\star\bar\partial\star$ and $\bar\partial^*=-\star\partial\star$.
+- So $A=\langle u,L\star\partial\star\star\bar\partial\star u\rangle$.
 -
 - ## Nakano Vanishing
 - We consider the special case $p=n$.
