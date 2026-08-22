@@ -1,4 +1,6 @@
 - https://amathew.wordpress.com/2012/02/18/the-bochner-technique/
 - [[Linear algebra of Hodge theory]]
 - [[Kahler identities]], [[Nakano identities]]
+- [[Kodaira vanishing theorem]]
+- [[Kodaira Embedding Theorem]]
 -
