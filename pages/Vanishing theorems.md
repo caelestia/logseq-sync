@@ -16,9 +16,9 @@
 - Consider a $(p,q)$-form $u=\sum_{J,K,\lambda} u_{J,K,\lambda} dz^J\wedge d\bar z^K e_\lambda$. We want to compute
 - $$\langle[i\Theta_E,\Lambda]u,u\rangle.$$
 - At the center of normal coordinates, write
-- $$\varepsilon_j=dz^j\wedge-,\qquad \bar\varepsilon_k=d\bar z^k\wedge-,\qquad
-  \iota_j=\varepsilon_j^*,\qquad \bar\iota_k=\bar\varepsilon_k^*.$$
-- Write $E_{\mu\lambda}=e_\lambda^*\otimes e_\mu$. Then
+- $$\varepsilon_j=dz^j\wedge-,\qquad
+  \iota_j=\varepsilon_j^*.$$
+- Write $E_{\mu\lambda}=e_\lambda^*\otimes e_\mu$. Then by the computation in [[Kahler identities]],
 - $$L=i\sum_\ell\varepsilon_\ell\bar\varepsilon_\ell,\qquad
   \Lambda=-i\sum_\ell\bar\iota_\ell\iota_\ell,\qquad
   i\Theta_E=i\sum_{j,k,\lambda,\mu}c_{jk\lambda\mu}
