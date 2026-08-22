@@ -16,5 +16,5 @@
 	- [[What is a connection]]
 	- [[Hartshorne exercises]]
 	- [[Commutative Algebra]]
-	- [[Hodge theory]]
+	- [[Hodge theory +]]
 -

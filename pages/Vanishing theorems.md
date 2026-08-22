@@ -1,5 +1,6 @@
--
--
+- Let $X$ be a compact Kahler manifold of dimension $n$, $E$ be a Hermitian holomorphic vector bundle of rank $r$.
+- Denote the curvature of the Chern connection by
+- $$$$
 - # Nakano Vanishing
 - We consider the special case $p=n$.
 -
