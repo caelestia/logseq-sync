@@ -28,7 +28,7 @@
 	- If $k\in I$, $\varepsilon_k\alpha=0$, so $[\iota_k,\varepsilon_k]\alpha=\varepsilon_k\iota_k\alpha=\alpha$.
 	- QED
 - Thm. We have $[\partial,L]=0$ and $[\partial^*,L]=-i\bar\partial^*$.
-	- Proof. Take a local coordinate $(z^i)$, then $\omega=i\sum_{j,k}g_{j\bar k}dz^j\wedge d\bar z^k$.
+	- Proof. Take a local coordinate $(z^j)$, then $\omega=i\sum_{j,k}g_{j\bar k}dz^j\wedge d\bar z^k$.
 	- Moreover, suppose it is a normal coordinate around a point $x$.
 	- Then $\omega=i\sum_{j}dz^j\wedge d\bar z^j$ at the point $x$, and the first derivative term vanishes in $[\partial,L]$, and the other terms cancel, so in fact $[\partial,L]=0$.
 	- Under this normal coordinates, at $x$, we have $\partial^*=-\sum_k \iota_k\partial_{\bar k}$.
@@ -36,5 +36,6 @@
 	- We just need to compute $[\iota_k,\varepsilon_j\varepsilon_{\bar j}] = \delta_{jk} \varepsilon_{\bar k}$.
 		- If $j\neq k$, these commute, so commutator $=0$. So suppose $j=k$.
 		- We compute $\iota_k\varepsilon_k\varepsilon_{\bar k}-\varepsilon_k\varepsilon_{\bar k}\iota_k = (1-\varepsilon_k\iota_k)\varepsilon_{\bar k}-\varepsilon_{k}\varepsilon_{\bar k}\iota_k=\varepsilon_{\bar k}$.
-	- 1Thus $[\partial^*,L] = -i\sum_{j,k}[\iota_k,\varepsilon_{j}\varepsilon_{\bar j}]\partial_{\bar k}=-i\sum_{k}\varepsilon_{\bar k}\partial_{\bar k}=-i\bar\partial^*$.
+	- Thus $[\partial^*,L] = -i\sum_{j,k}[\iota_k,\varepsilon_{j}\varepsilon_{\bar j}]\partial_{\bar k}=-i\sum_{k}\varepsilon_{\bar k}\partial_{\bar k}=-i\bar\partial^*$. QED
+- We can take conjugates and adjoints to obtain a total of 8 commutator relations:
 -
