@@ -32,5 +32,5 @@
 		- If $j\neq k$, these commute, so commutator $=0$. So suppose $j=k$.
 		- Fix a basis element $\alpha=e_I$.
 		- If $k\notin I$, $\iota_k\alpha=0$, so $[\iota_k,\varepsilon_k\varepsilon_{\bar k}]\alpha=\iota_k\varepsilon_k\varepsilon_{\bar k}\alpha=\varepsilon_{\bar k}\alpha$.
-		- If $k\in I$, $\varepsilon_k\alpha=0$, so $[\iota_k,\varepsilon_k\varepsilon_{\bar k}]\alpha=\varepsilon_k\varepsilon_{\bar k}\iota_k\alpha=-\var$
+		- If $k\in I$, $\varepsilon_k\alpha=0$, so $[\iota_k,\varepsilon_k\varepsilon_{\bar k}]\alpha=\varepsilon_k\varepsilon_{\bar k}\iota_k\alpha=-\varepsilon_{\bar k}\alpha$.
 -
