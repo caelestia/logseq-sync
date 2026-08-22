@@ -14,12 +14,33 @@
 - Our next step is to expand this in coordinates.
 - ## A computation
 - Consider a $(p,q)$-form $u=\sum_{J,K,\lambda} u_{J,K,\lambda} dz^J\wedge d\bar z^K e_\lambda$. We want to compute
-- $$\langle [i\Theta_E,\Lambda]u,u\rangle = \langle \partial\bar\partial\Lambda u,u\rangle + \langle \bar\partial\partial\Lambda u,u\rangle - \langle \Theta_Eu,Lu\rangle =: A + B - C.$$
-- As in [[Kahler identities]],
-	- at the center of the normal coordinates, we have $L=i\sum_j dz^j\wedge d\bar z^j\wedge-$,
-	- $\partial^*=-\star\bar\partial\star$ and $\bar\partial^*=-\star\partial\star$.
-- So $A=\langle u,L\star\partial\star\star\bar\partial\star u\rangle$.
--
+- $$\langle [i\Theta_E,\Lambda]u,u\rangle.$$
+- Caution about the factors of $i$: since $[i\Theta_E,\Lambda]=i\Theta_E\Lambda-i\Lambda\Theta_E$ and $\Lambda^*=L$,
+	- $$\langle[i\Theta_E,\Lambda]u,u\rangle
+	=\langle i\Theta_E\Lambda u,u\rangle-\langle i\Theta_Eu,Lu\rangle.$$
+	- Thus, if $\Theta_E=\partial_E\bar\partial_E+\bar\partial_E\partial_E$ is substituted, each term on the right carries a factor $i$.
+	- The two summands $\partial_E\bar\partial_E$ and $\bar\partial_E\partial_E$ are not separately zero-order curvature operators, so splitting the first term according to their order is not useful for the pointwise computation. In particular, the two resulting scalars are not literally complex conjugates of one another.
+- Choose normal holomorphic coordinates and an $h$-orthonormal frame at the point in question. Extend the coefficients $u_{J,K,\lambda}$ alternatingly in $J$ and $K$, so that inserting an index includes the appropriate wedge sign. Let $|R|=p-1$ and $|S|=q-1$. A direct wedge-contraction computation gives
+	- $$\begin{aligned}
+	\langle[i\Theta_E,\Lambda]u,u\rangle
+	={}&\underbrace{\sum_{j,k,\lambda,\mu,J,S}
+	c_{jk\lambda\mu}\,u_{J,jS,\lambda}\,
+	\overline{u_{J,kS,\mu}}}_{A}\\
+	&+\underbrace{\sum_{j,k,\lambda,\mu,R,K}
+	c_{jk\lambda\mu}\,u_{kR,K,\lambda}\,
+	\overline{u_{jR,K,\mu}}}_{B}\\
+	&-\underbrace{\sum_{j,\lambda,\mu,J,K}
+	c_{jj\lambda\mu}\,u_{J,K,\lambda}\,
+	\overline{u_{J,K,\mu}}}_{C}.
+	\end{aligned}$$
+	- Here the sums over $J,K,R,S$ may equivalently be taken over increasing multiindices, provided coefficients with inserted indices are interpreted alternatingly.
+- $B$ has the same shape as $A$ after interchanging the holomorphic and antiholomorphic form indices, but it is not the complex conjugate of $A$ for a fixed $E$-valued $(p,q)$-form. Actual conjugation also sends $u$ to a $\bar E$-valued $(q,p)$-form and uses the Hermitian symmetry $c_{jk\lambda\mu}=\overline{c_{kj\mu\lambda}}$.
 - ## Nakano Vanishing
 - We consider the special case $p=n$.
+- Let $I=(1,\ldots,n)$. In the $B$-sum, $u_{kR,K,\lambda}$ and $u_{jR,K,\mu}$ can both be nonzero only when $j=k$ is the unique index missing from $R$. Hence $B=C$, and
+	- $$\langle[i\Theta_E,\Lambda]u,u\rangle
+	=\sum_{j,k,\lambda,\mu,S}
+	c_{jk\lambda\mu}\,u_{I,jS,\lambda}\,
+	\overline{u_{I,kS,\mu}}.$$
+- For every fixed $(q-1)$-multiindex $S$, the array $(u_{I,jS,\lambda})_{j,\lambda}$ is an element of $T_X\otimes E$. Thus Nakano positivity makes the last expression positive for every nonzero $(n,q)$-form when $q\geq 1$.
 -
