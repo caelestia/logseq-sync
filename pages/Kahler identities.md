@@ -25,7 +25,8 @@
 - Anticommutation relation. We have (the graded commutator) $\iota_k\varepsilon_k+\varepsilon_k\iota_k=1$.
 	- Proof. Fix a basis element $\alpha=e_I$.
 	- If $k\notin I$, $\iota_k\alpha=0$, so $[\iota_k,\varepsilon_k]\alpha=\iota_k\varepsilon_k\alpha=\alpha$.
-	-
+	- If $k\in I$, $\varepsilon_k\alpha=0$, so $[\iota_k,\varepsilon_k]\alpha=\varepsilon_k\iota_k\alpha=\alpha$.
+	- QED
 - Thm. We have $[\partial,L]=0$ and $[\partial^*,L]=-i\bar\partial^*$.
 	- Proof. Take a local coordinate $(z^i)$, then $\omega=\sqrt{-1}\sum_{j,k}g_{j\bar k}dz^j\wedge d\bar z^k$.
 	- Moreover, suppose it is a normal coordinate around a point $x$.
@@ -34,7 +35,6 @@
 	- $\partial_k$ commutes with $L=\sqrt{-1}\sum_j \varepsilon_j\varepsilon_{\bar j}$.
 	- We just need to compute $[\iota_k,\varepsilon_j\varepsilon_{\bar j}] = \delta_{jk} \varepsilon_{\bar k}$.
 		- If $j\neq k$, these commute, so commutator $=0$. So suppose $j=k$.
-		-
-		- If $k\notin I$, $\iota_k\alpha=0$, so $[\iota_k,\varepsilon_k\varepsilon_{\bar k}]\alpha=\iota_k\varepsilon_k\varepsilon_{\bar k}\alpha=\varepsilon_{\bar k}\alpha$.
-		- If $k\in I$, $\varepsilon_k\alpha=0$, so $[\iota_k,\varepsilon_k\varepsilon_{\bar k}]\alpha=-\varepsilon_k\varepsilon_{\bar k}\iota_k\alpha=\varepsilon_{\bar k}\varepsilon_k\iota_k\alpha=\varepsilon_{\bar k}\alpha$.
+		- We compute $\iota_k\varepsilon_k\varepsilon_{\bar k}-\varepsilon_k\varepsilon_{\bar k}\iota_k = (1-\varepsilon_k\iota_k)\varepsilon_{\bar k}+\varepsilon_{\bar k}\varepsilon_k\iota_k$
+-
 -
