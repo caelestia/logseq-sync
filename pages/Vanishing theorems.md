@@ -5,7 +5,7 @@
 - $\langle i\Theta_Eu,u\rangle$ can be viewed as a quadratic form on $T_X\otimes E$.
 - If this is positive definite, we say that $(E,h)$ is *Nakano positive*.
 - ## A computation
--
+- Consider a $(p,q)$-form $u=\sum_{J,K,\lambda}dz^J\wedge d\bar z$
 - ## Nakano Vanishing
 - We consider the special case $p=n$.
 -
