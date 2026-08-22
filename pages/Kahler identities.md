@@ -28,9 +28,9 @@
 	- Then $\omega=\sqrt{-1}\sum_{j}dz^j\wedge d\bar z^j$ at the point $x$, and the first derivative term vanishes in $[\partial,L]$, and the other terms cancel, so in fact $[\partial,L]=0$.
 	- Under this normal coordinates, at $x$, we have $\partial^*=-\sum_k \iota_k\partial_k$.
 	- $\partial_k$ commutes with $L=\sqrt{-1}\sum_j \varepsilon_j\varepsilon_{\bar j}$.
-	- We just need to compute $[\iota_k,\varepsilon_j\varepsilon_{\bar j}]$ on basis elements to see that the only non-zero terms are when $j=k$ and $[\iota_k,\varepsilon_k\varepsilon_{\bar k}]=d\bar z^k$.
+	- We just need to compute $[\iota_k,\varepsilon_j\varepsilon_{\bar j}]$ on basis elements to see that the only non-zero terms are when $j=k$ and $[\iota_k,\varepsilon_k\varepsilon_{\bar k}]=\varepsilon_{\bar k}$.
 		- If $j\neq k$, these commute, so commutator $=0$. So suppose $j=k$.
 		- Fix a basis element $\alpha=e_I$.
-		- If $k\notin I$, $\iota_k\alpha=0$, so $[\iota_k,\varepsilon_k]\alpha=\iota_k\varepsilon_k\alpha=\alpha$.
-		- If $k\in I$, $\varepsilon_k\alpha=0$, so $[\iota_k,\varepsilon_k]\alpha=$
+		- If $k\notin I$, $\iota_k\alpha=0$, so $[\iota_k,\varepsilon_k\varepsilon_{\bar k}]\alpha=\iota_k\varepsilon_k\varepsilon_{\bar k}\alpha=\varepsilon_{\bar k}\alpha$.
+		- If $k\in I$, $\varepsilon_k\alpha=0$, so $[\iota_k,\varepsilon_k\varepsilon_{\bar k}]\alpha=-\varepsilon_k\iota_k\alpha=$
 -
