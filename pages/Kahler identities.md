@@ -1,4 +1,5 @@
 - Let $X$ be a compact Kahler manifold of real dimension $2n$, with fundamental form $\omega$.
+	- It is not necessary to assume $X$ compact. For example we can consider functions supported in the nice coordinate region, and the integration by parts argument still holds.
 - ### Adjoint computation
 - The Lefschetz operator is $L:=\omega\wedge-$, with adjoint $\Lambda$.
 - Recall that the inner product on smooth $k$-forms is given by $\langle\alpha,\beta\rangle=\int_X\alpha\wedge\star\bar\beta$.
