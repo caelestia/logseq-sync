@@ -78,5 +78,5 @@
 	- If $q=0$ then this is always $0$ because $\{S\}=\varnothing$, so not positive.
 - Thm. Let $X$ be a compact complex manifold. If $E$ is Nakano positive, then $X$ is Kahler, and
 - $$H^{n,q}(E)= H^q(X,K_X\otimes E) = 0.$$
-	- Proof. We know $\operatorname{Tr}(i\Theta_E)$ is real by the discussion above. We know it's closed by Bianchi's identity.
--
+	- Proof. We know $\omega:=\operatorname{Tr}(i\Theta_E)$ is real by the discussion above. We know it's closed by Bianchi's identity.
+	- $$\omega$$
