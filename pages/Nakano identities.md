@@ -1,0 +1,17 @@
+- Let $F:=\nabla_E^2\in A^{1,1}(X,\operatorname{End}E)$. Thus
+	- $F\wedge- =\partial_E\bar\partial_E+\bar\partial_E\partial_E$.
+- Write $\Delta_A=AA^*+A^*A$.
+- Claim.
+	- $[L,\Delta_{\bar\partial_E}]=-iF\wedge-$, $[L,\Delta_{\partial_E}]=iF\wedge-$.
+	- $\Delta_{\bar\partial_E}+\Delta_{\partial_E}=\Delta_{\nabla_E}$.
+	- $\Delta_{\bar\partial_E}-\Delta_{\partial_E}=[iF\wedge-,\Lambda]$.
+- Proof. Put $A=\partial_E$ and $B=\bar\partial_E$.
+	- The Kahler identities give $[L,B^*]=-iA$, $[L,A^*]=iB$, and $[L,A]=[L,B]=0$. Hence
+		- $[L,\Delta_B]=B[L,B^*]+[L,B^*]B=-i(BA+AB)=-iF\wedge-$.
+		- $[L,\Delta_A]=A[L,A^*]+[L,A^*]A=i(AB+BA)=iF\wedge-$.
+	- We have $A^2=B^2=0$. Also $B^*=-i[\Lambda,A]$ and $A^*=i[\Lambda,B]$, so $AB^*+B^*A=0$ and $BA^*+A^*B=0$. Expanding $\Delta_{A+B}$ gives $\Delta_{\nabla_E}=\Delta_A+\Delta_B$.
+	- Finally,
+		- $\Delta_B=-i(B\Lambda A-BA\Lambda+\Lambda AB-A\Lambda B)$,
+		- $\Delta_A=i(A\Lambda B-AB\Lambda+\Lambda BA-B\Lambda A)$.
+	- Subtracting gives
+		- $\Delta_B-\Delta_A=i(AB+BA)\Lambda-i\Lambda(AB+BA)=[iF\wedge-,\Lambda]$. QED
