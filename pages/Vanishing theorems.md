@@ -3,7 +3,7 @@
 - Denote the curvature of the Chern connection by $\Theta_E$. Write
 - $$\Theta_E = \sum_{j,k,\mu,\lambda} c_{jk\lambda\mu} dz^j \wedge d\bar z^k e_\lambda^*\otimes e_\mu.$$
 - $\langle i\Theta_Eu,u\rangle$ can be viewed as a quadratic form on $T_X\otimes E$.
-	- It's well-known from Chern-Weil theory that
+	- It's well-known from Chern-Weil theory that $\Theta_E$ is skew-Hermitian, so
 	- $$i\Theta_{E}\in
 	  C^\infty\!\left(X,\Lambda^{1,1}T_X^*\otimes\operatorname{Herm}(E,E)\right).$$
 - If this is positive definite, we say that $(E,h)$ is *Nakano positive*.
