@@ -31,4 +31,6 @@
 	- We just need to compute $[\iota_k,\varepsilon_j\varepsilon_{\bar j}]$ on basis elements to see that the only non-zero terms are when $j=k$ and $[\iota_k,\varepsilon_k\varepsilon_{\bar k}]=d\bar z^k$.
 		- If $j\neq k$, these commute, so commutator $=0$. So suppose $j=k$.
 		- Fix a basis element $\alpha=e_I$.
-		- If $k\notin I$, $\iota_k\alpha=0$, so $[\iota_k,\varepsilon_k]\alpha=\a;lpa$
+		- If $k\notin I$, $\iota_k\alpha=0$, so $[\iota_k,\varepsilon_k]\alpha=\iota_k\varepsilon_k\alpha=\alpha$.
+		- If $k\in I$, $\varepsilon_k\alpha=0$, so $[\iota_k,\varepsilon_k]\alpha=$
+-
