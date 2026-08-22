@@ -4,6 +4,10 @@
 - $$i\Theta_E =: \sum_{j,k,\mu,\lambda} c_{jk\lambda\mu} dz^j \wedge d\bar z^k e_\lambda^*\otimes e_\mu.$$
 - $\langle i\Theta_Eu,u\rangle$ can be viewed as a quadratic form on $T_X\otimes E$.
 - If this is positive definite, we say that $(E,h)$ is *Nakano positive*.
+- ## Bochner-Kodaira-Nakano
+- In [[Nakano identities]], we computed
+- $$\Delta_{\bar\partial_E}-\Delta_{\partial_E}=[i\Theta_E,\Lambda]$$
+-
 - ## A computation
 - Consider a $(p,q)$-form $u=\sum_{J,K,\lambda}dz^J\wedge d\bar z^K e_\lambda$.
 - We want to compute $\langle [i\Theta_E,\Lambda]u,u\rangle$.
