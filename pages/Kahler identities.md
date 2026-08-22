@@ -35,6 +35,6 @@
 	- $\partial_k$ commutes with $L=\sqrt{-1}\sum_j \varepsilon_j\varepsilon_{\bar j}$.
 	- We just need to compute $[\iota_k,\varepsilon_j\varepsilon_{\bar j}] = \delta_{jk} \varepsilon_{\bar k}$.
 		- If $j\neq k$, these commute, so commutator $=0$. So suppose $j=k$.
-		- We compute $\iota_k\varepsilon_k\varepsilon_{\bar k}-\varepsilon_k\varepsilon_{\bar k}\iota_k = (1-\varepsilon_k\iota_k)\varepsilon_{\bar k}+\varepsilon_{\bar k}\varepsilon_k\iota_k$
--
+		- We compute $\iota_k\varepsilon_k\varepsilon_{\bar k}-\varepsilon_k\varepsilon_{\bar k}\iota_k = (1-\varepsilon_k\iota_k)\varepsilon_{\bar k}-\varepsilon_{k}\varepsilon_{\bar k}\iota_k=\varepsilon_{\bar k}$.
+	-
 -
