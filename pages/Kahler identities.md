@@ -49,7 +49,5 @@
 	- In this frame the connection matrix of the Chern connection is $h^{-1}\partial h$, so it vanishes at $x$.
 	- Therefore $D'$ and $D''$, and also their formal adjoints, have at $x$ exactly the same expressions as $\partial$ and $\bar\partial$ applied coefficientwise.
 	- The scalar computation above now applies to each coefficient of an $E$-valued form. Since $x$ was arbitrary, the identities hold everywhere. QED
-- There is no curvature term in these 8 identities.
-	- Curvature appears when we commute $D'$ with $D''$, or compare the $D'$- and $D''$-Laplacians, as in the Bochner--Kodaira--Nakano identity.
 - Remark. If the base is only Hermitian and not Kahler, the identities generally acquire torsion terms.
--
+- Continued: [[Nakano identities]]
