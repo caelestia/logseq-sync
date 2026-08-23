@@ -4,6 +4,8 @@
 - # Part 1
 - The goal of this part is to find $n$ so that $E(n)$ is globally generated.
 - ### Step 1
+- For $x\in X$, we have
+- $$ 0 \to E(n)\otimes I_x \to E(n) \to E(n)_x \to 0$$
 -
 - # Part 2
 - ### Step
