@@ -35,8 +35,9 @@
 - $$R^i\pi_*\mathcal{O}_{\widetilde X} = \begin{cases} \mathcal{O}_X, & i=0, \\ 0, & i>0. \end{cases}$$
 - ### Step 4 Lemmas
 -
+- Lemma. On an affine chart $
 - Back to where we stopped, we conclude that
-- $$R^i\pi_*\mathcal{O}_{F} = \begin{cases} \mathbb C_x, & i=0, \\ 0, & i>0. \end{cases}$$
+- $$R^i\pi_*\mathcal{O}_{F} = \begin{cases} \mathcal{O}_x, & i=0, \\ 0, & i>0. \end{cases}$$
 - # Part 2
 - ### Step 1
 -
