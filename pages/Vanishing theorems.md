@@ -83,3 +83,4 @@
 	- $$g(\xi,\bar\xi) = \sum_{j,k}g_{j\bar k}\xi_j\overline{\xi_k} = \sum_\lambda \widetilde\Theta_E (\xi\otimes e_\lambda,\xi\otimes e_\lambda) >0$$
 	- because $\tilde\Theta_E$ is positive definite and $\xi\otimes e_\lambda\neq0$. So $\omega$ is a Kahler form.
 	- The result follows from the discussion right above the statement. QED
+- ## Kodaira vanishing
