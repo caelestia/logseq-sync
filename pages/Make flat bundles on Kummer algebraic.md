@@ -11,7 +11,8 @@
 - is exact. So $E(n)$ is globally generated if $H^1(X,E(n)\otimes I_x)=0$ for every $x$.
 - The idea is clear: we want to apply [Nakano vanishing theorem]([[Vanishing theorems]]) to achieve this.
 - ### Step 2
--
+- However this is not immediately applicable because $I_x$ is not a vector bundle.
+- To remedy this, we consider the blow-up $\widetilde X$
 - # Part 2
 - ### Step
 -
