@@ -2,9 +2,9 @@
 - Let $X$ be a compact Kahler manifold of dimension $n$, $(E,h)$ be a Hermitian holomorphic vector bundle of rank $r$.
 - Denote the curvature of the Chern connection by $\Theta_E$. At some point $x$, take an orthonormal frame $(e_\lambda)$. Write
 - $$\Theta_E = \sum_{j,k,\mu,\lambda} c_{jk\lambda\mu} dz^j \wedge d\bar z^k e_\lambda^*\otimes e_\mu.$$
-- We can construct a Hermitian form $\widetilde\Theta_E$ on $T^{1,0}_X\otimes E$, by extending sesquilinearly
+- We can construct a Hermitian form $\widetilde\Theta_E$ on $T^{1,0}_X\otimes E$, by extending sesquilinearly (at $x$)
 - $$\widetilde\Theta_E(\partial_je_\lambda,\partial_ke_\mu):=c_{jk\lambda\mu}.$$
-	- Proof. It's well-known from Chern-Weil theory that $\Theta_E$ is skew-Hermitian, so  $c_{jk\lambda\mu}=\overline{c_{kj\mu\lambda}}$.
+	- Proof. We learnt from Chern-Weil theory that $\Theta_E$ is skew-Hermitian, so  $c_{jk\lambda\mu}=\overline{c_{kj\mu\lambda}}$.
 - Thus evaluated on any vector $u=\sum u_{j\lambda} \partial_j e_\lambda$, we have
 - $$\widetilde\Theta_E(u,u) = \sum_{j,k,\lambda,\mu}c_{jk\lambda\mu}u_{j\lambda}\overline{u_{k\mu}}\in\R$$
 - If $\widetilde\Theta_E$ is positive definite, we say that $(E,h)$ is *Nakano positive*.
