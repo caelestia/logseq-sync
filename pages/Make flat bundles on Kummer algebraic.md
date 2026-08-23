@@ -40,7 +40,8 @@
 - Lemma. Let $X$ be a Noetherian scheme, $f:X\to\operatorname{Spec}A$, then for any quasi-coherent sheaf $\mathcal{F}$ on $X$, we have
 - $$R^if_*\mathcal{F} = \widetilde{H^i(X,\mathcal{F})}.$$
 	- Proof. This is Hartshorne III.8.5.
-- Back to where we stopped, we conclude that
+- Back to where we stopped. We have a
+- We conclude that
 - $$R^i\pi_*\mathcal{O}_{F} = \begin{cases} \mathcal{O}_x, & i=0, \\ 0, & i>0. \end{cases}$$
 - # Part 2
 - ### Step 1
