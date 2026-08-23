@@ -15,6 +15,7 @@
 - To remedy this, consider the blow-up $\pi:\widetilde X \to X$ centered at the point $x$, with exceptional divisor $F$.
 - Then $\pi_*\mathcal{O}(-F)=I_x$.
 - Leray spectral sequence says $E_2^{p,q}=H^p(X,R^q\pi_*\mathcal{O}(-F)) \Longrightarrow H^{p+q}(\widetilde X,\mathcal{O}(-F)\otimes\pi^* E(n))$.
+- Claim.
 - # Part 2
 - ### Step
 -
