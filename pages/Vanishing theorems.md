@@ -1,7 +1,7 @@
 - > Following Analytic Methods in Algebraic Geometry by Demailly
 - Let $X$ be a compact Kahler manifold of dimension $n$, $(E,h)$ be a Hermitian holomorphic vector bundle of rank $r$.
 - Denote the curvature of the Chern connection by $\Theta_E$. Write
-- $$i\Theta_E = \sum_{j,k,\mu,\lambda} c_{jk\lambda\mu} dz^j \wedge d\bar z^k e_\lambda^*\otimes e_\mu.$$
+- $$\Theta_E = \sum_{j,k,\mu,\lambda} c_{jk\lambda\mu} dz^j \wedge d\bar z^k e_\lambda^*\otimes e_\mu.$$
 - $\langle i\Theta_Eu,u\rangle$ can be viewed as a quadratic form on $T_X\otimes E$.
 	- Proof. It's well-known from Chern-Weil theory that $\Theta_E$ is skew-Hermitian, so
 	- $$i\Theta_{E}\in
@@ -81,4 +81,5 @@
 	- Proof. We know $\omega:=\operatorname{Tr}(i\Theta_E)$ is real by the discussion above. We know it's closed by Bianchi's identity. It remains to check positivity. We have
 	- $$\omega =: i\sum_{j,k} g_{j\bar k}dz^j \wedge d\bar z^k,\qquad g_{j\bar k}=\sum_\lambda c_{jk\lambda\lambda}.$$
 	- For every nonzero real tangent vector $\xi\in T^{1,0}_x$, fixing an orthonormal basis $(e_\lambda)$ at $x$, we have
-	- $$g(\xi,\bar\xi) = \sum_{j,k}g_{j\bar k}\xi_j\overline{\xi_k} = \sum_\lambda \sum_{j,k} c_{jk\lambda\lambda}$$
+	- $$g(\xi,\bar\xi) = \sum_{j,k}g_{j\bar k}\xi_j\overline{\xi_k} = \sum_\lambda \langle i\Theta_E (\xi\otimes e_\lambda),\xi\otimes e_\lambda\rangle$$
+	-
