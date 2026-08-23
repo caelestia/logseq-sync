@@ -11,7 +11,7 @@
 - ## Bochner-Kodaira-Nakano
 - In [[Nakano identities]], we computed
 - $$\Delta_{\bar\partial_E}-\Delta_{\partial_E}=[i\Theta_E,\Lambda]$$
-- The Bochner technique is essentially a "completing of squares". We know $\Delta_{\partial_E}$, as a Laplacian, is positive definite. If $u$ is a harmonic $(p,q)$-form, i.e. $\Delta_{\bar \partial_E}u=0$, we get
+- The Bochner technique is essentially a "completing of squares". We know $\Delta_{\partial_E}$, as a Laplacian, is positive semidefinite. If $u$ is a harmonic $(p,q)$-form, i.e. $\Delta_{\bar \partial_E}u=0$, we get
 - $$\langle [i\Theta_E,\Lambda]u,u\rangle \leq 0.$$
 - If $E$ satisfies a condition forcing $[i\Theta_E,\Lambda]$ to be positive definite, we get $u=0$, so by Hodge theory
 - $$H^{p,q}(E)=\mathcal{H}^{p,q}(E)=0.$$
@@ -71,14 +71,15 @@
 	  =\sum_{j,k,\lambda,\mu,S}
 	  c_{jk\lambda\mu}\,u_{I,jS,\lambda}\,
 	  \overline{u_{I,kS,\mu}}.$$
-- For every fixed $(q-1)$-multiindex $S$, the array $(u_{I,jS,\lambda})_{j,\lambda}$ defines an element of $T_X\otimes E$. Thus Nakano positivity makes the last expression positive for every nonzero $(n,q)$-form $u$ when $q\geq 1$.
+- For every fixed $(q-1)$-multiindex $S$, the array $(u_{I,jS,\lambda})_{j,\lambda}$ defines an element of $T_X\otimes E$.
+- Thus Nakano positivity makes the last expression positive for every nonzero $(n,q)$-form $u$ for $q\geq 1$.
 	- If $q=0$ then this is always $0$ because $\{S\}=\varnothing$, so not positive.
 - Thm. Let $X$ be a compact complex manifold. If $E$ is Nakano positive, then $X$ is Kahler, and
-- $$H^{n,q}(E)= H^q(X,K_X\otimes E) = 0.$$
+- $$H^{n,q}(E)= H^q(X,K_X\otimes E) = 0,\qquad \forall q>0.$$
 	- Proof. We show that $X$ is automatically Kahler. Take $\omega=\operatorname{Tr}(i\Theta_E)$. Write
 	- $$\omega =: i\sum_{j,k} g_{j\bar k}dz^j \wedge d\bar z^k,\qquad g_{j\bar k}=\sum_\lambda c_{jk\lambda\lambda}.$$
 	- We know $\omega$ is real because $(g_{j\bar k})$ is Hermitian by the discussion above. We know it's closed by Bianchi's identity. It remains to check positivity.
-	- For every nonzero holomorphic tangent vector $\xi\in T^{1,0}_xX$, fixing an orthonormal basis $(e_\lambda)$ at $x$, we have
+	- For every nonzero holomorphic tangent vector $\xi\in T_xX$, fixing an orthonormal basis $(e_\lambda)$ at $x$, we have
 	- $$g(\xi,\bar\xi) = \sum_{j,k}g_{j\bar k}\xi_j\overline{\xi_k} = \sum_\lambda \widetilde\Theta_E (\xi\otimes e_\lambda,\xi\otimes e_\lambda) >0$$
 	- because $\tilde\Theta_E$ is positive definite and $\xi\otimes e_\lambda\neq0$. So $\omega$ is a Kahler form.
 	-
