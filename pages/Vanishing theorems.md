@@ -2,7 +2,7 @@
 - Let $X$ be a compact Kahler manifold of dimension $n$, $(E,h)$ be a Hermitian holomorphic vector bundle of rank $r$.
 - Denote the curvature of the Chern connection by $\Theta_E$. Write
 - $$\Theta_E = \sum_{j,k,\mu,\lambda} c_{jk\lambda\mu} dz^j \wedge d\bar z^k e_\lambda^*\otimes e_\mu.$$
-- $\langle i\Theta_Eu,u\rangle$ can be viewed as a quadratic form on $T_X\otimes E$.
+- $\langle i\Theta_Eu,u\rangle$ can be viewed as a quadratic form on $T^{1,0}_X\otimes E$.
 	- Proof. It's well-known from Chern-Weil theory that $\Theta_E$ is skew-Hermitian, so
 	- $$i\Theta_{E}\in
 	  C^\infty\!\left(X,\Lambda^{1,1}T_X^*\otimes\operatorname{Herm}(E,E)\right).$$
