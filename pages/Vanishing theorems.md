@@ -15,7 +15,7 @@
 - $$\langle [i\Theta_E,\Lambda]u,u\rangle \leq 0.$$
 - If $E$ satisfies a condition forcing $[i\Theta_E,\Lambda]$ to be positive definite, we get $u=0$, so by Hodge theory
 - $$H^{p,q}(E)=\mathcal{H}^{p,q}(E)=0.$$
-- Our next step is to expand this in coordinates.
+- Our next step is to expand this commutator term in coordinates.
 - ## A computation
 - Consider a $(p,q)$-form $u=\sum_{J,K,\lambda} u_{J,K,\lambda} dz^J\wedge d\bar z^K e_\lambda$. We want to compute
 - $$\langle[i\Theta_E,\Lambda]u,u\rangle.$$
@@ -76,10 +76,10 @@
 	- If $q=0$ then this is always $0$ because $\{S\}=\varnothing$, so not positive.
 - Thm. Let $X$ be a compact complex manifold. If $E$ is Nakano positive, then $X$ is Kahler, and
 - $$H^{n,q}(E)= H^q(X,K_X\otimes E) = 0,\qquad \forall q>0.$$
-	- Proof. We show that $X$ is automatically Kahler. Take $\omega=\operatorname{Tr}(i\Theta_E)$. Write
+	- Proof. We take the time to show that $X$ is automatically Kahler. Take $\omega=\operatorname{Tr}(i\Theta_E)$. Write
 	- $$\omega =: i\sum_{j,k} g_{j\bar k}dz^j \wedge d\bar z^k,\qquad g_{j\bar k}=\sum_\lambda c_{jk\lambda\lambda}.$$
 	- We know $\omega$ is real because $(g_{j\bar k})$ is Hermitian by the discussion above. We know it's closed by Bianchi's identity. It remains to check positivity.
 	- For every nonzero holomorphic tangent vector $\xi\in T_xX$, fixing an orthonormal basis $(e_\lambda)$ at $x$, we have
 	- $$g(\xi,\bar\xi) = \sum_{j,k}g_{j\bar k}\xi_j\overline{\xi_k} = \sum_\lambda \widetilde\Theta_E (\xi\otimes e_\lambda,\xi\otimes e_\lambda) >0$$
 	- because $\tilde\Theta_E$ is positive definite and $\xi\otimes e_\lambda\neq0$. So $\omega$ is a Kahler form.
-	-
+	- The result follows from the discussion right above the statement. QED
