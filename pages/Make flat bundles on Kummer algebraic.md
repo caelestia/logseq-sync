@@ -12,9 +12,9 @@
 - The idea is clear: we want to apply [Nakano vanishing theorem]([[Vanishing theorems]]) to achieve this.
 - ### Step 2
 - However this is not immediately applicable because $I_x$ is not a vector bundle.
-- To remedy this, we consider the blow-up $\pi:\widetilde X \to X$ centered at the point $x$, with exceptional divisor $E$.
+- To remedy this, consider the blow-up $\pi:\widetilde X \to X$ centered at the point $x$, with exceptional divisor $E$.
 - Then $\pi_*\mathcal{O}(-E)=I_x$.
--
+- Leray spectral sequence says $E_2^{p,q}=H^p(X,)$
 - # Part 2
 - ### Step
 -
