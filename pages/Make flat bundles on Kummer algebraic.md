@@ -31,8 +31,9 @@
 	- Remark: "projective" is to guarantee $f_*\mathcal{O}_X$ is coherent (Hartshorne III.8.8), so we can weaken it to "proper" if we use the more general theorem https://stacks.math.columbia.edu/tag/02O3.
 - Lemma. Let $f:X\to Y$ be a projective birational morphism of regular schemes of finite type over a field. Then the higher direct images of $\mathcal{O}_X$ vanish.
 	- Proof. See Theorem 1.1 of this paper https://arxiv.org/pdf/1404.1827.
-- Back to where we We conclude that:
-- $$R^i\pi_*$$
+- Back to where we stopped, we conclude that
+- $$R^i\pi_*\mathcal{O}_{\widetilde X} = \begin{cases} \mathcal{O}_X, & i=0, \\ 0, & i>0. \end{cases}$$
+- $$R^i\pi_*\mathcal{O}_{F} = \begin{cases} \mathcal{O}_x, & i=0, \\ 0, & i>0. \end{cases}$$
 - # Part 2
 - ### Step
 -
