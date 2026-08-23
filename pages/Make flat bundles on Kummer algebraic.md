@@ -23,7 +23,10 @@
 	- $$0 \to \mathcal{O}(-F) \to \mathcal{O}_{\widetilde X} \to \mathcal{O}_F \to 0$$
 	- we get an exact sequence
 	- $$\pi_*\mathcal{O}_{\widetilde X} \to \pi_*\mathcal{O}_F \to R^1\pi_*\mathcal{O}(-F) \to R^1\pi_*\mathcal{O}_{\widetilde X} \to R^1\pi_*\mathcal{O}_F \to \cdots$$
-	- We need to show that the first arrow is surctive, and every higher image vanishes.
+	- We need to show that the first arrow is surctive, and every higher image of $\mathcal{O}_{\widetilde X}$ and $\mathcal{O}_F$ vanishes.
+	- We will put them in the following lemmas.
+- ### Step 3 Lemmas
+- Lemma.
 - # Part 2
 - ### Step
 -
