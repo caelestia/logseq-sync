@@ -21,8 +21,9 @@
 - Claim. $R^q\pi_*\mathcal{O}(-F)=0$ for all $q>0$.
 	- Proof. Apply the derived image functor to the standard SES,
 	- $$0 \to \mathcal{O}(-F) \to \mathcal{O}_{\widetilde X} \to \mathcal{O}_F \to 0$$
-	- $$0 \to \pi_*\mathcal{O}(-F) \to \pi_*\mathcal{O}_{\widetilde X} \to \pi_*\mathcal{O}_F \to R^1\pi_*\mathcal{O}(-F) \to R^1\pi_*\mathcal{O}_{\widetilde X} \to R^1\pi_*\mathcal{O}_F \to \cdots$$
-	-
+	- we get an exact sequence
+	- $$\pi_*\mathcal{O}_{\widetilde X} \to \pi_*\mathcal{O}_F \to R^1\pi_*\mathcal{O}(-F) \to R^1\pi_*\mathcal{O}_{\widetilde X} \to R^1\pi_*\mathcal{O}_F \to \cdots$$
+	- We need to show that the first arrow is surctive, and every higher image vanishes.
 - # Part 2
 - ### Step
 -
