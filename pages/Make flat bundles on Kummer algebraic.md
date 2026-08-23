@@ -26,7 +26,7 @@
 	- We need to show that the first arrow is surctive, and every higher image of $\mathcal{O}_{\widetilde X}$ and $\mathcal{O}_F$ vanishes.
 	- We will put them in the following lemmas.
 - ### Step 3 Lemmas
-- Lemma.
+- Lemma. If $f:X\to Y$ is a proper birational morphism of integral Noetherian schemes,
 - # Part 2
 - ### Step
 -
