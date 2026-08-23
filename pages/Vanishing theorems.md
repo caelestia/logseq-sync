@@ -1,12 +1,12 @@
 - > Following Analytic Methods in Algebraic Geometry by Demailly
 - Let $X$ be a compact Kahler manifold of dimension $n$, $(E,h)$ be a Hermitian holomorphic vector bundle of rank $r$.
-- Denote the curvature of the Chern connection by $\Theta_E$. Write
+- Denote the curvature of the Chern connection by $\Theta_E$. At some point $x$, take an orthonormal frame $(e_\lambda)$. Write
 - $$\Theta_E = \sum_{j,k,\mu,\lambda} c_{jk\lambda\mu} dz^j \wedge d\bar z^k e_\lambda^*\otimes e_\mu.$$
-- We can construct a Hermitian form $\widetilde\Theta_E$ on $T^{1,0}_X\otimes E$, by extending linearly
-- $$\widetilde\Theta_E(\partial_je_\lambda,\partial_ke_\mu)=c_{jk\lambda\mu}.$$
+- We can construct a Hermitian form $\widetilde\Theta_E$ on $T^{1,0}_X\otimes E$, by extending sesquilinearly
+- $$\widetilde\Theta_E(\partial_je_\lambda,\partial_ke_\mu):=c_{jk\lambda\mu}.$$
 	- Proof. It's well-known from Chern-Weil theory that $\Theta_E$ is skew-Hermitian, so  $c_{jk\lambda\mu}=\overline{c_{kj\mu\lambda}}$.
-	- Thus evaluated on any vector $u=\sum u_{j\lambda} \partial_j e_\lambda$, we have
-	- $$\widetilde\Theta_E(u,u) = \sum_{j,k,\lambda,\mu}c_{jk\lambda\mu}u_{j\lambda}\overline{u_{k\mu}}\in\R$$
+- Thus evaluated on any vector $u=\sum u_{j\lambda} \partial_j e_\lambda$, we have
+- $$\widetilde\Theta_E(u,u) = \sum_{j,k,\lambda,\mu}c_{jk\lambda\mu}u_{j\lambda}\overline{u_{k\mu}}\in\R$$
 - If $\widetilde\Theta_E$ is positive definite, we say that $(E,h)$ is *Nakano positive*.
 - ## Bochner-Kodaira-Nakano
 - In [[Nakano identities]], we computed
@@ -79,5 +79,5 @@
 	- $$\omega =: i\sum_{j,k} g_{j\bar k}dz^j \wedge d\bar z^k,\qquad g_{j\bar k}=\sum_\lambda c_{jk\lambda\lambda}.$$
 	- We know $\omega$ is real because $(g_{j\bar k})$ is Hermitian by the discussion above. We know it's closed by Bianchi's identity. It remains to check positivity.
 	- For every nonzero holomorphic tangent vector $\xi\in T^{1,0}_xX$, fixing an orthonormal basis $(e_\lambda)$ at $x$, we have
-	- $$g(\xi,\bar\xi) = \sum_{j,k}g_{j\bar k}\xi_j\overline{\xi_k} = \sum_\lambda \langle i\Theta_E (\xi\otimes e_\lambda),\xi\otimes e_\lambda\rangle >0$$
+	- $$g(\xi,\bar\xi) = \sum_{j,k}g_{j\bar k}\xi_j\overline{\xi_k} = \sum_\lambda \langle i\Theta_E (\xi\otimes e_\lambda,\xi\otimes e_\lambda) >0$$
 	- So $\omega$ is a Kahler form.
