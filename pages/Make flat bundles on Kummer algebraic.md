@@ -37,9 +37,9 @@
 - Lemma. Let $X$ be a Noetherian scheme, $f:X\to\operatorname{Spec}A$, then for any quasi-coherent sheaf $\mathcal{F}$ on $X$, we have
 - $$R^if_*\mathcal{F} = \widetilde{H^i(X,\mathcal{F})}.$$
 	- Proof. This is Hartshorne III.8.5.
-- Lemma. Let $X$ be a non-singular variety and $\widetilde X$ be the blow-up centered at a non-singular closed subvariety $Y$, with exceptional divisor $F$. Then on an affine chart $\operatorname{Spec}A$ of $X$, we have $F\simeq\mathbb{P}^{\text{codim}(Y,X)-1}_A$, and so
+- Lemma. Let $X$ be a non-singular variety and $\widetilde X$ be the blow-up centered at a non-singular closed subvariety $Y$, with exceptional divisor $F$. Then passing to some affine chart $\operatorname{Spec}A$ of $X$, we have $F\simeq\mathbb{P}^{\text{codim}(Y,X)-1}_A$, and so
 - $$H^i(F,\mathcal{O}_F)=\begin{cases}A,&i=0,\\0,&i>0.\end{cases}$$
-	- Proof. This is Hartshorne II.8.24. The cohomology of projective space is standard.
+	- Proof. By Hartshorne II.8.24, $F\simeq\mathbb{P}(\mathcal{I_Y/I_Y}^2)$ where is a . The cohomology of projective space is standard.
 - In this scenario, we have a commutative square 
   id:: 6a8b7de6-77a0-4ce1-bc34-62656a61fc7b
 	- ![image.png](../assets/image_1787526670764_0.png)
