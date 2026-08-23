@@ -29,7 +29,8 @@
 - Lemma. If $f:X\to Y$ is a projective birational morphism of integral Noetherian schemes, $Y$ is normal, then $f_*\mathcal{O}_X=\mathcal{O}_Y$.
 	- Proof. See (the proof of) Hartshorne III.11.4.
 	- Remark: "projective" is to guarantee $f_*\mathcal{O}_X$ is coherent (Hartshorne III.8.8), so we can weaken it to "proper" if we use the more general theorem https://stacks.math.columbia.edu/tag/02O3.
-- Lemma.
+- Lemma. Let $f:X\to Y$ be a projective birational morphism of regular schemes of finite type over a field. Then the higher direct images of $\mathcal{O}_X$ vanish.
+	-
 - # Part 2
 - ### Step
 -
