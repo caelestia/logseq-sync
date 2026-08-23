@@ -6,5 +6,5 @@
 - ### Step 1
 -
 - # Part 2
-- ### Step X
+- ### Step
 -
