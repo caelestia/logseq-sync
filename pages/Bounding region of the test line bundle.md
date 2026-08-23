@@ -64,9 +64,9 @@
 - Here $N.H=uH^2=(c_1(\mathcal M)-\frac{1}{2}c_1(\mathcal{E})).H\geq0$ by Step 2.
 - By the Hodge index theorem (Hartshorne V.1.9), $R^2\leq0$.
 - We have
-- $$N^2=u^2H^2+R^2 \geq \frac{1}{4}c_1(\mathcal{E})^2 - c_2(\mathcal{E}) =: \xi.$$
+- $$N^2=u^2H^2+R^2 \geq \frac{1}{4}c_1(\mathcal{E})^2 - c_2(\mathcal{E}) =: d_\mathcal{E}.$$
 - Plug in the values of $c_1(\mathcal{E})$ and $c_2(\mathcal E)$, we find
-- $$\xi = $$
+- $$d_\mathcal{E} = $$
 - Our main goal is now to bound $N$.
 - ---
 - ### Step 6
@@ -90,13 +90,13 @@
 -
 - Since $q=(nh-\sum E_i)^2=n^2h^2-32\geq0$, $p=h^2>0$ and $r=h.H=nh^2$, we have $pq-r^2<0$.
 - By Hodge index theorem,
-- $$\xi \leq N^2 \leq P^2 \leq \frac{pt^2}{pq-r^2} \leq 0$$
+- $$d_\mathcal{E} \leq N^2 \leq P^2 \leq \frac{pt^2}{pq-r^2} \leq 0$$
 - We obtain a bound on $t$,
-- $$0 \leq t \leq \sqrt{\frac{pq-r^2}{p}\xi} = \sqrt{-32\xi}$$
+- $$0 \leq t \leq \sqrt{\frac{pq-r^2}{p}d_\mathcal{E}} = \sqrt{-32d_\mathcal{E}}$$
 - ### Step 8
 - If $\rho(A)=1$, or if the Neron-Severi lattice of $A$ is nice enough, we are done!
 - For every value of $t$, there is only finitely many choices of $N$, because
-- $$R^2 \geq \xi-u^2H^2=\xi-t^2/q$$
+- $$R^2 \geq d_\mathcal{E}-u^2H^2=d_\mathcal{E}-t^2/q$$
 - And $R^2\leq0$ by the Hodge index theorm.
 - This reduces the problem down to a finite check.
 -
