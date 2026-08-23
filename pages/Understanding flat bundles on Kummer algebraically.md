@@ -9,7 +9,7 @@
 - so taking sheaf cohomology,
 - $$H^0(X,E(n)) \to E(n)_x \to H^1(X,E(n)\otimes I_x)$$
 - is exact. So $E(n)$ is globally generated if $H^1(X,E(n)\otimes I_x)=0$ for every $x$.
-- The idea is clear: we want to apply Nakano vanishing theorem to achieve this.
+- The idea is clear: we want to apply [Nakano vanishing theorem]([[Vanishing theorems]]) to achieve this.
 - ### Step 2
 -
 - # Part 2
