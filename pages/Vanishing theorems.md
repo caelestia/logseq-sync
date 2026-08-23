@@ -84,3 +84,4 @@
 	- because $\tilde\Theta_E$ is positive definite and $\xi\otimes e_\lambda\neq0$. So $\omega$ is a Kahler form.
 	- The result follows from the discussion right above the statement. QED
 - ## Kodaira vanishing
+-

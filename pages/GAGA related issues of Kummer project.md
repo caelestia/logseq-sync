@@ -1,2 +1,2 @@
 - [[Chow's theorem on analytic subspaces]]
-- [[Understanding flat bundles on Kummer algebraically]]
+- [[Make flat bundles on Kummer algebraic]]
