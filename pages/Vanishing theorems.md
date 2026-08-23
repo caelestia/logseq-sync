@@ -78,8 +78,9 @@
 	- If $q=0$ then this is always $0$ because $\{S\}=\varnothing$, so not positive.
 - Thm. Let $X$ be a compact complex manifold. If $E$ is Nakano positive, then $X$ is Kahler, and
 - $$H^{n,q}(E)= H^q(X,K_X\otimes E) = 0.$$
-	- Proof. We know $\omega:=\operatorname{Tr}(i\Theta_E)$ is real by the discussion above. We know it's closed by Bianchi's identity. It remains to check positivity. We have
+	- Proof. Take $\omega=\operatorname{Tr}(i\Theta_E)$. Write
 	- $$\omega =: i\sum_{j,k} g_{j\bar k}dz^j \wedge d\bar z^k,\qquad g_{j\bar k}=\sum_\lambda c_{jk\lambda\lambda}.$$
-	- For every nonzero real tangent vector $\xi\in T^{1,0}_x$, fixing an orthonormal basis $(e_\lambda)$ at $x$, we have
+	- We know $\omega$ is real because $(g_{j\bar k})$ is Hermitian by the discussion above. We know it's closed by Bianchi's identity. It remains to check positivity.
+	- For every nonzero holomorphic tangent vector $\xi\in T^{1,0}_xX$, fixing an orthonormal basis $(e_\lambda)$ at $x$, we have
 	- $$g(\xi,\bar\xi) = \sum_{j,k}g_{j\bar k}\xi_j\overline{\xi_k} = \sum_\lambda \langle i\Theta_E (\xi\otimes e_\lambda),\xi\otimes e_\lambda\rangle >0$$
 	- So $\omega$ is a Kahler form.
