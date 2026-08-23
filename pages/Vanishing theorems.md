@@ -6,9 +6,8 @@
 - $$\widetilde\Theta_E(\partial_je_\lambda,\partial_ke_\mu)=c_{jk\lambda\mu}.$$
 	- Proof. It's well-known from Chern-Weil theory that $\Theta_E$ is skew-Hermitian, so  $c_{jk\lambda\mu}=\overline{c_{kj\mu\lambda}}$.
 	- Thus evaluated on any vector $u=\sum u_{j\lambda} \partial_j e_\lambda$, we have
-	- $$\widetilde\Theta_E = \sum_{j,k,\lambda,\mu}c_{jk\lambda\mu}u_{j\lambda}\overline{u_{k\mu}}$$
-	- is real.
-- If this quadratic form is positive definite, we say that $(E,h)$ is *Nakano positive*.
+	- $$\widetilde\Theta_E(u,u) = \sum_{j,k,\lambda,\mu}c_{jk\lambda\mu}u_{j\lambda}\overline{u_{k\mu}}\in\R$$
+- If $\widetilde\Theta_E$ is positive definite, we say that $(E,h)$ is *Nakano positive*.
 - ## Bochner-Kodaira-Nakano
 - In [[Nakano identities]], we computed
 - $$\Delta_{\bar\partial_E}-\Delta_{\partial_E}=[i\Theta_E,\Lambda]$$
