@@ -19,7 +19,9 @@
 - So the Leray spectral sequence can be written as
 - $$E_2^{p,q}=H^p(X,R^q\pi_*\mathcal{O}(-F)\otimes E(n)) \Longrightarrow H^{p+q}(\widetilde X,\mathcal{O}(-F)\otimes\pi^* E(n)).$$
 - Claim. $R^q\pi_*\mathcal{O}(-F)=0$ for all $q>0$.
-	- Proof.
+	- Proof. Apply the derived image functor to the standard SES,
+	- $$0 \to \mathcal{O}(-F) \to \mathcal{O}_{\widetilde X} \to \mathcal{O}_F \to 0$$
+	- $$0 \to \pi_*\mathcal{O}(-F) \to \pi_*\mathcal{O}_{\wildetilde X} \to \pi_*\mathcal{O}_F \to \pi_*\mathcal{O}(-F) \to \pi_*\mathcal{O}_{\wildetilde X} \to \pi_*\mathcal{O}_F \to \cdots$$
 - # Part 2
 - ### Step
 -
