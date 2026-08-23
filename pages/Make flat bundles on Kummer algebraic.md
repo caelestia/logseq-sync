@@ -43,7 +43,8 @@
 - In this scenario, we have a commutative square 
   id:: 6a8b7de6-77a0-4ce1-bc34-62656a61fc7b
 	- ![image.png](../assets/image_1787526670764_0.png)
--
+- Since $\iota$ is a closed immersion, we have
+- $$R^i\pi_*\mathcal{O}_F = \iota_*R^i(\pi|_F)_*\mathcal{O}_F.$$
 - Back to where we stopped, we conclude that
 - $$R^i\pi_*\mathcal{O}_{F} = \begin{cases} \mathcal{O}_x, & i=0, \\ 0, & i>0. \end{cases}$$
 - # Part 2
