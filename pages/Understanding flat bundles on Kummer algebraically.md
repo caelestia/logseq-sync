@@ -1,1 +1,3 @@
-- We consider the general problm
+- We consider the a more general problem of finding algebraization of a vector bundle.
+- Let $X$ be a smooth projective variety, $E$ be a rank $r$ vector bundle.
+-
