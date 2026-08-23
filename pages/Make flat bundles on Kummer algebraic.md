@@ -44,7 +44,7 @@
 - $$R^i\pi_*\mathcal{O}_F = \iota_*R^i(\pi_F)_*\mathcal{O}_F.$$
 - By Hartshorne III.8.5,
 	- > Let $X$ be a Noetherian scheme, $f:X\to\operatorname{Spec}A$, then for any quasi-coherent sheaf $\mathcal{F}$ on $X$, we have $R^if_*\mathcal{F} = \widetilde{H^i(X,\mathcal{F})}.$
-- we have
+- we can easily compute $R^i\pi_*\mathcal{O}_F$.
 - Back to where we stopped in Step 2, we conclude that
 - $$R^i\pi_*\mathcal{O}_{F} = \begin{cases} \mathcal{O}_x, & i=0, \\ 0, & i>0. \end{cases}$$
 - # Part 2
