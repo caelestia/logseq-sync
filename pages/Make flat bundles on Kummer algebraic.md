@@ -34,6 +34,7 @@
 - Corollary. Back to where we stopped, we conclude that
 - $$R^i\pi_*\mathcal{O}_{\widetilde X} = \begin{cases} \mathcal{O}_X, & i=0, \\ 0, & i>0. \end{cases}$$
 - ### Step 4 Lemmas
+- Let $Y\subset X$ be varieties and $\wildetilde X$ be the blow-up centered at $Y$.
 - Lemma.
 - Lemma. If $Y$ is regular, then on an affine chart $\operatorname{Spec}A$ of $X$, we have $F\simeq\mathbb{P}^{r-1}_A$, and so
 - $$H^i(F,\mathcal{O}_F)=\begin{cases}A,&i=0,\\0,&i>0.\end{cases}$$
