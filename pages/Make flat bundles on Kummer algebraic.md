@@ -34,9 +34,6 @@
 - Corollary. Back to where we stopped in Step 2, we conclude that
 - $$R^i\pi_*\mathcal{O}_{\widetilde X} = \begin{cases} \mathcal{O}_X, & i=0, \\ 0, & i>0. \end{cases}$$
 - ### Step 4 Lemmas
-- Lemma. Let $X$ be a Noetherian scheme, $f:X\to\operatorname{Spec}A$, then for any quasi-coherent sheaf $\mathcal{F}$ on $X$, we have
-- $$R^if_*\mathcal{F} = \widetilde{H^i(X,\mathcal{F})}.$$
-	- Proof. This is Hartshorne III.8.5.
 - Lemma. Let $X$ be a non-singular variety and $\widetilde X$ be the blow-up centered at a non-singular closed subvariety $Y$, with exceptional divisor $F$. Then passing to some affine chart $\operatorname{Spec}A$ of $X$, we have $F\simeq\mathbb{P}^{\text{codim}(Y,X)-1}_A$, and so
 - $$H^i(F,\mathcal{O}_F)=\begin{cases}A,&i=0,\\0,&i>0.\end{cases}$$
 	- Proof. By Hartshorne II.8.24, $F\simeq\mathbb{P}(\mathcal{I/I}^2)$ where the conormal sheaf $\mathcal{I/I}^2$ is locally free of rank $\text{codim}(Y,X)$. So we pass to a open of the conormal bundle, and the cohomology of projective space is standard.
@@ -45,6 +42,9 @@
 	- ![image.png](../assets/image_1787526670764_0.png)
 - Since $\iota$ is a closed immersion, we have
 - $$R^i\pi_*\mathcal{O}_F = \iota_*R^i(\pi_F)_*\mathcal{O}_F.$$
+- By Hartshorne III.8.5,
+	- > Let $X$ be a Noetherian scheme, $f:X\to\operatorname{Spec}A$, then for any quasi-coherent sheaf $\mathcal{F}$ on $X$, we have $R^if_*\mathcal{F} = \widetilde{H^i(X,\mathcal{F})}.$
+- we have
 - Back to where we stopped in Step 2, we conclude that
 - $$R^i\pi_*\mathcal{O}_{F} = \begin{cases} \mathcal{O}_x, & i=0, \\ 0, & i>0. \end{cases}$$
 - # Part 2
