@@ -3,6 +3,7 @@
 - We need to find an algebraic $E_{alg}$ s.t. $E=E_{alg}^{an}$.
 - # Part 1
 - The goal of this part is to find $n$ so that $E(n)$ is globally generated.
+- ### Step 1
 -
 - # Part 2
 - ### Step X
