@@ -24,7 +24,7 @@
 	- we get an exact sequence
 	- $$\pi_*\mathcal{O}_{\widetilde X} \to \pi_*\mathcal{O}_F \to R^1\pi_*\mathcal{O}(-F) \to R^1\pi_*\mathcal{O}_{\widetilde X} \to R^1\pi_*\mathcal{O}_F \to \cdots$$
 	- We need to show that the first arrow is surctive, and every higher image of $\mathcal{O}_{\widetilde X}$ and $\mathcal{O}_F$ vanishes.
-	- We will put them in the following lemmas.
+	- We will put these computation in the following two steps.
 - ### Step 3 Lemmas
 - Lemma. If $f:X\to Y$ is a projective birational morphism of integral Noetherian schemes, $Y$ is normal, then $f_*\mathcal{O}_X=\mathcal{O}_Y$.
 	- Proof. See (the proof of) Hartshorne III.11.4.
@@ -33,7 +33,7 @@
 	- Proof. See Theorem 1.1 of this paper https://arxiv.org/pdf/1404.1827.
 - Corollary. Back to where we stopped, we conclude that
 - $$R^i\pi_*\mathcal{O}_{\widetilde X} = \begin{cases} \mathcal{O}_X, & i=0, \\ 0, & i>0. \end{cases}$$
--
+- ### Step 4 Lemmas
 - $$R^i\pi_*\mathcal{O}_{F} = \begin{cases} \mathcal{O}_x, & i=0, \\ 0, & i>0. \end{cases}$$
 - # Part 2
 - ### Step
