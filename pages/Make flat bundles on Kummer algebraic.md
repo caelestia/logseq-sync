@@ -14,8 +14,10 @@
 - However this is not immediately applicable because $I_x$ is not a vector bundle.
 - To remedy this, consider the blow-up $\pi:\widetilde X \to X$ centered at the point $x$, with exceptional divisor $F$.
 - Then $\pi_*\mathcal{O}(-F)=I_x$.
-- Leray spectral sequence says $E_2^{p,q}=H^p(X,R^q\pi_*\mathcal{O}(-F)) \Longrightarrow H^{p+q}(\widetilde X,\mathcal{O}(-F)\otimes\pi^* E(n))$.
-- Claim.
+- Leray spectral sequence says
+- $$E_2^{p,q}=H^p(X,R^q\pi_*\mathcal{O}(-F)\otimes E(n)) \Longrightarrow H^{p+q}(\widetilde X,\mathcal{O}(-F)\otimes\pi^* E(n))$$
+- Claim. $R^q\pi_*\mathcal{O}(-F)=0$ for all $q>0$.
+	- Proof.
 - # Part 2
 - ### Step
 -
