@@ -81,4 +81,4 @@
 	- Proof. We know $\omega:=\operatorname{Tr}(i\Theta_E)$ is real by the discussion above. We know it's closed by Bianchi's identity. It remains to check positivity. We have
 	- $$\omega =: i\sum_{j,k} g_{j\bar k}dz^j \wedge d\bar z^k,\qquad g_{j\bar k}=\sum_\lambda c_{jk\lambda\lambda}.$$
 	- For every nonzero real tangent vector $\xi\in T^{1,0}_x$, fixing an orthonormal basis $(e_\lambda)$ at $x$, we have
-	- $$g(\xi,\bar\xi) = \sum_{j,k}g_{j\bar k}\xi_j\overline{\xi_k}$$
+	- $$g(\xi,\bar\xi) = \sum_{j,k}g_{j\bar k}\xi_j\overline{\xi_k} = \sum_\lambda \sum_{j,k} c_{jk\lambda\lambda}$$
