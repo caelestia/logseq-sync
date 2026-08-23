@@ -34,7 +34,7 @@
 - Corollary. Back to where we stopped, we conclude that
 - $$R^i\pi_*\mathcal{O}_{\widetilde X} = \begin{cases} \mathcal{O}_X, & i=0, \\ 0, & i>0. \end{cases}$$
 - ### Step 4 Lemmas
-- Lemma. Let $Y\subset X$ be non-singular varieties and $\widetilde X$ be the blow-up of $X$ centered at $Y$. Then on an affine chart $\operatorname{Spec}A$ of $X$, we have $F\simeq\mathbb{P}^{\text{codim}(Y,X)-1}_A$, and so
+- Lemma. Let $X$ be a non-singular variety and $\widetilde X$ be the blow-up centered at a non-singular closed subvariety $Y$, with exceptional divisor $F$. Then on an affine chart $\operatorname{Spec}A$ of $X$, we have $F\simeq\mathbb{P}^{\text{codim}(Y,X)-1}_A$, and so
 - $$H^i(F,\mathcal{O}_F)=\begin{cases}A,&i=0,\\0,&i>0.\end{cases}$$
 	- Proof. This is Hartshorne II.8.24. The cohomology of projective space is standard.
 - Lemma. Let $X$ be a Noetherian scheme, $f:X\to\operatorname{Spec}A$, then for any quasi-coherent sheaf $\mathcal{F}$ on $X$, we have
