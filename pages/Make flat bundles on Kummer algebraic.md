@@ -26,7 +26,8 @@
 	- We need to show that the first arrow is surctive, and every higher image of $\mathcal{O}_{\widetilde X}$ and $\mathcal{O}_F$ vanishes.
 	- We will put them in the following lemmas.
 - ### Step 3 Lemmas
-- Lemma. If $f:X\to Y$ is a proper birational morphism of integral Noetherian schemes,
+- Lemma. If $f:X\to Y$ is a proper birational morphism of integral Noetherian schemes, $Y$ is normal, then $f_*\mathcal{O}_X=\mathcal{O}_Y$.
+	- Proof. See P
 - # Part 2
 - ### Step
 -
