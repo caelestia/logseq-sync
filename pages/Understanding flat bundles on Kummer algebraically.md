@@ -7,7 +7,8 @@
 - For $x\in X$, we have
 - $$ 0 \to E(n)\otimes I_x \to E(n) \to E(n)_x \to 0$$
 - so
-- $$0 \to $$
+- $$H^0(E(n)) \to E(n)_x \to H^1(E(n)\otimes I_x)$$
+- is exact. So $E(n)$ is globally generated if $H^1(E(n)\otimes I_x)=0$.
 - # Part 2
 - ### Step
 -
