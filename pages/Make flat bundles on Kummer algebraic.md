@@ -34,14 +34,14 @@
 - Corollary. Back to where we stopped in Step 2, we conclude that
 - $$R^i\pi_*\mathcal{O}_{\widetilde X} = \begin{cases} \mathcal{O}_X, & i=0, \\ 0, & i>0. \end{cases}$$
 - ### Step 4 Lemmas
-- Lemma. Let $X$ be a Noetherian scheme, $f:X\to\operatorname{Spec}A$, then for any quasi-coherent sheaf $\mathcal{F}$ on $X$, we have $R^if_*\mathcal{F} = \widetilde{H^i(X,\mathcal{F})}.$
-	- Proof. This is Hartshorne III.8.5.
+- Hartshorne III.8.5. Let $X$ be a Noetherian scheme, $f:X\to\operatorname{Spec}A$, then for any quasi-coherent sheaf $\mathcal{F}$ on $X$, we have $R^if_*\mathcal{F} = \widetilde{H^i(X,\mathcal{F})}.$
 - Lemma. Let $X$ be a non-singular variety and $\widetilde X$ be the blow-up centered at a non-singular closed subvariety $Y$, with exceptional divisor $F$. Then
 - $$H^i(F,\mathcal{O}_F) = H^i(Y,\mathcal{O}_Y),\quad \forall i\geq0.$$
 	- Proof. By Hartshorne II.8.24, $F\simeq\mathbb{P}(\mathcal{I/I}^2)$, where the conormal sheaf $\mathcal{I/I}^2$ is locally free of rank $\text{codim}(Y,X)$.
 	- On a trivializing affine open $U\simeq\operatorname{Spec}A$ for the conormal bundle, we have $F_U\simeq\mathbb{P}^{\text{codim}(Y,X)-1}_A$.
 	- Then apply the standard result about cohomology of the projective space,
-	- $$H^i(F,\mathcal{O}_F)=\begin{cases}\Gamma(X,\mathcal{O}_X),&i=0,\\0,&i>0.\end{cases}$$
+	- $$H^i(F_U,\mathcal{O}_{F_U})=\begin{cases}A,&i=0,\\0,&i>0.\end{cases}$$
+	- So all higher direct images of $\mathcal{O}_F$ vanish,
 - In this scenario, we have a commutative square 
   id:: 6a8b7de6-77a0-4ce1-bc34-62656a61fc7b
 	- ![image.png](../assets/image_1787526670764_0.png)
