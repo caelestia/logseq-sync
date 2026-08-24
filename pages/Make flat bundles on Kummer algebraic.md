@@ -42,6 +42,7 @@
 	- Then apply the standard result about cohomology of the projective space,
 	- $$H^i(F_U,\mathcal{O}_{F_U})=\begin{cases}A,&i=0,\\0,&i>0.\end{cases}$$
 	- So all higher direct images of $\mathcal{O}_F$ vanish. The result follows from the Leray spectral sequence.
+- Combining these two results, if $Y$ is affine, then $\pi_*\mathcal{O}_F$
 - In this scenario, we have a commutative square 
   id:: 6a8b7de6-77a0-4ce1-bc34-62656a61fc7b
 	- ![image.png](../assets/image_1787526670764_0.png)
