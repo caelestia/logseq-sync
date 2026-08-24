@@ -35,7 +35,7 @@
 - $$R^i\pi_*\mathcal{O}_{\widetilde X} = \begin{cases} \mathcal{O}_X, & i=0, \\ 0, & i>0. \end{cases}$$
 - ### Step 4 Lemmas
 - Lemma. Let $X$ be a non-singular variety and $\widetilde X$ be the blow-up centered at a non-singular closed subvariety $Y$, with exceptional divisor $F$. Then
-- $$$$
+- $$H^$$
 	- Proof. By Hartshorne II.8.24, $F\simeq\mathbb{P}(\mathcal{I/I}^2)$ where the conormal sheaf $\mathcal{I/I}^2$ is locally free of rank $\text{codim}(Y,X)$.
 	- So we pass to a trivializing affine open $U\simeq\operatorname{Spec}A$ for the conormal bundle, then we have $F_U\simeq\mathbb{P}^{\text{codim}(Y,X)-1}_A$.
 	- Then apply the standard result about cohomology of the projective space,
