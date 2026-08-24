@@ -36,14 +36,14 @@
   $$R^i\pi_*\mathcal{O}_{\widetilde X} = \begin{cases} \mathcal{O}_X, & i=0, \\ 0, & i>0. \end{cases}$$
 - ### Step 4 Lemmas
 - Hartshorne III.8.5. Let $X$ be a Noetherian scheme, $f:X\to\operatorname{Spec}A$, then for any quasi-coherent sheaf $\mathcal{F}$ on $X$, we have $R^if_*\mathcal{F} = \widetilde{H^i(X,\mathcal{F})}$ for all $i\geq0$.
-- Lemma. Let $X$ be a non-singular variety and $\widetilde X$ be the blow-up centered at a non-singular closed subvariety $Y$, with exceptional divisor $F$. Then $\pi_*\mathcal{O}_F=\mathcal{O}_Y$ and $R^i\pi_*\mathcal{O}_F=0$ for all $i>0$.
+- Lemma. Let $X$ be a non-singular variety and $\pi:\widetilde X\to X$ be the blow-up centered at a non-singular closed subvariety $Y$, with exceptional divisor $F$. Then
 - $$R^i\pi_*\mathcal{O}_{F} = \begin{cases} \mathcal{O}_Y, & i=0, \\ 0, & i>0. \end{cases}$$
 	- Proof. By Hartshorne II.8.24, $F\simeq\mathbb{P}(\mathcal{I/I}^2)$, where the conormal sheaf $\mathcal{I/I}^2$ is locally free of rank $\text{codim}(Y,X)$.
 	- On a trivializing affine open $U\simeq\operatorname{Spec}A$ for the conormal bundle, we have $F_U\simeq\mathbb{P}^{\text{codim}(Y,X)-1}_A$.
 	- Then apply the standard result about cohomology of the projective space,
 	- $$H^i(F_U,\mathcal{O}_{F_U})=\begin{cases}A,&i=0,\\0,&i>0.\end{cases}$$
 	- The result is a local statement, so we win.
-	- Remark: By Leray spectral sequence, we get $H^i(F,\mathcal{O}_F) = H^i(Y,\mathcal{O}_Y)$, $i\geq0$.
+	- Remark: By Leray spectral sequence, we then get $H^i(F,\mathcal{O}_F) = H^i(Y,\mathcal{O}_Y)$, $i\geq0$.
 - Back to where we stopped in Step 2, we conclude that
 - $$R^i\pi_*\mathcal{O}_{F} = \begin{cases} \mathcal{O}_x, & i=0, \\ 0, & i>0. \end{cases}$$
 - # Part 2
