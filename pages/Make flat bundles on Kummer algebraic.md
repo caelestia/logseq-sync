@@ -46,6 +46,8 @@
 	- Remark: By Leray spectral sequence, we then get $H^i(F,\mathcal{O}_F) = H^i(Y,\mathcal{O}_Y)$, $i\geq0$.
 - Back to where we stopped in Step 2, we conclude that
 - $$R^i\pi_*\mathcal{O}_{F} = \begin{cases} \mathcal{O}_x, & i=0, \\ 0, & i>0. \end{cases}$$
+- ### Step 5
+-
 - # Part 2
 - ### Step 1
 -
