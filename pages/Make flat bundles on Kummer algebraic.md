@@ -23,7 +23,7 @@
 	- $$0 \to \mathcal{O}(-F) \to \mathcal{O}_{\widetilde X} \to \mathcal{O}_F \to 0$$
 	- we get an exact sequence
 	- $$\pi_*\mathcal{O}_{\widetilde X} \to \pi_*\mathcal{O}_F \to R^1\pi_*\mathcal{O}(-F) \to R^1\pi_*\mathcal{O}_{\widetilde X} \to R^1\pi_*\mathcal{O}_F \to \cdots$$
-	- We need to show that the first arrow is surctive, and every higher image of $\mathcal{O}_{\widetilde X}$ and $\mathcal{O}_F$ vanishes.
+	- We need to show that the first arrow is surjective, and every higher image of $\mathcal{O}_{\widetilde X}$ and $\mathcal{O}_F$ vanishes.
 	- We will put these computation in the following two steps.
 - ### Step 3 Lemmas
 - Lemma. If $f:X\to Y$ is a projective birational morphism of integral Noetherian schemes, $Y$ is normal, then $f_*\mathcal{O}_X=\mathcal{O}_Y$.
