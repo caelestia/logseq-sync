@@ -42,7 +42,7 @@
 	- On a trivializing affine open $U\simeq\operatorname{Spec}A$ for the conormal bundle, we have $F_U\simeq\mathbb{P}^{\text{codim}(Y,X)-1}_A$.
 	- Then apply the standard result about cohomology of the projective space,
 	- $$H^i(F_U,\mathcal{O}_{F_U})=\begin{cases}A,&i=0,\\0,&i>0.\end{cases}$$
-	- The result is a local statement, so we win.
+	- Now apply Hartshorne III.8.5. Since the result to prove is a local statement, we win.
 	- Remark: By Leray spectral sequence, we then get $H^i(F,\mathcal{O}_F) = H^i(Y,\mathcal{O}_Y)$, $i\geq0$.
 - Back to where we stopped in Step 2, we conclude that
 - $$R^i\pi_*\mathcal{O}_{F} = \begin{cases} \mathcal{O}_x, & i=0, \\ 0, & i>0. \end{cases}$$
