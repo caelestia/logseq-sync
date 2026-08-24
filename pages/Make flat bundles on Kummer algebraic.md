@@ -48,7 +48,7 @@
 - $$R^i\pi_*\mathcal{O}_{F} = \begin{cases} \mathcal{O}_x, & i=0, \\ 0, & i>0. \end{cases}$$
 - ### Step 5
 - By Step 2, we've now established that $H^1(X,I_x\otimes E(n)) = H^1(\widetilde X,\mathcal{O}(-F)\otimes\pi^*E(n))$.
--
+- We want to show that if $n$ is large enough then $
 - # Part 2
 - ### Step 1
 -
