@@ -1,6 +1,6 @@
 - We consider the a more general problem of finding algebraization of a vector bundle.
 - Let $X$ be a smooth projective complex variety, $E$ be a rank $r$ analytic vector bundle.
-- We need to find an algebraic $E_{alg}$ s.t. $E=E_{alg}^{an}$.
+- We need to find an algebraic vector bundle $E_{alg}$ s.t. $E=E_{alg}^{an}$.
 - # Part 1
 - The goal of this part is to find $n$ so that $E(n)$ is globally generated.
 - ### Step 1
@@ -50,7 +50,8 @@
 - By Step 2, we've now established that $H^1(X,I_x\otimes E(n)) = H^1(\widetilde X,\mathcal{O}(-F)\otimes\pi^*E(n))$.
 - We can show that, if $n$ is large enough, then $\mathcal{O}(-F)\otimes\pi^*E(n)$ is Nakano positive.
 	- This is similar to Complex Analytic and Differential Geometry, Demailly VII, 12.4.
--
+	-
+- Further, this $n$ can be taken to be independent of $x\in X$, since $X$ is compact.
 - Then we conclude by [Nakano vanishing]([[Vanishing theorems]]) that $E(n)$ is globally generated.
 - # Part 2
 - ### Step 1
