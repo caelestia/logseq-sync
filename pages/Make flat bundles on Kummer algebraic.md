@@ -50,8 +50,8 @@
 - By Step 2, we've now established that $H^1(X,I_x\otimes E(n)) = H^1(\widetilde X,\mathcal{O}(-F)\otimes\pi^*E(n))$.
 - We can show that, if $n$ is large enough, then $\mathcal{O}(-F)\otimes\pi^*E(n)$ is Nakano positive.
 	- This is similar to Complex Analytic and Differential Geometry, Demailly VII, 12.4.
-	-
 -
+- Then we conclude by [Nakano vanishing]([[Vanishing theorems]]) that $E(n)$ is globally generated.
 - # Part 2
 - ### Step 1
 -
