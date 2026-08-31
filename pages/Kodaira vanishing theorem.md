@@ -1,2 +1,2 @@
-- Analytic proof: Global Calculus
+- Analytic proof: Global Calculus, Analytic Methods in Algebraic Geometry, see [[Vanishing theorems]]
 - Sheaf theoretic proof: Birational Geometry of Algebraic Varieties - Kollar and Mori
