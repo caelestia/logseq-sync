@@ -22,3 +22,4 @@
 	- Recall the [Auslander–Buchsbaum formula]([[Depth of module]]) for Noetherian local rings,
 	- $$\operatorname{pd}(M) + \operatorname{depth}(M) = \operatorname{depth}(R).$$
 	- We conclude that $\operatorname{pd}(M) \leq d-1 \leq \dim(X)-1$. Since $x$ is arbitrary, this completes the proof. QED
+- In any case
