@@ -24,6 +24,6 @@
 	- $$\operatorname{pd}(M) + \operatorname{depth}(M) = \operatorname{depth}(R).$$
 	- We conclude that $\operatorname{pd}(M) \leq d-1 \leq \dim(X)-1$. Since $x$ is arbitrary, this completes the proof. QED
 - Now suppose $F$ is reflexive. We will show that
-- $$\operatorname{hd}(F) \leq \dim(X) - 1.$$
+- $$\operatorname{hd}(F) \leq \dim(X) - 2.$$
 	- Proof.
 - > These also follows from the Serre conditions, Huybrechts-Lehn, Prop. 1.1.10.
