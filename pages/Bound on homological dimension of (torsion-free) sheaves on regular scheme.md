@@ -26,5 +26,4 @@
 - Now suppose $F$ is reflexive. We will show that
 - $$\operatorname{hd}(F) \leq \dim(X) - 1.$$
 	- Proof.
--
 - > These also follows from the Serre conditions, Huybrechts-Lehn, Prop. 1.1.10.
