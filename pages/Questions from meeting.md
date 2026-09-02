@@ -23,4 +23,6 @@
 - ![image.png](../assets/image_1787029616373_0.png)
 	- https://walpu.ski/Research/G2InstantonsGeneralizedKummer.pdf
 - [[GAGA related issues of Kummer project]]
--
+- ---
+- It seems that $exp.dim M^{ss}=-4d_E-6\geq2$. But what happens when it is exactly $2$?
+- when we expect the moduli space to be isomorphic/isogeneous to the original K3
