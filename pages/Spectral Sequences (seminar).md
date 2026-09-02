@@ -3,8 +3,8 @@
 	- Grothendieck SS
 	- Local-to-global for sheaf Ext
 		- Corollary: $\text{Ext}^i_\mathcal{O}(\mathcal{F,G})=H^i(X,\mathcal F^\vee\otimes\mathcal G)$.
-	- Leray SS
 	- "Fiber and base"
-		- LHS SS
+		- Leray SS
 		- Serre SS
-	- Hodge-to-de Rham?
+		- LHS SS
+	- Hodge-to-de Rham
