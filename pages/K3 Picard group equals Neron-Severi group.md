@@ -1,0 +1,1 @@
+- Because $h^1(X,\mathcal{O}_X)=0$, this follows from the exponential sequence.
