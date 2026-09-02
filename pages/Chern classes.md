@@ -15,7 +15,8 @@
 - There is a small problem: we need to pick an "orientation", i.e. the generator $T\leftrightarrow-T$ has ambiguity. Generally we want $T$ to be the hyperplane divisor. The quick fix is to add the following.
 	- $c_1(\mathcal{O}_{\mathbb{CP}^n}(1))=\text{PD}(H)$ for all $n\geq1$. But just having $n=1$ is enough.
 - ## Line bundles (exponential sequence)
-- A different
+- On a complex manfold, $c_1$ is very easy to define. By
+- $$0 \to 2\pi i\Z \to \mathcal{O}_X \to \mathcal{O}_X$$
 - ## Chern roots
 - By the splitting principle, we can pull back the vector bundle to some space, such that the induced homomorphism on cohomology is injective, and the vector bundle splits into line bundles.
 - This defines the Chern roots of a rank $n$ bundle $E$, denoted $\alpha_1,\cdots,\alpha_n \in H^2(X,\Z)$.
@@ -23,4 +24,4 @@
 	- The Chern character is $ch(E)=\sum_{i=1}^n e^{\alpha_i} \in H^\bullet(X,\mathbb Q)$. Note: This is rational.
 - The basic properties, e.g. Chern classes of SES, tensor product and dual, all follows from computing the Chern roots.
 - ---
--
+- https://en.wikipedia.org/wiki/Chevalley_restriction_theorem
