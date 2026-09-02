@@ -15,4 +15,5 @@
 	- Complex structures $I,J,K$ such that $IJK=-1$.
 	- A nowhere-vanishing holomorphic symplectic 2-form.
 - Every simply connected compact surface with vanishing $c_1$ is topologically a K3 surface.
--
+- ---
+- [[Chern classes of K3]]
