@@ -1,0 +1,2 @@
+- The Noether formula (special case of HRR) gives
+- $$\chi(X,\mathcal{O}_X) = $$
