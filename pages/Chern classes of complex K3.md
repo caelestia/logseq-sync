@@ -2,6 +2,7 @@
 - $$\chi(X,F) = \int_X \text{ch}(F) \text{td}(X). $$
 - Let $F=\mathcal{O}_X$, we get $\chi(X,\mathcal{O}_X)=\int_X 1\cdot\text{td}(X)=\text{td}_2(X)=\frac{1}{12}(c_1(X)^2+c_2(X))$. This is called Noether's formula.
 - For our K3 surface, simply connect implies $h^{1,0}=0$, and trivial canonical bundle implies $c_1(X)=0$ and $h^{2,0}=h^{0,0}=1$.
-- Thus Noether's formula implies $c_2(X)=2\times 12=24$.
-- We can now compute the Todd class
-- $$\text{td}(X) = 1 + 0 + (2)$$
+- Thus Noether's formula implies $c_2(X)=2\times 12=24$, and the Todd class is
+- $$\text{td}(X) = [1]_0 + [0]_1 + [2]_2.$$
+- because $\text{td}_1(X)=\frac{1}{2}c_1(X)=0$.
+-
