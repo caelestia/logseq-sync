@@ -5,4 +5,6 @@
 - Thus Noether's formula implies $c_2(X)=2\times 12=24$, and the Todd class is
 - $$\text{td}(X) = [1]_0 + [0]_1 + [2]_2.$$
 - because $\text{td}_1(X)=\frac{1}{2}c_1(X)=0$.
--
+- ---
+- Thus for general $F$, HRR gives
+- $$\chi(X,F) = 2 \operatorname{rk}(F) + \text{ch}_2(F).$$
