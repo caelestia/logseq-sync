@@ -1,3 +1,4 @@
 - HRR (Hirzebruch-Riemann-Roch) gives, for any coherent sheaf $F$,
 - $$\chi(X,F) = \int_X \text{ch}(F) \text{td}(X). $$
-- Let $F=\mathcal{O}_X$, we get $h^0-h^1+h^2=\chi(X,\mathcal{O}_X)=$
+- Let $F=\mathcal{O}_X$, we get $\chi(X,\mathcal{O}_X)=\int_X 1\cdot\text{td}(X)=\text{td}_2(X)=\frac{1}{12}(c_1(X)^2+c_2(X))$. This is called Noether's formula.
+- For our K3 surface,
