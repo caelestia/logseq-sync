@@ -1,8 +1,10 @@
 - Examples:
-	- Grothendieck SS
 	- Mayer-Vietoris sequence, aka Cech-to-derived
-	- LHS SS
-	- Leray SS
-	- Serre SS
+	- Grothendieck SS
 	- Local-to-global for sheaf Ext
-	- Hodge?
+		- Corollary: $\text{Ext}^i_\mathcal{O}(\mathcal{F,G})=H^i(X,\mathcal F^\vee\otimes\mathcal G)$.
+	- Leray SS
+	- "Fiber and base"
+		- LHS SS
+		- Serre SS
+	- Hodge-to-de Rham?
