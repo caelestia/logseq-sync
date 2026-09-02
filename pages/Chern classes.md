@@ -18,7 +18,8 @@
 - Let $\mathcal{O}_X$ denote the sheaf of continuous $\mathbb{C}$-valued functions. By the exponential sequence,
 - $$0 \to \underline\Z \xrightarrow{2\pi i} \mathcal{O}_X \xrightarrow{\exp} \mathcal{O}_X^\times \to 0$$
 - We get a homomorphism $H^1(X,\mathcal{O}_X^\times) \to H^2(X,\underline\Z)$. RHS is isomorphic to $H^2(X,\Z)$ assuming a local contractibility condition on $X$ by [[Cohomology of constant sheaf and singular cohomology]] . This defines $c_1:H^1(X,\mathcal{O}_X^\times) \to H^2(X,\Z)$.
-	- Note. $\mathcal{O}_X$ is a soft sheaf, hence acyclic ($X$ paracompact), so $c_1$ is an isomorphism by the LES. The injectivity is confirmed by the last section.
+	- Note. $\mathcal{O}_X$ is a soft sheaf, hence acyclic ($X$ paracompact), so $c_1$ is an isomorphism by the LES. The injectivity is confirmed by the last section. To see surjectivity as well, easy computation of the homotopy groups gives
+	- $$BU(1) = K(\Z,2) \implies [X,BU(1)] = H^2(X,\Z)$$
 - ## Chern roots
 - By the splitting principle, we can pull back the vector bundle to some space, such that the induced homomorphism on cohomology is injective, and the vector bundle splits into line bundles.
 - This defines the Chern roots of a rank $n$ bundle $E$, denoted $\alpha_1,\cdots,\alpha_n \in H^2(X,\Z)$.
