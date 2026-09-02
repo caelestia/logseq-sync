@@ -1,1 +1,2 @@
 - [[Complex geometry (imperial)]]
+- [[Hartshorne exercises]]

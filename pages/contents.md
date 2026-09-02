@@ -14,7 +14,6 @@
 - [[Topology]]
 - Geometry
 	- [[What is a connection]]
-	- [[Hartshorne exercises]]
 	- [[Commutative Algebra]]
 	- [[Hodge theory +]]
 -
