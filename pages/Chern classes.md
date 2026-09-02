@@ -1,7 +1,11 @@
 # Simplest definition (complex case)
-- We can uniquely specify the total Chern class by the following set of axioms:
-	- Natu
+- Let $E$ be a complex vector bundle on a topological space $X$.
+- We can uniquely specify the total Chern class $c(E)\in H^\bullet(X,\Z)$ by the following set of axioms:
+	- Naturality: If $f:Y\to X$, then $c(f^*E)=f^*c(E)$.
 	  logseq.order-list-type:: number
+	- Whitney sum formula. $c(E\oplus F)=c(E)\cup c(F)$.
+	  logseq.order-list-type:: number
+	- logseq.order-list-type:: number
 - ## Line bundle
 - This is the base case. Line bundles are classified by $BU(1)\simeq\mathbb{CP}^\infty$, whose cohomology ring is $\mathbb{Z}[T]$, where the generator $T$ has degree $2$.
 	- One way to compute this: The Serre spectral sequence.
