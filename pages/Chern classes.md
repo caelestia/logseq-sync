@@ -16,7 +16,7 @@
 	- $c_1(\mathcal{O}_{\mathbb{CP}^n}(1))=\text{PD}(H)$ for all $n\geq1$. But just having $n=1$ is enough.
 - ## Line bundles (exponential sequence)
 - On a complex manfold, $c_1$ is very easy to define. By the exponential sequence,
-- $$0 \to \underline\Z \xrightarrow{2\pi i} \mathcal{O}_X \xrightarrow{\exp} \mathcal{O}_X^\times \to 0$$
+- $$0 \to \underline\Z \xrightarrow{2\pi i} \mathcal{A}_ \xrightarrow{\exp} \mathcal{O}_X^\times \to 0$$
 - We get a homomorphism $\text{Pic}(X)=H^1(X,\mathcal{O}_X^\times) \to H^2(X,\Z)$. This is $c_1$.
 - ## Chern roots
 - By the splitting principle, we can pull back the vector bundle to some space, such that the induced homomorphism on cohomology is injective, and the vector bundle splits into line bundles.
