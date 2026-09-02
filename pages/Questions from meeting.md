@@ -25,4 +25,5 @@
 - [[GAGA related issues of Kummer project]]
 - ---
 - It seems that $exp.dim M^{ss}=-4d_E-6\geq2$. But what happens when it is exactly $2$?
-- when we expect the moduli space to be isomorphic/isogeneous to the original K3
+- One way we expect the moduli space to be isomorphic to the original K3 is by gluing one instanton to a trivial bundle at one point of the K3. This gives some part of the moduli space, likely isomorphic to the original K3. But our construction is different, the Kummer-ish comes from the representation and is not a localized thing. And the local gluing is along an $\mathbb P^1$ which
+-
