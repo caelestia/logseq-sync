@@ -1,2 +1,2 @@
-- The Noether formula (special case of HRR) gives
-- $$\chi(X,\mathcal{O}_X) = $$
+- HRR (Hirzebruch-Riemann-Roch) gives, for any coherent sheaf $F$,
+- $$\chi(X,F) = \int_X \text{ch}(F) \text{td}(X) = \frac{}{} $$
