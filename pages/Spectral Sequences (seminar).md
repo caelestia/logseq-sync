@@ -1,0 +1,5 @@
+- Examples:
+	- Grothendieck SS
+	- Mayer-Vietoris sequence, aka Cech-to-derived
+	- Local-to-global for sheaf Ext
+	- LHS SS

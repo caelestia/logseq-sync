@@ -1,2 +1,3 @@
 - [[Complex geometry (imperial)]]
 - [[Hartshorne exercises]]
+- [[Spectral Sequences (seminar)]]
