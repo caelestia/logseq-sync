@@ -19,4 +19,4 @@
 - This defines the Chern roots of a rank $n$ bundle $E$, denoted $\alpha_1,\cdots,\alpha_n \in H^2(X,\Z)$.
 	- The total Chern class is $c(E)=\prod_{i=1}^n(1+\alpha_i) \in H^\bullet(X,\Z)$.
 	- The Chern character is $ch(E)=\sum_{i=1}^n e^{\alpha_i} \in H^\bullet(X,\mathbb Q)$. Note: This is rational.
-- The basic properties, e.g. SES, tensor product, dual
+- The basic properties, e.g. Chern classes of SES, tensor product and dual, all follows from computing the Chern roots.
