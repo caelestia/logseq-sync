@@ -1,5 +1,5 @@
 # Simplest definition (complex case)
-- Let $E$ be a complex vector bundle on a topological space $X$.
+- Let $E$ be a complex vector bundle on a paracompact topological space $X$.
 - We can uniquely specify the total Chern class $c(E)\in H^\bullet(X,\Z)$ by the following set of axioms:
 	- Naturality: If $f:Y\to X$, then $c(f^*E)=f^*c(E)$.
 	  logseq.order-list-type:: number
@@ -17,8 +17,8 @@
 - ## Line bundles (exponential sequence)
 - Let $\mathcal{O}_X$ denote the sheaf of continuous $\mathbb{C}$-valued functions. By the exponential sequence,
 - $$0 \to \underline\Z \xrightarrow{2\pi i} \mathcal{O}_X \xrightarrow{\exp} \mathcal{O}_X^\times \to 0$$
-- We get a homomorphism $H^1(X,\mathcal{O}_X^\times) \to H^2(X,\underline\Z)$. This is $c_1$.
-	- Note. $\mathcal{O}_X$ is a soft sheaf
+- We get a homomorphism $H^1(X,\mathcal{O}_X^\times) \to H^2(X,\underline\Z)$. RHS is $H^ This is $c_1$.
+	- Note. $\mathcal{O}_X$ is a soft sheaf, so $c_1$ is an isomorphism. The injectivity is confirmed by the last section.
 - ## Chern roots
 - By the splitting principle, we can pull back the vector bundle to some space, such that the induced homomorphism on cohomology is injective, and the vector bundle splits into line bundles.
 - This defines the Chern roots of a rank $n$ bundle $E$, denoted $\alpha_1,\cdots,\alpha_n \in H^2(X,\Z)$.
