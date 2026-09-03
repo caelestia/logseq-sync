@@ -8,3 +8,5 @@
 - ---
 - Thus for general $F$, HRR gives
 - $$\chi(X,F) = 2 \operatorname{rk}(F) + \text{ch}_2(F).$$
+- The Mukai vector is
+- $$v(E) := \text{ch}(E).\sqrt{\text{td}(X)} = (r, c_1(E), \frac{1}{2}c_1(E)^2-c_2(E)+r).$$
