@@ -6,4 +6,4 @@
 	- By the $\partial\bar\partial$ lemma, there is $f$ s.t. $\Theta_h=\partial\bar\partial f$. (The curvature is purely imaginary, so $f$ is real.)
 	- Put $h'=e^fh$, then $\Theta_{h'}=\Theta_h-\partial\bar\partial f=0$.
 - Note: $P_\chi\simeq P_\tau$ iff $\{\chi,\chi^{-1}\}=\{\tau,\tau^{-1}\}$ by holonomy principle.
-- Now, for the Picard scheme $\text{Pic}_A$, we have a universal line bundle $\mathfrac{V}$
+- Now, for the Picard scheme $\text{Pic}_A$, we have a universal line bundle $\mathscr{U}$ s.t. $\mathscr{U}|_{A\times\{L\}}=L$ and $\mathscr{U}|_{\{a\}\times\text{Pic}_A}=\mathcal{O}$ as rigidified line bundles. Every
