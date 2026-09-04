@@ -1,8 +1,8 @@
 - $V=\mathbb C^g$, let $\Lambda$ be a full lattice in $V$ and $A=V/\Lambda$.
 - First, we show the line bundles in $\text{Pic}^0(A)=\widehat A$ are precisely the flat bundles $P_\chi$ associated to a unitary character $\chi:\Lambda\to U(1)$.
-	- $P_\chi\simeq P_\tau$ iff $\{\chi,\chi^{-1}\}=\{\tau,\tau^{-1}\}$ by holonomy principle.
-- Proof. The bundles in $\text{Pic}^0(A)$ have by definition vanishing (de Rham=integral) $c_1$.
-	- (And thus are topologically trivial).
-- Let $h$ be any Hermitian metric on $L\in\text{Pic}^0(A)$. Then $\Theta_h$ satisfies $[\Theta_h]=2\pi ic_1(L)=0$, so is an exact form.
-- By the $\partial\bar\partial$ lemma, there is $f$ s.t. $\Theta_h=\partial\bar\partial f$.
-- Put $h'=e^fh$, then $\Theta_{h'}=\Theta_h-\partial\bar\partial=0$.
+	- Proof. The bundles in $\text{Pic}^0(A)$ have by definition vanishing (de Rham=integral) $c_1$.
+		- (And thus are topologically trivial).
+	- Let $h$ be any Hermitian metric on $L\in\text{Pic}^0(A)$. Then $\Theta_h$ satisfies $[\Theta_h]=2\pi ic_1(L)=0$, so is an exact form.
+	- By the $\partial\bar\partial$ lemma, there is $f$ s.t. $-\Theta_h=\partial\bar\partial f$.
+	- Put $h'=e^fh$, then $\Theta_{h'}=\Theta_h-\partial\bar\partial f=0$.
+- Note: $P_\chi\simeq P_\tau$ iff $\{\chi,\chi^{-1}\}=\{\tau,\tau^{-1}\}$ by holonomy principle.
