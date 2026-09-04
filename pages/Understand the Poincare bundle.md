@@ -5,4 +5,4 @@
 	- (And thus are topologically trivial).
 - Let $h$ be any Hermitian metric on $L\in\text{Pic}^0(A)$. Then $\Theta_h$ satisfies $[\Theta_h]=2\pi ic_1(L)=0$, so is an exact form.
 - By the $\partial\bar\partial$ lemma, there is $f$ s.t. $\Theta_h=\partial\bar\partial f$.
--
+- Put $h'=e^fh$, then $\Theta_{h'}=\Theta_h-\partial\bar\partial=0$.
