@@ -5,7 +5,7 @@
 	- Let $h$ be any Hermitian metric on $L\in\text{Pic}^0(A)$. Then $\Theta_h$ satisfies $[\Theta_h]=2\pi ic_1(L)=0$, so is an exact form.
 	- By the $\partial\bar\partial$ lemma, there is $f$ s.t. $\Theta_h=\partial\bar\partial f$. (The curvature is purely imaginary, so $f$ is real.)
 	- Put $h'=e^fh$, then $\Theta_{h'}=\Theta_h-\partial\bar\partial f=0$.
-- Note: $P_\chi\simeq P_\tau$ iff $\{\chi,\chi^{-1}\}=\{\tau,\tau^{-1}\}$ by holonomy principle.
+- $P_\chi\simeq P_\tau$ iff $\chi=\tau$ by holonomy principle.
 - Now, for the Picard scheme $\text{Pic}_A$, we have a universal line bundle $\mathscr{U}$ s.t. $\mathscr{U}|_{A\times\{L\}}=L$ and $\mathscr{U}|_{\{0\}\times\text{Pic}_A}=\mathcal{O}$ as rigidified line bundles. Every flat family of line bundles on $A$ is the pullback of this universal line bundle via its classifying map.
 - The restriction of this to the identity component $\text{Pic}^0(A)$ is the Poincare bundle.
 -
