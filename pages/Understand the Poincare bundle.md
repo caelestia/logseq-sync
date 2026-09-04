@@ -1,4 +1,6 @@
 - $V=\mathbb C^g$, let $\Lambda$ be a full lattice in $V$ and $A=V/\Lambda$.
 - First, we show the line bundles in $\text{Pic}^0(A)=\widehat A$ are precisely the flat bundles $P_\chi$ associated to a unitary character $\chi:\Lambda\to U(1)$.
-	- $P_\chi\simeq P_\tau$ iff $\{\chi by holonomy principle.
+	- $P_\chi\simeq P_\tau$ iff $\{\chi,\chi^{-1}\}=\{\tau,\tau^{-1}\}$ by holonomy principle.
+- Proof. The bundles in $\text{Pic}^0(A)$ have by definition vanishing (de Rham=integral) $c_1$.
+	- (And thus are topologically trivial).
 -
