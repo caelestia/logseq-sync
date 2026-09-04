@@ -1,2 +1,4 @@
 - $V=\mathbb C^g$, let $\Lambda$ be a full lattice in $V$ and $A=V/\Lambda$.
-- We will prove that $
+- First, we show the line bundles in $\text{Pic}^0(A)=\widehat A$ are precisely the flat bundles $P_\chi$ associated to a unitary character $\chi:\Lambda\to U(1)$.
+	- $P_\chi\simeq P_\tau$ iff $\{\chi by holonomy principle.
+-
