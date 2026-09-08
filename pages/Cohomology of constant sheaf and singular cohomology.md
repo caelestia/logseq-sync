@@ -1,8 +1,8 @@
 ### Setup
 - Suppose $X$ is a locally contractible space. This is necessary as indicated by the Warsaw circle.
 - In the following we explain the proof in Global Calculus. We need to assume *all* open sets $U$ are paracompact.
-	- This condition can be removed: see remark at the end.
-	- In the more natural [proof via hypersheaves](https://arxiv.org/pdf/2102.06927) this condition can be removed.
+	- This condition can be weakened: see the remark at the end.
+	- This condition can be removed entirely: in a more natural [proof via hypersheaves](https://arxiv.org/pdf/2102.06927).
 - Let $S^\bullet$ be the complex of presheaves of singular cochains with coefficients in an abelian group $A$. $X$ is locally contractible means
 - id:: 6971f907-ad12-4dc3-a10e-4beae435cfed
   $$0 \longrightarrow \underline{A} \longrightarrow S^\bullet$$
