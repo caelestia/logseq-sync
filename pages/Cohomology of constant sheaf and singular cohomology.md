@@ -1,6 +1,8 @@
 ### Setup
 - Suppose $X$ is a locally contractible space. This is necessary as indicated by the Warsaw circle.
-- In the following we describe the outline of the proof from Global Calculus. We need to assume all open sets $U$ are paracompact. In the more natural [proof via hypersheaves](https://arxiv.org/pdf/2102.06927) this condition can be removed.
+- In the following we explain the proof in Global Calculus. We need to assume *all* open sets $U$ are paracompact.
+	- This condition can be removed: see remark at the end.
+	- In the more natural [proof via hypersheaves](https://arxiv.org/pdf/2102.06927) this condition can be removed.
 - Let $S^\bullet$ be the complex of presheaves of singular cochains with coefficients in an abelian group $A$. $X$ is locally contractible means
 - id:: 6971f907-ad12-4dc3-a10e-4beae435cfed
   $$0 \longrightarrow \underline{A} \longrightarrow S^\bullet$$
@@ -48,7 +50,7 @@
 - Thus $\iota$ is a homotopy equivalence. QED
 - ---
 - ### Removing the hereditary paracompact condition
-- The proof can be easily modified to work only under the assumption that $X$ is paracompact Hausdorff (and locally contractible of course).
+- The proof can be easily modified to work only under the assumption that $X$ is paracompact Hausdorff and locally contractible.
 - Note that Lemma 2 still holds, as it only used Lemma 1 in the case $U=X$, which is paracompact.
 - We need a different way to show the sheaf $\tilde S^k$ is acyclic:
 	- The sheaf $\tilde S_\Z^0=S_\Z^0$ is obviously flasque, hence soft, as flasque sheaves on a paracompact space are soft. It is a ring of sheaves.
