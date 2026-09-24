@@ -1,1 +1,2 @@
 - https://darknmt.github.io/html/chow-theorem.html
+- Originally proved for closed analytic subspaces of a projective space, was later generalized to all proper C-scheme.
