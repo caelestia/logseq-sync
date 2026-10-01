@@ -21,4 +21,7 @@
 - Group Representation Theory - A. Bottini
 - Algebraic Number Theory - D. Kim
 	- credit
--
+- Algebraic Geometry - G. Fortman
+- Riemannian Geometry - W. Li
+- Differential Topology - M-A Lawn
+- Algebra 4 - B. Briggs
