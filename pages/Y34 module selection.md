@@ -10,4 +10,15 @@
 	- credit
 - ### Y4
 - Elliptic Curves - George Boxer
+	- credit
 - Commutative Algebra - Yanki Lekili
+	- credit
+-
+- ## Term 2
+-
+- ## Y4
+- Algebraic Topology - S. Sivek
+- Group Representation Theory - A. Bottini
+- Algebraic Number Theory - D. Kim
+	- credit
+-
