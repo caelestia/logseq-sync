@@ -23,5 +23,6 @@
 	- credit
 - Algebraic Geometry - G. Fortman
 - Riemannian Geometry - W. Li
+	- credit
 - Differential Topology - M-A Lawn
 - Algebra 4 - B. Briggs
