@@ -15,14 +15,16 @@
 	- credit
 -
 - ## Term 2
--
-- ## Y4
-- Algebraic Topology - S. Sivek
+- ## Y3
+- Fourier Analysis and Theory of Distributions - I. Krasovsky
 - Group Representation Theory - A. Bottini
 - Algebraic Number Theory - D. Kim
 	- credit
+- ## Y4
+- Algebraic Topology - S. Sivek
 - Algebraic Geometry - G. Fortman
 - Riemannian Geometry - W. Li
 	- credit
 - Differential Topology - M-A Lawn
 - Algebra 4 - B. Briggs
+-
