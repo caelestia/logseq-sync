@@ -2,6 +2,10 @@
 - ### Y3
 - Number Theory - Toby Gee
 - Galois Theory - Alexei Skorobogatov
-- ? Probability Theory 1 - Rosati, Tommaso Cornelis
+- Probability Theory 1 - Rosati, Tommaso Cornelis
 - Algebra 3 - Alessio Corti
--
+- Algebraic Curves - Ana Caraiani
+- Functional Analysis - Martin Taylor
+- ### Y4
+- Elliptic Curves - George Boxer
+- Commutative Algebra - Yanki Lekili
