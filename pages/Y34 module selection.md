@@ -27,4 +27,7 @@
 	- credit
 - Differential Topology - M-A Lawn
 - Algebra 4 - B. Briggs
--
+- Complex Manifolds - K. Siegel
+- ## Term 3
+- M3R
+	- credit
