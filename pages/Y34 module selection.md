@@ -5,7 +5,9 @@
 - Probability Theory 1 - Rosati, Tommaso Cornelis
 - Algebra 3 - Alessio Corti
 - Algebraic Curves - Ana Caraiani
+	- credit
 - Functional Analysis - Martin Taylor
+	- credit
 - ### Y4
 - Elliptic Curves - George Boxer
 - Commutative Algebra - Yanki Lekili
