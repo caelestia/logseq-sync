@@ -13,6 +13,8 @@
 	- credit
 - Commutative Algebra - Yanki Lekili
 	- credit
+- Algebra 4 - B. Briggs
+	- credit
 -
 - ## Term 2
 - ## Y3
@@ -26,8 +28,6 @@
 - Riemannian Geometry - W. Li
 	- credit
 - Differential Topology - M-A Lawn
-- Algebra 4 - B. Briggs
-	- credit
 - Complex Manifolds - K. Siegel
 - ## Term 3
 - M3R
