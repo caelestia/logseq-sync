@@ -1,0 +1,7 @@
+- I would first ask the student what they had already tried and where they became unsure, while giving the rest of the group a chance to suggest possible approaches. If nobody had an immediate idea, I would point out that both sides are positive and ask what operation might make the square roots easier to compare.
+- I would then let the student carry out the calculation as far as possible. Squaring gives
+- $$
+  (1+\sqrt7)^2>13,
+  $$
+  so the problem becomes \(2\sqrt7>5\). Since both sides are again positive, we can square once more and reduce this to \(28>25\).
+- I would emphasise why squaring is legitimate here, rather than presenting it as a mechanical trick, and would try to keep the other students involved by asking them to check each step or suggest alternative approaches.
