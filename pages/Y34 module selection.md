@@ -6,8 +6,10 @@
 - Algebra 3 - Alessio Corti
 - Algebraic Curves - Ana Caraiani
 	- credit
+	- The office hours for the course will be from 9 am to 10 am on Tuesdays, held in Huxley 668.
 - Functional Analysis - Martin Taylor
 	- credit
+	- Assessment: There will be two courseworks (each worth 5% of your final mark) and a final exam in the summer (worth 90%). The courseworks will be due on Wednesday 11th November, and Wednesday 2nd December.
 - ### Y4
 - Elliptic Curves - George Boxer
 	- credit
