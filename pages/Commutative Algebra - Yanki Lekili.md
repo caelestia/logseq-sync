@@ -4,3 +4,6 @@
 	- Tuesday 12–13, HXLY 140
 	- Wednesday 10–11, HXLY 145
 	- Thursday 13–14, HXLY 140
+- The coursework constitutes 10% of your final grade.
+	- There are two submissions: a proposal of at most one page, due **20 November**, and an exposition of at most five pages, due **10 December**.
+	- ![coursework_instructions.pdf](../assets/coursework_instructions_1792068040351_0.pdf)
