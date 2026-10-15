@@ -1,0 +1,6 @@
+- Office: 676 Huxley
+- Office hours: Tuesday 13:00–14:00
+- Lecture times and places:
+	- Tuesday 12–13, HXLY 140
+	- Wednesday 10–11, HXLY 145
+	- Thursday 13–14, HXLY 140
