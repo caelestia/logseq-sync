@@ -6,6 +6,7 @@
 - Algebra 3 - Alessio Corti
 - [[Algebraic Curves - Ana Caraiani]]
 	- credit
+	- In-class Test on **10 November**
 - [[Functional Analysis - Martin Taylor]]
 	- credit
 - ### Y4

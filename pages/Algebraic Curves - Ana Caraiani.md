@@ -1,2 +1,6 @@
 - Office hours: 9 am to 10 am on Tuesdays, held in Huxley 668.
--
+- Lectures will occur at the following times and places:
+	- Tuesday 10–11 am, Huxley 144
+	- Thursday 12 am–1 pm, Huxley 139
+	- Friday 9–10 am, Huxley 140
+- Assessment 10% In-class Test on **10 November**
