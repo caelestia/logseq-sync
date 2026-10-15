@@ -4,9 +4,8 @@
 - Galois Theory - Alexei Skorobogatov
 - Probability Theory 1 - Rosati, Tommaso Cornelis
 - Algebra 3 - Alessio Corti
-- Algebraic Curves - Ana Caraiani
+- [[Algebraic Curves - Ana Caraiani]]
 	- credit
-	- The office hours for the course will be from 9 am to 10 am on Tuesdays, held in Huxley 668.
 - [[Functional Analysis - Martin Taylor]]
 	- credit
 - ### Y4
