@@ -11,11 +11,11 @@
 	- credit
 	- Assessment: There will be two courseworks (each worth 5% of your final mark) and a final exam in the summer (worth 90%). The courseworks will be due on Wednesday 11th November, and Wednesday 2nd December.
 - ### Y4
-- Elliptic Curves - George Boxer
+- [[Elliptic Curves - George Boxer]]
 	- credit
-- Commutative Algebra - Yanki Lekili
+- [[Commutative Algebra - Yanki Lekili]]
 	- credit
-- Algebra 4 - B. Briggs
+- [[Algebra 4 - B. Briggs]]
 	- credit
 -
 - ## Term 2

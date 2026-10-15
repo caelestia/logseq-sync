@@ -1,0 +1,5 @@
+- **Office hours: **1-2pm Wednesdays.
+- **Assessments**: The assessed components of this module are:
+	- **Coursework 1:** Take-home problem sheet worth 5% of you mark, due Fri, 6 Nov 2026 before 1pm.
+	- **Coursework 2:** Take-home problem sheet worth 5% of you mark, due Friday 11 December 2026 before 1pm.
+	- **Final exam: **worth 90% of your mark
