@@ -1,3 +1,4 @@
+- https://lekili.freemath.xyz/teaching/calg/
 - Office: 676 Huxley
 - Office hours: Tuesday 13:00–14:00
 - Lecture times and places:

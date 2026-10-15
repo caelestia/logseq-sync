@@ -1,0 +1,2 @@
+- Assessment:
+	- There will be two courseworks (each worth 5% of your final mark) and a final exam in the summer (worth 90%). The courseworks will be due on Wednesday 11th November, and Wednesday 2nd December.

@@ -1,0 +1,5 @@
+- https://www.ma.imperial.ac.uk/~gboxer/EC/
+- Office Hours Mondays 3-4, Thursdays 4-5 in Huxley 681
+- Each coursework is worth 5% of your grade and will be posted two weeks before the due date.
+	- Coursework 1: Due Friday, **November 13**
+	- Coursework 2: Due Monday **December 7**
