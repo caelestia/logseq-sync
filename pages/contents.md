@@ -1,16 +1,15 @@
 - [[UROP]]
 - [[Number theory]]
 - First Course
-	- [[Comment on "sigma"]]
 	- [[Sheaf cohomology]]
 - [[Imperial]]
+- [[PhD Apply]]
 - Groups
 	- [[Locally compact groups]]
 	- [[Completion]]
 	- [[Birkhoff–Kakutani theorem]]
 	- [[Cup product of group cohomology]]
-- Analysis
-	- [[Riesz representation theorem]]
+- [[Analysis]]
 - [[Topology]]
 - Geometry
 	- [[What is a connection]]
