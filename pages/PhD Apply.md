@@ -3,3 +3,9 @@
 - [[UC Berkeley - Dec 1]]
 - [[UChicago - Dec 3]]
 - # Tier 2
+- [[UPenn]]
+- [[UMich]]
+- [[Stony Brook]]
+- # Tier 3
+- [[UW]]
+-
