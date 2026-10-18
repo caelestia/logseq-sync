@@ -2,3 +2,5 @@
 - https://apply.mit.edu/apply/
 - GRE – optional
 	- Send scores to MIT Graduate Admissions using institute code: 3514
+- A statement that demonstrates your academic and professional qualifications, research interest, and career goals, explaining why you are a good fit for our graduate program in mathematics. In your statement of purpose, please include a paragraph on the use of AI models in producing the materials provided here and in any of the work mentioned in your application. There are appropriate uses of AI models, but your usage of them needs to be transparent and disclosed.
+	- Statements are generally 1-3 pages long.
