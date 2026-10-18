@@ -1,2 +1,2 @@
 - https://math.mit.edu/academics/grad/phd/admission/index.html
--
+- https://apply.mit.edu/apply/
