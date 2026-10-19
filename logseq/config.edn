@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["UROP" "acyclic models theorem"]
+ :favorites ["PhD Apply" "Y34 module selection" "UROP" "acyclic models theorem"]
 
  ;; Set flashcards interval.
  ;; Expected value:
