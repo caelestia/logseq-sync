@@ -1,7 +1,7 @@
 - In [[Sheaf of O modules]], we proved that $(\mathcal F\otimes \mathcal G)_x \simeq \mathcal F_x \otimes \mathcal G_x$.
 - This is a special case of the more general property of inverse images:
 - $$f^{-1} \mathcal F \otimes f^{-1} \mathcal G \simeq f^{-1}(\mathcal F \otimes \mathcal G).$$
-- In other words, $f^{-1}$ is monoidal.
+- In other words, $f^{-1}$ is monoidal (this also involves $f^{-1}\underline\Z_Y=\underline\Z_X$, which is true for all constant sheaves, because $\underline A_X=p_X^{-1}A$ where $p_X:X\to\{\mathrm{pt}\}$).
 	- Consequently, for $\mathcal O$-modules this also implies $f^*$ is monoidal.
 		- Proof: "base change is monoidal" follows abstractly from associativity and commutativity of tensor product, so it's true for abelian sheaves. Thus
 		- $$f^* \mathcal F \otimes_{\mathcal O_X} f^* \mathcal G \simeq (f^{-1} \mathcal F \otimes_{f^{-1} \mathcal O_Y} f^{-1} \mathcal G) \otimes_{f^{-1}\mathcal O_Y} \mathcal O_X$$
