@@ -11,4 +11,4 @@
 - We first prove the following lemma:
 - $$f_* \mathcal{Hom}_X(f^{-1}-,-) \simeq \mathcal{Hom}_Y(-,f_*-).$$
 	- Proof. By definition of the internal Hom, $\Gamma(U,\mathcal{Hom}(\mathcal P,\mathcal Q))=\mathrm{Hom}(\mathcal P,\mathcal Q)$. The result follows.
-- Now we prove the result. Since the isomorphism can be check on stalks, it suffices to construct
+- Now we prove the result. Since the isomorphism can be checked on stalks, it suffices to construct such a sheaf morphism. Using the tensor-hom adjunction once, it suffice to construct
