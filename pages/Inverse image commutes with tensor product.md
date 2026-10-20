@@ -21,6 +21,6 @@
 - ## Derived category
 - Since $f^{-1}$ is also exact, the derived version $\otimes^\mathbf{L}$ is also monoidal.
 - ## About the direct image
+- In general, $f_*$ is only lax monoidal,
+- $$f_*\mathcal F\otimes f_*\mathcal G \longrightarrow f_*(\mathcal F\otimes\mathcal G)$$
 -
-- $$f_\mathcal F\otimes f_\mathcal G
-  \longrightarrow f_*(\mathcal F\otimes\mathcal G)$$
