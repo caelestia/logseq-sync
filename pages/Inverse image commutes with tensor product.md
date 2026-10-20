@@ -6,13 +6,16 @@
 - $$f_* \mathcal{Hom}_X(f^{-1}-,-) \simeq \mathcal{Hom}_Y(-,f_*-).$$
 	- Proof. By definition of the internal Hom, $\Gamma(U,\mathcal{Hom}(\mathcal P,\mathcal Q))=\mathrm{Hom}(\mathcal P,\mathcal Q)$. The result follows.
 - Now we prove the result.
-- Recorded below is a bad attempt: We first construct such a sheaf morphism. Using the tensor-hom adjunction once, it suffice to construct
-- $$f^{-1}\mathcal F \longrightarrow \mathcal{Hom}_X(f^{-1} \mathcal G, f^{-1}(\mathcal F\otimes \mathcal G))$$
-- Using the $f^{-1}\dashv f_*$ adjunction, and the above lemma, it suffices to construct
-- $$\mathcal F \longrightarrow \mathcal{Hom}_Y (\mathcal G, f_*f^{-1}(\mathcal F \otimes \mathcal G))$$
-- Using the tensor-hom adjunction, this reduces to
-- $$\mathcal F\otimes \mathcal G \longrightarrow f_*f^{-1} (\mathcal F\otimes \mathcal G)$$
-- which is the unit of the $f^{-1}\dashv f_*$ adjunction. Then we obtained the desired morphism, but now we need to take stalks
+- **Recorded here is a bad attempt**:
+	- We first construct such a sheaf morphism. Using the tensor-hom adjunction once, it suffice to construct
+	- $$f^{-1}\mathcal F \longrightarrow \mathcal{Hom}_X(f^{-1} \mathcal G, f^{-1}(\mathcal F\otimes \mathcal G))$$
+	- Using the $f^{-1}\dashv f_*$ adjunction, and the above lemma, it suffices to construct
+	- $$\mathcal F \longrightarrow \mathcal{Hom}_Y (\mathcal G, f_*f^{-1}(\mathcal F \otimes \mathcal G))$$
+	- Using the tensor-hom adjunction, this reduces to
+	- $$\mathcal F\otimes \mathcal G \longrightarrow f_*f^{-1} (\mathcal F\otimes \mathcal G)$$
+	- which is the unit of the $f^{-1}\dashv f_*$ adjunction. Then we obtained the desired morphism, but now we need to take stalks on both sides by unwinding every step of this construction, which is very annoying.
+- However, writing the "same proof" in Yoneda language avoids the isomorphism check entirely, while constructing the exact same morphism:
+- $$ \begin{aligned} &\operatorname{Hom}_X (f^{-1}(\mathcal F\otimes\mathcal G),\mathcal H)\\ &\quad\cong \operatorname{Hom}_Y (\mathcal F\otimes\mathcal G,f_*\mathcal H)\\ &\quad\cong \operatorname{Hom}_Y (\mathcal F,\mathcal Hom_Y(\mathcal G,f_*\mathcal H))\\ &\quad\cong \operatorname{Hom}_Y (\mathcal F,f_*\mathcal Hom_X(f^{-1}\mathcal G,\mathcal H))\\ &\quad\cong \operatorname{Hom}_X (f^{-1}\mathcal F,\mathcal Hom_X(f^{-1}\mathcal G,\mathcal H))\\ &\quad\cong \operatorname{Hom}_X (f^{-1}\mathcal F\otimes f^{-1}\mathcal G,\mathcal H). \end{aligned} $$
 - ## O-modules
 - Consequently, for $\mathcal O$-modules this also implies $f^*$ is monoidal.
 	- Proof. "base change is monoidal" follows abstractly from associativity and commutativity of tensor product, so it's true for abelian sheaves. Thus
