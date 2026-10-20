@@ -2,10 +2,12 @@
 - This is a special case of the more general property of inverse images:
 - $$f^{-1} \mathcal F \otimes f^{-1} \mathcal G \simeq f^{-1}(\mathcal F \otimes \mathcal G).$$
 - In other words, $f^{-1}$ is monoidal.
-	- Consequently, for $\mathcal O$-modules this also implies $f^*$ is monoidal. Proof: "base change is monoidal" follows abstractly from associativity and commutativity of tensor product, so it's true for abelian sheaves. Thus
-	- $$f^* \mathcal F \otimes_{\mathcal O_X} f^* \mathcal G \simeq (f^{-1} \mathcal F \otimes_{f^{-1} \mathcal O_Y} f^{-1} \mathcal G) \otimes_{f^{-1}\mathcal O_Y} \mathcal O_X$$
-	- The first term on RHS is the coequalizer of the diagram
-	- $$f^{-1} \mathcal F \otimes f^{-1} \mathcal O_Y \otimes f^{-1} \mathcal G \rightrightarrows f^{-1} \mathcal F \otimes f^{-1} \mathcal G$$
-	- which comes from $\mathcal F \otimes \mathcal O_Y \otimes \mathcal G \rightrightarrows \mathcal F \otimes \mathcal G$ (the arrows are $\mu\otimes\mathrm{id}$ and $\mathrm{id}\otimes\mu$, and its coeq is $\mathcal F \otimes_{\mathcal O_Y} \mathcal G$) after applying the exact functor $f^{-1}$. Hence RHS is $f^*(\mathcal F\otimes_{\mathcal O_Y} \mathcal G)$. QED
+	- Consequently, for $\mathcal O$-modules this also implies $f^*$ is monoidal.
+		- Proof: "base change is monoidal" follows abstractly from associativity and commutativity of tensor product, so it's true for abelian sheaves. Thus
+		- $$f^* \mathcal F \otimes_{\mathcal O_X} f^* \mathcal G \simeq (f^{-1} \mathcal F \otimes_{f^{-1} \mathcal O_Y} f^{-1} \mathcal G) \otimes_{f^{-1}\mathcal O_Y} \mathcal O_X$$
+		- The first term on RHS is the coequalizer of the diagram
+		- $$f^{-1} \mathcal F \otimes f^{-1} \mathcal O_Y \otimes f^{-1} \mathcal G \rightrightarrows f^{-1} \mathcal F \otimes f^{-1} \mathcal G$$
+		- which comes from $\mathcal F \otimes \mathcal O_Y \otimes \mathcal G \rightrightarrows \mathcal F \otimes \mathcal G$ (the arrows are $\mu\otimes\mathrm{id}$ and $\mathrm{id}\otimes\mu$, and its coeq is $\mathcal F \otimes_{\mathcal O_Y} \mathcal G$) after applying the exact functor $f^{-1}$. Hence RHS is $f^*(\mathcal F\otimes_{\mathcal O_Y} \mathcal G)$. QED
 - We first prove the following lemma. If $\mathcal P\in\mathsf{Ab}(Y)$ and $\mathcal Q\in\mathsf{Ab}(X)$, then
-- $$$$
+- $$f_* \mathcal{Hom}_X(f^{-1}\mathcal P,\mathcal Q) \simeq \mathcal{Hom}_Y(\mathcal P,f_*\mathcal Q).$$
+	- Proof. By definition of the internal Hom, $\Gamma(U,\mathcal{}$. The result follows.
