@@ -5,13 +5,13 @@
 - We first prove the following lemma:
 - $$f_* \mathcal{Hom}_X(f^{-1}-,-) \simeq \mathcal{Hom}_Y(-,f_*-).$$
 	- Proof. By definition of the internal Hom, $\Gamma(U,\mathcal{Hom}(\mathcal P,\mathcal Q))=\mathrm{Hom}(\mathcal P,\mathcal Q)$. The result follows.
-- Now we prove the result. Since the isomorphism can be easily checked on stalks, it suffices to construct such a sheaf morphism. Using the tensor-hom adjunction once, it suffice to construct
+- Now we prove the result. The important step is to construct such a sheaf morphism. Using the tensor-hom adjunction once, it suffice to construct
 - $$f^{-1}\mathcal F \longrightarrow \mathcal{Hom}_X(f^{-1} \mathcal G, f^{-1}(\mathcal F\otimes \mathcal G))$$
 - Using the $f^{-1}\dashv f_*$ adjunction, and the above lemma, it suffices to construct
 - $$\mathcal F \longrightarrow \mathcal{Hom}_Y (\mathcal G, f_*f^{-1}(\mathcal F \otimes \mathcal G))$$
 - Using the tensor-hom adjunction, this reduces to
 - $$\mathcal F\otimes \mathcal G \longrightarrow f_*f^{-1} (\mathcal F\otimes \mathcal G)$$
-- which is the unit of the $f^{-1}\dashv f_*$ adjunction. QED
+- which is the unit of the $f^{-1}\dashv f_*$ adjunction. Now the isomorphism can be easily checked on stalks. QED
 - ## O-modules
 - Consequently, for $\mathcal O$-modules this also implies $f^*$ is monoidal.
 	- Proof. "base change is monoidal" follows abstractly from associativity and commutativity of tensor product, so it's true for abelian sheaves. Thus
