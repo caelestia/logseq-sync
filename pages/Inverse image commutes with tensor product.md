@@ -18,3 +18,9 @@
 - Using the tensor-hom adjunction, this reduces to
 - $$\mathcal F\otimes \mathcal G \longrightarrow f_*f^{-1} (\mathcal F\otimes \mathcal G)$$
 - which is the unit of the $f^{-1}\dashv f_*$ adjunction. QED
+- ## Derived category
+- Since $f^{-1}$ is also exact, the derived version $\otimes^\mathbf{L}$ is also monoidal.
+- ## About the direct image
+-
+- $$f_\mathcal F\otimes f_\mathcal G
+  \longrightarrow f_*(\mathcal F\otimes\mathcal G)$$
