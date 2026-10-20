@@ -7,4 +7,5 @@
 	- The first term on RHS is the coequalizer of the diagram
 	- $$f^{-1} \mathcal F \otimes f^{-1} \mathcal O_Y \otimes f^{-1} \mathcal G \rightrightarrows f^{-1} \mathcal F \otimes f^{-1} \mathcal G$$
 	- which comes from $\mathcal F \otimes \mathcal O_Y \otimes \mathcal G \rightrightarrows \mathcal F \otimes \mathcal G$ (the arrows are $\mu\otimes\mathrm{id}$ and $\mathrm{id}\otimes\mu$, and its coeq is $\mathcal F \otimes_{\mathcal O_Y} \mathcal G$) after applying the exact functor $f^{-1}$. Hence RHS is $f^*(\mathcal F\otimes_{\mathcal O_Y} \mathcal G)$. QED
-- Proof.
+- We first prove the following lemma. If $\mathcal P\in\mathsf{Ab}(Y)$ and $\mathcal Q\in\mathsf{Ab}(X)$, then
+- $$$$
