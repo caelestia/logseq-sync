@@ -1,5 +1,5 @@
 - In [[Sheaf of O modules]], we proved that $(\mathcal F\otimes \mathcal G)_x \simeq \mathcal F_x \otimes \mathcal G_x$.
 - This is a special case of the more general property of inverse images:
 - $$f^{-1} \mathcal F \otimes f^{-1} \mathcal G \simeq f^{-1}(\mathcal F \otimes \mathcal G).$$
-	- Clearly, for $\mathcal O$-modules this also implies $f^*$ commutes with tensor product, since base change is monoidal.
+	- Consequently, for $\mathcal O$-modules this also implies $f^*$ commutes with tensor product, since base change is monoidal.
 -
