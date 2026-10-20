@@ -1,0 +1,2 @@
+- In [[Sheaf of O modules]], we proved that $(\mathcal F\otimes \mathcal G)_x \simeq \mathcal F_x \otimes \mathcal G_x$.
+- This is a special case of the more general
