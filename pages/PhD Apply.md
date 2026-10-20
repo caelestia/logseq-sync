@@ -1,13 +1,13 @@
-# Tier 1
+## Tier 1
 - [[MIT - Dec 1]]
 - [[UC Berkeley - Dec 1]]
 - [[Caltech - Dec 10]]
 - [[UChicago - Dec 3]]
-- # Tier 2
+- ## Tier 2
 - [[UPenn]]
 - [[UMich]]
 - [[Stony Brook]]
 - [[UCLA]]
-- # Tier 3
+- ## Tier 3
 - [[UW]]
 -
