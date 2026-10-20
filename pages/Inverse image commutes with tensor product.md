@@ -2,12 +2,6 @@
 - This is a special case of the more general property of inverse images:
 - $$f^{-1} \mathcal F \otimes f^{-1} \mathcal G \simeq f^{-1}(\mathcal F \otimes \mathcal G).$$
 - In other words, $f^{-1}$ is monoidal (this also involves $f^{-1}\underline\Z_Y=\underline\Z_X$, which is true for all constant sheaves, because $\underline A_X=p_X^{-1}A$ where $p_X:X\to\{\mathrm{pt}\}$).
-	- Consequently, for $\mathcal O$-modules this also implies $f^*$ is monoidal.
-		- Proof: "base change is monoidal" follows abstractly from associativity and commutativity of tensor product, so it's true for abelian sheaves. Thus
-		- $$f^* \mathcal F \otimes_{\mathcal O_X} f^* \mathcal G \simeq (f^{-1} \mathcal F \otimes_{f^{-1} \mathcal O_Y} f^{-1} \mathcal G) \otimes_{f^{-1}\mathcal O_Y} \mathcal O_X$$
-		- The first term on RHS is the coequalizer of the diagram
-		- $$f^{-1} \mathcal F \otimes f^{-1} \mathcal O_Y \otimes f^{-1} \mathcal G \rightrightarrows f^{-1} \mathcal F \otimes f^{-1} \mathcal G$$
-		- which comes from $\mathcal F \otimes \mathcal O_Y \otimes \mathcal G \rightrightarrows \mathcal F \otimes \mathcal G$ (the arrows are $\mu\otimes\mathrm{id}$ and $\mathrm{id}\otimes\mu$, and its coeq is $\mathcal F \otimes_{\mathcal O_Y} \mathcal G$) after applying the exact functor $f^{-1}$. Hence RHS is $f^*(\mathcal F\otimes_{\mathcal O_Y} \mathcal G)$. QED
 - We first prove the following lemma:
 - $$f_* \mathcal{Hom}_X(f^{-1}-,-) \simeq \mathcal{Hom}_Y(-,f_*-).$$
 	- Proof. By definition of the internal Hom, $\Gamma(U,\mathcal{Hom}(\mathcal P,\mathcal Q))=\mathrm{Hom}(\mathcal P,\mathcal Q)$. The result follows.
@@ -18,6 +12,13 @@
 - Using the tensor-hom adjunction, this reduces to
 - $$\mathcal F\otimes \mathcal G \longrightarrow f_*f^{-1} (\mathcal F\otimes \mathcal G)$$
 - which is the unit of the $f^{-1}\dashv f_*$ adjunction. QED
+- ## O-modules
+- Consequently, for $\mathcal O$-modules this also implies $f^*$ is monoidal.
+	- Proof. "base change is monoidal" follows abstractly from associativity and commutativity of tensor product, so it's true for abelian sheaves. Thus
+	- $$f^* \mathcal F \otimes_{\mathcal O_X} f^* \mathcal G \simeq (f^{-1} \mathcal F \otimes_{f^{-1} \mathcal O_Y} f^{-1} \mathcal G) \otimes_{f^{-1}\mathcal O_Y} \mathcal O_X$$
+	- The first term on RHS is the coequalizer of the diagram
+	- $$f^{-1} \mathcal F \otimes f^{-1} \mathcal O_Y \otimes f^{-1} \mathcal G \rightrightarrows f^{-1} \mathcal F \otimes f^{-1} \mathcal G$$
+	- which comes from $\mathcal F \otimes \mathcal O_Y \otimes \mathcal G \rightrightarrows \mathcal F \otimes \mathcal G$ (the arrows are $\mu\otimes\mathrm{id}$ and $\mathrm{id}\otimes\mu$, and its coeq is $\mathcal F \otimes_{\mathcal O_Y} \mathcal G$) after applying the exact functor $f^{-1}$. Hence RHS is $f^*(\mathcal F\otimes_{\mathcal O_Y} \mathcal G)$. QED
 - ## Derived category
 - Since $f^{-1}$ is also exact, the derived version $\otimes^\mathbf{L}$ is also monoidal.
 - ## About the direct image
