@@ -7,6 +7,7 @@
 - [[UPenn]]
 - [[UMich]]
 - [[Stony Brook]]
+- [[UCLA]]
 - # Tier 3
 - [[UW]]
 -
