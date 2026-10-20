@@ -2,5 +2,5 @@
 - This is a special case of the more general property of inverse images:
 - $$f^{-1} \mathcal F \otimes f^{-1} \mathcal G \simeq f^{-1}(\mathcal F \otimes \mathcal G).$$
 	- Consequently, for $\mathcal O$-modules this also implies $f^*$ commutes with tensor product. Proof: "base change is monoidal" follows abstractly from associativity and commutativity of tensor product, so it's true for abelian sheaves. Thus
-	- $$f^* \mathcal F \otimes_{\mathcal O_X} f^* \mathcal G \simeq $$
--
+	- $$f^* \mathcal F \otimes_{\mathcal O_X} f^* \mathcal G \simeq (f^{-1} \mathcal F \otimes_{f^{-1} \mathcal O_Y} f^{-1} \mathcal G) \otimes_{f^{-1}\mathcal O_Y} \mathcal O_X$$
+	- The first term on RHS is the coequalizer of the diagram $f^{-1} \mathcal F \otimes f^{-1} \mathcal O_Y \otimes f^{-1} \mathcal G \rightrightarrows f^{-1} \mathcal F \otimes f^{-1} \mathcal G$, which is the diagram$f^{-1}$
