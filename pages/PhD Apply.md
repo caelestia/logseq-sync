@@ -8,6 +8,7 @@
 - [[Stony Brook]]
 - [[UCLA]]
 - [[Northwestern]]
+- [[U of Maryland]]
 - ## Tier 3
 - [[UW]]
 - [[UIUC]]
