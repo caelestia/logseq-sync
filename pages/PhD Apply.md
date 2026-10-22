@@ -14,8 +14,7 @@
 - [[UIUC]]
 - [[Purdue]]
 - [[Utah]]
-- ## Tier 4
-- [[]]
+- [[Dartmouth]] (nice location)
 -
 - ## Masters (if funded only)
 - ALGANT
