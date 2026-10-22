@@ -15,7 +15,6 @@
 - [[Purdue]]
 - [[Utah]]
 - [[Dartmouth]] (nice location)
--
 - ## Masters (if funded only)
 - ALGANT
 - Part iii
