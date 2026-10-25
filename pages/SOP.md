@@ -1,2 +1,3 @@
-- Opening
-- (personal history, time order) My strongest background was in algebra.
+- Opening, simply state I want to be trained to be a mathematician, and I believe (Uni) is a perfect place for my future development.
+- ## (personal history, time order)
+- My strongest background was in algebra.
