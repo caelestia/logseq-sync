@@ -1,5 +1,5 @@
 - Opening, simply state I want to be trained to be a mathematician, and I believe (Uni) is a perfect place for my future development.
 - ## (personal history, in time order)
-- My strongest background was in algebra. It's also where my story with pure mathematics begin. I learned about the idea of groups in an introductory quantum mechanics lecture in grade school, and was fascinated. During the years of high school I built a foundation for most of the undergraduate courses. I was particularly interested in Galois theory, because we started from
+- My strongest background was in algebra. It's also where my story with pure mathematics begin. I learned about the idea of groups in an introductory quantum mechanics lecture in grade school, and was deeply impressed. During the years of high school I built a foundation for most of the undergraduate courses. I was particularly interested in Galois theory, because we started from purely abstract machinery of algebraically closed fields, and then build something vast yet intuitive,
 - (this story is not very important but I think since it's quite short I can keep it, and it has a personalized dimension)
 -
