@@ -1,5 +1,5 @@
 - Opening, simply state I want to be trained to be a mathematician, and I believe (Uni) is a perfect place for my future development.
 - ## (personal history, in time order)
-- My strongest background was in algebra. It's also where my story with pure mathematics begin. I learned about the idea of groups in an introductory quantum mechanics lecture in grade school,
--
+- My strongest background was in algebra. It's also where my story with pure mathematics begin. I learned about the idea of groups in an introductory quantum mechanics lecture in grade school, and was fascinated. During the years of high school I
+- ()
 -
