@@ -2,3 +2,5 @@
 - ## (personal history, in time order)
 - My strongest background was in algebra. It's also where my story with pure mathematics begin. I learned about the idea of groups in an introductory quantum mechanics lecture in grade school,
 -
+- (A long paragraph about the Kummer project)
+-
