@@ -1,2 +1,2 @@
 - Opening
-- (personal history, time order)
+- (personal history, time order) My strongest background was in algebra.
