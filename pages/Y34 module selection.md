@@ -6,17 +6,19 @@
 - Algebra 3 - Alessio Corti
 - [[Algebraic Curves - Ana Caraiani]]
 	- credit
-	- In-class Test on **10 November**
+	- **In-class Test** on **10 November**
 - [[Functional Analysis - Martin Taylor]]
 	- credit
+	- **coursework due 11 Nov**
 - ### Y4
 - [[Elliptic Curves - George Boxer]]
 	- credit
+	- **coursework due 13 Nov**
 - [[Commutative Algebra - Yanki Lekili]]
 	- credit
 - [[Algebra 4 - B. Briggs]]
 	- credit
--
+	- **coursework due 6 Nov**
 - ## Term 2
 - ## Y3
 - Fourier Analysis and Theory of Distributions - I. Krasovsky
