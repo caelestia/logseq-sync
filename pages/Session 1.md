@@ -1,1 +1,3 @@
-- Let $S$ be a scheme. An $S$-group is a group object in $S-Sch$.
+- Let $S$ be a scheme. An $S$-group $G$ is a group object in $S-Sch$. By Yoneda, this happens iff $h(G)\in\mathrm{Fun}(S-Sch,Set)$ lands in $\mathrm{Hom}(S-Sch,Set)$.
+- Exercise 1.1.3 is trivial using Yoneda.
+-
