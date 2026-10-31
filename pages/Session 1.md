@@ -1,0 +1,1 @@
+- Let $S$ be a scheme. An $S$-group is a group object in $S-Sch$.
