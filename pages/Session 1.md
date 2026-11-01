@@ -21,3 +21,4 @@
 - ### 1.2
 - A complex torus is a connected compact Lie group over $\mathbb C$.
 - Exercise 1.2.4. It suffices to show that $H_1(C,\R) \to \Omega^1(C)^\vee$ is injective, and the result follows from comparing dimensions. By Poincare duality, the pairing between $H_1(C,\R)$ and $H^1(C,\R)$ is non-degenerate.
+-
