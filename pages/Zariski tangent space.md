@@ -4,4 +4,5 @@
 	  logseq.order-list-type:: number
 	- $T_xX := \big[X(k[\varepsilon])\overset{\,\varepsilon\mapsto0\,}{\longrightarrow} X(k)\big]^{-1}x$, where $k[\varepsilon]:=k[\varepsilon]/(\varepsilon^2)$.
 	  logseq.order-list-type:: number
+- We now explain how to obtain the $k$-vector space on the second definition.
 -
