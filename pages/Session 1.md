@@ -20,5 +20,5 @@
 	- Thus the identity $m_{k[\varepsilon]}(\bar e, \mathrm{id}) = \mathrm{id} = m_{k[\varepsilon]}(\mathrm{id}, \bar e)$ on $G(k[\varepsilon])$ shows that $\bar e$ is an identity for $dm_{(e,e)}$ as desired.
 - ### 1.2
 - A complex torus is a connected compact Lie group over $\mathbb C$.
-- Exercise 1.2.4. It suffices to show that $H_1(C,\R) \to \Omega^1(C)^\vee$ is injective, and the result follows from comparing dimensions. By Poincare duality, the pairing between $H_1(C,\R)$ and $H^1(C,\R)$ is non-degenerate. By Hodge decomosition, every closed $1$-form can be written as the sum of
+- Exercise 1.2.4. It suffices to show that $H_1(C,\R) \to \Omega^1(C)^\vee$ is injective, and the result follows from comparing dimensions. By Poincare duality, the pairing between $H_1(C,\R)$ and $H^1(C,\R)$ is non-degenerate. By Hodge decomosition $H^1(C,\mathbb C)=\Omega^1(C) \oplus \overline{\Omega^1(C)}$, every closed $1$-form can be (uniquely in this case) written as the sum of a holomorphic form and an antiholomorphic $1$-form
 -
