@@ -1,3 +1,3 @@
 - Let $S$ be a scheme. An $S$-group $G$ is a group object in $S-Sch$. By Yoneda, this happens iff $h(G)\in\mathrm{Fun}(S-Sch,Set)$ lands in $\mathrm{Hom}(S-Sch,Set)$.
 - Exercise 1.1.3 is trivial using Yoneda.
-- Exercise 1.1.4.
+- Exercise 1.1.4. The statement about $S'$-points is clear from Yoneda. The locally closed subscheme part is the following argument: The diagonal
