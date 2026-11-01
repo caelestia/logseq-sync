@@ -7,4 +7,5 @@
 - We now explain how to obtain the $k$-vector space on the second definition.
 	- The scalar multiplication is clear.
 	- To get addition, let $R := k[\varepsilon_1] \times_k k[\varepsilon_2]$. Indeed, its elements are of the form $(a+b\varepsilon_1,a+c\varepsilon_2)$, so
-	- $$$$
+	- $$R \simeq k[\varepsilon_1,\varepsilon_2]/(\varepsilon_1^2,\varepsilon_2^2,\varepsilon_1\varepsilon_2).$$
+	- Now by definition of the fiber product (in Set), $T_xX \times T_xX$ has a natural morphism into $
