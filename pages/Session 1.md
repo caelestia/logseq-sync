@@ -26,7 +26,7 @@
 	- $$H^{0,1} \to (H^{1,0})^\vee,\qquad \eta \mapsto \big(\omega \mapsto \int_C \eta\wedge\omega\big)$$
 	- It remains to find the image of $H^1(C,\Z)$.
 	- The cohomology map $H^1_{dR}(C,\mathbb C)\to H^{0,1}(C)$ induced by sheaf inclusion $\mathbb C \to \mathcal{O}_C$ is precisely the Hodge projection to $(0,1)$-classes.
-	- With some sheaf theoretic computation ([resolving with singular cochains]([[Cohomology of constant sheaf and singular cohomology]])), we can show that the image of $H^1(C,\underline\Z) \to H^1(C,\underline{\mathbb C})$ is the subset of cochains that are integral on $H_1(C,\Z)$. (Which then agrees with the UCT description for $H^1_\text{sing}$.)
+	- By [the comparison between sheaf cohomology and singular cohomology]([[Cohomology of constant sheaf and singular cohomology]]), and the UCT, the image of $H^1(C,\underline\Z) \to H^1(C,\underline{\mathbb C})$ is the subset of cochains that are integral on $H_1(C,\Z)$. (Which then agrees with the UCT description for $H^1_\text{sing}$.)
 	- Let $\gamma\in H_1(C,\Z)$ be a cycle, and $\eta$ be its Poincare dual defined by $\int_C\eta\wedge\omega=\int_\gamma \omega$ for all $\omega$. Then $\eta^{0,1}$ is the preimage of $\gamma$ under the above isomorphism.
 	- Where does the $2\pi i$ come from??
 - Exercise 1.2.7.
