@@ -22,11 +22,13 @@
 - Let $\Omega^1(C)$ be the vector space of holomorphic $1$-forms. Then $H^{1,0}\simeq\Omega^1(C)$ and $H^{0,1}\simeq\overline{\Omega^1(C)}$.
 - Exercise 1.2.4. It suffices to show that the period map $H_1(C,\R) \to \Omega^1(C)^\vee$ is injective, and the result follows from comparing dimensions. By Hodge decomosition $H^1(C,\mathbb C)=\Omega^1(C) \oplus \overline{\Omega^1(C)}$, every closed $1$-form can be (uniquely in this case) written as the sum of a holomorphic $1$-form $\alpha$ and an antiholomorphic $1$-form $\beta$. Therefore, if a *real* cycle $\gamma$ goes to $0$ under the period map, then $\int_\gamma\alpha=0$ and $\int_\gamma\bar\beta=\overline{\int_\gamma\beta}=0$. However, by Poincare duality, the integral pairing between $H_1(C,\R)$ and $H^1(C,\mathbb C)$ is non-degenerate. Thus $\gamma=0$.
 - Let $u:C \longrightarrow J_C := \Omega^1(C)^\vee / H_1(C,\Z)$ be the Abel--Jacobi map (for some fixed base point).
-	- Remark. Expontial sheaf sequence (with the $\exp(2\pi i)$ gives $\mathrm{Pic}^0(C)=H^{0,1}(C)/H^1(C,\Z)$. We now show that there is an isomorphism $\mathrm{Pic}^0(C) \to J_C$. First, Serre duality gives the isomorphism between the vector spaces:
+- Alternate definition.
+	- Expontial sheaf sequence (with the $\exp(2\pi i-)$ convention) gives $\mathrm{Pic}^0(C)=H^{0,1}(C)/H^1(C,\Z)$. We now show that there is an isomorphism $\mathrm{Pic}^0(C) \to J_C$. First, Serre duality gives the isomorphism between the vector spaces:
 	- $$\Phi:H^{0,1} \to (H^{1,0})^\vee,\qquad \eta \mapsto \big(\omega \mapsto \int_C \eta\wedge\omega\big)$$
 	- It remains to find the image of $H^1(C,\Z)$.
 	- The cohomology map $H^1_{dR}(C,\mathbb C)\to H^{0,1}(C)$ induced by sheaf inclusion $\underline{\mathbb C} \to \mathcal{O}_C$ is precisely the Hodge projection to $(0,1)$-classes.
 	- By [the comparison between sheaf cohomology and singular cohomology]([[Cohomology of constant sheaf and singular cohomology]]), and the UCT, the image of $H^1(C,\underline\Z) \to H^1(C,\underline{\mathbb C})$ is the subset of cohomology classes that are integral valued on $H_1(C,\Z)$.
 	- Let $\gamma\in H_1(C,\Z)$ be a cycle, and $\eta$ be its Poincare dual defined by $\int_C\eta\wedge\omega=\int_\gamma \omega$ for all $\omega$. Then $\Phi(\eta^{0,1})=\int_\gamma$ under the above isomorphism, as desired. Since $\eta\in H^1(C,\Z) \subset H^1_{dR}(C,\R)$, $\eta^{0,1}$ uniquely determines $\eta$ as desired.
+- Remark.
 - Exercise 1.2.7.
 - A complex torus is a connected compact Lie group over $\mathbb C$.
