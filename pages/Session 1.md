@@ -7,6 +7,7 @@
 	- $\mathbf{G}_a=\Z[X]$, $\mathrm{GL}_n=\Z[X_{ij}]_{\det(X_{ij})}$, $\mu_m=$.
 	- Regarding the group operations, we can find them using Yoneda. Here I write down the $\mathrm{GL}_n$ example:
 	- $m:\mathrm{GL}_n \longrightarrow \mathrm{GL}_n \otimes_\Z \mathrm{GL}_n$ is given by $X_{ij} \mapsto \sum_\alpha Y_{i\alpha} Z_{\alpha j}$.
-	- $e:\mathrm{GL}_n \longrightarrow \Z$
+	- $e:\mathrm{GL}_n \longrightarrow \Z$ corresponds to the identity matrix, i.e. $X_{ij}\mapsto\delta_{ij}$.
+	- $i:\mathrm{GL}_n \longrightarrow \mathrm{GL}_n$ is the inversion, i.e.
 - ### 1.2
 -
