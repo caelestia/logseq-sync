@@ -6,8 +6,10 @@
 	- Recall that $\mathrm{Hom}(X,\operatorname{Spec}R)\simeq\mathrm{Hom}(R,\Gamma(X,\mathcal{O}_X))$. Using this we see that
 	- $\mathbf{G}_a=\operatorname{Spec}\Z[X]$, $\mathrm{GL}_n=\operatorname{Spec}\Z[X_{ij}]_{\det(X_{ij})}$, $\mu_m=\operatorname{Spec}{\Z(X)}/{(X^m-1)}$.
 	- Regarding the group operations, we can find them using Yoneda. Here I write down the $\mathrm{GL}_n$ example:
-	- $m:\mathrm{GL}_n \longrightarrow \mathrm{GL}_n \otimes_\Z \mathrm{GL}_n$ is given by $X_{ij} \mapsto \sum_\alpha Y_{i\alpha} Z_{\alpha j}$.
-	- $e:\mathrm{GL}_n \longrightarrow \Z$ corresponds to the identity matrix, i.e. $X_{ij}\mapsto\delta_{ij}$.
-	- $i:\mathrm{GL}_n \longrightarrow \mathrm{GL}_n$ is the inversion, i.e. $X_{ij} \mapsto [(Y_{\alpha\beta})^{-1}]_{ij}$.
+		- $m:\mathrm{GL}_n \longrightarrow \mathrm{GL}_n \otimes_\Z \mathrm{GL}_n$ is given by $X_{ij} \mapsto \sum_\alpha Y_{i\alpha} Z_{\alpha j}$.
+		- $e:\mathrm{GL}_n \longrightarrow \Z$ corresponds to the identity matrix, i.e. $X_{ij}\mapsto\delta_{ij}$.
+		- $i:\mathrm{GL}_n \longrightarrow \mathrm{GL}_n$ is the inversion, i.e. $X_{ij} \mapsto [(Y_{\alpha\beta})^{-1}]_{ij}$.
+	- Finally the constant $\Z$-group associated to a finite group $G$ is given by
+	- $G_\Z$
 - ### 1.2
 -
