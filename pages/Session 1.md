@@ -19,7 +19,7 @@
 	- The zero tangent vector at $e$ is exactly the image $\bar e$ of $e$ under $G(k)\to G(k[\varepsilon])$.
 	- Thus the identity $m_{k[\varepsilon]}(\bar e, \mathrm{id}) = \mathrm{id} = m_{k[\varepsilon]}(\mathrm{id}, \bar e)$ on $G(k[\varepsilon])$ shows that $\bar e$ is an identity for $dm_{(e,e)}$ as desired.
 - ### 1.2
-- A complex torus is a connected compact Lie group over $\mathbb C$.
 - Exercise 1.2.4. It suffices to show that the period map $H_1(C,\R) \to \Omega^1(C)^\vee$ is injective, and the result follows from comparing dimensions. By Hodge decomosition $H^1(C,\mathbb C)=\Omega^1(C) \oplus \overline{\Omega^1(C)}$, every closed $1$-form can be (uniquely in this case) written as the sum of a holomorphic $1$-form $\alpha$ and an antiholomorphic $1$-form $\beta$. Therefore, if a *real* cycle $\gamma$ goes to $0$ under the period map, then $\int_\gamma\alpha=0$ and $\int_\gamma\bar\beta=\overline{\int_\gamma\beta}=0$. However, by Poincare duality, the integral pairing between $H_1(C,\R)$ and $H^1(C,\mathbb C)$ is non-degenerate. Thus $\gamma=0$.
-- Let $u:C \longrightarrow J_C := $
+- Let $u:C \longrightarrow J_C := \Omega^1(C)^\vee / H_1(C,\Z)$ be the Abel
 - Exercise 1.2.7.
+- A complex torus is a connected compact Lie group over $\mathbb C$.
