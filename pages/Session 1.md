@@ -24,7 +24,8 @@
 - Let $u:C \longrightarrow J_C := \Omega^1(C)^\vee / H_1(C,\Z)$ be the Abel--Jacobi map (for some fixed base point).
 	- Remark. Expontial sheaf sequence gives $\mathrm{Pic}^0(C)=H^{0,1}(C)/2\pi iH^1(C,\Z)$. We now show that there is an isomorphism $\mathrm{Pic}^0(C) \to J_C$. First, Serre duality gives the isomorphism between the vector spaces:
 	- $$H^{0,1} \to (H^{1,0})^\vee,\qquad \eta \mapsto (\omega \mapsto \int_C \eta\wedge\omega)$$
-	- It remains to find the image of $H^1(C,2\pi i\Z)$. The cohomology map induced by sheaf inclusion $\mathbb C \to \mathcal{O}_C$ is precisely the Hodge projection to $(0,1)$-classes.
-	- Let $\gamma\in H_1(C,\Z)$ be a cycle, and $\eta$ be its Poincare dual defined by $\int_C \eta\wedge\omega=\int_\gamma \omega$ for all $\omega$. Then
+	- It remains to find the image of $H^1(C,2\pi i\Z)$. The cohomology map $H^1_{dR}(C)\to H^{0,1}(C)$ induced by sheaf inclusion $\mathbb C \to \mathcal{O}_C$ is precisely the Hodge projection to $(0,1)$-classes.
+	- Let $\gamma\in H_1(C,\Z)$ be a cycle, and $\eta$ be its Poincare dual defined by $\int_C \eta\wedge\omega=\int_\gamma \omega$ for all $\omega$.
+	- Then
 - Exercise 1.2.7.
 - A complex torus is a connected compact Lie group over $\mathbb C$.
