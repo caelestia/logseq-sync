@@ -8,4 +8,6 @@
 	- The scalar multiplication is clear.
 	- To get addition, let $R := k[\varepsilon_1] \times_k k[\varepsilon_2]$. Indeed, its elements are of the form $(a+b\varepsilon_1,a+c\varepsilon_2)$, so
 	- $$R \simeq k[\varepsilon_1,\varepsilon_2]/(\varepsilon_1^2,\varepsilon_2^2,\varepsilon_1\varepsilon_2).$$
-	- Now by definition of the fiber product (in Set), $T_xX \times T_xX$ has a natural morphism into $
+	- Now by definition of the fiber product (in Set), $T_xX \times T_xX$ has a natural morphism into $\big[X(R)\longrightarrow X(k)\big]^{-1}x$.
+	- Now addition is induced by the ring homomorphism
+	- $R \longrightarrow k[\varepsilon]$, given by $\varepsilon_1 \mapsto \varepsilon$ and $\varepsilon_2 \mapsto \varepsilon$.
