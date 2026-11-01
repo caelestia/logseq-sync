@@ -4,7 +4,9 @@
 - Exercise 1.1.4. The statement about $S'$-points is clear from Yoneda. The locally closed subscheme part is the following argument: The diagonal $\Delta_{X/S}$ is an immersion for any $X\to S$, so is any scheme theoretic kernel, since base change preserves immersions. $\ker f$ is the scheme theoretic kernel of $f$ and $e_H \circ p_G$, where $p_G:G\to S$ is the structure morphism.
 - Exercise 1.1.5.
 	- Recall that $\mathrm{Hom}(X,\operatorname{Spec}R)\simeq\mathrm{Hom}(R,\Gamma(X,\mathcal{O}_X))$. Using this we see that
-	- $\mathbf{G}_a=\Z[X]$, $\mathrm{GL}_n=\Z[X_{i,j}]_{\det(X_{i,j})}$, $\mu_m=$.
-	- Regarding the group operations,
+	- $\mathbf{G}_a=\Z[X]$, $\mathrm{GL}_n=\Z[X_{ij}]_{\det(X_{ij})}$, $\mu_m=$.
+	- Regarding the group operations, we can find them using Yoneda. Here I write down the $\mathrm{GL}_n$ example:
+	- $m:\mathrm{GL}_n \longrightarrow \mathrm{GL}_n \otimes_\Z \mathrm{GL}_n$ is given by $X_{ij} \mapsto \sum_\alpha Y_{i\alpha} Z_{\alpha j}$.
+	- $e:\mathrm{GL}_n \longrightarrow \Z$
 - ### 1.2
 -
