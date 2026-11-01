@@ -14,6 +14,8 @@
 - Exercise 1.1.9.
 	- View the tangent space as $T_eG := \big[G(k[\varepsilon])\overset{\,\varepsilon\mapsto0\,}{\longrightarrow} G(k)\big]^{-1}e$, where $k[\varepsilon]:=k[\varepsilon]/(\varepsilon^2)$.
 	- The map $\varphi:= dm_{(e,e)}$ is $k$-linear, so $\varphi$ commutes with [the addition]([[Zariski tangent space]]) on $T_eG$.
-	- We get the result by the Eckmann--Hilton argument. Since $(T_eG,+)$ is already a monoid, it remains to show that $
+	- We get the result by the Eckmann--Hilton argument. Since $(T_eG,+)$ is already a monoid, it remains to show that $\varphi$ admits a unit.
+	- Using the above definition, $\varphi$ is induced by $m_{k[\varepsilon]}:(G\times G)(k[\varepsilon]) \longrightarrow G(k[\varepsilon])$.
+	- The zero tangent vector at $e$ is equivalently
 - ### 1.2
 -
