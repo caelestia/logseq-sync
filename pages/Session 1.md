@@ -10,6 +10,6 @@
 		- $e:\mathrm{GL}_n \longrightarrow \Z$ corresponds to the identity matrix, i.e. $X_{ij}\mapsto\delta_{ij}$.
 		- $i:\mathrm{GL}_n \longrightarrow \mathrm{GL}_n$ is the inversion, i.e. $X_{ij} \mapsto [(Y_{\alpha\beta})^{-1}]_{ij}$.
 	- Finally the constant $\Z$-group associated to a finite group $G$ is given by
-	- $G_\Z$
+	- $G_\Z = \coprod_{g\in G}\operatorname{Spec}\Z$, where the multiplication is given by commuting the (finite!) coproducts with the fiber product and then mapping the $(g,h)$ component to the $gh$ component.
 - ### 1.2
 -
