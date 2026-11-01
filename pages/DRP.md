@@ -1,1 +1,2 @@
+- ![Abelian Varieties - Brian Conrad.pdf](../assets/Abelian_Varieties_-_Brian_Conrad_1793551452842_0.pdf)
 - [[Session 1]]

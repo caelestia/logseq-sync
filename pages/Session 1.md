@@ -12,5 +12,6 @@
 	- Finally the constant $\Z$-group associated to a finite group $G$ is given by
 	- $G_\Z = \coprod_{g\in G}\operatorname{Spec}\Z$, where the multiplication is given by commuting the (finite!) coproducts with the fiber product and then mapping the $(g,h)$ component to the $gh$ component.
 - Exercise 1.1.9.
+	- View the tangent space as $T_eG := \big[G(k[\varepsilon])\to G(k)\big]^{-1}e$, where $k[\varepsilon]:=k[\eps]
 - ### 1.2
 -
