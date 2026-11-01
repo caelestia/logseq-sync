@@ -27,6 +27,6 @@
 	- It remains to find the image of $H^1(C,\Z)$.
 	- The cohomology map $H^1_{dR}(C,\mathbb C)\to H^{0,1}(C)$ induced by sheaf inclusion $\underline{\mathbb C} \to \mathcal{O}_C$ is precisely the Hodge projection to $(0,1)$-classes.
 	- By [the comparison between sheaf cohomology and singular cohomology]([[Cohomology of constant sheaf and singular cohomology]]), and the UCT, the image of $H^1(C,\underline\Z) \to H^1(C,\underline{\mathbb C})$ is the subset of cohomology classes that are integral valued on $H_1(C,\Z)$.
-	- Let $\gamma\in H_1(C,\Z)$ be a cycle, and $\eta$ be its Poincare dual defined by $\int_C\eta\wedge\omega=\int_\gamma \omega$ for all $\omega$. Then $\Phi(\eta^{0,1})=\int_\gamma$ under the above isomorphism, as desired. Since $\eta\in$
+	- Let $\gamma\in H_1(C,\Z)$ be a cycle, and $\eta$ be its Poincare dual defined by $\int_C\eta\wedge\omega=\int_\gamma \omega$ for all $\omega$. Then $\Phi(\eta^{0,1})=\int_\gamma$ under the above isomorphism, as desired. Since $\eta\in H^1(C,\Z) \subset H^1_{dR}(C,\R)$, $\eta^{0,1}$ uniquely determines $\eta$ as desired.
 - Exercise 1.2.7.
 - A complex torus is a connected compact Lie group over $\mathbb C$.
