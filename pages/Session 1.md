@@ -17,6 +17,7 @@
 	- We get the result by the Eckmann--Hilton argument. Since $(T_eG,+)$ is already a monoid, it remains to show that $\varphi$ admits a unit.
 	- Using the above definition, $\varphi$ is induced by $m_{k[\varepsilon]}:(G\times G)(k[\varepsilon]) \longrightarrow G(k[\varepsilon])$.
 	- The zero tangent vector at $e$ is exactly the image $\bar e$ of $e$ under $G(k)\to G(k[\varepsilon])$.
-	- Thus the identity $m_{k[\varepsilon]}(\bar e, \mathrm{id}) = \mathrm{id} = m_{k[\varepsilon]}(\mathrm{id}, \bar e)$ on $G(k[\varepsilon])$ shows that $\bar e$ is an identity for $dm_{}$
+	- Thus the identity $m_{k[\varepsilon]}(\bar e, \mathrm{id}) = \mathrm{id} = m_{k[\varepsilon]}(\mathrm{id}, \bar e)$ on $G(k[\varepsilon])$ shows that $\bar e$ is an identity for $dm_{(e,e)}$ as desired.
 - ### 1.2
+- A complex torus is a connected compact Lie group over $\mathbb C$.
 -
