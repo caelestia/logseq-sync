@@ -44,3 +44,6 @@
 	- The result follows.
 - Exercise 1.2.7.
 - A complex torus is a connected compact Lie group over $\mathbb C$.
+-
+- ### 1.5
+- Exercise 1.5.2. Faithfully flat descent. https://stacks.math.columbia.edu/tag/01JT
