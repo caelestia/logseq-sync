@@ -47,11 +47,11 @@
   CLOCK: [2026-11-02 Mon 03:54:09]--[2026-11-02 Mon 03:54:09] =>  00:00:00
   :END:
 - A complex torus is a connected compact Lie group over $\mathbb C$.
-- Theorem 1.2.8. Every complex torus $A$ is commutative and the holomorphic exponential map $\exp:T_0A \to A$ is a surjective homomorphism with kernel a lattice $\Lambda$.
+- Theorem 1.2.8. Every complex torus $A$ is commutative and the holomorphic exponential map $\exp:T_0A \to A$ is a surjective homomorphism with kernel a full lattice $\Lambda$.
 	- Proof. If $g\in G$, put $c_g:G\to G$, $a\mapsto gag^{-1}$. Let $\mathfrak{g}=T_eG$. The adjoint representation is defined as $\mathrm{Ad}:G \to \mathrm{GL}(\mathfrak{g})$, $g \mapsto [dc_g]_e$.
 	- Since $G=A$ is connected compact, the maximum modulus principle forces $\mathrm{Ad} \equiv \mathrm{Ad}(e) = \mathrm{id}$ to be constant.
 	- Lemma. A homomorphism between connected Lie groups is uniquely determined by the derivative at $e$.
 		- [Proof]([[Lie group homomorphism is determined by derivative at identity]])
-	- This implies $c_g=\mathrm{id}$ for all $g$, so $A$ is commutative and $\exp$ is a homomorphism. Its
+	- This implies $c_g=\mathrm{id}$ for all $g$, so $A$ is commutative and $\exp$ is a homomorphism. Its image is then an open subgroup of $A$, which must be all of $A$ by connectedness. Since the derivative at $0$ is an isomorphism, the kernel is discrete. Thus the kernel must be a full lattice. QED
 - ### 1.5
 - Exercise 1.5.2. Faithfully flat descent. https://stacks.math.columbia.edu/tag/01JT
