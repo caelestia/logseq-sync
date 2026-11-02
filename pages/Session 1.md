@@ -16,7 +16,7 @@
 	- Proof. The part of smoothness we use is $X_{\bar k}$ is reduced. We use the following simple fact:
 	- Let $f, g:Y \to Z$ be a morphism of $\bar k$-schemes, $Y$ is reduced of finite type and $Z$ is separated. Then
 	- $$f|_{Y(\bar k)}=g|_{Z(\bar k)} \implies f=g.$$
-	- To see this, define $E=\mathrm{op}(f,g)$ which is a closed subscheme of $Y$ by separatedness of $Z$. Since $Y$ is of finite type over $\bar k$, its $\bar k$-points are exactly its closed points, and they are dense. Thus $E$ has the same underlying topological space as $Y$.
+	- To see this, define $E=\mathrm{op}(f,g)$ which is a closed subscheme of $Y$ by separatedness of $Z$. Since $Y$ is of finite type over $\bar k$, its $\bar k$-points are exactly its closed points, and they form a dense subset (Zariski's Lemma). Thus $E$ has the same underlying topological space as $Y$.
 	-
 - Exercise 1.1.9.
 	- View the tangent space as $T_eG := \big[G(k[\varepsilon])\overset{\,\varepsilon\mapsto0\,}{\longrightarrow} G(k)\big]^{-1}e$, where $k[\varepsilon]:=k[\varepsilon]/(\varepsilon^2)$.
