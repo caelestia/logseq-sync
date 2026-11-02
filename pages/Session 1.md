@@ -42,8 +42,13 @@
 	- By the same reason as the above proof, $C$ is not rational implies $\ell(p)=1$. Thus
 	- $$\ell(K_C-p)=g-1 < \ell(K_C).$$
 	- The result follows.
-- Exercise 1.2.7.
+- LATER Exercise 1.2.7.
+  :LOGBOOK:
+  CLOCK: [2026-11-02 Mon 03:54:09]--[2026-11-02 Mon 03:54:09] =>  00:00:00
+  :END:
 - A complex torus is a connected compact Lie group over $\mathbb C$.
--
+- Theorem 1.2.8. Every complex torus $A$ is commutative and the holomorphic exponential map $\exp:T_0A \to A$ is a surjective homomorphism with kernel a lattice $\Lambda$.
+	- Proof.
+	-
 - ### 1.5
 - Exercise 1.5.2. Faithfully flat descent. https://stacks.math.columbia.edu/tag/01JT
