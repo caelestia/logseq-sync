@@ -33,6 +33,7 @@
 	- Define another map $B:C \longrightarrow \mathrm{Pic}^0(C)$ as $B(x)=[\mathcal{O}_C(x-p)]$.
 	- Theorem: $A=B$ under the above identification of the codomain.
 		- Proof.
-	-
+- Corollary. The Abel--Jacobi map $A$ is injective.
+	- Proof. If $D$ is any divisor of degree $0$, and $A(D)=0$, then $B(D)=[\mathcal{O}(D)]=0$, i.e. $
 - Exercise 1.2.7.
 - A complex torus is a connected compact Lie group over $\mathbb C$.
