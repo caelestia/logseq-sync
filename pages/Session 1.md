@@ -11,6 +11,7 @@
 		- $i:\mathrm{GL}_n \longrightarrow \mathrm{GL}_n$ is the inversion, i.e. $X_{ij} \mapsto [(Y_{\alpha\beta})^{-1}]_{ij}$.
 	- Finally the constant $\Z$-group associated to a finite group $G$ is given by
 	- $G_\Z = \coprod_{g\in G}\operatorname{Spec}\Z$, where the multiplication is given by commuting the (finite!) coproducts with the fiber product and then mapping the $(g,h)$ component to the $gh$ component.
+- Remark 1.1.7. By smoothness, it suffices to check the group-scheme axioms for such given data on $X$ on $\bar k$-points.
 - Exercise 1.1.9.
 	- View the tangent space as $T_eG := \big[G(k[\varepsilon])\overset{\,\varepsilon\mapsto0\,}{\longrightarrow} G(k)\big]^{-1}e$, where $k[\varepsilon]:=k[\varepsilon]/(\varepsilon^2)$.
 	- The map $\varphi:= dm_{(e,e)}$ is $k$-linear, so $\varphi$ commutes with [the addition]([[Zariski tangent space]]) on $T_eG$.
