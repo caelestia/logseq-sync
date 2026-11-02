@@ -4,4 +4,6 @@
 - ---
 - Proof. Let $f:G\to H$ be the homomorphism.
 - By definition $\exp$ is an isomorphism between open neighborhoods of $0$ and $e$. It suffices to show uniqueness in this open.
--
+- Let $v\in T_eG$. I claim that
+- $$f(\exp_G(v)) = \exp_H ((df)_e v)$$
+- Indeed, $\exp_H(t w)$ is the unique one-parameter subgroup in #$
