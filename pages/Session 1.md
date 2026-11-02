@@ -13,7 +13,7 @@
 	- $G_\Z = \coprod_{g\in G}\operatorname{Spec}\Z$, where the multiplication is given by commuting the (finite!) coproducts with the fiber product and then mapping the $(g,h)$ component to the $gh$ component.
 - An abelian variety over $k$ is a smooth, connected, proper $k$-group $X$. In particular, there are morphisms $m:X\times X\to X$, $e\in X(k)$, $i:X\to X$ satisfying the group-scheme axioms.
 - Remark 1.1.7. By smoothness, it suffices to check the group-scheme axioms for such given data on $X$ on $\bar k$-points.
-	- Proof. The only part of smoothness we use is $X_{\bar k}$ is reduced. We use the following simple fact:
+	- Proof. The part of smoothness we use is $X_{\bar k}$ is reduced. We use the following simple fact:
 	- Let $f, g:Y \to Z$ be a morphism of $\bar k$-schemes, $Y$ is reduced of finite type and $Z$ is separated. Then
 	- $$f|_{Y(\bar k)}=g|_{Z(\bar k)} \implies f=g.$$
 	- To see this, define $E=\mathrm{eq}(f,g)$ which is a closed subscheme of $Y$ by separatedness of $Z$. Since $Y$ is of finite type over $\bar k$, its $\bar k$-points are exactly its closed points, and they form a dense subset (Zariski's Lemma). Thus $E$ has the same underlying topological space as $Y$. Since $Y$ is reduced, $E=Y$, and so $f=g$.
