@@ -11,7 +11,9 @@
 		- $i:\mathrm{GL}_n \longrightarrow \mathrm{GL}_n$ is the inversion, i.e. $X_{ij} \mapsto [(Y_{\alpha\beta})^{-1}]_{ij}$.
 	- Finally the constant $\Z$-group associated to a finite group $G$ is given by
 	- $G_\Z = \coprod_{g\in G}\operatorname{Spec}\Z$, where the multiplication is given by commuting the (finite!) coproducts with the fiber product and then mapping the $(g,h)$ component to the $gh$ component.
+- An abelian variety over $k$ is a smooth, connected, proper $k$-group $X$. In particular, there are morphisms $m:X\times X\to X$, $e\in X(k)$, $i:X\to X$ satisfying the group-scheme axioms.
 - Remark 1.1.7. By smoothness, it suffices to check the group-scheme axioms for such given data on $X$ on $\bar k$-points.
+	- Proof.
 - Exercise 1.1.9.
 	- View the tangent space as $T_eG := \big[G(k[\varepsilon])\overset{\,\varepsilon\mapsto0\,}{\longrightarrow} G(k)\big]^{-1}e$, where $k[\varepsilon]:=k[\varepsilon]/(\varepsilon^2)$.
 	- The map $\varphi:= dm_{(e,e)}$ is $k$-linear, so $\varphi$ commutes with [the addition]([[Zariski tangent space]]) on $T_eG$.
@@ -55,4 +57,4 @@
 		- [Proof]([[Lie group homomorphism is determined by derivative at identity]])
 	- This implies $c_g=\mathrm{id}$ for all $g$, so $A$ is commutative and $\exp$ is a homomorphism. Its image is then an open subgroup of $A$, which must be all of $A$ by connectedness. Since the derivative at $0$ is an isomorphism, the kernel is discrete. Thus the kernel must be a full lattice. QED
 - ### 1.5
-- Exercise 1.5.2. Faithfully flat descent. https://stacks.math.columbia.edu/tag/01JT
+- Exercise 1.5.2. Faithfully flat descent. Have a direct proof using https://stacks.math.columbia.edu/tag/01JT
