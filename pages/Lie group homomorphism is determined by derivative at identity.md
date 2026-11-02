@@ -1,0 +1,5 @@
+- We will prove that:
+- A homomorphism between connected Lie groups is uniquely determined by the derivative at $e$.
+- Using the definition of the exponential map via one-parameter subgroups.
+- Proof.
+-
