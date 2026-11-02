@@ -19,7 +19,7 @@
 	- The zero tangent vector at $e$ is exactly the image $\bar e$ of $e$ under $G(k)\to G(k[\varepsilon])$.
 	- Thus the identity $m_{k[\varepsilon]}(\bar e, \mathrm{id}) = \mathrm{id} = m_{k[\varepsilon]}(\mathrm{id}, \bar e)$ on $G(k[\varepsilon])$ shows that $\bar e$ is an identity for $dm_{(e,e)}$ as desired.
 - ### 1.2
-- Let $C$ be a compact Riemann surface with genus $g>0$.
+- Let $C$ be a compact Riemann surface with genus $g>0$. Recall that $C$ is then projective.
 - Let $\Omega^1(C)$ be the vector space of holomorphic $1$-forms. Then $H^{1,0}\simeq\Omega^1(C)$ and $H^{0,1}\simeq\overline{\Omega^1(C)}$.
 - Exercise 1.2.4. It suffices to show that the period map $H_1(C,\R) \to \Omega^1(C)^\vee$ is injective, and the result follows from comparing dimensions. By Hodge decomosition $H^1(C,\mathbb C)=\Omega^1(C) \oplus \overline{\Omega^1(C)}$, every closed $1$-form can be (uniquely in this case) written as the sum of a holomorphic $1$-form $\alpha$ and an antiholomorphic $1$-form $\beta$. Therefore, if a *real* cycle $\gamma$ goes to $0$ under the period map, then $\int_\gamma\alpha=0$ and $\int_\gamma\bar\beta=\overline{\int_\gamma\beta}=0$. However, by Poincare duality, the integral pairing between $H_1(C,\R)$ and $H^1(C,\mathbb C)$ is non-degenerate. Thus $\gamma=0$.
 - Let $A:C \longrightarrow J_C := \Omega^1(C)^\vee / H_1(C,\Z)$ be the Abel--Jacobi map (for some fixed base point $p$).
@@ -37,10 +37,10 @@
 - Corollary. The Abel--Jacobi map $A$ is injective.
 	- Proof. If $D$ is any divisor of degree $0$, and $A(D)=0$, then $B(D)=[\mathcal{O}(D)]=0$, i.e. $D$ is principal. If $A(p)=A(q)$, this implies the existence of a meromorphic function on $C$ with exactly one simple pole. This means $C$ is rational, a contradiction.
 - Theorem. The Abel--Jacobi map $A$ is a closed embedding with a smooth image.
-	- Proof. The derivative is given by $dA(v)(\omega)=\omega_x(v)$ for all $v\in T_xC$. Therefore it suffices to prove that, for any $x\in C$, there is some $\omega\in\Omega^1(C)$ such that $\omega_x\neq0$, i.e. . By Riemann--Roch,
+	- Proof. The derivative is given by $dA(v)(\omega)=\omega_x(v)$ for all $v\in T_xC$. Therefore it suffices to prove that, for any $x\in C$, there is some $\omega\in\Omega^1(C)$ such that $\omega_x\neq0$, in other words, that $|K_C|$ is basepoint-free. By Riemann--Roch,
 	- $$\ell(p)-\ell(K_C-p)=\deg(p)-g+1=2-g.$$
 	- By the same reason as the above proof, $C$ is not rational implies $\ell(p)=1$. Thus
 	- $$\ell(K_C-p)=g-1 < \ell(K_C).$$
-	-
+	- The result follows.
 - Exercise 1.2.7.
 - A complex torus is a connected compact Lie group over $\mathbb C$.
