@@ -48,6 +48,6 @@
   :END:
 - A complex torus is a connected compact Lie group over $\mathbb C$.
 - Theorem 1.2.8. Every complex torus $A$ is commutative and the holomorphic exponential map $\exp:T_0A \to A$ is a surjective homomorphism with kernel a lattice $\Lambda$.
-	- Proof. If $The adjoint representation defined by
+	- Proof. If $g\in G$, put $c_g:G\to G$, $a\mapsto gag^{-1}$. Let $\mathfrak{g}=T_eG$. The adjoint representation is defined by
 - ### 1.5
 - Exercise 1.5.2. Faithfully flat descent. https://stacks.math.columbia.edu/tag/01JT
