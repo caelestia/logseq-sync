@@ -36,5 +36,7 @@
 		- Proof.
 - Corollary. The Abel--Jacobi map $A$ is injective.
 	- Proof. If $D$ is any divisor of degree $0$, and $A(D)=0$, then $B(D)=[\mathcal{O}(D)]=0$, i.e. $D$ is principal. If $A(p)=A(q)$, this implies the existence of a meromorphic function on $C$ with exactly one simple pole. This means $C$ is rational, a contradiction.
+- Theorem. The Abel--Jacobi map $A$ is a closed embedding with a smooth image.
+	- Proof.
 - Exercise 1.2.7.
 - A complex torus is a connected compact Lie group over $\mathbb C$.
