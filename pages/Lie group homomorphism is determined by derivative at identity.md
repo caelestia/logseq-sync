@@ -1,5 +1,7 @@
-- We will prove that:
+- We will prove the following "ridigity" result:
 - A homomorphism between connected Lie groups is uniquely determined by the derivative at $e$.
 - Using the definition of the exponential map via one-parameter subgroups.
-- Proof. Let $f:G\to H$ be the homomorphism, $
-- By definition $\exp$ is an isomorphism between open neighborhoods of $0$ and $e$. It suffices to
+- ---
+- Proof. Let $f:G\to H$ be the homomorphism.
+- By definition $\exp$ is an isomorphism between open neighborhoods of $0$ and $e$. It suffices to show uniqueness in this open.
+-
