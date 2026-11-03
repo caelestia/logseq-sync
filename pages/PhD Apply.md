@@ -18,7 +18,7 @@
 - [[Utah]]
 - [[Dartmouth]] (nice location)
 - [[OSU]]
-- [[University of Georgia]]
+- [[UIC]]
 - ## Masters (if funded only)
 - ALGANT
 - Part iii
