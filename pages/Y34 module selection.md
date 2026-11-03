@@ -18,7 +18,7 @@
 	- credit
 - [[Algebra 4 - B. Briggs]]
 	- credit
-	- **coursework due 6 Nov**
+	- **coursework1 due 6 Nov**
 - ## Term 2
 - ## Y3
 - Fourier Analysis and Theory of Distributions - I. Krasovsky
