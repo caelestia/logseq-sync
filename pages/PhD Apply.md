@@ -12,13 +12,13 @@
 - [[Northwestern]]
 - [[U of Maryland]]
 - ## Tier 3
-- [[UW]]
 - [[UIUC]]
 - [[Purdue]]
 - [[Utah]]
 - [[Dartmouth]] (nice location)
 - [[OSU]]
 - [[UIC]]
+- [[UW]]
 - ## Masters (if funded only)
 - ALGANT
 - Part iii
