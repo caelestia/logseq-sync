@@ -7,7 +7,7 @@
 - #+BEGIN_CENTER
    ![](../assets/tikz/square.svg){:height 144, :width 132}
   #+END_CENTER
-- #+BEGIN_EXAMPLE
-  
-  #+END_EXAMPLE
+- #+BEGIN_COMMENT
+  something
+  #+END_COMMENT
 -
