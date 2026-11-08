@@ -5,5 +5,7 @@
   for all $y\in Y$ and $n\geq0$.
 	- This is a special case of the [[Proper base change theorem]].
 - ### Proof
-- It suffices to prove the statement for $n=0$.
--
+- It suffices to prove the statement for $n=0$. We will prove that the restriction map
+  $$
+  (f_!)
+  $$
