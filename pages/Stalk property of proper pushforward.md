@@ -7,5 +7,8 @@
 - ### Proof
 - It suffices to prove the statement for $n=0$. We will prove that the restriction map
   $$
-  (f_!)
+  (f_!\mc F)_y \longto \Gamma_c(F_y,\mc F)
   $$
+  is a bijection.
+- ### Injectivity
+- Let $W$ be a nhood of $y$ and $s:f^{-1}
