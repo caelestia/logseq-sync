@@ -3,4 +3,7 @@
   (R^nf_!\mc F)_y = H_c^n(F_y, \mc F|_{F_y})
   $$
   for all $y\in Y$ and $n\geq0$.
-- This is a special case of the [proper base change theorem]
+	- This is a special case of the [[Proper base change theorem]].
+- ### Proof
+- It suffices to prove the statement for $n=0$.
+-
