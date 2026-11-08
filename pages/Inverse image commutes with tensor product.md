@@ -28,4 +28,4 @@
 - ## About the direct image
 - In general, $f_*$ is only lax monoidal,
 - $$f_*\mathcal F\otimes f_*\mathcal G \longrightarrow f_*(\mathcal F\otimes\mathcal G)$$
-- $
+-
