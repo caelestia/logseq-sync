@@ -1,1 +1,2 @@
+- reference: Kashiwara--Schapira
 - [[Stalk property of proper pushforward]]
