@@ -421,4 +421,5 @@
  :file/name-format :triple-lowbar
  :journal/page-title-format "yyyy/MM/dd"
  :feature/enable-journals? false
- :default-home {:page "Contents"}}
+ :default-home {:page "Contents"}
+ :ui/show-brackets? false}
