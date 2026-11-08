@@ -4,4 +4,10 @@
 - [[Kahler identities]], [[Nakano identities]]
 - [[Vanishing theorems]]
 - [[Kodaira Embedding Theorem]]
-	- ![a](../assets/tikz/square.svg){:height 208, :width 239}
+- #+BEGIN_CENTER
+   ![](../assets/tikz/square.svg){:height 144, :width 132}
+  #+END_CENTER
+- #+BEGIN_EXAMPLE
+  
+  #+END_EXAMPLE
+-
