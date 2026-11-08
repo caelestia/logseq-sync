@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1794126947.05992 "square.tex" ".build/square.pdf" "square" 1794126947.89951 0
-  ".build/square.aux" 1794126947.81473 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+["pdflatex"] 1794127024.78569 "square.tex" ".build/square.pdf" "square" 1794127025.67514 2
+  ".build/square.aux" 1794127025.59579 8 a94a2480d3289e625eea47cd1b285758 "pdflatex"
   "/usr/local/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1461363279 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "/usr/local/texlive/2025/texmf-dist/tex/generic/iftex/ifluatex.sty" 1572645307 492 1994775aa15b0d1289725a0b1bbc2d4c ""
   "/usr/local/texlive/2025/texmf-dist/tex/generic/iftex/iftex.sty" 1734129479 7984 7dbb9280f03c0a315425f1b4f35d43ee ""
@@ -97,7 +97,7 @@
   "/usr/local/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1755396052 3605802 75ce034f9d97f64ecd922f42cd360c40 ""
   "/usr/local/texlive/2025/texmf.cnf" 1755395979.11691 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
   "commands.sty" 1794126921.95437 3644 56e4ecb7db0a7b65d9ddd497ff053695 ""
-  "square.tex" 1794126944.51468 161 ca305819ad57a3b430be9050d869b79b ""
+  "square.tex" 1794127024.02777 166 921c0839288305d04b872105643c8f67 ""
   (generated)
   ".build/square.aux"
   ".build/square.log"
