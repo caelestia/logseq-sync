@@ -1,0 +1,1 @@
+- [[Stalk property of proper pushforward]]

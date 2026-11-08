@@ -1,0 +1,2 @@
+- Let $k$ be a commutative ring, all sheaves are over $k$.
+- Thm.
