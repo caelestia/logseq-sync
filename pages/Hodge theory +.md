@@ -4,4 +4,3 @@
 - [[Kahler identities]], [[Nakano identities]]
 - [[Vanishing theorems]]
 - [[Kodaira Embedding Theorem]]
--
