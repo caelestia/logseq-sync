@@ -2,15 +2,11 @@
 - [[UROP]]
 - [[M3R]]
 - [[Number theory]]
-- First Course
-	- [[Sheaf cohomology]]
 - [[Imperial]]
 - [[PhD Apply]]
-- Groups
-	- [[Locally compact groups]]
-	- [[Completion]]
-	- [[Birkhoff–Kakutani theorem]]
-	- [[Cup product of group cohomology]]
+- [[Groups]]
+- First Course
+	- [[Sheaf cohomology]]
 - [[Analysis]]
 - [[Topology]]
 - Geometry
