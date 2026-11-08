@@ -1,9 +1,10 @@
 # Fdb version 4
-["pdflatex"] 1794125745.26895 "square.tex" ".build/square.pdf" "square" 1794125746.30056 0
-  ".build/square.aux" 1794125746.18993 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+["pdflatex"] 1794125765.42052 "square.tex" ".build/square.pdf" "square" 1794125766.41797 0
+  ".build/square.aux" 1794125766.31819 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
   "/home/yw/.texlive2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1791023133 27875 2a1d58d20cfc4fd40b20c88737a6392e ""
   "/usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1248133631 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
   "/usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb" 1248133631 36281 c355509802a035cadc5f15869451dcee ""
+  "/usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1248133631 35752 024fb6c41858982481f6968b5fc26508 ""
   "/usr/local/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1461363279 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "/usr/local/texlive/2025/texmf-dist/tex/generic/iftex/ifluatex.sty" 1572645307 492 1994775aa15b0d1289725a0b1bbc2d4c ""
   "/usr/local/texlive/2025/texmf-dist/tex/generic/iftex/iftex.sty" 1734129479 7984 7dbb9280f03c0a315425f1b4f35d43ee ""
@@ -99,7 +100,7 @@
   "/usr/local/texlive/2025/texmf-dist/web2c/texmf.cnf" 1749313668 42213 4e2ca030e8e2640502016e9e45868dcb ""
   "/usr/local/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1755396052 3605802 75ce034f9d97f64ecd922f42cd360c40 ""
   "/usr/local/texlive/2025/texmf.cnf" 1755395979.11691 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
-  "square.tex" 1794125744.37791 199 d5d54e5659c9746b698af38ff6cf451e ""
+  "square.tex" 1794125764.44217 201 58c8d5080910caccded9cdab36fa6076 ""
   (generated)
   ".build/square.aux"
   ".build/square.log"

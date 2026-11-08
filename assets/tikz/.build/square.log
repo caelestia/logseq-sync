@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.8.17)  8 NOV 2026 08:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.8.17)  8 NOV 2026 08:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -447,7 +447,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 
 Non-PDF special ignored!
-<special> papersize=64.66599pt,58.24715pt
+<special> papersize=84.2432pt,58.24715pt
 {/home/yw/.texlive2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 (.build/square.aux)
  ***********
@@ -458,17 +458,18 @@ L3 programming layer <2025-08-13>
 Here is how much of TeX's memory you used:
  13298 strings out of 467800
  288409 string characters out of 5431888
- 661300 words of memory out of 5000000
+ 661309 words of memory out of 5000000
  41731 multiletter control sequences out of 15000+600000
  626825 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  116i,15n,121p,450b,951s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
-></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb>
-Output written on .build/square.pdf (1 page, 19071 bytes).
+></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><
+/usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on .build/square.pdf (1 page, 27270 bytes).
 PDF statistics:
- 21 PDF objects out of 1000 (max. 8388607)
- 13 compressed objects within 1 object stream
+ 26 PDF objects out of 1000 (max. 8388607)
+ 16 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
