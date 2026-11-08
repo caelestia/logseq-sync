@@ -1,0 +1,99 @@
+#!/usr/bin/env bash
+
+set -u
+
+find_latexmk() {
+  if command -v latexmk >/dev/null 2>&1; then
+    command -v latexmk
+    return 0
+  fi
+
+  local candidate
+  for candidate in /usr/local/texlive/*/bin/*/latexmk; do
+    if [[ -x "$candidate" ]]; then
+      printf '%s\n' "$candidate"
+      return 0
+    fi
+  done
+
+  return 1
+}
+
+latexmk_bin="$(find_latexmk)" || {
+  printf 'build-tikz: latexmk was not found.\n' >&2
+  exit 127
+}
+latexmk_dir="$(dirname -- "$latexmk_bin")"
+
+pdf2svg_bin="$(command -v pdf2svg)" || {
+  printf 'build-tikz: pdf2svg was not found.\n' >&2
+  exit 127
+}
+
+if (( $# == 0 )); then
+  shopt -s nullglob
+  sources=(./*.tex)
+  set -- "${sources[@]}"
+fi
+
+if (( $# == 0 )); then
+  printf 'build-tikz: no .tex files found.\n' >&2
+  exit 1
+fi
+
+status=0
+
+for source in "$@"; do
+  if [[ ! -f "$source" ]]; then
+    printf 'build-tikz: not a file: %s\n' "$source" >&2
+    status=1
+    continue
+  fi
+
+  source_abs="$(realpath -- "$source")"
+  source_dir="$(dirname -- "$source_abs")"
+  source_name="$(basename -- "$source_abs")"
+
+  if [[ "$source_name" != *.tex ]]; then
+    printf 'build-tikz: expected a .tex file: %s\n' "$source" >&2
+    status=1
+    continue
+  fi
+
+  stem="${source_name%.tex}"
+  build_dir="$source_dir/.build"
+  pdf_file="$build_dir/$stem.pdf"
+  svg_file="$source_dir/$stem.svg"
+  temp_svg="$source_dir/.$stem.svg.tmp.$$"
+
+  mkdir -p -- "$build_dir"
+  printf '\nBuilding %s\n' "$source_abs"
+
+  if ! (
+    cd -- "$source_dir" &&
+      PATH="$latexmk_dir:$PATH" "$latexmk_bin" \
+        -pdf \
+        -g \
+        -halt-on-error \
+        -interaction=nonstopmode \
+        -file-line-error \
+        -outdir=.build \
+        "$source_name"
+  ); then
+    printf 'build-tikz: LaTeX failed; keeping the previous SVG.\n' >&2
+    status=1
+    continue
+  fi
+
+  if ! "$pdf2svg_bin" "$pdf_file" "$temp_svg"; then
+    printf 'build-tikz: PDF-to-SVG conversion failed; keeping the previous SVG.\n' >&2
+    rm -f -- "$temp_svg"
+    status=1
+    continue
+  fi
+
+  mv -f -- "$temp_svg" "$svg_file"
+  printf 'Updated %s\n' "$svg_file"
+done
+
+exit "$status"

@@ -1,0 +1,104 @@
+#!/usr/bin/env python3
+
+from __future__ import annotations
+
+import subprocess
+import sys
+import time
+from pathlib import Path
+
+
+ROOT = Path(__file__).resolve().parent
+BUILDER = ROOT / "build-tikz"
+POLL_SECONDS = 0.4
+DEBOUNCE_SECONDS = 0.35
+
+
+def fingerprint(path: Path) -> tuple[int, int]:
+    stat = path.stat()
+    return stat.st_mtime_ns, stat.st_size
+
+
+def sources() -> dict[Path, tuple[int, int]]:
+    result: dict[Path, tuple[int, int]] = {}
+    for path in ROOT.rglob("*.tex"):
+        relative_parts = path.relative_to(ROOT).parts
+        if any(part.startswith(".") for part in relative_parts[:-1]):
+            continue
+        try:
+            result[path] = fingerprint(path)
+        except FileNotFoundError:
+            # An editor may replace a file between the directory scan and stat.
+            pass
+    return result
+
+
+def output_for(source: Path) -> Path:
+    return source.with_suffix(".svg")
+
+
+def needs_initial_build(source: Path) -> bool:
+    output = output_for(source)
+    try:
+        return output.stat().st_mtime_ns < source.stat().st_mtime_ns
+    except FileNotFoundError:
+        return True
+
+
+def build(source: Path) -> None:
+    stamp = time.strftime("%H:%M:%S")
+    print(f"[{stamp}] Change detected: {source.relative_to(ROOT)}", flush=True)
+    completed = subprocess.run([str(BUILDER), str(source)], check=False)
+    if completed.returncode:
+        print(
+            f"Build failed for {source.relative_to(ROOT)}; "
+            "waiting for the next save.",
+            file=sys.stderr,
+            flush=True,
+        )
+
+
+def main() -> int:
+    if not BUILDER.is_file():
+        print(f"Missing build helper: {BUILDER}", file=sys.stderr)
+        return 1
+
+    known = sources()
+    pending: dict[Path, float] = {
+        path: time.monotonic() for path in known if needs_initial_build(path)
+    }
+
+    print(f"Watching {ROOT} recursively for .tex saves.", flush=True)
+    print("Press Ctrl+C to stop.", flush=True)
+
+    try:
+        while True:
+            now = time.monotonic()
+            current = sources()
+
+            for path, stamp in current.items():
+                if known.get(path) != stamp:
+                    pending[path] = now + DEBOUNCE_SECONDS
+
+            for path in set(known) - set(current):
+                pending.pop(path, None)
+
+            known = current
+
+            ready = sorted(
+                path
+                for path, ready_at in pending.items()
+                if ready_at <= now and path in current
+            )
+            for path in ready:
+                pending.pop(path, None)
+                build(path)
+
+            time.sleep(POLL_SECONDS)
+    except KeyboardInterrupt:
+        print("\nWatcher stopped.", flush=True)
+        return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())
