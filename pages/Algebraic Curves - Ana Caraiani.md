@@ -4,3 +4,4 @@
 	- Thursday 12 am–1 pm, Huxley 139
 	- Friday 9–10 am, Huxley 140
 - Assessment 10% In-class Test on **10 November**
+- [[Algebraic Curves notes]]
