@@ -32,5 +32,7 @@
   #+END_CENTER
 - Since $\supp \tilde s \subset \overline V$ is compact, this defines an element of $(f_!\mc F)(W)$ which maps to $s$, as desired.
 - QED
+- ### A slick proof for surjectivity
+-
 - ## Upgrade to derived category
 - LATER
