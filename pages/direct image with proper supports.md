@@ -17,5 +17,5 @@
 - Proposition. $\mc F$ is c-soft iff for every closed $Z\subset X$, the restriction $\Gamma_c(X,\mc F)\to\Gamma_c(Z,\mc F|_Z)$ is surjective.
 	- Proof. [[Equivalent definition of c-soft]].
 - Proposition. If $\mc F$ is c-soft and $f:X\to Y$ is a continuous map, then $f_!\mc F$ is c-soft.
-	- Proof. By the previous,
+	- Proof. By the previous, it suffice to show $\Gamma_c(Y,f_!\mc F) \to \Gamma_c(Z,f_!\mc F
 -
