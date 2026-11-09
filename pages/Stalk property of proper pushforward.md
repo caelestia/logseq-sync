@@ -17,5 +17,6 @@
 - ### Surjectivity
 - Let $s\in\Gamma_c(F_y,\mc F)$. Put $K=\operatorname{supp}s$.
 - By [[Sections over compact subset]], we have
-  $$\varinjlim_{U\sup K}\Gamma(U,\mc F) = \Gamma(K,\mc F)$$
+  $$\varinjlim_{U\supset K}\Gamma(U,\mc F) = \Gamma(K,\mc F),$$
+  so there is $U\supset K$ and $t\in\mc F(U)$ such that $t|_{K}=s|_K$.
 -
