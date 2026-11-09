@@ -37,4 +37,5 @@
   $$
   ((g')^{-1}f_! \mc F)_x \simeq (f_! \mc F)_{g'(x)} \simeq \Gamma_c(f^{-1}(g'(x)),\mc F).
   $$
-- Observe that $f'$ restricts to a homeomorphism $(f')^{-1}(x) \longto f^{-1}(g'(x))$, thus
+- Observe that $g$ restricts to a homeomorphism $(f')^{-1}(x) \longto f^{-1}(g'(x))$. Thus
+  $$((g')f_!\mc F)_x \simeq \Gamma_c((f')^{-1}(x),(f')^{-1}\mc F) \simeq $$
