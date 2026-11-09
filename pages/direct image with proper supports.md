@@ -11,4 +11,4 @@
   \text{injective} \implies \text{flasque} \implies \text{c-soft} \implies f_!\text{-acyclic}
   $$
 - The first $\implies$ is well-known and the second is [[Sections over compact subset]]. For the third one we need some lemmas first.
-- Proposition.
+- Proposition. $\mc F$ is c-soft iff for every closed $Z\subset X$, the restriction $\Gamma_c(X,\mc F
