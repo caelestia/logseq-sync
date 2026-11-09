@@ -1,7 +1,8 @@
 - We consider three definitions for proper maps: Let $f:X\to Y$,
-- (a) $f$ is universally closed;
-- (b) $f
--
+- (a) $f$ is universally closed (Bourbaki definition);
+- (b) $f$ is closed with compact fibers;
+- (c) the preimage of compact subsets are compact.
+	- "compact" always mean quasi-compact + Hausdorff.
 -
 - ## LCH spaces
--
+- Thm. If $X$ and $Y$ are
