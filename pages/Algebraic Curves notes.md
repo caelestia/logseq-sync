@@ -10,6 +10,8 @@
 - Define $V(I)$, and showed that if $I=\langle f_1,\cdots,f_m \rangle$, then $V(I) = V(f_1,\cdots,f_m)$.
 - Lemma. If $V_1$ and $V_2$ are affine algebraic sets in $k^n$, then their intersection and union are affine algebraic sets.
 	- Proof. $V(I_1 + I_2) = V(I_1)\cap V(I_2)$ and $V(I_1I_2) = V(I_1)\cup V(I_2)$.
-- ###
+- ### points
 - Prop. If $k$ is alg closed, then any plane curve $C \subset k^2$ has infinitely many points.
+- ### irreducible
+- A plane curve $C$ is called *irreducible* if every time we write $C=V_1 \cup V_2$ as a union of plane curves, then $C=V_1$ or $C=V_2$.
 -
