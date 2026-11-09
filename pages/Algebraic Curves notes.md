@@ -16,4 +16,10 @@
 - Stated the [weak Nullstellensatz]([[Nullstellensatz]]): If $k$ is alg closed, then $V(I)=\varnothing$ iff $1\in I$.
 - Prop. Let $k$ be alg closed, $f$, $g\in k[x_1,\cdots,x_n]$. If $f$ is irreducible and $V(f)\subset V(g)$, then $f\mid g$.
 	- Proof. Use the Rabinowitsch trick: adding an extra variable $t$, we have $V(f,tg-1)=\varnothing$, so by weak Nullstellensatz, $1\in\langle f,tg-1\rangle$.
+	- This means there are $a,b\in k[x_1,\cdots,x_n,t]$ such that $af+b(tg-1)=1$.
+	- Now take $t=1/g$, resulting in the rational expression
+	  $$
+	  a(x_1,\cdots,x_n,g^{-1})f(x_1,\cdots,x_n) = 1,
+	  $$
+	  and clear the denominators
 	-
