@@ -33,6 +33,10 @@
 - Since $\supp \tilde s \subset \overline V$ is compact, this defines an element of $(f_!\mc F)(W)$ which maps to $s$, as desired.
 - QED
 - ### A slick proof for surjectivity
-- We can avoid the above construction as follows. First, surjectivity is clear for c-soft sheaves, because any section extends to a compactly supported global section. For a general sheaf, take $2an injective resolution
+- We can avoid the above construction as follows. First, surjectivity is clear for c-soft sheaves, because any section extends to a compactly supported global section. For a general sheaf $\mc F$, take $2$ steps of an injective resolution
+  $$
+  0 \longto \mc F \longto \mc I \longto \mc J
+  $$
+  Since both functors are left exact,
 - ## Upgrade to derived category
 - LATER
