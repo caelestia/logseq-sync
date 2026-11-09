@@ -14,4 +14,6 @@
 - Prop. If $k$ is alg closed, then any plane curve $C \subset k^2$ has infinitely many points.
 - A plane curve $C$ is called *irreducible* if every time we write $C=V_1 \cup V_2$ as a union of plane curves, then $C=V_1$ or $C=V_2$.
 - Stated the [weak Nullstellensatz]([[Nullstellensatz]]): If $k$ is alg closed, then $V(I)=\varnothing$ iff $1\in I$.
+- Prop. Let $k$ be alg closed, $f$, $g\in k[x_1,\cdots,x_n]$. If $f$ is irreducible and $V(f)\subset V(g)$, then $f\mid g$.
+	- Proof.
 -
