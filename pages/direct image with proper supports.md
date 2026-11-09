@@ -25,4 +25,7 @@
 	- Proof. [[Equivalent definition of c-soft]].
 - Proposition. If $\mc F$ is c-soft and $f:X\to Y$ is a continuous map, then $f_!\mc F$ is c-soft.
 	- Proof. [[f_! preserves c-softness]]
-- Corollary. We have $R$
+- Corollary. We have $R(g\circ f)_! = Rg_! \circ Rf_!$. In language of spectral sequences, this gives
+  $$
+  E_2^{p,q} = R^pg_! \circ R^qf_! (X) \implies R^{p+q}
+  $$
