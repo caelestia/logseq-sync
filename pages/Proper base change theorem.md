@@ -29,4 +29,7 @@
   $$
 - Start with the unit $\id_{\msf{Sh}(X,k)} \longto g_*g^{-1}$.
 - Compose with $f_!$, we get $f_! \longto f_! g_* g^{-1}$.
+- Compose with the natural transformation constructed in Step 1, we get $f_! \longto g'_* f'_! g^{-1}$.
+- Compose with $(g')^{-1}$ and compose with the counit, we get $(g')^{-1}f_! \longto (g')^{-1}g'_* f'_! g^{-1} \longto f'_! g^{-1}$.
+- ### Step 3
 -
