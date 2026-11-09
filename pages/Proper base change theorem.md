@@ -33,7 +33,8 @@
 - Compose with $(g')^{-1}$ and compose with the counit, we get $(g')^{-1}f_! \longto (g')^{-1}g'_* f'_! g^{-1} \longto f'_! g^{-1}$.
 - ### Step 3
 - Finally, we show that this is a natural isomorphism on stalks.
-- We have
+- For any $x\in Y'$, we have
   $$
-  ((g')^{-1}f_! \mc F)_x \simeq (f_! \mc F)_{g'(x)} \simeq \Gamma_c(f^{-1}(g'(x)),\mc F)$.
-- $$
+  ((g')^{-1}f_! \mc F)_x \simeq (f_! \mc F)_{g'(x)} \simeq \Gamma_c(f^{-1}(g'(x)),\mc F).
+  $$
+- Observe that $f'$ restricts to a homeomorphism $(f')^{-1}(x) \longto f^{-1}($
