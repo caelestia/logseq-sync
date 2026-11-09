@@ -5,4 +5,10 @@
   $$
   (g')^{-1} f_! \longto f'_! g^{-1}.
   $$
+- ## Proof
+- ### Step 1
+- We construct a natural transformation
+  $$
+  f_! g_* \longto g'_* f'_!
+  $$
 -
