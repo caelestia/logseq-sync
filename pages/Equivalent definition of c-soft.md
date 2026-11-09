@@ -8,5 +8,5 @@
 - Define a compact subset $K=\partial U \cup(Z\cap \overline U)$, and a section on $K$ given by $0$ on $\partial U$ and $s$ on $Z\cap\overline U$.
 - $\mc F$ is c-soft, so we can extend this to a global section $s$.
 - But then $s|_{\partial U}=0$, so we can assume $s$ is supported in $\overline U$.
-	-
+	- This is an instance of gluing continuous maps over the locally finite closed cover $X=\overline U \cup (X\setminus U)$
 - QED
