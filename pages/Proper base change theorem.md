@@ -17,4 +17,7 @@
 - Observe that $g(\supp s'') \subset \supp s'$.
 	- Say $x\in \supp s''$. Then the stalk of $g_*\mc F$ at $g(x)$ is given by the filtered colimit $\varinjlim_{V\ni x}\Gamma(g^{-1}(V),\mc F)$, so if $s'_{g(x)}=0$ in the colimit, such equality holds already for some $V$, which is impossible for $s''_x\neq0$.
 - I claim that $\supp s'' \subset g^{-1}(\supp s')$ is proper over $(g')^{-1}(U)$. Indeed, we have the Cartesian square
--
+- #+BEGIN_CENTER
+  ![](../assets/tikz/proper-base-change-proof.svg){:height 135, :width 236}
+  #+END_CENTER
+- obtained by replacing $X$ with the closed subset $\supp s'$.
