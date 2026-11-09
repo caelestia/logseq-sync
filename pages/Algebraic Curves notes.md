@@ -38,4 +38,4 @@
 - Affine charts.
 - Say $f\in k[x_1,\cdots,x_n]$ is *homogeneous of degree* $d$ if $f(\lambda x_0,\cdots,\lambda x_n)=\lambda^d f(x_0,\cdots,x_n)$ for all $\lambda\in k$ and $(x_0,\cdots,x_n)\in k^{n+1}$.
 - A *projective variety* is the vanishing locus of some homogeneous polynomials $f_1,\cdots,f_m$.
--
+- ![image.png](../assets/image_1794267265661_0.png)
