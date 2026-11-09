@@ -4,6 +4,8 @@
   (f_!\mc F)(U) = \{s\in\Gamma(f^{-1}(U),\mc F): \operatorname{supp}s \to U \text{ is proper}\}.
   $$
 	- See [definition of proper maps here]([[Proper maps]]).
+- ### support
+- Let $s\in(f_!\mc F)
 - ### composition
 - Proposition. If $f:X\to Y$ and $g:Y\to Z$, we have $(g\circ f)_! = g_! \circ f_!$.
 	- In particular, if $g=p_Y:Y\to\{\text{pt}\}$, this says $\Gamma_c(X,-)=\Gamma_c(Y,f_!-)$.
