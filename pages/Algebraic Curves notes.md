@@ -40,4 +40,5 @@
 - A *projective variety* is the vanishing locus of some homogeneous polynomials $f_1,\cdots,f_m$.
 - Trivial: ![image.png](../assets/image_1794267265661_0.png){:height 185, :width 504}
 - A *projective plane curve* of degree $d>0$ is the set $C=\{[x,y,z]\in\P^2:P(x,y,z)=0\}$ for some non-constant homogeneous $P$ of degree $d$.
+- A projective plane curve over $\C$ is compact.
 -
