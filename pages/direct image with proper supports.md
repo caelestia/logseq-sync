@@ -5,7 +5,10 @@
   $$
 	- See [definition of proper maps here]([[Proper maps]]).
 - ### support
-- Let $s\in(f_!\mc F)
+- Lemma. Let $s\in(f_!\mc F)(U)$, also viewed as a section of $\mc F$ over $f^{-1}(U)$. Then
+  $$\supp_U(s) = f(\supp_{f^{-1}(U)}(s)).$$
+  In particular, this is saying that RHS is closed.
+- Proof. Obvious.
 - ### composition
 - Proposition. If $f:X\to Y$ and $g:Y\to Z$, we have $(g\circ f)_! = g_! \circ f_!$.
 	- In particular, if $g=p_Y:Y\to\{\text{pt}\}$, this says $\Gamma_c(X,-)=\Gamma_c(Y,f_!-)$.
