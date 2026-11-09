@@ -27,7 +27,7 @@
 - Pick $N>d$. Define $b_i = a_i - a_n^{N^i}$ for $i<n$. Then $A=k[b_1,\cdots,b_{n-1},a_n]$ holds.
 - If we fully expand $f$ using multi-indices,
   $$
-  f = \sum_\alpha c_\alpha X^\alpha,
+  f = \sum_\alpha c_\alpha X^\alpha,\qquad c_\alpha\in k,
   $$
   then in $f(a_n^N,a_n^{N^2},\cdots,a_n^{N^{n-1}},a_n)$, every term has a distinct exponent.
--
+- Therefore $f(a_1,\cdots,a_n) = f(b_1+a_n^N,\cdots,b_{n-1}+a_n^{N^{n-1}},a_n)$ is monic in $a_n$ with leading coefficient in $k^\times$.
