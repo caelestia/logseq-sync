@@ -12,14 +12,14 @@
 - So the key step is to perform some change of variables so $f$ becomes monic in $a_n$.
 - ### If $k$ is infinite
 - Let $d=\deg f$ be the total degree of $f$. Let $F_d$ be the highest-degree homogeneous part of $f$.
-- Since $k$ is infinite and $F_d\neq0$, there are constants $c_1,\cdots,c_{n-1}\in k$ such that
+- Since $k$ is infinite and $F_d\neq0$, there are constants $u_1,\cdots,u_{n-1}\in k$ such that
   $$
-  F_d(c_1,\cdots,c_{n-1},1) \neq 0.
+  F_d(u_1,\cdots,u_{n-1},1) \neq 0.
   $$
-- Put $b_i = a_i - c_i a_n$ for all $i<n$. We have $A=k[b_1,\cdots,b_{n-1},a_n]$.
+- Put $b_i = a_i - u_i a_n$ for all $i<n$. We have $A=k[b_1,\cdots,b_{n-1},a_n]$.
 - Now we have
   $$
-  f(a_1,\cdots,a_n) = f(b_1+c_1a_n,\cdots,b_{n-1}+c_{n-1}a_n,a_n) = F_d(c_1,\cdots,c_{n-1},1)a_n^d + O(a_n^{d-1})
+  f(a_1,\cdots,a_n) = f(b_1+u_1a_n,\cdots,b_{n-1}+u_{n-1}a_n,a_n) = F_d(u_1,\cdots,u_{n-1},1)a_n^d + O(a_n^{d-1})
   $$
   as desired.
 - ### For all $k$
@@ -27,5 +27,5 @@
 - Pick $N>d$. Define $b_i = a_i - a_n^{N^i}$ for $i<n$. Then $A=k[b_1,\cdots,b_{n-1},a_n]$ holds.
 - If we fully expand $f$ using multi-indices,
   $$
-  f = \sum_\alpha c_\alpha 
+  f = \sum_\alpha c_\alpha X^\alpha
   $$
