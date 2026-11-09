@@ -15,7 +15,7 @@
 - Suppose $s\in (f_!\mc F)(U)$, i.e. $s\in \mc F(f^{-1}(U))$ satisfies $\operatorname{supp} s\to U$ is proper, and $s|_{F_y}=0$.
 - Then $U\setminus f(\operatorname{supp} s)$ is an open nhood of $y$ such that $s|_V=0$. Thus $s_y=0$.
 - ### Surjectivity
-- Let $s\in\Gamma_c(F_y,\mc F)$. Put $K=\operatorname{supp}s$.
+- Let $s\in\Gamma_c(F_y,\mc F)$. So $K:=\operatorname{supp}s$ is compact.
 - By [[Sections over compact subset]], we have
   $$\varinjlim_{U\supset K}\Gamma(U,\mc F) = \Gamma(K,\mc F),$$
   so there is $U\supset K$ and $t\in\mc F(U)$ such that $t|_{K}=s|_K$.
