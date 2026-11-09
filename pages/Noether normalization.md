@@ -3,5 +3,9 @@
 - ## Proof
 - ### Idea
 - If the generators $a_1,\cdots,a_n$ are alg. indep., there is nothing to prove. So we assume they satisfy a polynomial
-  $$F(a_1,\cdots,a_n) = 0.$$
-- We would like to deduce that $F$ is monic in $a_n$
+  $$f(a_1,\cdots,a_n) = 0.$$
+- We would like to deduce that $f$ is monic in $a_n$,
+  $$
+  a_n^d + g_{d-1}(a_1,\cdots,a_{n-1}) a_n^{d-1} + \cdots + g_0(a_1,\cdots,a_{n-1}) = 0.
+  $$
+- By induction, we can assume $k[a_1,\cdots,a_{n-1}]$ is integral over some polynomial ring.
