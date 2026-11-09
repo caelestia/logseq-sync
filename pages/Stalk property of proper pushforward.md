@@ -12,5 +12,7 @@
   $$
   is a bijection.
 - ### Injectivity
-- Suppose $s\in \mc F(f^{-1}(U))$ satisfies $\operatorname{supp} s\to U$ is proper, and $s|_{F_y}=0$.
-- Then $U\setminus f(\operatorname{supp} s)$ is an open nhood of $y$ such that $s|_V=0$
+- Suppose $s\in (f_!\mc F)(U)$, i.e. $s\in \mc F(f^{-1}(U))$ satisfies $\operatorname{supp} s\to U$ is proper, and $s|_{F_y}=0$.
+- Then $U\setminus f(\operatorname{supp} s)$ is an open nhood of $y$ such that $s|_V=0$. Thus $s_y=0$.
+- ### Surjectivity
+- Let
