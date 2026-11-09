@@ -21,4 +21,10 @@
   ![](../assets/tikz/proper-base-change-proof.svg){:height 135, :width 236}
   #+END_CENTER
 - obtained by replacing $X$ with the closed subset $\supp s'$. Since the right arrow is proper, so is the left arrow.
-- Thus we obtain a section over $(g')^{-1}(U)$ of $f'_!\mc F$. This gives the desired
+- Thus we obtain a section over $(g')^{-1}(U)$ of $f'_!\mc F$. This gives the desired map.
+- ### Step 2
+- We construct the base change natural transformation
+  $$
+  (g')^{-1} f_! \longto f'_! g^{-1}.
+  $$
+-
