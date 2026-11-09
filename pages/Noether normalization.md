@@ -27,5 +27,7 @@
 - Pick $N>d$. Define $b_i = a_i - a_n^{N^i}$ for $i<n$. Then $A=k[b_1,\cdots,b_{n-1},a_n]$ holds.
 - If we fully expand $f$ using multi-indices,
   $$
-  f = \sum_\alpha c_\alpha X^\alpha
+  f = \sum_\alpha c_\alpha X^\alpha,
   $$
+  then in $f(a_n^N,a_n^{N^2},\cdots,a_n^{N^{n-1}},a_n)$, every term has a distinct exponent.
+-
