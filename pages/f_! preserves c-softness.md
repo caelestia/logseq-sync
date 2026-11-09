@@ -5,9 +5,9 @@
 - Write $W=f^{-1}(K)$. We have $\widetilde s|_W \in \Gamma_c(W,\mc F|_W)$.
 - By [[Equivalent definition of c-soft]], since $\mc F$ is c-soft, the restriction $\Gamma_c(X,\mc F) \to \Gamma_c(W,\mc F|_W)$ is surjective. Let $t\mapsto \widetilde s|_W$.
 - Under the identification $\Gamma_c(X,\mc F) \simeq \Gamma_c(Y,f_!\mc F)$, let $t\mapsto \hat t$.
-- It remains to prove that
+- It remains to show that
   $$\hat t|_K \overset{?}{=} s = \widetilde s|_K.$$
-- Indeed, their difference $\hat t|_U - \widetilde s\in\Gamma(U,f_!\mc F)$ has support disjoint from $K$. This is because the corresponding section $t-\widetilde s\in\Gamma(f^{-1}(U),\mc F)$ has support proper over $U$.
+- This is equivalent to showing that their difference $\hat t|_U - \widetilde s\in\Gamma(U,f_!\mc F)$ has support disjoint from $K$. This is because the corresponding section $t-\widetilde s\in\Gamma(f^{-1}(U),\mc F)$ has support proper over $U$.
 -
 - ## Proof 2, base change
 - By [[Equivalent definition of c-soft]], it suffice to show $\Gamma_c(Y,f_!\mc F) \to \Gamma_c(Z,(f_!\mc F)|_Z)$ is surjective for every closed $Z\subset Y$.
