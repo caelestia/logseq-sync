@@ -21,5 +21,9 @@
 	  $$
 	  a(x_1,\cdots,x_n,g^{-1})f(x_1,\cdots,x_n) = 1,
 	  $$
-	  and clear the denominators
-	-
+	  and multiplying by a large power of $g$ to clear the denominators, the result is of the form
+	  $$
+	  \widetilde a f = g^N.
+	  $$
+	- Since $f$ is irreducible and $k[x_1,\cdots,x_n]$ is UFD, the result follows. QED
+- Theorem.
