@@ -33,6 +33,6 @@
 - Since $\supp \tilde s \subset \overline V$ is compact, this defines an element of $(f_!\mc F)(W)$ which maps to $s$, as desired.
 - QED
 - ### A slick proof for surjectivity
--
+- We can avoid the above construction as follows. First, surjectivity is clear for c-soft sheaves
 - ## Upgrade to derived category
 - LATER
