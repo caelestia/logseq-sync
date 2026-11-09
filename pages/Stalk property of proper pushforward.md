@@ -30,4 +30,7 @@
 - #+BEGIN_CENTER
   ![](../assets/2026-11-09-Note-01-02_annotated.svg){:height 323, :width 347}
   #+END_CENTER
-- Since $\supp \tilde s \subset \overline V$ is compact,
+- Since $\supp \tilde s \subset \overline V$ is compact, this defines an element of $(f_!\mc F)(W)$ which maps to $s$, as desired.
+- QED
+- ## Upgrade to derived category
+- LATER

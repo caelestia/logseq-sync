@@ -3,3 +3,4 @@
 - [[Proper maps]]
 - [[Proper pushforward]]
 - [[Stalk property of proper pushforward]]
+- [[Proper base change theorem]]
