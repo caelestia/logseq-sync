@@ -7,7 +7,7 @@
 - ### support
 - Lemma. Let $s\in(f_!\mc F)(U)$, also viewed as a section of $\mc F$ over $f^{-1}(U)$. Then
   $$\supp_U(s) = f(\supp_{f^{-1}(U)}(s)).$$
-  In particular, this is saying that RHS is closed.
+  In particular, note that RHS is closed.
 - Proof. Obvious.
 - ### composition
 - Proposition. If $f:X\to Y$ and $g:Y\to Z$, we have $(g\circ f)_! = g_! \circ f_!$.
