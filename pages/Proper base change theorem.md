@@ -16,4 +16,5 @@
 - It's further equivalent to a section $s'' \in \Gamma(g^{-1}f^{-1}(U),\mc F) = \Gamma((f')^{-1}(g')^{-1}(U),\mc F)$.
 - Observe that $g(\supp s'') \subset \supp s'$.
 	- Say $x\in \supp s''$. Then the stalk of $g_*\mc F$ at $g(x)$ is given by the filtered colimit $\varinjlim_{V\ni x}\Gamma(g^{-1}(V),\mc F)$, so if $s'_{g(x)}=0$ in the colimit, such equality holds already for some $V$, which is impossible for $s''_x\neq0$.
-- Claim that $\supp s''$ is proper over $(g')^{-1}(U)$.
+- I claim that $\supp s'' \subset g^{-1}(\supp s')$ is proper over $(g')^{-1}(U)$. Indeed, we have the Cartesian square
+-
