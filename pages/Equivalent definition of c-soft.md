@@ -3,3 +3,6 @@
 - ## Proof
 - "if": Take $K=Z$, so the composition $\Gamma_c(X,\mc F)\subset\Gamma(X,\mc F)\to\Gamma(Z,\mc F)=\Gamma_c(Z,\mc F)$ is surjective.
 - "only if":
+- Suppose $\mc F$ is c-soft. Let $s\in\Gamma_c(Z,\mc F|_Z)$.
+- Let $U$ be a relatively compact open nhood of $\supp s$ in $X$.
+- Define a compact subset $K=\partial U \cup (Z\cap \overline U)$, and a section on $K$ given by $
