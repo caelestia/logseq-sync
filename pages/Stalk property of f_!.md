@@ -37,6 +37,6 @@
   $$
   0 \longto \mc F \longto \mc I \longto \mc J
   $$
-  Since both functors are left exact,
+  Since both functors are left exact, and the natural transformation between them is an isomorphism for $\mc I$ and $\mc J$, it is an isomorphism for $\mc F$ as well.
 - ## Upgrade to derived category
 - LATER
