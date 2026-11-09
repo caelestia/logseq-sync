@@ -1,2 +1,4 @@
 - Let $k$ be a field.
-- Theorem. If $A=k[a_1,\cdots,a_n]$ is a finitely generated $k$-algebra and a domain, then $A$ is integral over some $k[x_1,\cdots,x_m]$
+- Theorem. If $A=k[a_1,\cdots,a_n]$ is a finitely generated $k$-algebra and a domain, then $A$ is finite over some $k[x_1,\cdots,x_m]$ where $x_1,\cdots,x_m$ are algebraically independent.
+- ## Proof
+-
