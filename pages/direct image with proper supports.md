@@ -5,4 +5,8 @@
   $$
 	- See [definition of proper maps here]([[Proper maps]]).
 - ## Derived functor
-- Definition. We say $\mc F$ is c-soft if for every compact $K\subset X$ the restriction $\mc
+- Definition. We say $\mc F$ is c-soft if for every compact $K\subset X$ the restriction $\Gamma(X,\mc F)\to\Gamma(K,\mc F)$ is surjective.
+- We have the chain of implications:
+  $$
+  \text{injective} \implies \text{flasque} \implies^* \text{}
+  $$
