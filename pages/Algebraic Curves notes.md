@@ -4,4 +4,4 @@
   $$
 - An *affine plane curve* is an affine variety cut out by a single non-constant polynomial in two variables.
 - The *degree* of an affine plane curve $C=V_k(P)$ is defined as $\deg P$.
--
+- Stated without proof the Hilbert basis theorem: If $I
