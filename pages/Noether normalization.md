@@ -16,7 +16,7 @@
   $$
   F_d(c_1,\cdots,c_{n-1},1) \neq 0.
   $$
-- Now put $b_i = a_i - c_i a_n$ for all $i<n$. We have $A=[b_1,\cdots,b_{n-1},a_n]$.
+- Put $b_i = a_i - c_i a_n$ for all $i<n$. We have $A=[b_1,\cdots,b_{n-1},a_n]$.
 - Now we have
   $$
   f(a_1,\cdots,a_n) = f(b_1+c_1a_n,\cdots,b_{n-1}+c_{n-1}a_n,a_n) = F_d(c_1,\cdots,c_{n-1},1)a_n^d + O(a_n^{d-1})
