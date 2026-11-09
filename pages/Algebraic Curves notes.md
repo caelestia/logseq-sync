@@ -1,0 +1,1 @@
+- Let $k$ be a field. Let $f_1,\cdots,f_m\in k[]$
