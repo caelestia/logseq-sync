@@ -27,5 +27,7 @@
 	- Proof. [[f_! preserves c-softness]]
 - Corollary. We have $R(g\circ f)_! = Rg_! \circ Rf_!$. In language of spectral sequences, this gives
   $$
-  E_2^{p,q} = R^pg_! \circ R^qf_! (X) \implies R^{p+q}
+  E_2^{p,q} = R^pg_! \circ R^qf_! (\mc F) \implies R^{p+q} (g\circ f)_! (X).
   $$
+	- Taking $g=p_Y$ gives the Leray spectral sequence for $f_!$,
+	  $$E_2^{p,q} = H_c^p(Y,R^pf_!\mc F) \implies H_c^{p+q}(X,\mc F)$$
