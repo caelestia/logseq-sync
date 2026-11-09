@@ -23,4 +23,6 @@
 	- This is easy: choose an open nhood around each point in $K$ on which $t$ and $s$ fully agree, and let $U$ be the union of all such.
 	- The reason we can't just say $t=s|_U$ is because the latter is simply not defined.
 - Take an open nhood $V$ of $K$ such that $\overline V$ is compact and $\overline V\subset U$.
-- Now, $\overline V\cap\supp t$ is a compact subset, while $\overline V\cap\supp t\cap F_y=K$.
+- Now, $\overline V\cap\supp t$ is a compact subset, while $\overline V\cap\supp t\cap F_y=K$. It follows that
+  $$y \notin f\left( \overline V\cap\supp t\setminus V \right),\text{ a closed set}.$$
+-
