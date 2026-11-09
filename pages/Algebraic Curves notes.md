@@ -30,5 +30,10 @@
 	- Proof. Trivial.
 - Easy corollary: ![image.png](../assets/image_1794266455229_0.png){:height 198, :width 394}
 - ### projective space
-- The $n$-dimemsional *projective space* $\P^n$ is the set of $1$-dimensional subspaces of $k^{n+1}$.
+- The $n$-dimemsional *projective space* $\P^n$ is the set of $1$-dimensional subspaces of $k^{n+1}$. This is also
+  $$
+  \P^n = \frac{k^{n+1}\setminus\{0\}}{k^\times}.
+  $$
+  A point will be written as $[x_0,\cdots,x_n]$.
+-
 -
