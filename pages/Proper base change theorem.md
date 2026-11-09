@@ -27,4 +27,4 @@
   $$
   (g')^{-1} f_! \longto f'_! g^{-1}.
   $$
--
+- Start with the unit $\id_$
