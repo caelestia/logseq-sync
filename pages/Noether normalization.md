@@ -8,4 +8,7 @@
   $$
   a_n^d + g_{d-1}(a_1,\cdots,a_{n-1}) a_n^{d-1} + \cdots + g_0(a_1,\cdots,a_{n-1}) = 0.
   $$
-- By induction, we can assume $k[a_1,\cdots,a_{n-1}]$ is integral over some polynomial ring.
+- By induction on $n$, we can assume $k[a_1,\cdots,a_{n-1}]$ is integral over some polynomial ring. Then $a_n$ is integral over the same ring, and we win.
+- So the key step is to perform some change of variables so $f$ becomes monic in $a_n$.
+- ### Infinite field
+-
