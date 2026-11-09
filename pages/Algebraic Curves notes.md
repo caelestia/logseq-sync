@@ -3,5 +3,7 @@
   V_k(f_1,\cdots,f_m) := \{a=(a_1,\cdots,a_n)\in k^n: f(a)=\cdots=f_m(a)=0\}.
   $$
 - An *affine plane curve* is an affine variety cut out by a single non-constant polynomial in two variables.
-- The *degree* of an affine plane curve $C=V_k(P)$ is defined as $\deg P$.
-- Stated without proof the Hilbert basis theorem: If $I
+- The *degree* of an affine plane curve $C=V(P)$ is defined as $\deg P$.
+- Stated without proof the Hilbert basis theorem: Any ideal $I \subset k[x_1,\cdots,x_n]$ is finitely generated.
+- Define $V(I)$, and showed that if $I=\langle f_1,\cdots,f_m \rangle$, then $V(I) = V(f_1,\cdots,f_m)$.
+- Lemma. If $V_1$ and $V_2$ a
