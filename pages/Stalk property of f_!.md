@@ -8,7 +8,7 @@
 - ### Proof
 - It suffices to prove the statement for $n=0$. We will prove that the restriction map
   $$
-  (f_!\mc F)_y \longto \Gamma_c(F_y,\mc F)
+  (f_!\mc F)_y \longto \Gamma_c(F_y,\mc F|_{F_y})
   $$
   is a bijection.
 - ### Injectivity
@@ -33,6 +33,6 @@
 - Since $\supp \tilde s \subset \overline V$ is compact, this defines an element of $(f_!\mc F)(W)$ which maps to $s$, as desired.
 - QED
 - ### A slick proof for surjectivity
-- We can avoid the above construction as follows. First, surjectivity is clear for c-soft sheaves
+- We can avoid the above construction as follows. First, surjectivity is clear for c-soft sheaves, because any section extends to a compactly supported global section. For a general sheaf, take $2an injective resolution
 - ## Upgrade to derived category
 - LATER
