@@ -36,5 +36,5 @@
   $$
   A point will be written as $[x_0,\cdots,x_n]$.
 - Affine charts.
--
+- Say $f\in k[x_1,\cdots,x_n]$ is *homogeneous of degree* $d$ if $f(\lambda x_0,\cdots,
 -
