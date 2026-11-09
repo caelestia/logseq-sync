@@ -20,4 +20,5 @@
 - #+BEGIN_CENTER
   ![](../assets/tikz/proper-base-change-proof.svg){:height 135, :width 236}
   #+END_CENTER
-- obtained by replacing $X$ with the closed subset $\supp s'$.
+- obtained by replacing $X$ with the closed subset $\supp s'$. Since the right arrow is proper, so is the left arrow.
+- Thus we obtain a section over $(g')^{-1}(U)$ of $f'_!\mc F$. This gives the desired
