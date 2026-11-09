@@ -23,4 +23,5 @@
   $$
   as desired.
 - ### For all $k$
--
+- The following substitution works over any field $k$.
+- Pick $N>d$. Define $b_i = $
