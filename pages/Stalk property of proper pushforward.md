@@ -3,7 +3,7 @@
   (R^nf_!\mc F)_y = H_c^n(F_y, \mc F|_{F_y})
   $$
   for all $y\in Y$ and $n\geq0$.
-	- Definition of [[Proper pushforward]]
+	- Definition of [[direct image with proper supports]]
 	- This is a special case of the [[Proper base change theorem]].
 - ### Proof
 - It suffices to prove the statement for $n=0$. We will prove that the restriction map
