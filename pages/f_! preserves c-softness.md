@@ -7,7 +7,7 @@
 - Under the identification $\Gamma_c(X,\mc F) \simeq \Gamma_c(Y,f_!\mc F)$, let $t\mapsto \hat t$.
 - It remains to show that
   $$\hat t|_K \overset{?}{=} s = \widetilde s|_K.$$
-- This is equivalent to showing that the support of their difference $\hat t|_U - \widetilde s\in\Gamma(U,f_!\mc F)$, which is always a closed subset of $U$, is disjoint from $K$.
+- This is equivalent to showing that the support of their difference $\hat t|_U - \widetilde s\in\Gamma(U,f_!\mc F)$, which is a closed subset of $U$, is disjoint from $K$.
 - Indeed, this follows from $t|_W = \widetilde s|_W$, so they agree on an open nhood of $W$.
 - QED
 - ## Proof 2, base change
