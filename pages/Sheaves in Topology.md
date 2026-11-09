@@ -2,5 +2,7 @@
 - Fix a commutative ring $k$. All sheaves are over $k$.
 - [[Proper maps]]
 - [[direct image with proper supports]]
-- [[Stalk property of f_!]]
+	- [[Stalk property of f_!]]
 - [[Proper base change theorem]]
+- [[Projection theorem]]
+- [[Verdier duality]]
