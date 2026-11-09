@@ -15,3 +15,4 @@
 	- Proof. [[Equivalent definition of c-soft]].
 - Proposition. If $\mc F$ is c-soft and $f:X\to Y$ is a continuous map, then $f_!\mc F$ is c-soft.
 	- Proof.
+-
