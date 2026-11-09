@@ -26,4 +26,4 @@
 	  $$
 	  \Gamma_c(X,\mc F) = \Gamma_c(Y,f_!\mc F),\qquad \Gamma_c(f^{-1}(Z),\mc F) = \Gamma_c(Z,(f_!\mc F)|_Z).
 	  $$
-	-
+	- The result follows from
