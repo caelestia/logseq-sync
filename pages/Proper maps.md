@@ -2,7 +2,9 @@
 - (a) $f$ is universally closed (Bourbaki definition);
 - (b) $f$ is closed with compact fibers;
 - (c) the preimage of compact subsets are compact.
-	- "compact" always mean quasi-compact + Hausdorff.
+-
+- > "compact" always means quasi-compact + Hausdorff.
 -
 - ## LCH spaces
-- Thm. If $X$ and $Y$ are
+- Thm. If $X$ and $Y$ are locally compact Hausdorff, then all three definitions are equivalent.
+-

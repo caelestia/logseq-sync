@@ -3,3 +3,4 @@
   $$
   (f_!\mc F)(U) = \{s\in\Gamma(f^{-1}(U),\mc F): \operatorname{supp}s \to U \text{ is proper}\}.
   $$
+	- See [definition of proper maps here]([[Proper maps]]).
