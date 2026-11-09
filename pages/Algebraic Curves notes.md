@@ -6,4 +6,5 @@
 - The *degree* of an affine plane curve $C=V(P)$ is defined as $\deg P$.
 - Stated without proof the Hilbert basis theorem: Any ideal $I \subset k[x_1,\cdots,x_n]$ is finitely generated.
 - Define $V(I)$, and showed that if $I=\langle f_1,\cdots,f_m \rangle$, then $V(I) = V(f_1,\cdots,f_m)$.
-- Lemma. If $V_1$ and $V_2$ a
+- Lemma. If $V_1$ and $V_2$ are affine algebraic sets in $k^n$, then their intersection and union are affine algebraic sets.
+	- Proof. $V(I_1 + I_2) = V(I_1)\cap V(I_2)$ and $V(I_1I_2) = $.
