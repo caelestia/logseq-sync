@@ -7,7 +7,7 @@
 - Under the identification $\Gamma_c(X,\mc F) \simeq \Gamma_c(Y,f_!\mc F)$, let $t\mapsto \hat t$.
 - It remains to prove that
   $$\hat t|_K \overset{?}{=} s = \widetilde s|_K.$$
-- Indeed,
+- Indeed, their difference $\hat t - \widetilde s\in\Gamma(U,f_!\mc F)$ has support proper over $U$.
 - ## Proof 2, base change
 - By [[Equivalent definition of c-soft]], it suffice to show $\Gamma_c(Y,f_!\mc F) \to \Gamma_c(Z,(f_!\mc F)|_Z)$ is surjective for every closed $Z\subset Y$.
 - Write $f'=f|_{f^{-1}(Z)}:f^{-1}(Z)\to Z$ and $\mc F'=\mc F|_{f^{-1}(Z)}$. An application of the proper base change thm gives
