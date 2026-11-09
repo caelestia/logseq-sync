@@ -44,4 +44,6 @@
 	- ![image.png](../assets/image_1794268220451_0.png){:height 276, :width 626}
 	- Here we're using the fact that if $f=gh$ and $f$ is homogeneous then $g$ and $h$ are homogeneous. This can be proved by decomposing $g$ and $h$ into homogeneous parts.
 - A projective plane curve over $\C$ is compact.
+- We define the *projectivization* of $V(P)$ by *homogenizing* the polynomial $P\in k[x,y]$.
+	- If $f\in k[x,y]$ has degree $d$, its homogenization is defined as $F(x,y,z)=z^d f(x/z,y/z)$.
 -
