@@ -8,7 +8,8 @@
 - It remains to show that
   $$\hat t|_K \overset{?}{=} s = \widetilde s|_K.$$
 - This is equivalent to showing that the support of their difference $\hat t|_U - \widetilde s\in\Gamma(U,f_!\mc F)$, which is always a closed subset of $U$, is disjoint from $K$.
--
+- Indeed, this follows from $t|_W = \widetilde s|_W$, so they agree on an open nhood of $W$.
+- QED
 - ## Proof 2, base change
 - By [[Equivalent definition of c-soft]], it suffice to show $\Gamma_c(Y,f_!\mc F) \to \Gamma_c(Z,(f_!\mc F)|_Z)$ is surjective for every closed $Z\subset Y$.
 - Write $f'=f|_{f^{-1}(Z)}:f^{-1}(Z)\to Z$ and $\mc F'=\mc F|_{f^{-1}(Z)}$. An application of the proper base change thm gives
