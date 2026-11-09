@@ -28,4 +28,4 @@
 	- Since $f$ is irreducible and $k[x_1,\cdots,x_n]$ is UFD, the result follows. QED
 - Theorem. Let $k$ be alg closed. A plane curve $C\subset k^2$ is irreducible if and only if $C=V(P)$ for some irreducible, non-constant $P\in k[x,y]$.
 	- Proof. Trivial.
--
+- Corollary: Existence and uniqueness of
