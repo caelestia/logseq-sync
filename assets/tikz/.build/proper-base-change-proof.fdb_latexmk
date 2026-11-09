@@ -1,6 +1,15 @@
 # Fdb version 4
-["pdflatex"] 1794238264.87003 "proper-base-change-proof.tex" ".build/proper-base-change-proof.pdf" "proper-base-change-proof" 1794238265.82355 2
-  ".build/proper-base-change-proof.aux" 1794238265.72705 8 a94a2480d3289e625eea47cd1b285758 "pdflatex"
+["pdflatex"] 1794238393.63594 "proper-base-change-proof.tex" ".build/proper-base-change-proof.pdf" "proper-base-change-proof" 1794238394.72603 0
+  ".build/proper-base-change-proof.aux" 1794238394.54838 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "/home/yw/.texlive2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1791023133 27875 2a1d58d20cfc4fd40b20c88737a6392e ""
+  "/usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
+  "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
+  "/usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1248133631 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
+  "/usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb" 1248133631 36281 c355509802a035cadc5f15869451dcee ""
+  "/usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1248133631 35752 024fb6c41858982481f6968b5fc26508 ""
+  "/usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb" 1248133631 32762 224316ccc9ad3ca0423a14971cfa7fc1 ""
+  "/usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb" 1248133631 32915 7bf7720c61a5b3a7ff25b0964421c9b6 ""
+  "/usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb" 1248133631 32716 08e384dc442464e7285e891af9f45947 ""
   "/usr/local/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1461363279 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "/usr/local/texlive/2025/texmf-dist/tex/generic/iftex/ifluatex.sty" 1572645307 492 1994775aa15b0d1289725a0b1bbc2d4c ""
   "/usr/local/texlive/2025/texmf-dist/tex/generic/iftex/iftex.sty" 1734129479 7984 7dbb9280f03c0a315425f1b4f35d43ee ""
@@ -63,6 +72,11 @@
   "/usr/local/texlive/2025/texmf-dist/tex/generic/xkeyval/keyval.tex" 1655411236 2725 1a42bd9e7e57e25fc7763c445f4b785b ""
   "/usr/local/texlive/2025/texmf-dist/tex/generic/xkeyval/xkeyval.tex" 1655411236 19231 27205ee17aaa2902aea3e0c07a3cfc65 ""
   "/usr/local/texlive/2025/texmf-dist/tex/generic/xkeyval/xkvutils.tex" 1655411236 7677 9cb1a74d945bc9331f2181c0a59ff34a ""
+  "/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amsbsy.sty" 1748806692 2222 27db7d52163edae53881b71ff62e754e ""
+  "/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amsgen.sty" 1748806692 4173 1b3e76addfb8afcb47db4811d66e1dc6 ""
+  "/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amsmath.sty" 1750190222 88401 0c3d1897569ad77cb9d8fb25b0bdf668 ""
+  "/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amsopn.sty" 1748806692 4474 c510a88aa5f51b8c773b50a7ee92befd ""
+  "/usr/local/texlive/2025/texmf-dist/tex/latex/amsmath/amstext.sty" 1748806692 2444 9983e1d0683f102e3b190c64a49313aa ""
   "/usr/local/texlive/2025/texmf-dist/tex/latex/base/article.cls" 1748806692 20144 b966087dda3b194755eb460d32e2ef75 ""
   "/usr/local/texlive/2025/texmf-dist/tex/latex/base/size10.clo" 1748806692 8448 686612a86f0e04f41ea577f5ec7e83d8 ""
   "/usr/local/texlive/2025/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty" 1579991033 13886 d1306dcf79a944f6988e688c1785f9ce ""
@@ -97,7 +111,7 @@
   "/usr/local/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1755396052 3605802 75ce034f9d97f64ecd922f42cd360c40 ""
   "/usr/local/texlive/2025/texmf.cnf" 1755395979.11691 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
   "commands.sty" 1794126921.95437 3644 56e4ecb7db0a7b65d9ddd497ff053695 ""
-  "proper-base-change-proof.tex" 1794238264.07104 251 83077e1195163f42f2fdb521524d2caf ""
+  "proper-base-change-proof.tex" 1794238391.74036 278 7ae231fb3efb0f9e00e98bc3b24ddc28 ""
   (generated)
   ".build/proper-base-change-proof.aux"
   ".build/proper-base-change-proof.log"

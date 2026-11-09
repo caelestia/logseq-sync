@@ -1,10 +1,11 @@
 \documentclass[border=1pt]{standalone}
+\usepackage{amsmath}
 \usepackage{tikz-cd}
 \usepackage{commands}
 
 \begin{document}
 \begin{tikzcd}
-    g^{-1}(\supp s') \ar[r, "g"] \ar[d, "f'"'] & \supp s' \ar[d, "f"] \\
-    (g')^{-1}(U) \ar[r, "g'"'] & U
+    {g^{-1}(\supp s')} \ar[r, "g"] \ar[d, "f'"'] & {\supp s'} \ar[d, "f"] \\
+    {(g')^{-1}(U)} \ar[r, "g'"'] & U
 \end{tikzcd}
 \end{document}
