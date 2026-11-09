@@ -35,5 +35,6 @@
   \P^n = \frac{k^{n+1}\setminus\{0\}}{k^\times}.
   $$
   A point will be written as $[x_0,\cdots,x_n]$.
+- Affine charts.
 -
 -
