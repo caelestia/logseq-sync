@@ -11,4 +11,4 @@
   $$
   is a bijection.
 - ### Injectivity
-- Let $W$ be a nhood of $y$ and $s:f^{-1}
+- Suppose $s\in \mc F(f^{-1}(U))$ satisfies $\operatorname{supp} s\to U$
