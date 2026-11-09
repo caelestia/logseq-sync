@@ -1,0 +1,4 @@
+- Definition. We say $\mc F$ is c-soft if for every compact $K\subset X$ the restriction $\Gamma(X,\mc F)\to\Gamma(K,\mc F)$ is surjective.
+- Proposition (K--S 2.5.6). $\mc F$ is c-soft iff for every closed $Z\subset X$ the restriction $\Gamma_c(X,\mc F)\to\Gamma_c(Z,\mc F)$ is surjective.
+- ## Proof
+-
