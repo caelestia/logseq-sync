@@ -25,4 +25,4 @@
 - Take an open nhood $V$ of $K$ such that $\overline V$ is compact and $\overline V\subset U$.
 - Now, $\overline V\cap\supp t$ is a compact subset, while $\overline V\cap\supp t\cap F_y=K$. It follows that
   $$y \notin f\left( \overline V\cap\supp t\setminus V \right),\text{ a closed set}.$$
-- Let $W$ be an open nhood of $y$ disjoint from this set. Then $f^{-1}(W)\cap\overline V\cap\supp t \subset V$. We can thus extend
+- Let $W$ be an open nhood of $y$ disjoint from this set. Then $f^{-1}(W)\cap\overline V\cap\supp t \subset V$. We can thus extend $t|_{f^{-1}(W)\cap V}$ to a section $\tilde s\in \Gamma(f^{-1}(W),\mc F)$ by zero.
