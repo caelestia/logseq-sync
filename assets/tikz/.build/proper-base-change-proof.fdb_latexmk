@@ -1,11 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1794238180.22805 "proper-base-change-proof.tex" ".build/proper-base-change-proof.pdf" "proper-base-change-proof" 1794238181.21123 0
-  ".build/proper-base-change-proof.aux" 1794238181.08219 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
-  "/home/yw/.texlive2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1791023133 27875 2a1d58d20cfc4fd40b20c88737a6392e ""
-  "/usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1248133631 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
-  "/usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb" 1248133631 36281 c355509802a035cadc5f15869451dcee ""
-  "/usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb" 1248133631 32915 7bf7720c61a5b3a7ff25b0964421c9b6 ""
-  "/usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb" 1248133631 32716 08e384dc442464e7285e891af9f45947 ""
+["pdflatex"] 1794238264.87003 "proper-base-change-proof.tex" ".build/proper-base-change-proof.pdf" "proper-base-change-proof" 1794238265.82355 2
+  ".build/proper-base-change-proof.aux" 1794238265.72705 8 a94a2480d3289e625eea47cd1b285758 "pdflatex"
   "/usr/local/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1461363279 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "/usr/local/texlive/2025/texmf-dist/tex/generic/iftex/ifluatex.sty" 1572645307 492 1994775aa15b0d1289725a0b1bbc2d4c ""
   "/usr/local/texlive/2025/texmf-dist/tex/generic/iftex/iftex.sty" 1734129479 7984 7dbb9280f03c0a315425f1b4f35d43ee ""
@@ -102,7 +97,7 @@
   "/usr/local/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1755396052 3605802 75ce034f9d97f64ecd922f42cd360c40 ""
   "/usr/local/texlive/2025/texmf.cnf" 1755395979.11691 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
   "commands.sty" 1794126921.95437 3644 56e4ecb7db0a7b65d9ddd497ff053695 ""
-  "proper-base-change-proof.tex" 1794235030.0583 220 ff307612c9dd8245ec8d685707f57478 ""
+  "proper-base-change-proof.tex" 1794238264.07104 251 83077e1195163f42f2fdb521524d2caf ""
   (generated)
   ".build/proper-base-change-proof.aux"
   ".build/proper-base-change-proof.log"
