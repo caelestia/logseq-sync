@@ -12,5 +12,5 @@
   f_! g_* \longto g'_* f'_!
   $$
 - Take a section $s\in\Gamma(U,f_!g_* \mc F)$ where $U\subset Y$.
-- By definition, $s$ is also a section $s\in\Gamma(f^{-1}(U),g_*\mc F)$ which has support proper over $U$.
+- By definition, $s$ is also a section $s'\in\Gamma(f^{-1}(U),g_*\mc F)$ which has support proper over $U$.
 -
