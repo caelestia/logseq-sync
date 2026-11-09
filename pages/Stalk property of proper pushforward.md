@@ -30,4 +30,4 @@
 - #+BEGIN_CENTER
   ![](../assets/2026-11-09-Note-01-02_annotated.svg){:height 323, :width 347}
   #+END_CENTER
--
+- Since $\supp \tilde s \subset \overline V$ is compact,
