@@ -1,7 +1,7 @@
 - Proposition. If $\mc F$ is c-soft and $f:X\to Y$ is a continuous map, then $f_!\mc F$ is c-soft.
 - ## Proof 1
 - Take a compact set $K\subset Y$ and a section $s\in\Gamma(K,(f_!\mc F)|_K)$.
-- By [[Sections over compact subset]], this comes from some $\widetilde s\in\Gamma(U,f_!\mc F)$ where $U$ is an open nhood of $K$.
+- By [[Sections over compact subset]], this comes from some $\widetilde s\in\Gamma(U,f_!\mc F)$ where $U$ is an open nhood of $K$. By definition, this is a section which we also denote by $\widetilde s\in\Gamma(f^{-1}(U),\mc F)$, such that $\supp \widetilde s \to U$ is proper.
 -
 - ## Proof 2, base change
 - By [[Equivalent definition of c-soft]], it suffice to show $\Gamma_c(Y,f_!\mc F) \to \Gamma_c(Z,(f_!\mc F)|_Z)$ is surjective for every closed $Z\subset Y$.
