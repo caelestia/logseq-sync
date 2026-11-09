@@ -4,6 +4,7 @@
   (f_!\mc F)(U) = \{s\in\Gamma(f^{-1}(U),\mc F): \operatorname{supp}s \to U \text{ is proper}\}.
   $$
 	- See [definition of proper maps here]([[Proper maps]]).
+- If $f:X\to Y$ and $g:Y\to Z$, we have $(g\circ f)_! = g_! \circ f_!$.
 - ## Derived functor
 - Definition. We say $\mc F$ is c-soft if for every compact $K\subset X$ the restriction $\Gamma(X,\mc F)\to\Gamma(K,\mc F)$ is surjective.
 - Let $X$ be Hausdorff. We have the chain of implications:
