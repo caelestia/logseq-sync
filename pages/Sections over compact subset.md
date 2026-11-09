@@ -1,0 +1,3 @@
+- Let $K\subset X$ satisfy either of the following two set of conditions:
+- (a) $X$
+- (b)
