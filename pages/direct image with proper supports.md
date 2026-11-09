@@ -22,4 +22,7 @@
 	  $$(f_!\mc F)|_Z \simeq f'_! \mc F|_{f^{-1}(Z)}.$$
 		- prove directly?
 	- Now the above observation gives
--
+	  $$
+	  \Gamma_c(X,\mc F) = \Gamma_c(Y,f_!\mc F),\qquad \Gamma_c(f^{-1}(Z),\mc F) = \Gamma_c(Z,(f_!\mc F)|_Z).
+	  $$
+	-
