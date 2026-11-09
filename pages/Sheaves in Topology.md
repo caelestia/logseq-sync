@@ -1,4 +1,5 @@
 - reference: Kashiwara--Schapira
 - Fix a commutative ring $k$. All sheaves are over $k$.
+- [[Proper maps]]
 - [[Proper pushforward]]
 - [[Stalk property of proper pushforward]]

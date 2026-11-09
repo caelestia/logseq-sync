@@ -1,0 +1,7 @@
+- We consider three definitions for proper maps: Let $f:X\to Y$,
+- (a) $f$ is universally closed;
+- (b) $f
+-
+-
+- ## LCH spaces
+-
