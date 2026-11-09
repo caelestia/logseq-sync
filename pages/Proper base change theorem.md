@@ -11,4 +11,5 @@
   $$
   f_! g_* \longto g'_* f'_!
   $$
--
+- Take a section $s\in\Gamma(U,f_!g_* \mc F)$ where $U\subset X'$.
+- By definition, $s$ is also a section $s\in\Gamma($
