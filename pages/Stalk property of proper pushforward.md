@@ -18,5 +18,8 @@
 - Let $s\in\Gamma_c(F_y,\mc F)$. Put $K=\operatorname{supp}s$.
 - By [[Sections over compact subset]], we have
   $$\varinjlim_{U\supset K}\Gamma(U,\mc F) = \Gamma(K,\mc F),$$
-  so there is $U\supset K$ and $t\in\mc F(U)$ such that $t=s|_U$.
+  so there is $U\supset K$ and $t\in\mc F(U)$ such that $t|_{K}=s|_K$.
+- Shrink $U$ so that $t|_{U\cap F_y}=s|_{U\cap F_y}$.
+	- This is easy: choose an open nhood around each point in $K$ on which $t$ and $s$ fully agree, and let $U$ be the union of all such.
+	- The reason we can't just say $t=s|_U$ is because the latter is simply not defined.
 -
