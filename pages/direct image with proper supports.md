@@ -10,4 +10,4 @@
   $$
   \text{injective} \implies \text{flasque} \implies \text{c-soft} \implies f_!\text{-acyclic}
   $$
--
+- The first
