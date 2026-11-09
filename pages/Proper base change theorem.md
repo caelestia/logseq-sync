@@ -27,4 +27,6 @@
   $$
   (g')^{-1} f_! \longto f'_! g^{-1}.
   $$
-- Start with the unit $\id_$
+- Start with the unit $\id_{\msf{Sh}(X,k)} \longto g_*g^{-1}$.
+- Compose with $f_!$, we get $f_! \longto f_! g_* g^{-1}$.
+-
