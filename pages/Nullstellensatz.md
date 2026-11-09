@@ -6,4 +6,6 @@
 - Proposition. If a field extension $L/K$ is finitely generated as a $k$-algebra (of finite type), then $[L:K]<\infty$ (finite).
 - ### proof
 - By [[Noether normalization]], $K \to L$ factorizes as two inclusions $K \to K[T_1,\cdots,T_d] \to L$ where the second inclusion is finite.
-- Since $L$ is a field, this implies $K[T_1,\cdots,T_d]$ is also a field. Thus $d=0$.
+- Since $L$ is a field, this implies $K[T_1,\cdots,T_d]$ is also a field. Thus $d=0$. QED
+- ## Strong Nullstellensatz
+-
