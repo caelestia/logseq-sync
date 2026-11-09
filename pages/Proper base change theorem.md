@@ -13,5 +13,5 @@
   $$
 - Take a section $s\in\Gamma(U,f_!g_* \mc F)$ where $U\subset Y$.
 - By definition, $s$ is also a section $s'\in\Gamma(f^{-1}(U),g_*\mc F)$ which has support proper over $U$.
-- It's further equivalent to a section $s'' \in \Gamma(g^{-1}f^{-1}(U),\mc F) = \Gamma((f')^{-1}(g')^{-1}(U),\mc F)$.
+- It's further equivalent to a section $s'' \in \Gamma(g^{-1}f^{-1}(U),\mc F) = \Gamma((f')^{-1}(g')^{-1}(U),\mc F)$. Note that $g(\supp s'') \subset \supp s'$.
 - Claim that $\supp s''$ is proper over $(g')^{-1}(U)$.
