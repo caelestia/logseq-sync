@@ -86,7 +86,8 @@
 	- Proof: Observe that a non-constant divisor $H$ of $F$ must have $\deg_x H >0$.
 - ![image.png](../assets/image_1794273504341_0.png)
 - ![image.png](../assets/image_1794273408596_0.png)
--
+- ### Applications of Bezout
+- ![image.png](../assets/image_1794298925145_0.png)
 -
 -
 -
