@@ -79,6 +79,6 @@
 - ![image.png](../assets/image_1794271977762_0.png)
 - Corollary of Lemma 6.1:
 	- ![image.png](../assets/image_1794272045294_0.png){:height 136, :width 715}
--
--
+- ### weak Bezout
+- ![image.png](../assets/image_1794272663999_0.png)
 -
