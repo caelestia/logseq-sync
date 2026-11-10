@@ -64,6 +64,7 @@
 	  $$
 	  By Euler's identity, this is also $\{F_x(a,b,c)x+F_y(a,b,c)y+F_z(a,b,c)z=0\}$.
 - Let $C$ be an affine plane curve, then $(a,b)\in C$ is singular if and only if $[a,b,1]\in\overline C$ is singular.
--
--
+- Let $C$ be a projective plane curve over an algebraically closed field, and suppose two different irreducible components $C_1, C_2\subset C$ intersect at a point $p$. Then $C$ is not smooth at $p$.
+	- Proof. Trivial.
+	- Combined with Bezout's theorem, this implies: A smooth projective plane curve over an algebraically closed field is irreducible.
 -
