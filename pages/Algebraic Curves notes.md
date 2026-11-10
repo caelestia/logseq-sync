@@ -38,10 +38,10 @@
 - Affine charts.
 - Say $f\in k[x_1,\cdots,x_n]$ is *homogeneous of degree* $d$ if $f(\lambda x_0,\cdots,\lambda x_n)=\lambda^d f(x_0,\cdots,x_n)$ for all $\lambda\in k$ and $(x_0,\cdots,x_n)\in k^{n+1}$.
 - A *projective variety* is the vanishing locus of some homogeneous polynomials $f_1,\cdots,f_m$.
-- Trivial: ![image.png](../assets/image_1794267265661_0.png){:height 185, :width 504}
+- Trivial: ![image.png](../assets/image_1794267265661_0.png){:height 189, :width 511}
 - A *projective plane curve* of degree $d>0$ is the set $C=\{[x,y,z]\in\P^2:P(x,y,z)=0\}$ for some non-constant homogeneous $P$ of degree $d$.
 - All these properties hold for projective plane curves as well:
-	- ![image.png](../assets/image_1794268220451_0.png){:height 276, :width 626}
+	- ![image.png](../assets/image_1794268220451_0.png){:height 290, :width 622}
 	- Here we're using the fact that if $f=gh$ and $f$ is homogeneous then $g$ and $h$ are homogeneous. This can be proved by decomposing $g$ and $h$ into homogeneous parts.
 - A projective plane curve over $\C$ is compact.
 - We define the *projectivization* of $V(P)$ by *homogenizing* the polynomial $P\in k[x,y]$.
@@ -64,7 +64,8 @@
 	  $$
 	  By Euler's identity, this is also $\{F_x(a,b,c)x+F_y(a,b,c)y+F_z(a,b,c)z=0\}$.
 - Let $C$ be an affine plane curve, then $(a,b)\in C$ is singular if and only if $[a,b,1]\in\overline C$ is singular.
-- Let $C$ be a projective plane curve over an algebraically closed field, and suppose two different irreducible components $C_1, C_2\subset C$ intersect at a point $p$. Then $C$ is not smooth at $p$.
+- Let $C$ be a projective plane curve over an alg closed field, and suppose two different irreducible components $C_1, C_2\subset C$ intersect at a point $p$. Then $C$ is not smooth at $p$.
 	- Proof. Trivial.
 	- Combined with Bezout's theorem, this implies: A smooth projective plane curve over an algebraically closed field is irreducible.
+- ### projective transformations
 -
