@@ -9,7 +9,10 @@
 	- **In-class Test** on **10 November**
 - [[Functional Analysis - Martin Taylor]]
 	- credit
-	- **coursework due 11 Nov**
+	- DONE **coursework due 11 Nov**
+	  :LOGBOOK:
+	  CLOCK: [2026-11-10 Tue 23:48:09]--[2026-11-10 Tue 23:48:10] =>  00:00:01
+	  :END:
 - ### Y4
 - [[Elliptic Curves - George Boxer]]
 	- credit
