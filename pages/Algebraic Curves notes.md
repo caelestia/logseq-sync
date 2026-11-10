@@ -62,6 +62,7 @@
 	  $$
 	  T_p\overline C = \{F_x(a,b,c)(x-a)+F_y(a,b,c)(y-b)+F_z(a,b,c)(z-c)=0\}.
 	  $$
+	  By Euler's identity, this is also $\{F_x(a,b,c)x+F_y(a,b,c)y+F_z(a,b,c)z=0\}$.
 - Let $C$ be an affine plane curve, then $(a,b)\in C$ is singular if and only if $[a,b,1]\in\overline C$ is singular.
 -
 -
