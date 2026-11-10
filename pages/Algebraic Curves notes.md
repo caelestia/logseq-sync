@@ -58,6 +58,10 @@
 - We only define this for projective plane curves in the case $\operatorname{char} k=0$.
 	- ![image.png](../assets/image_1794269659415_0.png)
 	- ![image.png](../assets/image_1794269699632_0.png)
+	- If $p=[a,b,c]\in\overline C$ is a smooth point then the tangent line is
+	  $$
+	  T_p\overline C = \{F_x(a,b,c)(x-a)+F_y(a,b,c)(y-b)+F_z(a,b,c)(z-c)=0\}.
+	  $$
 - Let $C$ be an affine plane curve, then $(a,b)\in C$ is singular if and only if $[a,b,1]\in\overline C$ is singular.
 -
 -
