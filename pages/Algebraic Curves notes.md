@@ -73,3 +73,7 @@
 - ![image.png](../assets/image_1794271028862_0.png)
 - Projective transformations preserve the most important properties of projective plane curves.
 	- ![image.png](../assets/image_1794271587277_0.png)
+- ### Bezout's Theorem
+-
+-
+-
