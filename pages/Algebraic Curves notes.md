@@ -68,6 +68,7 @@
 	- Proof. Trivial.
 	- Combined with Bezout's theorem, this implies: A smooth projective plane curve over an algebraically closed field is irreducible.
 - ### projective transformations
+- ![image.png](../assets/image_1794301187655_0.png)
 - ![image.png](../assets/image_1794270628465_0.png)
 - ![image.png](../assets/image_1794270868908_0.png)
 - ![image.png](../assets/image_1794271028862_0.png)
