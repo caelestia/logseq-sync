@@ -46,4 +46,6 @@
 - A projective plane curve over $\C$ is compact.
 - We define the *projectivization* of $V(P)$ by *homogenizing* the polynomial $P\in k[x,y]$.
 	- If $f\in k[x,y]$ has degree $d$, its homogenization is defined as $F(x,y,z)=z^d f(x/z,y/z)$.
+	- $F$ is then homogeneous of degree $d$ and satisfy $F(x,y,1)=f(x,y)$. $F$ is not a multiple of $z$.
+- ![image.png](../assets/image_1794268790291_0.png)
 -
