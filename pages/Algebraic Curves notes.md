@@ -49,3 +49,5 @@
 	- $F$ is then homogeneous of degree $d$ and satisfy $F(x,y,1)=f(x,y)$. $F$ is not a multiple of $z$.
 - ![image.png](../assets/image_1794268790291_0.png)
 - ![image.png](../assets/image_1794269065914_0.png)
+- ### singular points
+-
