@@ -81,4 +81,6 @@
 	- ![image.png](../assets/image_1794272045294_0.png){:height 136, :width 715}
 - ### Weak Bezout
 - ![image.png](../assets/image_1794272663999_0.png)
--
+	- see proof
+- ![image.png](../assets/image_1794273152251_0.png)
+	-
