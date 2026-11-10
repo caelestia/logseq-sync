@@ -50,4 +50,10 @@
 - ![image.png](../assets/image_1794268790291_0.png)
 - ![image.png](../assets/image_1794269065914_0.png)
 - ### singular points
-- We say $C=\{f(x,y)=0\}\subset k^2$ is smooth at a point $(a,b)$ with $f
+- We say $C=\{f(x,y)=0\}\subset k^2$ is smooth at a point $(a,b)$ with $f(a,b)=0$ if
+  $$
+  (f_x(a,b),f_y(a,b))\neq(0,0).
+  $$
+	- In this case there is the tangent line $T_pC=\{f_x(a,b)(x-a)+f_y(a,b)(y-b)=0\}$.
+-
+-
