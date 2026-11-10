@@ -15,7 +15,6 @@
 - [[UIUC]]
 - [[Purdue]]
 - [[Utah]]
-- [[Dartmouth]] (nice location)
 - [[OSU]]
 - [[UIC]]
 - [[UW]]
