@@ -83,5 +83,5 @@
 - ![image.png](../assets/image_1794272663999_0.png)
 	- see proof
 - ![image.png](../assets/image_1794273152251_0.png)
-	- see proof
+	- Proof: Observe that a non-constant divisor $H$ of $F$ must have $\deg_x H >0$.
 -
