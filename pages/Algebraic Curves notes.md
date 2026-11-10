@@ -58,4 +58,7 @@
 - We only define this for projective plane curves in the case $\operatorname{char} k=0$.
 	- ![image.png](../assets/image_1794269659415_0.png)
 	- ![image.png](../assets/image_1794269699632_0.png)
-	-
+- Let $C$ be an affine plane curve, then $(a,b)\in C$ is singular if and only if $[a,b,1]\in\overline C$ is singular.
+-
+-
+-
