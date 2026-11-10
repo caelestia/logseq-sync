@@ -55,5 +55,6 @@
   (f_x(a,b),f_y(a,b))\neq(0,0).
   $$
 	- In this case there is the tangent line $T_pC=\{f_x(a,b)(x-a)+f_y(a,b)(y-b)=0\}$.
--
+- We only define this for projective plane curves in the case $\operatorname{char} k=0$,
+	- ![image.png](../assets/image_1794269659415_0.png)
 -
