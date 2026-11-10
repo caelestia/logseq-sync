@@ -89,5 +89,5 @@
 - ### Applications of Bezout
 - ![image.png](../assets/image_1794298925145_0.png)
 - ![image.png](../assets/image_1794299378467_0.png)
--
+	- ![image.png](../assets/image_1794300015666_0.png)
 -
