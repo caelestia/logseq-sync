@@ -75,5 +75,10 @@
 	- ![image.png](../assets/image_1794271587277_0.png)
 - ### resultant
 - ![image.png](../assets/image_1794271868004_0.png){:height 198, :width 778}
+- ![image.png](../assets/image_1794271957918_0.png)
+- ![image.png](../assets/image_1794271977762_0.png)
+-
+	- ![image.png](../assets/image_1794272045294_0.png)
+-
 -
 -
