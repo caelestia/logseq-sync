@@ -1,4 +1,6 @@
 - https://www.math.utah.edu/graduate/GraduateInstructions.php?utm_source=chatgpt.com
-	- https://futureu.admissions.utah.edu/?utm_source=chatgpt.com
+	- https://futureu.admissions.utah.edu/apply/
 - ## GRE optional
--
+- GRE reporting code: 4853
+- ## Essay
+- Statement of Purpose
