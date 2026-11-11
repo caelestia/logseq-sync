@@ -14,7 +14,7 @@
 - ## Tier 3
 - [[UIUC - Dec 1]]
 - [[Purdue - Dec 1]]
-- [[University of Utah]]
+- [[University of Utah - Jan 1]]
 - [[OSU]]
 - [[UIC]]
 - [[UW]]
