@@ -1,3 +1,5 @@
 - https://mscs.uic.edu/graduate/admissions-and-financial-aid/how-to-apply/
 	- https://applygrad.uic.edu/apply/?sr=9d79c0b3-3635-4d0f-b36e-4181243c163d
-- ## GRE opti
+- ## GRE optional
+- No instruction on self-reporting, so should send
+-
