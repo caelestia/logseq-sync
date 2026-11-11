@@ -1,6 +1,8 @@
 - https://www-math.umd.edu/graduate/prospective-students.html
 - https://academiccatalog.umd.edu/graduate/programs/mathematics-math/#admissionstext
 	- https://terpengage.umd.edu/community/ERx_Forms__Homepage
+- ## GRE optional
+- Institutional code: 5814
 - ## Essay
 - Statement of Purpose + Personal Statement
 -
