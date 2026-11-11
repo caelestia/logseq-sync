@@ -1,3 +1,5 @@
 - https://www.math.purdue.edu/academic/grad/apply?utm_source=chatgpt.com
 	- https://gradapply.purdue.edu/apply/?utm_source=chatgpt.com
--
+- ## GRE "not required"
+- ## Essay
+- Statement of Purpose + Personal History Statement
