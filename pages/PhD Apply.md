@@ -5,7 +5,7 @@
 - [[UC Berkeley - Dec 1]]
 - [[UChicago - Dec 3]]
 - ## Tier 2
-- [[UPenn - Dec 8]]
+- [[-UPenn - Dec 8-]]
 - [[UMich]]
 - [[Stony Brook]]
 - [[UCLA]]
