@@ -9,7 +9,7 @@
 - [[UMich - Dec 15]]
 - [[Stony Brook - Jan 15]]
 - [[UCLA - Dec 13]]
-- [[Northwestern]]
+- [[Northwestern - Dec 31]]
 - [[U of Maryland]]
 - ## Tier 3
 - [[UIUC]]
