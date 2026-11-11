@@ -1,3 +1,5 @@
 - https://www-math.umd.edu/graduate/prospective-students.html
 	- https://terpengage.umd.edu/community/ERx_Forms__Homepage
+- ## Essay
+- Statement of Purpose + Personal Statement
 -
