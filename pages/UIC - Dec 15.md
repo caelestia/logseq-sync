@@ -1,0 +1,2 @@
+- https://mscs.uic.edu/graduate/admissions-and-financial-aid/how-to-apply/
+	- https://admissions.uic.edu/graduate-professional/apply
