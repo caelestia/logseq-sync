@@ -1,0 +1,6 @@
+- https://www.math.northwestern.edu/graduate/application.html
+	- https://www.applyweb.com/nugrad/index.ftl
+- ## GRE not considered
+- ## Essay
+- Academic Statement (500–1,000 words) and Personal Statement (125–250 words).
+-
