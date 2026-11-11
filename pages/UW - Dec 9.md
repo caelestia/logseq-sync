@@ -1,5 +1,5 @@
--
--
+- https://math.washington.edu/graduate-admissions
+	- https://apply.grad.uw.edu/portal/gr_app
 - ## GRE Not considered
 - ## Essay
 - One Personal Statement. The suggested length is roughly 1000 words.
