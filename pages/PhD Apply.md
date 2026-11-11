@@ -1,5 +1,4 @@
 - [[SOP]]
--
 - ## Tier 1
 - [[MIT - Dec 1]]
 - [[UC Berkeley - Dec 1]]
