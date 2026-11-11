@@ -1,5 +1,5 @@
 - https://mathematics.uchicago.edu/graduate/mathematics-phd-program/how-to-apply/
-- https://apply-psd.uchicago.edu/apply/
+	- https://apply-psd.uchicago.edu/apply/
 - ## GRE
 - **applicants are strongly encouraged to submit the Mathematics Subject Test scores**
 	- **The Institution code is 1832, department code for Mathematics is 0703**

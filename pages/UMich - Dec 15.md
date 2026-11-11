@@ -1,1 +1,5 @@
 - https://lsa.umich.edu/math/graduates/Admissions/applying.html
+	- https://rackham.umich.edu/admissions/applying/
+- ## GRE - self report
+- GRE Mathematics Subject Test scores may be submitted as a combined pdf file with your transcript or personal statement. (Optional)
+-
