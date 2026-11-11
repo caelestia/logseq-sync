@@ -12,7 +12,7 @@
 - [[Northwestern - Dec 31]]
 - [[U of Maryland - Dec 10]]
 - ## Tier 3
-- [[UIUC]]
+- [[UIUC - Dec 1]]
 - [[Purdue]]
 - [[Utah]]
 - [[OSU]]
