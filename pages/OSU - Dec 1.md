@@ -1,5 +1,5 @@
 - https://math.osu.edu/grad/apply
--
+- [Three-year degrees](https://gpadmissions.osu.edu/intl/additional-requirements-to-apply.html#collapse-IntlReqThree) does not meet requirement!
 - ## GRE optional
 - Omitting them will not harm your application.  If submitting GRE scores, they must be sent directly from the ETS testing agency to Ohio State
 - ## Essay
