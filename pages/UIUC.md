@@ -1,0 +1,9 @@
+- https://math.illinois.edu/admissions/graduate-admissions/apply-phd-program?utm_source=chatgpt.com
+	- https://choose.illinois.edu/apply/?utm_source=chatgpt.com
+- ## GRE optional
+- Institution code: 1836
+- ## Essay
+- One Academic Statement (500–1,000 words maximum, as specified in the application) and two required Personal Statement short answers (250 words maximum each).
+	- Describe pivotal experiences, opportunities, or challenges influencing your educational and professional development.
+	- Give an example of contributing to a community involving people with different perspectives or experiences, and reflect on what you learned.
+-
