@@ -1,4 +1,6 @@
 - https://math.osu.edu/grad/apply
 -
 - ## GRE optional
--
+- Omitting them will not harm your application.  If submitting GRE scores, they must be sent directly from the ETS testing agency to Ohio State
+- ## Essay
+- SOP
