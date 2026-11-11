@@ -1,4 +1,5 @@
 -
 -
 - ## GRE Not considered
--
+- ## Essay
+- One Personal Statement. The suggested length is roughly 1000 words.
