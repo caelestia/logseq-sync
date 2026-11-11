@@ -1,3 +1,3 @@
 - https://www.math.stonybrook.edu/applying-phd-program
 	- https://graduateadmissions.stonybrook.edu/apply
--
+- ## GRE not considered
