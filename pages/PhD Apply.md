@@ -13,7 +13,7 @@
 - [[U of Maryland - Dec 10]]
 - ## Tier 3
 - [[UIUC - Dec 1]]
-- [[Purdue]]
+- [[Purdue - Dec 1]]
 - [[Utah]]
 - [[OSU]]
 - [[UIC]]

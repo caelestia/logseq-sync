@@ -1,0 +1,3 @@
+- https://www.math.purdue.edu/academic/grad/apply?utm_source=chatgpt.com
+	- https://gradapply.purdue.edu/apply/?utm_source=chatgpt.com
+-
