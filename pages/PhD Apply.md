@@ -6,7 +6,7 @@
 - [[UChicago - Dec 3]]
 - ## Tier 2
 - ~~[[UPenn - Dec 8]]~~
-- [[UMich]]
+- [[UMich - Dec 15]]
 - [[Stony Brook]]
 - [[UCLA]]
 - [[Northwestern]]
