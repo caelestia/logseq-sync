@@ -1,0 +1,4 @@
+- https://en.wikipedia.org/wiki/Moser%27s_trick
+- [[What is a connection]]
+- [[Commutative Algebra]]
+- [[Hodge theory +]]

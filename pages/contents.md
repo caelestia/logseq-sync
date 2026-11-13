@@ -9,8 +9,5 @@
 	- [[Sheaf cohomology]]
 - [[Analysis]]
 - [[Topology]]
-- Geometry
-	- [[What is a connection]]
-	- [[Commutative Algebra]]
-	- [[Hodge theory +]]
+- [[Geometry]]
 - [[test]]
