@@ -14,13 +14,16 @@
   $$
   E_1^{p,q} = H^q(FJ^{\bullet,p}) = FH^q(J^{\bullet,p}) \implies H^{p+q}(F(\operatorname{tot}J)).
   $$
-- The column-first spectral sequence of $J^{\bullet,\bullet}$ collapses at $E_2$-page, giving
+- What's RHS? The column-first spectral sequence of $J^{\bullet,\bullet}$ collapses at $E_2$-page, giving
   $$
   H^p(K^\bullet) \simeq H^p (\operatorname{tot} J),
   $$
-  so $K^\bullet\to\operatorname{tot} J$ is a quasi-isomorphism (to see that the isomorphism is induced by this, we can chase elements under the edge map, or view $K^\bullet$ as a double complex concentrated at the bottom row and use naturality of spectral sequences.)
+  so $K^\bullet\to\operatorname{tot} J$ is a quasi-isomorphism (to see that the isomorphism is induced by this, we can chase elements under the edge map, or view $K^\bullet$ as a double complex concentrated at the bottom row and use naturality of the spectral sequence.)
 - Therefore $H^{p+q}(F(\operatorname{tot}J)) = H^{p+q} (RF(K^\bullet)) = \R^{p+q}(K^\bullet)$.
 - The result follows from writing the $E_2$ page.
 - ### QED
 - ## First hypercohomology SS (more stupid)
-- If we instead take the column-first SS of $FJ^{}
+- If we instead take the column-first SS of $FJ^{\bullet,\bullet}$, we get
+  $$
+  E_1^{p,q} = H^q(FJ^{p,\bullet}) = R^qF(K^p) \implies \R^{p+q}(K^\bullet).
+  $$
