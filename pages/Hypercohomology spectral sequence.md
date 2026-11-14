@@ -8,7 +8,7 @@
   $$
 - ### Proof.
 - Let $K^\bullet \to J^{\bullet,\bullet}$ be the Cartan-Eilenberg resolution (the second index is for resolution). Then, in particular, we have
-	- For every $q$, $H^q(K^\bullet) \longto H^q(J^{\bullet,0} \longto H^q(J^{\bullet,1} \longto \cdots$ is an injective resolution;
+	- For every $q$, $H^q(K^\bullet) \longto H^q(J^{\bullet,0}) \longto H^q(J^{\bullet,1}) \longto \cdots$ is an injective resolution;
 	- Moreover, $FH^q(J^{\bullet,p})=H^q(FJ^{\bullet,p})$.
 - Then the row-first SS of $FJ^{\bullet,\bullet}$ is
   $$
