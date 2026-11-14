@@ -19,7 +19,7 @@
 - [[University of Utah - Jan 1]]
 - ~~[[OSU - Dec 1]]~~
 - [[UIC - Dec 15]]
-- [[UW - Dec 9]]
+- [[UW - Dec 9]] all sent
 - ## Masters (if funded only)
 - ALGANT
 - Part iii
