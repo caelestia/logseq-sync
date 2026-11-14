@@ -7,6 +7,7 @@
   E_2^{p,q} = R^pF (H^q(K^\bullet)) \implies \R^{p+q}F (K^\bullet).
   $$
 - ### Proof.
-- Let $
+- Let $K^\bullet \to J^{\bullet,\bullet}$ be the Cartan-Eilenberg resolution (the second index is for resolution). Then, in particular, we have
+	- For every $q$, $H^q(K^\bullet) \longto H^q(J^{\bullet,0} \longto H^q(J^{\bullet,1}
 - ## Second hypercohomology SS (stupid)
 -
