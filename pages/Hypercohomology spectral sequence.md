@@ -16,8 +16,9 @@
   $$
 - The column-first spectral sequence of $J^{\bullet,\bullet}$ collapses at $E_2$-page, giving
   $$
-  H^p(K^\bullet) \simeq H^p (\operatorname{tot} J)
+  H^p(K^\bullet) \simeq H^p (\operatorname{tot} J),
   $$
-  so $K^\bullet\to\operatorname{tot} J$ is a quasi-isomorphism.
+  so $K^\bullet\to\operatorname{tot} J$ is a quasi-isomorphism (to see that the isomorphism is induced by this, we can chase elements under the edge map, or view $K^\bullet$ as a double complex concentrated at the bottom row and use naturality of spectral sequences.)
+- Therefore
 - ## Second hypercohomology SS (stupid)
 -
