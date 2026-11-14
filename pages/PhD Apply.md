@@ -5,7 +5,7 @@
 - [[UChicago - Dec 3]]
 - ## Tier 2
 - ~~[[UPenn - Dec 8]]~~
-- [[UMich - Dec 15]]
+- [[UMich - Dec 15]] all sent
 - [[Stony Brook - Jan 15]]
 - [[UCLA - Dec 13]] all sent
   :LOGBOOK:
