@@ -14,6 +14,6 @@
   $$
   E_1^{p,q} = H^q(FJ^{\bullet,p}) = FH^q(J^{\bullet,p}) \implies H^{p+q}(F(\operatorname{tot}J)).
   $$
-- Since
+-
 - ## Second hypercohomology SS (stupid)
 -
