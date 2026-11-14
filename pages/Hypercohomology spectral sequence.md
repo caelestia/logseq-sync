@@ -1,7 +1,7 @@
 - Let $\cat A$ be an abelian category with enough injectives.
 - Let $F:\cat A \to \cat B$ be a left exact additive functor.
 - Hypercohomology is denoted as $\R^nF = H^n \circ R^+F$.
-- ## First hypercohomology spectral sequence
+- ## Second hypercohomology spectral sequence
 - Let $K^\bullet\in C^+(\cat A)$, we have the SS
   $$
   E_2^{p,q} = R^pF (H^q(K^\bullet)) \implies \R^{p+q}F (K^\bullet).
@@ -19,6 +19,8 @@
   H^p(K^\bullet) \simeq H^p (\operatorname{tot} J),
   $$
   so $K^\bullet\to\operatorname{tot} J$ is a quasi-isomorphism (to see that the isomorphism is induced by this, we can chase elements under the edge map, or view $K^\bullet$ as a double complex concentrated at the bottom row and use naturality of spectral sequences.)
-- Therefore
-- ## Second hypercohomology SS (stupid)
--
+- Therefore $H^{p+q}(F(\operatorname{tot}J)) = H^{p+q} (RF(K^\bullet)) = \R^{p+q}(K^\bullet)$.
+- The result follows from writing the $E_2$ page.
+- ### QED
+- ## First hypercohomology SS (more stupid)
+- If we instead take the column-first SS of $FJ^{}
