@@ -2,7 +2,7 @@
 - ## Tier 1
 - [[MIT - Dec 1]] all sent
 - [[UC Berkeley - Dec 1]] all sent
-- [[UChicago - Dec 3]]
+- [[UChicago - Dec 3]] all sent
 - ## Tier 2
 - ~~[[UPenn - Dec 8]]~~
 - [[UMich - Dec 15]] all sent
