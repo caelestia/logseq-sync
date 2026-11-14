@@ -10,4 +10,7 @@
 	- Hodge-to-de Rham
 - Handout: ![spectral sequences.pdf](../assets/spectral_sequences_1794621756183_0.pdf)
 - ---
+- ### Second lecture:
+- functoriality
 - [[Hypercohomology spectral sequence]]
+- cup product
