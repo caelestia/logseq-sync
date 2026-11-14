@@ -18,7 +18,7 @@
 - [[Purdue - Dec 1]] all sent
 - [[University of Utah - Jan 1]]
 - ~~[[OSU - Dec 1]]~~
-- [[UIC - Dec 15]]
+- [[UIC - Dec 15]] all sent
 - [[UW - Dec 9]] all sent
 - ## Masters (if funded only)
 - ALGANT
