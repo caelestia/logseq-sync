@@ -1,7 +1,7 @@
 - [[SOP]]
 - ## Tier 1
-- [[MIT - Dec 1]]
-- [[UC Berkeley - Dec 1]]
+- [[MIT - Dec 1]] all sent
+- [[UC Berkeley - Dec 1]] all sent
 - [[UChicago - Dec 3]]
 - ## Tier 2
 - ~~[[UPenn - Dec 8]]~~
@@ -14,8 +14,8 @@
 - [[Northwestern - Dec 31]]
 - [[U of Maryland - Dec 10]]
 - ## Tier 3
-- [[UIUC - Dec 1]]
-- [[Purdue - Dec 1]]
+- [[UIUC - Dec 1]] all sent
+- [[Purdue - Dec 1]] all sent
 - [[University of Utah - Jan 1]]
 - ~~[[OSU - Dec 1]]~~
 - [[UIC - Dec 15]]
