@@ -12,7 +12,7 @@
   CLOCK: [2026-11-11 Wed 18:21:35]--[2026-11-11 Wed 18:21:36] =>  00:00:01
   :END:
 - [[Northwestern - Dec 31]]
-- [[U of Maryland - Dec 10]]
+- [[U of Maryland - Dec 10]] all sent
 - ## Tier 3
 - [[UIUC - Dec 1]] all sent
 - [[Purdue - Dec 1]] all sent
