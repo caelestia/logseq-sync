@@ -7,6 +7,6 @@
   E_2^{p,q} = R^pF (H^q(K^\bullet)) \implies \R^{p+q}F (K^\bullet).
   $$
 - ### Proof.
--
+- Let $
 - ## Second hypercohomology SS (stupid)
 -
