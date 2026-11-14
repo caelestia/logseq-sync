@@ -12,7 +12,8 @@
 	- Moreover, $FH^q(J^{\bullet,p})=H^q(FJ^{\bullet,p})$.
 - Then the row-first SS of $FJ^{\bullet,\bullet}$ is
   $$
-  E_1^{p,q} = H^q(FJ^{\bullet,p}) = FH^q(J^{\bullet,p}) \implies H^{p+q}(F(
+  E_1^{p,q} = H^q(FJ^{\bullet,p}) = FH^q(J^{\bullet,p}) \implies H^{p+q}(F(\operatorname{tot}J)).
   $$
+- Since
 - ## Second hypercohomology SS (stupid)
 -
