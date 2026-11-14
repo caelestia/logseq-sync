@@ -14,9 +14,9 @@
   $$
   E_1^{p,q} = H^q(FJ^{\bullet,p}) = FH^q(J^{\bullet,p}) \implies H^{p+q}(F(\operatorname{tot}J)).
   $$
-- The column-first spectral sequence of $J^{\bullet,\bullet}$ collapses at $E_1$-page, giving
+- The column-first spectral sequence of $J^{\bullet,\bullet}$ collapses at $E_2$-page, giving
   $$
-  E_1^{p,q} = 
+  H^p(K^\bullet) \simeq 
   $$
 - ## Second hypercohomology SS (stupid)
 -
