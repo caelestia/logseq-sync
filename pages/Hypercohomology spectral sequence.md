@@ -8,6 +8,11 @@
   $$
 - ### Proof.
 - Let $K^\bullet \to J^{\bullet,\bullet}$ be the Cartan-Eilenberg resolution (the second index is for resolution). Then, in particular, we have
-	- For every $q$, $H^q(K^\bullet) \longto H^q(J^{\bullet,0} \longto H^q(J^{\bullet,1}
+	- For every $q$, $H^q(K^\bullet) \longto H^q(J^{\bullet,0} \longto H^q(J^{\bullet,1} \longto \cdots$ is an injective resolution;
+	- Moreover, $FH^q(J^{\bullet,p})=H^q(FJ^{\bullet,p})$.
+- Then the row-first SS of $FJ^{\bullet,\bullet}$ is
+  $$
+  E_1^{p,q} = H^q(FJ^{\bullet,p}) = FH^q(J^{\bullet,p}) \implies H^{p+q}(F(
+  $$
 - ## Second hypercohomology SS (stupid)
 -
