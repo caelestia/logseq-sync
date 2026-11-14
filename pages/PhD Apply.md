@@ -7,7 +7,7 @@
 - ~~[[UPenn - Dec 8]]~~
 - [[UMich - Dec 15]]
 - [[Stony Brook - Jan 15]]
-- [[UCLA - Dec 13]] req sent
+- [[UCLA - Dec 13]] req sent to RT and DE up to this point
   :LOGBOOK:
   CLOCK: [2026-11-11 Wed 18:21:35]--[2026-11-11 Wed 18:21:36] =>  00:00:01
   :END:
