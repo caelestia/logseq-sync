@@ -1,0 +1,6 @@
+- Let $\cat A$ be an abelian category with enough injectives.
+- ## First hypercohomology spectral sequence
+-
+-
+- ## Second hypercohomology SS (stupid)
+-

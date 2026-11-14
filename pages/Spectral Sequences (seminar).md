@@ -9,4 +9,4 @@
 		- LHS SS
 	- Hodge-to-de Rham
 - ---
--
+- [[Hypercohomology spectral sequence]]
