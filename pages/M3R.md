@@ -1,4 +1,3 @@
 - Example on primitive cohomology
 	- X^3_4 quartic 3-fold in P^4
-- [](https://stacks.math.columbia.edu/tag/05BE)
-- ## Constructible sheaves
+- [Constructible sheaves on SP](https://stacks.math.columbia.edu/tag/05BE)
