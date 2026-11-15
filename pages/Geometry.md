@@ -2,3 +2,4 @@
 - [[What is a connection]]
 - [[Commutative Algebra]]
 - [[Hodge theory +]]
+- About promoting
