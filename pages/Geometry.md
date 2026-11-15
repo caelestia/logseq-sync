@@ -2,4 +2,5 @@
 - [[What is a connection]]
 - [[Commutative Algebra]]
 - [[Hodge theory +]]
-- About promoting
+- About L f^* dashv R f_*: since the left adjoint is not exact, we can't use injectives alone, but we don't have projectives. How to solve this? Use K-flat resolutions instead. https://stacks.math.columbia.edu/tag/079V
+-
