@@ -1,2 +1,2 @@
 -
-- []
+- [[flatness of product of R-modules]]
