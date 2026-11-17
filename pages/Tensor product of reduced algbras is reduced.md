@@ -25,5 +25,5 @@
 	- By linear independence, we get $a^{(r)}(m)=0$. $m$ is arbitrary, so $a^{(r)}=0$. QED
 - It remains to make the following observation.
 - Claim. If $K/k$ and $L/k$ are (finite) separated extensions, then $K\otimes L$ is a product of finite separated extensions.
-	- Proof. By the primitive element theorem, $K=k[X]/f(X)$, where
+	- Proof. By the primitive element theorem, $K=k[X]/(f)$, where $f$ has no repeated roots in $\bar k$. Then $f$ splits into distinct irred factors in $L$.
 - ## When $k$ is not perfect
