@@ -5,6 +5,8 @@
   $$
   A \hookrightarrow \prod_{\ideal m\in\text{MaxSpec}(A)} A/\ideal m, \qquad B \hookrightarrow \prod_{\ideal n\in\text{MaxSpec}(B)} B/\ideal n
   $$
-- By flatness, $
+- By flatness, $A\otimes_kB \hookrightarrow \prod_{\ideal m}K_{\ideal m}\otimes_k\prod_{\ideal n}L_{\ideal n}$.
+- Claim. RHS embeds into $\prod_{\ideal m,\ideal n} K_{\ideal m}\otimes_k L_{\ideal n}$.
+-
 -
 - ## When $k$ is not perfect
