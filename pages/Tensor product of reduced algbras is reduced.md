@@ -1,7 +1,7 @@
 - Let $k$ be a perfect field.
 - **Proposition.** If $A$, $B$ are reduced algebras over $k$, then $A\otimes_kB$ is also reduced.
 - ### Proof.
-- By the strong [[Nullstellensatz]], $J(A)=J(B)=0$, so we have injective maps
+- By the strong [[Nullstellensatz]], $J(A)=J(B)=0$, so we have injective "evaluation" maps
   $$
   A \hookrightarrow \prod_{\ideal m\in\text{MaxSpec}(A)} A/\ideal m, \qquad B \hookrightarrow \prod_{\ideal n\in\text{MaxSpec}(B)} B/\ideal n
   $$
@@ -13,6 +13,11 @@
 	  $$
 	- By shortening the sum when necessary, we may assume $\{b^{(r)}\}$ are linearly independent.
 	- Then for every $(m,n)$, we have $\sum_r a^{(r)}(m)\otimes b^{(r)}(n)=0$ in $K_m\otimes L_n$.
-	- Fix $m$ and choose a basis $\{e_\}
+	- Fix $m$ and choose a basis $\{e_i\}$ of $K_m$. Expand
+	  $$
+	  a^{(r)}(m) = \sum_ c^{r}_{m,i} e_i,\qquad c^{r}_{m,i} \in k.
+	  $$
+	- We get
+	  $$\sum_r \sum_\alpha c^r_{m,i} e_i \otimes b^{(r)}(m) = $$
 -
 - ## When $k$ is not perfect
