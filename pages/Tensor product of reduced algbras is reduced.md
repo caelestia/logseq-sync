@@ -11,7 +11,8 @@
 	  $$
 	  z = \sum_{r=1}^s a^{(r)}\otimes b^{(r)}.
 	  $$
+	- By shortening the sum when necessary, we may assume $\{b^{(r)}\}$ are linearly independent.
 	- Then for every $(m,n)$, we have $\sum_r a^{(r)}(m)\otimes b^{(r)}(n)=0$ in $K_m\otimes L_n$.
-	-
+	- Fix $m$ and choose a basis $\{e_\}
 -
 - ## When $k$ is not perfect
