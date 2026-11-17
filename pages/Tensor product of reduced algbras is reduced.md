@@ -1,6 +1,7 @@
 - Let $k$ be a perfect field.
 - **Proposition.** If $A$, $B$ are reduced algebras over $k$, then $A\otimes_kB$ is also reduced.
 - ### Proof.
+- WLOG assume $A$ and $B$ are finitely generated.
 - By the strong [[Nullstellensatz]], $J(A)=J(B)=0$, so we have injective "evaluation" maps
   $$
   A \hookrightarrow \prod_{\ideal m\in\text{MaxSpec}(A)} A/\ideal m, \qquad B \hookrightarrow \prod_{\ideal n\in\text{MaxSpec}(B)} B/\ideal n
@@ -22,6 +23,7 @@
 	  $$\sum_r \sum_i c^r_{m,i} e_i \otimes b^{(r)}(n) = \sum_i e_i\otimes \sum_r c^r_{m,i} b^{(r)}(n) = 0,\qquad \forall n.$$
 	- Thus $\sum_r c^r_{m,i} b^{(r)} = 0$ in $\prod_n L_n$.
 	- By linear independence, we get $a^{(r)}(m)=0$. $m$ is arbitrary, so $a^{(r)}=0$. QED
-- It remains to prove the following.
-- Claim. If $K/k$ and $L/k$
+- It remains to make the following observation.
+- Claim. If $K/k$ and $L/k$ are (finite) separated extensions, then $K\otimes L$ is a product of finite separated extensions.
+	- Proof. By the primitive element theorem, $K=k[X]/f(X)$, where
 - ## When $k$ is not perfect
