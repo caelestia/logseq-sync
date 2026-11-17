@@ -7,6 +7,9 @@
   $$
 - By flatness, $A\otimes_kB \hookrightarrow \prod_{\ideal m}K_{\ideal m}\otimes_k\prod_{\ideal n}L_{\ideal n}$.
 - Claim. RHS embeds into $\prod_{\ideal m,\ideal n} K_{\ideal m}\otimes_k L_{\ideal n}$.
-	- Proof.
+	- Proof. Denote the natural map as $\Phi$. Suppose $\Phi(z)=0$, where
+	  $$
+	  z = \sum_{r=1}^s 
+	  $$
 -
 - ## When $k$ is not perfect
