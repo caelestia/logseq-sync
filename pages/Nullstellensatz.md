@@ -8,5 +8,5 @@
 - By [[Noether normalization]], $K \to L$ factorizes as two inclusions $K \to K[T_1,\cdots,T_d] \to L$ where the second inclusion is finite.
 - Since $L$ is a field, this implies $K[T_1,\cdots,T_d]$ is also a field. Thus $d=0$. QED
 - ## Strong Nullstellensatz
-- ###
+- ### Definition. $R$
 - Rabinowitsch trick
