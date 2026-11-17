@@ -9,8 +9,9 @@
 - Claim. RHS embeds into $\prod_{\ideal m,\ideal n} K_{\ideal m}\otimes_k L_{\ideal n}$.
 	- Proof. Denote the natural map as $\Phi$. Suppose $\Phi(z)=0$, where
 	  $$
-	  z = \sum_{r=1}^s a^{r}\otimes b^{r}.
+	  z = \sum_{r=1}^s a^{(r)}\otimes b^{(r)}.
 	  $$
-	- Then for every $(m,n)$, we have
+	- Then for every $(m,n)$, we have $\sum_r a^{(r)}(m)\otimes b^{(r)}(n)=0$ in $K_m\otimes L_n$.
+	-
 -
 - ## When $k$ is not perfect
