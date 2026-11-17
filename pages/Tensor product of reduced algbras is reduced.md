@@ -1,6 +1,7 @@
 - Let $k$ be a perfect field.
-- Let $A$, $B$ be reduced algebras over $k$.
-- [[Nullstellensatz]]
+- **Proposition.** If $A$, $B$ are reduced algebras over $k$, then $A\otimes_kB$ is also reduced.
+- ### Proof.
+- By the strong [[Nullstellensatz]], $J(A)=J(B)=0$, so there are inject
 -
 -
 - ## When $k$ is not perfect
