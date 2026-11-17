@@ -7,6 +7,6 @@
   $$
 - By flatness, $A\otimes_kB \hookrightarrow \prod_{\ideal m}K_{\ideal m}\otimes_k\prod_{\ideal n}L_{\ideal n}$.
 - Claim. RHS embeds into $\prod_{\ideal m,\ideal n} K_{\ideal m}\otimes_k L_{\ideal n}$.
--
+	- Proof.
 -
 - ## When $k$ is not perfect
