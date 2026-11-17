@@ -1,0 +1,6 @@
+- Let $k$ be a perfect field.
+- Let $A$, $B$ be reduced algebras over $k$.
+-
+-
+-
+- ## When $k$ is not perfect
