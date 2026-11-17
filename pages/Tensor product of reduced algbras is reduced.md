@@ -6,7 +6,7 @@
   A \hookrightarrow \prod_{\ideal m\in\text{MaxSpec}(A)} A/\ideal m, \qquad B \hookrightarrow \prod_{\ideal n\in\text{MaxSpec}(B)} B/\ideal n
   $$
 - By flatness, $A\otimes_kB \hookrightarrow \prod_{\ideal m}K_{\ideal m}\otimes_k\prod_{\ideal n}L_{\ideal n}$.
-- Claim. RHS embeds into $\prod_{\ideal m,\ideal n} K_{\ideal m}\otimes_k L_{\ideal n}$.
+- Claim. RHS embeds into $\prod_{ m, n} K_{ m}\otimes_k L_{ n}$. This works for any two family $K_m$ and $L_n$ of vector spaces over any field.
 	- Proof. Denote the natural map as $\Phi$. Suppose $\Phi(z)=0$, where
 	  $$
 	  z = \sum_{r=1}^s a^{(r)}\otimes b^{(r)}.
@@ -20,6 +20,6 @@
 	- We get
 	  $$\sum_r \sum_i c^r_{m,i} e_i \otimes b^{(r)}(n) = \sum_i e_i\otimes \sum_r c^r_{m,i} b^{(r)}(n) = 0,\qquad \forall n.$$
 	- Thus $\sum_r c^r_{m,i} b^{(r)} = 0$ in $\prod_n L_n$.
-	- By linear independence,
+	- By linear independence, we get $a^{(r)}(m)=0$. $m$ is arbitrary, so $a^{(r)}=0$. QED
 -
 - ## When $k$ is not perfect
