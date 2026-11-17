@@ -15,9 +15,11 @@
 	- Then for every $(m,n)$, we have $\sum_r a^{(r)}(m)\otimes b^{(r)}(n)=0$ in $K_m\otimes L_n$.
 	- Fix $m$ and choose a basis $\{e_i\}$ of $K_m$. Expand
 	  $$
-	  a^{(r)}(m) = \sum_ c^{r}_{m,i} e_i,\qquad c^{r}_{m,i} \in k.
+	  a^{(r)}(m) = \sum_i c^{r}_{m,i} e_i,\qquad c^{r}_{m,i} \in k.
 	  $$
 	- We get
-	  $$\sum_r \sum_\alpha c^r_{m,i} e_i \otimes b^{(r)}(m) = $$
+	  $$\sum_r \sum_i c^r_{m,i} e_i \otimes b^{(r)}(n) = \sum_i e_i\otimes \sum_r c^r_{m,i} b^{(r)}(n) = 0,\qquad \forall n.$$
+	- Thus $\sum_r c^r_{m,i} b^{(r)} = 0$ in $\prod_n L_n$.
+	- By linear independence,
 -
 - ## When $k$ is not perfect
