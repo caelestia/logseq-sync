@@ -21,5 +21,5 @@
 	  $$\sum_r \sum_i c^r_{m,i} e_i \otimes b^{(r)}(n) = \sum_i e_i\otimes \sum_r c^r_{m,i} b^{(r)}(n) = 0,\qquad \forall n.$$
 	- Thus $\sum_r c^r_{m,i} b^{(r)} = 0$ in $\prod_n L_n$.
 	- By linear independence, we get $a^{(r)}(m)=0$. $m$ is arbitrary, so $a^{(r)}=0$. QED
--
+- Therefore, $A\otimes B \
 - ## When $k$ is not perfect
