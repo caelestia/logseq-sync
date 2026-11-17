@@ -24,6 +24,7 @@
 	- Thus $\sum_r c^r_{m,i} b^{(r)} = 0$ in $\prod_n L_n$.
 	- By linear independence, we get $a^{(r)}(m)=0$. $m$ is arbitrary, so $a^{(r)}=0$. QED
 - It remains to make the following observation.
-- Claim. If $K/k$ and $L/k$ are (finite) separated extensions, then $K\otimes L$ is a product of finite separated extensions.
-	- Proof. By the primitive element theorem, $K=k[X]/(f)$, where $f$ has no repeated roots in $\bar k$. Then $f$ splits into distinct irred factors in $L$.
+- Claim. If $K/k$ and $L/k$ are finite extensions,. $K/k$ is separable, then $K\otimes L$ is a product of finite separable extensions.
+	- Proof. By the primitive element theorem, $K=k[X]/(f)$, where $f$ has no repeated roots in $\bar k$. Then $f$ splits into distinct irred factors in $L$. By CRT, we win.
 - ## When $k$ is not perfect
+- counterexample
