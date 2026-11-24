@@ -12,5 +12,5 @@
 	- Clearly, any Chevalley extension will contain this localization.
 	- Any DVR $(A,\pi)$ is maximal under domination. If $(A,\pi) \leq (B,\ideal m)$, take $y\in B \setminus A$. We can write $y=\pi^n s/t$, where $\pi \nmid s,t$. Clearly $n<0$, so $\pi^{-1}\in B$. However, $(\pi)=A \cap \ideal m$, so $1 = \pi \cdot \pi^{-1} \in \ideal m$, a contradiction.
 - ---
-- This uniqueness is false in general. For example, $k[x,y]$
-- Example (arbitrarily high rank). Simply consider the Krull valuation $v: k(X_i: i\in I) \to \Z_{\geq0}^I$ with the lex order.
+- This uniqueness is false in general. For example, the prime ideal $(x,y)$ in $k[x,y]$ is the center of
+- Example (arbitrarily high rank). Simply consider the Krull valuation $v: k(X_i: i\in I) \to \Z^I$ with the lex order.
