@@ -1,6 +1,7 @@
 - The following two definitions are equivalent:
 - Definition 1. A valuation ring is an integral domain $R$, such that for any element $x$ in the fraction field $K$, we have $x\in R$ or $x^{-1}\in R$.
 - Definition 2. A Krull valuation is $v:K \to \Gamma\cup\{\infty\}$, such that $v(0)=\infty$, is a homomorphism for multiplication of $K$, and satisfy the ultrametric inequality.
+- A valuation ring is always a local ring.
 - ---
 - Chevalley's extension theorem, see my lecture notes:
 - ![Separated Morphisms .pdf](../assets/Separated_Morphisms_1795480243199_0.pdf)
@@ -9,6 +10,6 @@
   id:: 6b04db16-21a3-435a-9816-f63baa0f47ae
 - Example (finite places of function field). Consider $k[X]$, let $p$ be an irred poly. There is a *unique* valuation ring $R \subset k(X)$ with the $p$-adic valuation (i.e. Chevalley extension of $k[X]$ and $(p)$), given by the localization $R=k[X]_{(p)}$.
 	- Clearly, any Chevalley extension will contain this localization.
-	- Any DVR $(A,\pi)$ is maximal under domination. If $(A,\pi) \leq (B,\ideal m)$, take $y\in B \setminus A$. We can write $y=\pi^n s/t$, where $\pi \nmid s,t$ and $n<0$.
+	- Any DVR $(A,\pi)$ is maximal under domination. If $(A,\pi) \leq (B,\ideal m)$, take $y\in B \setminus A$. We can write $y=\pi^n s/t$, where $\pi \nmid s,t$. Clearly $n<0$, so $\pi^{-1}\in B$. However, $(\pi)=A \cap \ideal m$, so $1 = \pi * \pi^{-1}$
 - ---
 - Example (arbitrarily high rank). Simply consider
