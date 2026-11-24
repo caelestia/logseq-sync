@@ -29,4 +29,5 @@
   E_1^{p,q} = H^q(FJ^{p,\bullet}) = R^qF(K^p) \implies \R^{p+q}(K^\bullet).
   $$
 - ## Naturality
-- The first SS is given by the (t-structure) truncation $\
+- The first SS is given by the (t-structure) truncation $\tau_{\leq n}$, while the second SS is given by the "stupid" truncation $\sigma_{\leq n}$.
+- See [[Naturality of spectral sequence]]
