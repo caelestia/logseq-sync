@@ -30,5 +30,5 @@
   $$
 - ## Naturality
 - The first SS is given by the "stupid" truncation $\sigma^{\leq n}$.
-- The second SS is given by the (t-structure) truncation $\tau^{\leq n}$, which is not a filtration at complex level. How does this work?
+- The second SS is given by the (t-structure) truncation $\tau^{\leq n}$, which is not a filtration at complex level. How does this work? The natural map
 - See [[Naturality of spectral sequence]]
