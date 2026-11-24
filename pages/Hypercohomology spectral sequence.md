@@ -29,6 +29,6 @@
   E_1^{p,q} = H^q(FJ^{p,\bullet}) = R^qF(K^p) \implies \R^{p+q}(K^\bullet).
   $$
 - ## Naturality
-- The first SS is given by the "stupid" truncation $\sigma^{\leq n}$.
-- The second SS is given by the (t-structure) truncation $\tau^{\leq n}$, which is not a filtration at complex level. How does this work? The natural map
+- The first SS is given by the "stupid" truncation $\sigma^{\leq p}$.
+- The second SS is given by the (t-structure) truncation $\tau^{\leq p}$. How does this work?
 - See [[Naturality of spectral sequence]]
