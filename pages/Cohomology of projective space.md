@@ -1,3 +1,4 @@
 - Cheat sheet:
 - ![image.png](../assets/image_1795496095709_0.png)
 	- https://stacks.math.columbia.edu/tag/01XS
+-
