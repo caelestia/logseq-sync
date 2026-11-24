@@ -1,4 +1,4 @@
 - Claim. Spectral sequence is a functor from the category of filtered complexes to the category of spectral sequences.
 -
-- Claim. Spectral sequence is a triangulated functor from the filtered derived category to the category of spectral sequences.
+- Claim. Spectral sequence is a triangulated functor from the filtered derived category to the category of spectral sequences?
 -
