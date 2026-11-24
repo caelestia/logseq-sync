@@ -1,0 +1,2 @@
+- Definition 1. A valuation ring is an integral domain $R$, with fraction field $K$, such that $x\in R$ or $x^{-1}\in R$
+- Definition 2.

@@ -1,3 +1,4 @@
 - [[Depth of module]]
 - [[Bound on homological dimension of (torsion-free) sheaves on regular scheme]]
 - [[Tensor product of reduced algbras is reduced]]
+- [[Note about valuation rings]]
