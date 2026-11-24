@@ -12,4 +12,5 @@
 	- Clearly, any Chevalley extension will contain this localization.
 	- Any DVR $(A,\pi)$ is maximal under domination. If $(A,\pi) \leq (B,\ideal m)$, take $y\in B \setminus A$. We can write $y=\pi^n s/t$, where $\pi \nmid s,t$. Clearly $n<0$, so $\pi^{-1}\in B$. However, $(\pi)=A \cap \ideal m$, so $1 = \pi \cdot \pi^{-1} \in \ideal m$, a contradiction.
 - ---
+- This uniqueness is false in general.
 - Example (arbitrarily high rank). Simply consider
