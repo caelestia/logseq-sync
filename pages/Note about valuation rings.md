@@ -1,4 +1,8 @@
 - The following two definitions are equivalent:
 - Definition 1. A valuation ring is an integral domain $R$, such that for any element $x$ in the fraction field $K$, we have $x\in R$ or $x^{-1}\in R$.
 - Definition 2. A Krull valuation is $v:K \to \Gamma\cup\{\infty\}$, such that $v(0)=\infty$, is a homomorphism for multiplication of $K$, and satisfy the ultrametric inequality.
-- -
+- ---
+- Chevalley's extension theorem, see my lecture notes:
+- ![Separated Morphisms .pdf](../assets/Separated_Morphisms_1795480243199_0.pdf)
+- ---
+- To find examples of valuation ring of arbitrarily high rank, we can
