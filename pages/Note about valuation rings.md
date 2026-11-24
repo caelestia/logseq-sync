@@ -10,6 +10,6 @@
   id:: 6b04db16-21a3-435a-9816-f63baa0f47ae
 - Example (finite places of function field). Consider $k[X]$, let $p$ be an irred poly. There is a *unique* valuation ring $R \subset k(X)$ with the $p$-adic valuation (i.e. Chevalley extension of $k[X]$ and $(p)$), given by the localization $R=k[X]_{(p)}$.
 	- Clearly, any Chevalley extension will contain this localization.
-	- Any DVR $(A,\pi)$ is maximal under domination. If $(A,\pi) \leq (B,\ideal m)$, take $y\in B \setminus A$. We can write $y=\pi^n s/t$, where $\pi \nmid s,t$. Clearly $n<0$, so $\pi^{-1}\in B$. However, $(\pi)=A \cap \ideal m$, so $1 = \pi * \pi^{-1}$
+	- Any DVR $(A,\pi)$ is maximal under domination. If $(A,\pi) \leq (B,\ideal m)$, take $y\in B \setminus A$. We can write $y=\pi^n s/t$, where $\pi \nmid s,t$. Clearly $n<0$, so $\pi^{-1}\in B$. However, $(\pi)=A \cap \ideal m$, so $1 = \pi \cdot \pi^{-1} \in \ideal m$, a contradiction.
 - ---
 - Example (arbitrarily high rank). Simply consider
