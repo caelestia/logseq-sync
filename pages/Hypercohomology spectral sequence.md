@@ -1,6 +1,7 @@
 - Let $\cat A$ be an abelian category with enough injectives.
 - Let $F:\cat A \to \cat B$ be a left exact additive functor.
 - Hypercohomology is denoted as $\R^nF = H^n \circ R^+F$.
+- When applied to a single object $A$, this is denoted $R^nFA := \R^nFA$. (confusing notation!)
 - ## Second hypercohomology spectral sequence
 - Let $K^\bullet\in C^+(\cat A)$, we have the SS
   $$
