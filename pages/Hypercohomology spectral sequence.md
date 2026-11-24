@@ -28,3 +28,5 @@
   $$
   E_1^{p,q} = H^q(FJ^{p,\bullet}) = R^qF(K^p) \implies \R^{p+q}(K^\bullet).
   $$
+- ## Naturality
+- The first SS is given by the (t-structure) truncation $\
