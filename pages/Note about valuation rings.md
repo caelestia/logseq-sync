@@ -7,4 +7,6 @@
 - ---
 - Example (valuation ring of rank 1). $\Z_p$, $k[[X]]$, and $k[[X^{1/n}:n\in\Z_{>0}]]$.
   id:: 6b04db16-21a3-435a-9816-f63baa0f47ae
-- Example (finite places of function field). Consider $k[X]$, let $p$ be an irred poly. There is a *unique* valuation ring $R \subset k(X)$ with the $p$-adic valuation.
+- Example (finite places of function field). Consider $k[X]$, let $p$ be an irred poly. There is a *unique* valuation ring $R \subset k(X)$ with the $p$-adic valuation, given by the localization $R=k[X]_{(p)}$
+- ---
+- Example (arbitrarily high rank). Simply consider
