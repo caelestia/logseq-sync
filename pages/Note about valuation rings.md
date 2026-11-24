@@ -5,4 +5,7 @@
 - Chevalley's extension theorem, see my lecture notes:
 - ![Separated Morphisms .pdf](../assets/Separated_Morphisms_1795480243199_0.pdf)
 - ---
-- To find examples of valuation ring of arbitrarily high rank, we can
+- Example (valuation ring of rank 1). $\Z_p$, $k[[X]]$, and $k[]$.
+  id:: 6b04db16-21a3-435a-9816-f63baa0f47ae
+- ---
+- Example (Place of )
