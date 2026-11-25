@@ -1,0 +1,2 @@
+- Here's my understanding of birational maps: inclusions of (dense) open subsets are birational, and isomorphisms are obviously birational. All birational maps are geneted by these, if we allow the first class to be inverted.
+- Here's why.
