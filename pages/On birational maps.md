@@ -9,5 +9,9 @@
 - Put $s=s_1\cdots s_n$. Clearly, $A_s \simeq B_s$ via $\phi$.
 - ### Step 2
 - In general, pick open subsets $\Spec B \subset X$ and $\Spec A \subset Y$, both over some $\Spec R\subset S$.
-- Let $A=R[a_1,\cdots,a_n]$ and find a common demoninator $t$ of the $\phi(a_i)$.
+- Let $A=R[a_1,\cdots,a_n]$ and find a common demoninator $t$ in $B$ of the $\phi(a_i)$. This gives a ring homomorphism
+  $$A \longto B_t$$
+- Now we can apply Step 1, giving us an isomorphism between some distinguished opens
+  $$A_s \xrightarrow{\;\simeq\;} B_{t \cdot \phi(s)}.$$
+- **QED**
 -
