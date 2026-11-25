@@ -1,7 +1,8 @@
 ## (Opening)
 - Simply state I want to be trained to be a mathematician, and I believe (Uni) is a perfect place for my future development.
 - ## UROP {{renderer :wordcount_6af0317c-e2a1-4b4d-9587-20d898c9b082}}
-	- a
+	- During my summer research project, I repeatedly wrote down two-dimensional representations whose associated bundles formed what seemed to be an incomplete family. The type-I parameters described an open part, but the geometry corresponding to sixteen exceptional curves was absent. When I examined limits of these representations, a second class emerged: the type-II parameters supplied the sixteen exceptional divisors and completed a parameter space that was itself a dual Kummer surface. Until then, I had encountered moduli mostly as an abstract organizing idea. Here, a moduli space arose from classifying explicit objects and understanding how their limits fit together. This realization drew me toward moduli of bundles and sheaves on K3 and abelian surfaces.
+	-
 - ## (personal history, in time order)
 - {{renderer :wordcount_6ade7cdf-45ab-4ab6-a2e8-1459ca4ce40b}} (this story is not very important but I think since it's quite short I can keep it, and it has some personalized dimension)
 	- My strongest background was in algebra. It's also where my story with pure mathematics begin. I learned about the idea of groups in an introductory quantum mechanics lecture in grade school, and was deeply impressed. During high school, I built a foundation for most of the undergraduate courses. I was particularly fascinated by Galois theory, because we started from purely abstract machinery of algebraically closed fields, and then build a large theory to prove the main theorems, at which point they had become extremely intuitive.
