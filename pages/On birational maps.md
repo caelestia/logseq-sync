@@ -26,4 +26,5 @@
 	- Consider $f:X\to Y$ and $g:Y\to Z$. The only nontrivial case is when $gf$ and $g$ are birational morphisms, so
 	  $$g\circ f(\eta_X) = \eta_Z\quad \text{and}\;\;\;\; g(\eta_Y)=\eta_Z.$$
 	- Since $g$ is birational, the composition
-	  $$K(Z) = \mc{O}$$
+	  $$K(Z) = \mc{O}_{Z,\eta_Z} \longto \mc{O}_{Y,f(\eta_X)} \hookrightarrow K(Y)$$
+	  is an isomorphism. Hence $\mc{O}_{Y,f(\eta_X)} = K(Y)$, so we must have $f(\eta_X)=\eta_Y$.
