@@ -14,4 +14,6 @@
 - Now we can apply Step 1, giving us an isomorphism between some distinguished opens
   $$A_s \xrightarrow{\;\simeq\;} B_{t \cdot \phi(s)}.$$
 - **QED**
+- ---
+- This identifies all birational maps (which are not strictly morphisms). What about birational morphisms?
 -
