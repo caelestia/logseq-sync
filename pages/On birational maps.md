@@ -24,5 +24,5 @@
 	  and 2-out-of-3.
 	- It remains to show that birational morphisms satisfy 2-out-of-3. Field isomorphisms clearly satisfy this, so we only need to treat dominance. Since our schemes are irreducible, dominance is equivalent to $f(\eta_X)=\eta_Y$.
 	- Consider $f:X\to Y$ and $g:Y\to Z$. The only nontrivial case is when $gf$ and $g$ are birational morphisms, so
-	  $$g\circ f(\eta_X) = \eta_Z,\qquad \text{and } g(\eta_Y)=\eta_Z.$$
+	  $$g\circ f(\eta_X) = \eta_Z\quad \text{and}\;\;\;\; g(\eta_Y)=\eta_Z.$$
 	-
