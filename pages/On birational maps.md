@@ -18,5 +18,5 @@
 - ---
 - This identifies all birational maps (which are not strictly morphisms). What about birational morphisms?
 - **Definition.** Let $X, Y$ be integral and locally of finite type over a scheme $S$. We say $f:X \to Y$ is a birational morphism, if it is dominant and induces an isomorphism $\phi: K(Y) \to K(X)$.
-- **Claim**
+- **Claim** $
 -
