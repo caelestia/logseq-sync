@@ -7,5 +7,5 @@
 - Let $B=A[b_1,\cdots,b_n]$. Then $b_i \in \Frac B = \Frac A$, so we can write $b_i=a_i/s_i$ where $a_i,s_i\in A$.
 - Put $s=s_1\cdots s_n$. Clearly, $A_s \simeq B_s$ via $\phi$.
 - ### Step 2
--
+- In general, pick open subsets $\Spec B \subset X$ and $\Spec A \subset Y$, both over some $\Spec R\subset S$.
 -
