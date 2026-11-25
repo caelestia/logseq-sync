@@ -23,4 +23,5 @@
 	  $$X \longleftarrow U \simeq V \longto Y$$
 	  and 2-out-of-3.
 	- It remains to show that birational morphisms satisfy 2-out-of-3. Field isomorphisms clearly satisfy this, so it suffices to treat dominance. Since our schemes are irreducible, dominance is equivalent to $f(\eta_X)=\eta_Y$.
+	- Consider $f:X\to Y$ and $g:Y\to Z$.
 	-
