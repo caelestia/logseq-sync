@@ -4,9 +4,10 @@
 - ## Proof
 - ### Step 1, affine case
 - Suppose $X=\Spec B$, $Y=\Spec A$. Further suppose there is a morphism $f:X \to Y$ inducing $\phi$.
-- Then we can write $\phi:A \hookrightarrow B$, which is injective and of finite type.
+	- Then we can write $\phi:A \hookrightarrow B$, which is injective and of finite type.
 - Let $B=A[b_1,\cdots,b_n]$. Then $b_i \in \Frac B = \Frac A$, so we can write $b_i=a_i/s_i$ where $a_i,s_i\in A$.
 - Put $s=s_1\cdots s_n$. Clearly, $A_s \simeq B_s$ via $\phi$.
 - ### Step 2
 - In general, pick open subsets $\Spec B \subset X$ and $\Spec A \subset Y$, both over some $\Spec R\subset S$.
+- Let $A=R[a_1,\cdots,a_n]$ and find a common demoninator $t$ of the $\phi(a_i)$.
 -
