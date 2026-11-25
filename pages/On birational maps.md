@@ -3,4 +3,5 @@
 - **Claim.** Let $X,Y$ be integral schemes locally of finite type over some base $S$. Let $f:X \to Y$ be a morphism inducing an isomorphism $\phi: K(Y) \to K(X)$. Then there are non-empty open subsets $U \subset X$ and $V \subset Y$ such that $U \xrightarrow{\;\simeq\;} V$ via $f$.
 - ## Proof
 - ### Step 1
-- Suppose $X=\Spec B$, $Y=\Spec A$. Then $\phi:A \hookrightarrow
+- Suppose $X=\Spec B$, $Y=\Spec A$. Then $\phi:A \hookrightarrow B$ is injective and of finite type.
+- Write $B=A[b_1,\cdots,b_n]$.
