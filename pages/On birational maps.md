@@ -28,3 +28,5 @@
 	- Since $g$ is birational, the composition
 	  $$K(Z) = \mc{O}_{Z,\eta_Z} \longto \mc{O}_{Y,f(\eta_X)} \hookrightarrow K(Y)$$
 	  is an isomorphism. Hence $\mc{O}_{Y,f(\eta_X)} = K(Y)$, so we must have $f(\eta_X)=\eta_Y$.
+	- QED
+-
