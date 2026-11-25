@@ -5,6 +5,11 @@
 	- My strongest background was in algebra. It's also where my story with pure mathematics begin. I learned about the idea of groups in an introductory quantum mechanics lecture in grade school, and was deeply impressed. During high school, I built a foundation for most of the undergraduate courses. I was particularly fascinated by Galois theory, because we started from purely abstract machinery of algebraically closed fields, and then build a large theory to prove the main theorems, at which point they had become extremely intuitive.
 - {{renderer :wordcount_6ade7cf0-087c-432d-b28d-23f47189d140}}
 	- In my undergraduate studies, I further developed this interest and explored related directions.
+- ## UROP
+-
+-
+-
+-
 -
 - ## (School-specific)
 - Professor A
