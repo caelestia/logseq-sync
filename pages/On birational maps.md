@@ -4,4 +4,5 @@
 - ## Proof
 - ### Step 1
 - Suppose $X=\Spec B$, $Y=\Spec A$. Then $\phi:A \hookrightarrow B$ is injective and of finite type.
-- Write $B=A[b_1,\cdots,b_n]$.
+- Let $B=A[b_1,\cdots,b_n]$. Then $b_i \in \Frac B = \Frac A$, so we can write $b_i=a_i/s_i$ where $a_i,s_i\in A$.
+- T
