@@ -12,7 +12,7 @@
 - ## Future research {{renderer :wordcount_6b07454b-7db9-4f29-bdeb-262f5ffe3d47}}
 	- My main interest for doctoral study is in moduli problems in algebraic geometry. My UROP made me curious about the general methods used to construct and compactify moduli spaces by understanding how limiting objects are added. The talk and M3R have also made me want to understand what derived or other categories remember about these spaces. I hope to build a stronger foundation in moduli theory, algebraic stacks, and categorical methods, and to study how they organize geometric objects in a greater picture. I want to learn these methods and use them on problems where the correct structure is not known in advance.
 - ## Berkeley {{renderer :wordcount_6b074568-1c78-4fd6-a9b8-81ff59d07e1d}}
-	-
+	- w
 - ## (personal history, in time order)
 - {{renderer :wordcount_6ade7cdf-45ab-4ab6-a2e8-1459ca4ce40b}} (this story is not very important but I think since it's quite short I can keep it, and it has some personalized dimension)
 	- My strongest background was in algebra. It's also where my story with pure mathematics begin. I learned about the idea of groups in an introductory quantum mechanics lecture in grade school, and was deeply impressed. During high school, I built a foundation for most of the undergraduate courses. I was particularly fascinated by Galois theory, because we started from purely abstract machinery of algebraically closed fields, and then build a large theory to prove the main theorems, at which point they had become extremely intuitive.
